@@ -18,11 +18,12 @@
 
 nav {
 	text-transform: uppercase;
-	font-size: 1em;
+	font-size: em;
 	width: 100%;
 	position: relative;
 	top: -7px;
 	text-shadow: none;
+	
 
 	@media #{$mid-point} {
 		padding: 0 20px;
@@ -63,7 +64,7 @@ nav {
 	}
 
 	a.active {
-		border-bottom: 5px solid #ffa74d;
+		border-bottom: 5px solid #94ce3c;
 	}
 
 }
