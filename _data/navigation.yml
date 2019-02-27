@@ -1,6 +1,10 @@
 - name: Boka
   link: '#learn-more'
-- name: Priser
-  link: /priser/
+- name: Privat Städning
+  link: Städning
+- name: Företags Städning
+  link: /foretag/
 - name: Kontakt
   link: /kontakt/
+- name: Trygghet
+  link: /din-trygghet/
