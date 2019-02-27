@@ -13,7 +13,11 @@ bottom_image: /images/karta.png
 				En Renare Vardag
 			</h1>
 			<p class="subtext editable">Frisco helps you find new friends with common interests. Search for a new Tennis partner, find a baking side-kick or befriend a new drinking buddy.</p>
-			<div class="cta button alt editable"><a href="#">Boka Nu!</a></div>
+
+
+
+			<!-- <div class="cta button alt editable"><a href="#">Boka Nu!</a></div> -->
+
 		</div>
 	</div>
 	<div class="learn-more"><a href="#learn-more" class="editable">L&auml;s mer <span class="arrow">&#x25BC;</span></a></div>
@@ -23,6 +27,38 @@ bottom_image: /images/karta.png
 <div class="content">
 	<section class="info" id="learn-more">
 		<div class="container flex">
+				<div class="text-container contact-box">
+						<form action="{{ site.baseurl }}/contact-success/" method="post" class="contact-form">
+							<input type="hidden" name="_to" value="set@enrenarevardag.se">
+							<input type="text" name="_gotcha" style="display: none;">
+				
+							<label for="name">Name</label>
+							<input type="text" name="name" id="name" placeholder="Enter your name...">
+				
+							<label for="email">Email Address</label>
+							<input type="email" name="email" id="email" placeholder="Enter your email..." required>
+				
+							<label for="vilkadagar">Vilka Dagar</label>
+							M&aring;ndag <input type="checkbox" name="vilkadagar" value="M&aring;ndag"><br>
+							Tisdag<input type="checkbox" name="vilkadagar" value="Tisdag"><br>
+				
+							<label for="date">Vilket Datum</label>
+							<input type="date" name="date" data-date-inline-picker="true" />
+				
+							<label for="message">Message</label>
+							<textarea name="message" id="message" placeholder="Enter your message..."></textarea>
+				
+							<input type="submit" value="Send Message">
+						</form>
+				
+						<div class="contact-details">
+							<h3>Address</h3>
+							<address><a target="_blank" href="https://www.google.com/maps/place/{{ page.map.address | url_encode }}">{{ page.map.address | replace: ", ", ", <br>" }}</a></address>
+				
+							<h3>Email</h3>
+							<p class="editable"><a href="mailto:support@example.com">support@example.com</a></p>
+						</div>
+					</div>
 			<div class="text">
 				<h2 class="editable" href="#learn-more">
 					Storst&auml;dning
