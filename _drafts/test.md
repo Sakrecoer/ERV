@@ -1,8 +1,11 @@
 ---
 title: test
-date:
-description:
+date: 2019-03-01 00:00:00
+description: incredible
 categories:
-image:
-author_staff_member:
+  - psychology
+image: /uploads/bathroom-clean-faucet-145512.jpg
+author_staff_member: robin
 ---
+
+Super Najs amazing wow
