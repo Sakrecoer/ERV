@@ -10,7 +10,7 @@ right_links:
     link: 'https://facebook.com/'
     new_window: true
     social_icon: Facebook
-  - name: Instagram
+  - name: 
     link: 'https://www.instagram.com'
     social_icon: Instagram
     new_window: true
@@ -18,7 +18,7 @@ right_links:
     link: 'https://youtube.com/'
     social_icon: YouTube
     new_window: true
-  - name: Linekdin
+  - name: 
     link: 'https://linkedin.com'
     social_icon: LinkedIn
   - name:
