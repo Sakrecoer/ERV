@@ -31,18 +31,18 @@ bottom_image: /images/karta.png
 		<div class="container flex">
 				<div class="text-container contact-box">
 						<form action="{{ site.baseurl }}/contact-success/" method="post" class="contact-form">
-							<input type="hidden" name="_to" value="set@enrenarevardag.se">
-							<input type="text" name="_gotcha" style="display: none;">
+							<input type="hidden" name="_to" value="set@enrenarevardag.se" />
+							<input type="text" name="_gotcha" style="display: none;" />
 				
 							<label for="name">Name</label>
-							<input type="text" name="name" id="name" placeholder="Enter your name...">
+							<input type="text" name="name" id="name" placeholder="Enter your name..." />
 				
 							<label for="email">Email Address</label>
-							<input type="email" name="email" id="email" placeholder="Enter your email..." required>
+							<input type="email" name="email" id="email" placeholder="Enter your email..." required />
 				
 							<label for="vilkadagar">Vilka Dagar</label>
-							M&aring;ndag <input type="checkbox" name="vilkadagar" value="M&aring;ndag"><br>
-							Tisdag<input type="checkbox" name="vilkadagar" value="Tisdag"><br>
+							M&aring;ndag <input type="checkbox" name="vilkadagar" value="M&aring;ndag" /><br />
+							Tisdag<input type="checkbox" name="vilkadagar" value="Tisdag" /><br />
 				
 							<label for="date">Vilket Datum</label>
 							<input type="date" name="date" data-date-inline-picker="true" />
@@ -50,7 +50,7 @@ bottom_image: /images/karta.png
 							<label for="message">Message</label>
 							<textarea name="message" id="message" placeholder="Enter your message..."></textarea>
 				
-							<input type="submit" value="Send Message">
+							<input type="submit" value="Send Message" />
 						</form>
 				
 						<div class="contact-details">
@@ -58,7 +58,7 @@ bottom_image: /images/karta.png
 							<address><a target="_blank" href="https://www.google.com/maps/place/{{ page.map.address | url_encode }}">{{ page.map.address | replace: ", ", ", <br>" }}</a></address>
 				
 							<h3>Email</h3>
-							<p class="editable"><a href="mailto:support@example.com">support@example.com</a></p>
+							<p class="editable" href="#learn-more"><a href="mailto:support@example.com">support@example.com</a></p>
 						</div>
 					</div>
 			<div class="text">
@@ -116,7 +116,7 @@ bottom_image: /images/karta.png
 				<p class="subtext editable" href="#learn-more">
 					Bli en av dom tusentals f&ouml;retag och privatpersoner i Stockholm som litar p&aring; oss.
 				</p>
-				<div class="cta button alt"><a href="/boka/#name" class="editable">Join Now</a></div>
+				<div class="cta button alt"><a href="#learn-more" class="editable">Join Now</a></div>
 			</div>
 		</div>
 	</section>
