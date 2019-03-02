@@ -25,7 +25,7 @@ social:
 
 timezone: Etc/UTC
 
-permalink: pretty
+permalink: /:categories/:title/
 
 plugins:
   - jekyll-sitemap
@@ -45,9 +45,6 @@ collections:
 
 paginate: 10
 paginate_path: "/blog/:num/"
-
-jekyll-archives:
-  enabled: ['categories']
 
 defaults:
   -
