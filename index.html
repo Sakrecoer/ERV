@@ -36,74 +36,34 @@ bottom_image: /images/karta.png
 </script>
 
 <div class="content" id="bookinganchor">
+  <div>
+      <p id="toggle" style="text-align: center;">
+          <span> Privatperson </span> | 
+          <span> F&ouml;retag </span>
+      </p>
+
+      <div id="privat" class="text-container contact-box">
+          <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
+          <script>
+            hbspt.forms.create({
+            portalId: "5554697",
+            formId: "00277579-da94-4d70-a843-fba67fcc89c8"
+          });
+          </script>
+
+      </div>
+      <div id="foretag" class="text-container contact-box">
+        <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
+        <script>
+          hbspt.forms.create({
+          portalId: "5554697",
+          formId: "00277579-da94-4d70-a843-fba67fcc89c8"
+        });
+        </script>
+      </div>
+  </div>
 	<section class="info" id="learn-more">
 		<div class="container flex">
-
-        <p id="toggle">
-            <span> Left </span>
-            <span> Right </span>
-        </p>
-
-				<div id="privat" class="text-container contact-box">
-
-						<form action="{{ site.baseurl }}/contact-success/" method="post" class="contact-form">
-							<input type="hidden" name="_to" value="set@enrenarevardag.se" />
-							<input type="text" name="_gotcha" style="display: none;" />
-				
-							<label for="name">Namn</label>
-							<input type="text" name="name" id="name" placeholder="Skriv ditt namn" />
-				
-							<label for="email">E-post Address</label>
-              <input type="email" name="email" id="email" placeholder="Skriv din e-post" required />
-
-              <label for="telefon">Telefon Nummer</label>
-              <input type="phone" name="phone" id="phone" placeholder="Skriv ditt telefonnumer" required />
-
-              <label for="address">Address</label>
-              <input type="text" name="address" id="address" placeholder="Skriv din gatuadress" required />
-
-              <label for="ort">Ort</label>
-              <input type="text" name="ort" id="ort" placeholder="Skriv din ort" required />
-
-              <label for="ort">Hur stor yta</label>
-              <input type="text" name="yta" id="yta" placeholder="Antal Kvm" required />
-
-				
-							<label for="vilkadagar">Vilka Dagar</label>
-							M&aring;ndag <input type="checkbox" name="vilkadagar" value="M&aring;ndag" /><br />
-              Tisdag<input type="checkbox" name="vilkadagar" value="Tisdag" /><br />
-              Onsdag<input type="checkbox" name="vilkadagar" value="Onsdag" /><br />
-              Torsdag<input type="checkbox" name="vilkadagar" value="Torsdag" /><br />
-              Fredag<input type="checkbox" name="vilkadagar" value="Fredag" /><br />
-              L&ouml;rdag<input type="checkbox" name="vilkadagar" value="L&ouml;rdag" /><br />
-              S&ouml;ndag<input type="checkbox" name="vilkadagar" value="S&ouml;ndag" /><br />
-				
-							<label for="date">Vilket Datum</label>
-							<input type="date" name="date" data-date-inline-picker="true" />
-				
-							<label for="message">Message</label>
-							<textarea name="message" id="message" placeholder="Enter your message..."></textarea>
-				
-							<input type="submit" value="Send Message" />
-						</form>
-				
-						<div class="contact-details">
-							<h3>Address</h3>
-							<address><a target="_blank" href="https://www.google.com/maps/place/{{ page.map.address | url_encode }}">{{ page.map.address | replace: ", ", ", <br>" }}</a></address>
-				
-							<h3>Email</h3>
-							<p class="editable" href="#learn-more"><a href="mailto:support@example.com">support@example.com</a></p>
-						</div>
-          </div>
-          <div id="foretag" class="text-container contact-box">
-            <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
-            <script>
-              hbspt.forms.create({
-              portalId: "5554697",
-              formId: "00277579-da94-4d70-a843-fba67fcc89c8"
-            });
-            </script>
-					</div>
 			<div class="text">
 				<h2 class="editable" href="#learn-more">
 					Storst&auml;dning
