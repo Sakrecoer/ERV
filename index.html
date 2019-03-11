@@ -4,6 +4,7 @@ description: Städ
 image: /uploads/blur-clean-clear-989941.jpg
 bottom_image: /images/karta.png
 ---
+
 <section class="hero" style="background-image: url({% include relative-src.html src=page.image %})">
 	<div class="inner-hero text-container">
 		<div class="hero-text-container">
@@ -11,7 +12,7 @@ bottom_image: /images/karta.png
         Dags f&ouml;r
       </h1>
       <h1 class="editable" style="letter-spacing: -0.05em;">
-        En Renare Vardag
+      	En Renare Vardag
       </h1>
       <a href="https://www.reco.se/en-renare-vardag" target="_blank"><img width="40%" src="/images/reco2017.png" /><img width="17%" src="/images/reco_trustFiveYears.png" /></a>
 			<p class="subtext editable">
@@ -22,7 +23,7 @@ bottom_image: /images/karta.png
 
 		</div>
 	</div>
-	<div class="learn-more"><a href="#learn-more" class="editable">L&auml;s mer <span class="arrow">&#x25BC;</span></a></div>
+	<div class="learn-more"><a href="#learn-more">L&auml;s mer <span class="arrow">&#x25BC;</span></a></div>
 </section>
 
 <script>
@@ -117,6 +118,7 @@ Vårt motto inom städning och hemstädning är att alltid erbjuda högkvalitati
     </p>
 
     <div id="privat" class="text-container contact-box">
+        {% if jekyll.environment == 'production' %}
         <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
         <script>
           hbspt.forms.create({
@@ -124,15 +126,17 @@ Vårt motto inom städning och hemstädning är att alltid erbjuda högkvalitati
           formId: "00277579-da94-4d70-a843-fba67fcc89c8"
         });
         </script>
-
+        {% endif %}
     </div>
     <div id="foretag" class="text-container contact-box">
+        {% if jekyll.environment == 'production' %}
       <script>
         hbspt.forms.create({
         portalId: "5554697",
         formId: "7ff74f83-5d13-4679-a905-326e6d2343d2"
       });
       </script>
+        {% endif %}
     </div>
   </div>
 
