@@ -118,6 +118,7 @@ Vårt motto inom städning och hemstädning är att alltid erbjuda högkvalitati
     </p>
 
     <div id="privat" class="text-container contact-box">
+        {% if jekyll.environment == 'production' %}
         <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
         <script>
           hbspt.forms.create({
@@ -125,15 +126,17 @@ Vårt motto inom städning och hemstädning är att alltid erbjuda högkvalitati
           formId: "00277579-da94-4d70-a843-fba67fcc89c8"
         });
         </script>
-
+        {% endif %}
     </div>
     <div id="foretag" class="text-container contact-box">
+        {% if jekyll.environment == 'production' %}
       <script>
         hbspt.forms.create({
         portalId: "5554697",
         formId: "7ff74f83-5d13-4679-a905-326e6d2343d2"
       });
       </script>
+        {% endif %}
     </div>
   </div>
 
