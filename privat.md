@@ -4,7 +4,7 @@ title: Städning
 date: 2016-05-25T11:33:49+00:00
 author: admin
 layout: oldpages
-image: /uploads/blur-clean-clear-989941.jpg/images/karta.png
+image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=233
 bakgrund:
   - "249"
