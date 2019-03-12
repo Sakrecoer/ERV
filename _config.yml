@@ -2,23 +2,23 @@
 # Site
 
 title: En Renare Vardag AB
-url: "https://erv.net"
+url: "https://enrenarevardag.se"
 baseurl:
 google_analytics_key:
-google_maps_javascript_api_key:
-disqus_shortname:
+# google_maps_javascript_api_key:
+# disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
 description: 'Din städfirma i Stockholm - Vår service betyder omtanke'
 author:
-  name:
+  name: 
   email:
   twitter: # twitter username without the @ symbol
 social:
   name: En Renare Vardag AB
   links:
-    - https://github.com/CloudCannon/frisco-jekyll-template
+    - https://enrenarevardag.se
 
 # -----
 # Build
