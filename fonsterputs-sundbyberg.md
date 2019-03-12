@@ -1,6 +1,7 @@
 ---
 id: 1970
 title: Fönsterputs Sundbyberg
+description: "Vi har fönsterputs i Sundbyberg. Det är inte så lätt att putsa fönster. Det är också väldigt tidskrävande. Tveka inte att anlita oss för städning och fönsterputs Sundbyberg snarast!"
 date: 2017-07-21T11:02:22+02:00
 author: admin
 layout: oldpages
@@ -9,9 +10,7 @@ guid: https://enrenarevardag.se/?page_id=1970
 bakgrund:
   - "2403"
 ---
-#### **Vi har fönsterputs i Sundbyberg. Det är inte så lätt att putsa fönster. Det är också väldigt tidskrävande. Tveka inte att anlita oss för städning och fönsterputs Sundbyberg snarast! ** 
-
-Ni behöver inte hålla med material och produkter själva. Utan vi tar med våra egna rengöringsprodukter och städmaterial för fönsterputs Sundbyberg. Bara så ni vet så har alltid kund nöjd garanti med oss på En renare vardag. Visst låter det kanon.
+Ni behöver inte hålla på med material och produkter själva. Utan vi tar med våra egna rengöringsprodukter och städmaterial för fönsterputs Sundbyberg. Bara så ni vet så har alltid kund nöjd garanti med oss på En renare vardag. Visst låter det kanon.
 
 &nbsp;
 
