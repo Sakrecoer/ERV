@@ -1,6 +1,7 @@
 ---
 id: 1643
 title: Kontorsstädning Stockholm
+description: "En Renare Vardag har kontorsstädning i Stockholm till företag.Vill du att ditt kontor glänser när du tänder ljuset på morgonen?"
 date: 2017-05-24T09:49:49+02:00
 author: admin
 layout: oldpages
@@ -9,11 +10,10 @@ guid: https://enrenarevardag.se/?page_id=1643
 bakgrund:
   - "2423"
 ---
-# **En Renare Vardag har kontorsstädning i Stockholm till företag.Vill du att ditt kontor glänser när du tänder ljuset på morgonen?** {.kontorh4}
 
-<p class="kontorh4">
-  Vi ser till att underhålla ditt kontor så att det är rent och snyggt. Vå personal är noggranna och ser till att bemöta personal och kunder som om dom vore en anställd hos er.
-</p>
+  Vi ser till att underhålla ditt kontor så att det är rent och snyggt. 
+  
+  Vår personal är noggrann och ser till att bemöta personal och kunder som om dom vore en anställd hos er.
 
 Kontorsstädning kräver noggrannhet. Du ska anlita oss för flyttstädning Sollentuna våran personal är kompetent och professionell och vi lämnar alltid 100 % nöjd kundgaranti när det gäller flyttstädning Sollentuna vi följer upp resultatet av arbetet tillsammans med kunden och fakturerar efter godkännande.
 
@@ -21,13 +21,11 @@ Vi erbjuder kontorsstädning du kan lita på. Vår specialiserade kontorsstädn
 
 Våra företagskunder har en sak gemensamt, de är nöjda.
 
-#####  {.kontorh1}
-
 <img class="size-full wp-image-1312 aligncenter" src="https://enrenarevardag.se/wp-content/uploads/2017/04/Flyttstädning-Stockholm-Solna.png" alt="Kontorsstädning , Stockholm" width="151" height="150" srcset="https://enrenarevardag.se/wp-content/uploads/2017/04/Flyttstädning-Stockholm-Solna.png 151w, https://enrenarevardag.se/wp-content/uploads/2017/04/Flyttstädning-Stockholm-Solna-150x150.png 150w, https://enrenarevardag.se/wp-content/uploads/2017/04/Flyttstädning-Stockholm-Solna-125x125.png 125w" sizes="(max-width: 151px) 100vw, 151px" /> 
 
 ## Vad ingår i en kontorsstädning i Stockholm ? 
 
-**Kontorslokalerna **
+### Kontorslokalerna
 
   * Tömning av papperskorgar.
   * Avtorkning av fria ytor på skrivbord.
@@ -43,7 +41,7 @@ Våra företagskunder har en sak gemensamt, de är nöjda.
   * Damning av fria ytor.
   * Borttagning av fläckar på speglar, lister och dörrar.
 
-**Toalett**
+### Toalett
 
   * Rengörning av handfat, toalett och dusch.
   * Avkalkning för ovan nämnda om det behövs.
@@ -53,7 +51,7 @@ Våra företagskunder har en sak gemensamt, de är nöjda.
   * Dammsugning och torkning av golv.
   * Fuktmoppning av golv (städmaterial anpassas efter golvmaterial).
 
-**Kök & Pentry**
+### Kök & Pentry
 
   * Tömning av sopor.
   * Avtorkning bord, stolar, diskbänk och övriga bänkar och hyllor.
@@ -62,16 +60,17 @@ Våra företagskunder har en sak gemensamt, de är nöjda.
   * Avfläckning av dörrar, karmar samt strömbrytare.
   * Dammsugning och våttorkning av golv (städmaterial anpassas efter golvmaterial).
 
-**Övrigt**
+### Övrigt
 
   * Avtorkning av lister, dörrhandtag, tavlor, brandsläckare mm.
   * Damning av hyllor över normal räckhöjd.
   * Dammsugning av stoppade möbler.
   * Dammtorkning av gröna växter.
 
-**Städschema**  
+### Städschema
 Upprättas i samband med jobb start och samråd med kund för att åstadkomma det bästa resultat.  
-**Städmaterial**
+
+### Städmaterial
 
   * En städ vagn med tillhörande utrustning hyrs till kund. (Frivilligt)
   * En dammsugare  hyrs till kund. (Frivilligt)
