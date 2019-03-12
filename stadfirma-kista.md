@@ -1,6 +1,7 @@
 ---
 id: 1442
 title: Städfirma Kista
+description: "En renare vardag erbjuder Städfirma Kista och jobbar professionellt inom städ och erbjuder lokalvård till hög kvalitet."
 date: 2017-04-25T11:08:23+02:00
 author: admin
 layout: oldpages
@@ -9,8 +10,6 @@ guid: https://enrenarevardag.se/?page_id=1442
 bakgrund:
   - "2433"
 ---
-En renare vardag erbjuder Städfirma Kista och jobbar professionellt inom städ och erbjuder lokalvård till hög kvalitet.
-
 För att du ska känna dig trygg med våra Städfirma Kista så följer En renare vardag branschens högsta krav gäller säkerhet och ansvarsfrågor.
 
 Vi erbjuder våra kunder:
@@ -26,7 +25,6 @@ Vi erbjuder våra kunder:
 
 [<img class="wp-image-1443 aligncenter" src="https://enrenarevardag.se/wp-content/uploads/2017/04/Flyttstädning-12-300x300.jpg" alt="Städfirma, Kista" width="220" height="220" srcset="https://enrenarevardag.se/wp-content/uploads/2017/04/Flyttstädning-12-300x300.jpg 300w, https://enrenarevardag.se/wp-content/uploads/2017/04/Flyttstädning-12-150x150.jpg 150w, https://enrenarevardag.se/wp-content/uploads/2017/04/Flyttstädning-12-125x125.jpg 125w, https://enrenarevardag.se/wp-content/uploads/2017/04/Flyttstädning-12.jpg 450w" sizes="(max-width: 220px) 100vw, 220px" />](https://enrenarevardag.se/pris/) 
 
-&nbsp;
 
 När vi säger hög kvalité & utmärkt service, då menar vi det!
 
@@ -54,4 +52,4 @@ för ett möte och eventuellt schemaläggning
 
 Varmt välkommen
 
-_En Renare vardag!_
+En Renare vardag!
