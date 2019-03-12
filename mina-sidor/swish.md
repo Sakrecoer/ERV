@@ -3,7 +3,7 @@ id: 564
 title: Swish
 date: 2016-07-07T11:25:16+02:00
 author: admin
-layout: page
+layout: oldpages
 guid: https://enrenarevardag.se/?page_id=564
 bakgrund:
   - ""

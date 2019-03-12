@@ -3,7 +3,7 @@ id: 1936
 title: Butiksstädning Stockholm
 date: 2017-07-18T09:52:50+02:00
 author: admin
-layout: page
+layout: oldpages
 guid: https://enrenarevardag.se/?page_id=1936
 bakgrund:
   - "2391"

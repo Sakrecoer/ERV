@@ -3,7 +3,7 @@ id: 1452
 title: Städfirma Vällingby
 date: 2017-04-25T12:23:17+02:00
 author: admin
-layout: page
+layout: oldpages
 guid: https://enrenarevardag.se/?page_id=1452
 bakgrund:
   - "2437"

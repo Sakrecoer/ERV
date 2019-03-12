@@ -3,7 +3,7 @@ id: 450
 title: Visningsstädning
 date: 2016-06-08T16:23:33+02:00
 author: admin
-layout: page
+layout: oldpages
 guid: https://enrenarevardag.se/?page_id=450
 bakgrund:
   - "560"

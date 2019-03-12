@@ -3,7 +3,7 @@ id: 1983
 title: Kontorsstädning Sundbyberg
 date: 2017-07-22T09:21:52+02:00
 author: admin
-layout: page
+layout: oldpages
 guid: https://enrenarevardag.se/?page_id=1983
 bakgrund:
   - "2425"

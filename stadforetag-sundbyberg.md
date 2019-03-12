@@ -3,7 +3,7 @@ id: 1464
 title: Städföretag Sundbyberg
 date: 2017-04-25T12:47:58+02:00
 author: admin
-layout: page
+layout: oldpages
 guid: https://enrenarevardag.se/?page_id=1464
 bakgrund:
   - "2445"

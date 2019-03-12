@@ -3,7 +3,7 @@ id: 1506
 title: Hemstädning Vällingby
 date: 2017-04-25T14:17:03+02:00
 author: admin
-layout: page
+layout: oldpages
 guid: https://enrenarevardag.se/?page_id=1506
 bakgrund:
   - "2417"

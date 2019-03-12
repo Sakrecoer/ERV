@@ -3,7 +3,7 @@ id: 1385
 title: Flyttstädning Stockholm
 date: 2017-04-21T12:31:16+02:00
 author: admin
-layout: page
+layout: oldpages
 guid: https://enrenarevardag.se/?page_id=1385
 bakgrund:
   - "2395"

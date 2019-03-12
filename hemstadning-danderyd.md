@@ -3,7 +3,7 @@ id: 1492
 title: Hemstädning Danderyd
 date: 2017-04-25T13:52:11+02:00
 author: admin
-layout: page
+layout: oldpages
 guid: https://enrenarevardag.se/?page_id=1492
 bakgrund:
   - "2407"

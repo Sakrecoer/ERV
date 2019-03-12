@@ -3,7 +3,7 @@ id: 32
 title: Flyttstädning i Stockholm och Solna
 date: 2016-05-04T08:51:05+00:00
 author: admin
-layout: page
+layout: oldpages
 guid: https://enrenarevardag.se/?page_id=32
 bakgrund:
   - "512"

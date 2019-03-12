@@ -3,7 +3,7 @@ id: 1993
 title: Storstädning Sundbyberg
 date: 2017-07-22T09:42:06+02:00
 author: admin
-layout: page
+layout: oldpages
 guid: https://enrenarevardag.se/?page_id=1993
 bakgrund:
   - "2455"

@@ -3,7 +3,7 @@ id: 11
 title: Trygghet
 date: 2016-05-03T16:45:34+00:00
 author: admin
-layout: page
+layout: oldpages
 guid: https://enrenarevardag.se/?page_id=11
 bakgrund:
   - "445"

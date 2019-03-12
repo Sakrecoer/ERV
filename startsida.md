@@ -3,7 +3,7 @@ id: 4
 title: Startsida
 date: 2016-05-03T15:41:14+00:00
 author: admin
-layout: page
+layout: oldpages
 guid: https://enrenarevardag.se/startsida/
 recobild:
   - ""

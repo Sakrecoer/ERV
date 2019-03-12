@@ -3,7 +3,7 @@ id: 1503
 title: Hemstädning Vasastan
 date: 2017-04-25T14:12:28+02:00
 author: admin
-layout: page
+layout: oldpages
 guid: https://enrenarevardag.se/?page_id=1503
 bakgrund:
   - "2419"

@@ -3,7 +3,7 @@ id: 245
 title: Butikstädning
 date: 2016-05-25T11:40:54+00:00
 author: admin
-layout: page
+layout: oldpages
 guid: https://enrenarevardag.se/?page_id=245
 bakgrund:
   - "261"

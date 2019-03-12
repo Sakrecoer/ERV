@@ -3,7 +3,7 @@ id: 1499
 title: Hemstädning Kista
 date: 2017-04-25T14:06:38+02:00
 author: admin
-layout: page
+layout: oldpages
 guid: https://enrenarevardag.se/?page_id=1499
 bakgrund:
   - "2409"

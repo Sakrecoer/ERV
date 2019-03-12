@@ -3,7 +3,7 @@ id: 78
 title: Fönsterputsning i Stockholm
 date: 2016-05-16T13:37:11+00:00
 author: admin
-layout: page
+layout: oldpages
 guid: https://enrenarevardag.se/?page_id=78
 bakgrund:
   - "492"

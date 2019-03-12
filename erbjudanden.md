@@ -3,7 +3,7 @@ id: 278
 title: Erbjudanden
 date: 2016-05-25T16:57:17+00:00
 author: admin
-layout: page
+layout: oldpages
 guid: https://enrenarevardag.se/?page_id=278
 bakgrund:
   - "562"

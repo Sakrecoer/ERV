@@ -3,7 +3,7 @@ id: 1970
 title: Fönsterputs Sundbyberg
 date: 2017-07-21T11:02:22+02:00
 author: admin
-layout: page
+layout: oldpages
 guid: https://enrenarevardag.se/?page_id=1970
 bakgrund:
   - "2403"

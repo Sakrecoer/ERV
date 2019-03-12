@@ -3,7 +3,7 @@ id: 1468
 title: Städföretag Bromma
 date: 2017-04-25T12:56:05+02:00
 author: admin
-layout: page
+layout: oldpages
 guid: https://enrenarevardag.se/?page_id=1468
 bakgrund:
   - "2441"

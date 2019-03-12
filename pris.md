@@ -3,7 +3,7 @@ id: 34
 title: Priser
 date: 2016-05-04T08:51:22+00:00
 author: admin
-layout: page
+layout: oldpages
 guid: https://enrenarevardag.se/?page_id=34
 bakgrund:
   - "201"

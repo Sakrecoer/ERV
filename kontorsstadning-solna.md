@@ -3,7 +3,7 @@ id: 1975
 title: Kontorsstädning Solna
 date: 2017-07-21T11:18:39+02:00
 author: admin
-layout: page
+layout: oldpages
 guid: https://enrenarevardag.se/?page_id=1975
 bakgrund:
   - "2421"

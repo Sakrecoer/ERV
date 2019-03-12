@@ -3,7 +3,7 @@ id: 243
 title: Skolstädning
 date: 2016-05-25T11:40:26+00:00
 author: admin
-layout: page
+layout: oldpages
 guid: https://enrenarevardag.se/?page_id=243
 bakgrund:
   - "556"

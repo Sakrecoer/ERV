@@ -3,7 +3,7 @@ id: 1990
 title: Storstädning Solna
 date: 2017-07-22T09:29:30+02:00
 author: admin
-layout: page
+layout: oldpages
 guid: https://enrenarevardag.se/?page_id=1990
 bakgrund:
   - "2453"

@@ -3,7 +3,7 @@ id: 30
 title: Storstädning i Stockholm
 date: 2016-05-04T08:50:46+00:00
 author: admin
-layout: page
+layout: oldpages
 guid: https://enrenarevardag.se/?page_id=30
 bakgrund:
   - "176"

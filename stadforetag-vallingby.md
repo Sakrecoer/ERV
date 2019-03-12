@@ -3,7 +3,7 @@ id: 1486
 title: Städföretag Vällingby
 date: 2017-04-25T13:37:51+02:00
 author: admin
-layout: page
+layout: oldpages
 guid: https://enrenarevardag.se/?page_id=1486
 bakgrund:
   - "2447"

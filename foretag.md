@@ -3,7 +3,7 @@ id: 240
 title: Företag
 date: 2016-05-25T11:38:14+00:00
 author: admin
-layout: page
+layout: oldpages
 guid: https://enrenarevardag.se/?page_id=240
 bakgrund:
   - "259"

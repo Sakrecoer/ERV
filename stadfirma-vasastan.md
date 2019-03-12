@@ -3,7 +3,7 @@ id: 1449
 title: Städfirma Vasastan
 date: 2017-04-25T11:21:12+02:00
 author: admin
-layout: page
+layout: oldpages
 guid: https://enrenarevardag.se/?page_id=1449
 bakgrund:
   - "2439"

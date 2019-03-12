@@ -3,7 +3,7 @@ id: 1408
 title: Flyttstädning Vällingby
 date: 2017-04-21T14:13:21+02:00
 author: admin
-layout: page
+layout: oldpages
 guid: https://enrenarevardag.se/?page_id=1408
 bakgrund:
   - "2397"

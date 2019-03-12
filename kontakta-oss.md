@@ -3,7 +3,7 @@ id: 401
 title: Kontakta oss
 date: 2016-06-01T14:26:25+02:00
 author: admin
-layout: page
+layout: oldpages
 guid: https://enrenarevardag.se/?page_id=401
 bakgrund:
   - "405"

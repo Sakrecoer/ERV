@@ -3,7 +3,7 @@ id: 1340
 title: Hemstädning Täby
 date: 2017-04-10T13:54:05+02:00
 author: admin
-layout: page
+layout: oldpages
 guid: https://enrenarevardag.se/?page_id=1340
 bakgrund:
   - "2415"

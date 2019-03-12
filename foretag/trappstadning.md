@@ -3,7 +3,7 @@ id: 28
 title: Trappstädning
 date: 2016-05-04T08:48:40+00:00
 author: admin
-layout: page
+layout: oldpages
 guid: https://enrenarevardag.se/?page_id=28
 bakgrund:
   - "558"

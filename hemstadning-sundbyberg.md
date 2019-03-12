@@ -3,7 +3,7 @@ id: 1307
 title: Hemstädning Sundbyberg
 date: 2017-04-04T14:44:05+02:00
 author: admin
-layout: page
+layout: oldpages
 guid: https://enrenarevardag.se/?page_id=1307
 kc_data:
   - 'a:7:{s:4:"mode";s:0:"";s:7:"classes";s:0:"";s:3:"css";s:0:"";s:9:"max_width";s:0:"";s:9:"thumbnail";s:0:"";s:9:"collapsed";s:0:"";s:9:"optimized";s:0:"";}'

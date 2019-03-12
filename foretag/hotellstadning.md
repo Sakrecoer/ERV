@@ -3,7 +3,7 @@ id: 24
 title: Hotellstädning
 date: 2016-05-04T08:47:03+00:00
 author: admin
-layout: page
+layout: oldpages
 guid: https://enrenarevardag.se/?page_id=24
 bakgrund:
   - "154"

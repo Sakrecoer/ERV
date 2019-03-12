@@ -3,7 +3,7 @@ id: 1405
 title: Flyttstädning Vasastan
 date: 2017-04-21T14:07:03+02:00
 author: admin
-layout: page
+layout: oldpages
 guid: https://enrenarevardag.se/?page_id=1405
 bakgrund:
   - "2399"

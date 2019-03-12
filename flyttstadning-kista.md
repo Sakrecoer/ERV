@@ -3,7 +3,7 @@ id: 1397
 title: Flyttstädning Kista
 date: 2017-04-21T13:05:28+02:00
 author: admin
-layout: page
+layout: oldpages
 guid: https://enrenarevardag.se/?page_id=1397
 bakgrund:
   - "2393"

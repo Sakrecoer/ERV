@@ -3,7 +3,7 @@ id: 1477
 title: Städföretag Kista
 date: 2017-04-25T13:17:10+02:00
 author: admin
-layout: page
+layout: oldpages
 guid: https://enrenarevardag.se/?page_id=1477
 bakgrund:
   - "2443"

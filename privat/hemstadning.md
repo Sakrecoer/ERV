@@ -3,7 +3,7 @@ id: 22
 title: Hemstädning
 date: 2016-05-04T08:46:40+00:00
 author: admin
-layout: page
+layout: oldpages
 guid: https://enrenarevardag.se/?page_id=22
 bakgrund:
   - "497"

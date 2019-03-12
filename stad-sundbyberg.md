@@ -3,7 +3,7 @@ id: 2000
 title: Städ Sundbyberg
 date: 2017-07-22T10:04:15+02:00
 author: admin
-layout: page
+layout: oldpages
 guid: https://enrenarevardag.se/?page_id=2000
 bakgrund:
   - "2429"

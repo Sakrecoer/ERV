@@ -3,7 +3,7 @@ id: 1442
 title: Städfirma Kista
 date: 2017-04-25T11:08:23+02:00
 author: admin
-layout: page
+layout: oldpages
 guid: https://enrenarevardag.se/?page_id=1442
 bakgrund:
   - "2433"

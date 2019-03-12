@@ -3,7 +3,7 @@ id: 1643
 title: Kontorsstädning Stockholm
 date: 2017-05-24T09:49:49+02:00
 author: admin
-layout: page
+layout: oldpages
 guid: https://enrenarevardag.se/?page_id=1643
 bakgrund:
   - "2423"

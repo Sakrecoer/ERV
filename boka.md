@@ -3,7 +3,7 @@ id: 294
 title: Boka städning
 date: 2016-05-26T10:59:45+02:00
 author: admin
-layout: page
+layout: oldpages
 guid: https://enrenarevardag.se/?page_id=294
 bakgrund:
   - "296"
