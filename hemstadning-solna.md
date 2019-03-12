@@ -4,6 +4,7 @@ title: Hemstädning Solna
 date: 2017-07-18T09:40:05+02:00
 author: admin
 layout: oldpages
+image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=1929
 bakgrund:
   - "2411"

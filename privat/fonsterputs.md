@@ -4,6 +4,7 @@ title: Fönsterputsning i Stockholm
 date: 2016-05-16T13:37:11+00:00
 author: admin
 layout: oldpages
+image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=78
 bakgrund:
   - "492"

@@ -4,6 +4,7 @@ title: Hemstädning Täby
 date: 2017-04-10T13:54:05+02:00
 author: admin
 layout: oldpages
+image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=1340
 bakgrund:
   - "2415"

@@ -4,6 +4,7 @@ title: Butiksstädning Solna
 date: 2017-07-21T10:19:26+02:00
 author: admin
 layout: oldpages
+image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=1952
 bakgrund:
   - "2389"

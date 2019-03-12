@@ -4,6 +4,7 @@ title: Storstädning Sundbyberg
 date: 2017-07-22T09:42:06+02:00
 author: admin
 layout: oldpages
+image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=1993
 bakgrund:
   - "2455"

@@ -4,6 +4,7 @@ title: Kontakta oss
 date: 2016-06-01T14:26:25+02:00
 author: admin
 layout: oldpages
+image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=401
 bakgrund:
   - "405"

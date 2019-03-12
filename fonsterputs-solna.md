@@ -4,6 +4,7 @@ title: Fönsterputs Solna
 date: 2017-07-21T10:56:10+02:00
 author: admin
 layout: oldpages
+image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=1966
 bakgrund:
   - "2401"

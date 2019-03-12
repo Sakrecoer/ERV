@@ -4,6 +4,7 @@ title: Städföretag Kista
 date: 2017-04-25T13:17:10+02:00
 author: admin
 layout: oldpages
+image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=1477
 bakgrund:
   - "2443"

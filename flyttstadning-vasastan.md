@@ -4,6 +4,7 @@ title: Flyttstädning Vasastan
 date: 2017-04-21T14:07:03+02:00
 author: admin
 layout: oldpages
+image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=1405
 bakgrund:
   - "2399"

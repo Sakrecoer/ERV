@@ -4,6 +4,7 @@ title: Flyttstädning i Stockholm och Solna
 date: 2016-05-04T08:51:05+00:00
 author: admin
 layout: oldpages
+image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=32
 bakgrund:
   - "512"

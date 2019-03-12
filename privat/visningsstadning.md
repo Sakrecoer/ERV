@@ -4,6 +4,7 @@ title: Visningsstädning
 date: 2016-06-08T16:23:33+02:00
 author: admin
 layout: oldpages
+image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=450
 bakgrund:
   - "560"

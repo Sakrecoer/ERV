@@ -4,6 +4,7 @@ title: Städ Sundbyberg
 date: 2017-07-22T10:04:15+02:00
 author: admin
 layout: oldpages
+image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=2000
 bakgrund:
   - "2429"

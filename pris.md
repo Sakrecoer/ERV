@@ -4,6 +4,7 @@ title: Priser
 date: 2016-05-04T08:51:22+00:00
 author: admin
 layout: oldpages
+image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=34
 bakgrund:
   - "201"

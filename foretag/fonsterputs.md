@@ -4,6 +4,7 @@ title: Fönsterputs
 date: 2016-05-25T11:41:33+00:00
 author: admin
 layout: oldpages
+image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=247
 bakgrund:
   - "570"

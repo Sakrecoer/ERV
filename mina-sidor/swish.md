@@ -4,6 +4,7 @@ title: Swish
 date: 2016-07-07T11:25:16+02:00
 author: admin
 layout: oldpages
+image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=564
 bakgrund:
   - ""

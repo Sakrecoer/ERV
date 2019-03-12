@@ -4,6 +4,7 @@ title: Butiksstädning Stockholm
 date: 2017-07-18T09:52:50+02:00
 author: admin
 layout: oldpages
+image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=1936
 bakgrund:
   - "2391"

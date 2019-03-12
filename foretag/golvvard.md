@@ -4,6 +4,7 @@ title: Golvvård
 date: 2017-01-16T11:20:09+01:00
 author: admin
 layout: oldpages
+image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=1038
 bakgrund:
   - "1034"

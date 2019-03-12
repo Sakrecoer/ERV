@@ -4,6 +4,7 @@ title: Trappstädning
 date: 2016-05-04T08:48:40+00:00
 author: admin
 layout: oldpages
+image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=28
 bakgrund:
   - "558"

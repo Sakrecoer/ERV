@@ -4,6 +4,7 @@ title: Byggstädning
 date: 2017-01-16T11:01:39+01:00
 author: admin
 layout: oldpages
+image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=1027
 bakgrund:
   - "1042"

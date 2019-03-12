@@ -4,6 +4,7 @@ title: Städning Solna
 date: 2017-07-22T09:58:49+02:00
 author: admin
 layout: oldpages
+image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=1996
 bakgrund:
   - "2451"

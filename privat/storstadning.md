@@ -4,6 +4,7 @@ title: Storstädning i Stockholm
 date: 2016-05-04T08:50:46+00:00
 author: admin
 layout: oldpages
+image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=30
 bakgrund:
   - "176"

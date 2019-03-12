@@ -4,6 +4,7 @@ title: Kontorsstädning Sundbyberg
 date: 2017-07-22T09:21:52+02:00
 author: admin
 layout: oldpages
+image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=1983
 bakgrund:
   - "2425"

@@ -4,6 +4,7 @@ title: Boka städning
 date: 2016-05-26T10:59:45+02:00
 author: admin
 layout: oldpages
+image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=294
 bakgrund:
   - "296"

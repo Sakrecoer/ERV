@@ -4,6 +4,7 @@ title: Städfirma Täby
 date: 2017-04-25T11:13:27+02:00
 author: admin
 layout: oldpages
+image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=1445
 bakgrund:
   - "2435"

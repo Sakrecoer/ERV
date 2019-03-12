@@ -4,6 +4,7 @@ title: Hemstädning
 date: 2016-05-04T08:46:40+00:00
 author: admin
 layout: oldpages
+image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=22
 bakgrund:
   - "497"

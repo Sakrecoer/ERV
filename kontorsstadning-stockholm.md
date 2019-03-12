@@ -4,6 +4,7 @@ title: Kontorsstädning Stockholm
 date: 2017-05-24T09:49:49+02:00
 author: admin
 layout: oldpages
+image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=1643
 bakgrund:
   - "2423"
@@ -24,7 +25,7 @@ Våra företagskunder har en sak gemensamt, de är nöjda.
 
 <img class="size-full wp-image-1312 aligncenter" src="https://enrenarevardag.se/wp-content/uploads/2017/04/Flyttstädning-Stockholm-Solna.png" alt="Kontorsstädning , Stockholm" width="151" height="150" srcset="https://enrenarevardag.se/wp-content/uploads/2017/04/Flyttstädning-Stockholm-Solna.png 151w, https://enrenarevardag.se/wp-content/uploads/2017/04/Flyttstädning-Stockholm-Solna-150x150.png 150w, https://enrenarevardag.se/wp-content/uploads/2017/04/Flyttstädning-Stockholm-Solna-125x125.png 125w" sizes="(max-width: 151px) 100vw, 151px" /> 
 
-## Vad ingår i en kontorsstädning i Stockholm ? {.ingar}
+## Vad ingår i en kontorsstädning i Stockholm ? 
 
 **Kontorslokalerna **
 

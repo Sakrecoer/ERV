@@ -4,6 +4,7 @@ title: Storstädning Solna
 date: 2017-07-22T09:29:30+02:00
 author: admin
 layout: oldpages
+image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=1990
 bakgrund:
   - "2453"
