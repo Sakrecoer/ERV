@@ -1,6 +1,7 @@
 ---
 id: 11
 title: Trygghet
+description: "För att du som kund ska känna dig trygg så följer En Renare Vardag branschens högsta krav när det gäller säkerhet och ansvarsfrågor."
 date: 2016-05-03T16:45:34+00:00
 author: admin
 layout: oldpages
@@ -10,8 +11,6 @@ bakgrund:
   - "445"
 ---
 # Din trygghet
-
-För att du som kund ska känna dig trygg så följer En Renare Vardag branschens högsta krav när det gäller säkerhet och ansvarsfrågor.
 
 <strong class="arrow">Säkerhetspolicy & Nyckel hantering</strong>  
 Det kan kännas lite ovant att lämna över dina nycklar till ett företag. Mottagande av nycklar och larmkoder innebär ett stort ansvar. Ditt förtroende är avgörande för oss, därför hanterar vi dina nycklar med högsta försiktighet.
