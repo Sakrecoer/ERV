@@ -1,6 +1,7 @@
 ---
 id: 1966
 title: Fönsterputs Solna
+description: "Fönsterputs i Solna. En Renare Vardag löser det. Att putsa fönster är inte helt lätt och det tar dessutom hyfsat lång tid."
 date: 2017-07-21T10:56:10+02:00
 author: admin
 layout: oldpages
@@ -9,7 +10,9 @@ guid: https://enrenarevardag.se/?page_id=1966
 bakgrund:
   - "2401"
 ---
-**Fönsterputs i Solna. En Renare Vardag löser det. Att putsa fönster är inte helt lätt och det tar dessutom hyfsat lång tid.** I alla fall om man vill att det ska se bra ut och att det ska bli rent. Vi på en renare vardag har väldigt duktiga och begåvade fönsterputsare.
+I alla fall om man vill att det ska se bra ut och att det ska bli rent. 
+
+## Vi på en renare vardag har väldigt duktiga och begåvade fönsterputsare.
 
 Vi har  ttt erbjudande till dig som är kund hos oss är att ni får alltid 20% rabatt på fönsterputsning än så länge som ni använder våra tjänster. Vilket är ju ett kanon erbjudande. Så tveka inte att anlita oss för städning och fönsterputs Solna snarast!
 
