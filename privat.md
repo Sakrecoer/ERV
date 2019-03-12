@@ -1,6 +1,7 @@
 ---
 id: 233
-title: Städning
+title: Städning för privatpersoner
+description: "Genom att anlita En Renare Vardag AB får du alltid en städning med högkvalité och ett trevligt bemötande. "
 date: 2016-05-25T11:33:49+00:00
 author: admin
 layout: oldpages
@@ -10,8 +11,7 @@ bakgrund:
   - "249"
 ---
 # Städfirma En renare Vardag AB
-
-Genom att anlita oss får du alltid en städning med högkvalité och ett trevligt bemötande.  
+ 
 Städning är vår glädje och passion som vi gärna vill dela med er.  
 Vi garanterar att du få mer tid över till din vardag som du kan göra nåt annat istället.  Därför ska du inte tveka att kontakta oss när du behöver städhjälp i Stockholm. Vi tar oss an alla typer av städuppdrag, och gör det med noggrannhet & glädje. Vi vet vad som krävs för att huset, lägenheten eller kontoret ska bli skinande rent och att du som kund ska bli nöjd.
 
