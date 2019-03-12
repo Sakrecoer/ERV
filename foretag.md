@@ -1,6 +1,7 @@
 ---
 id: 240
-title: Företag
+title: Städning för företag
+description: "Vi erbjuder alla typer av städning till företag; bland annat flyttstädning och storstädning."
 date: 2016-05-25T11:38:14+00:00
 author: admin
 layout: oldpages
@@ -9,15 +10,11 @@ guid: https://enrenarevardag.se/?page_id=240
 bakgrund:
   - "259"
 ---
-# En renare vardag AB &#8211; Städhjälp med högkvalité
+# Kvalitetssäkring
 
-Vi erbjuder alla typer av städning; bland annat flyttstädning och storstädning till företag och privatpersoner.
+En renare vardag AB &#8211; erbjuder Städhjälp med hög kvalité. Vi arbetar också med ett eget kontrollprogram för kvalitetssäkring. Det bygger på följande delar:
 
-### Kvalitetssäkring
-
-Vi arbetar också med ett eget kontrollprogram för kvalitetssäkring. Det bygger på följande delar:
-
-###   Ansvar & egenkontroll
+### Ansvar & egenkontroll
 
 Varje anställd är personligt ansvariga för ett antal städobjekt. För dig som kund är detta en trygghet, eftersom det oftast är samma person som utför uppdraget varje vecka. Vid varje städtillfälle kontrollerar den ansvarige att samtliga moment är utförda och signerar en lista. De anställda rapporterar fel och eventuella brister till ansvarig städledare.
 
