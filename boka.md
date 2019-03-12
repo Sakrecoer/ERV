@@ -1,6 +1,7 @@
 ---
 id: 294
 title: Boka städning
+Description: Fyll i formuläret nedan för att skicka oss en intresseanmälan för städning så återkommer vi till er! 
 date: 2016-05-26T10:59:45+02:00
 author: admin
 layout: oldpages
@@ -11,7 +12,7 @@ bakgrund:
 ---
 # Boka våra tjänster
 
-Fyll i formuläret nedan för att skicka oss en intresseanmälan för städning så återkommer vi till er!  
+ 
 
 
 <div class="responsive-tabs">
