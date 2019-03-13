@@ -18,11 +18,11 @@ Både till företag och privatpersoner. Om du söker efter en städfirma i Bromm
 
 ## En Städfirma som utför jobb i Bromma
 
-  Genom att anlita oss får du alltid en städning med högkvalité med ett trevligt bemötande.
-  
-  Vi är en städfirma och städning är vår glädje och passion som vi gärna vill dela med er.
-  
-  Vi garanterar att du få mer tid över till din vardag som du kan göra något annat istället. Därför ska du inte tveka att kontakta oss när du behöver städfirma i Bromma. Vi tar oss an alla typer av städuppdrag, och gör det med noggrannhet & glädje. Vi vet vad som krävs för att huset, lägenheten eller kontoret ska bli skinande rent och du som kund ska bli nöjd.
+Genom att anlita oss får du alltid en städning med högkvalité med ett trevligt bemötande.
+
+Vi är en städfirma och städning är vår glädje och passion som vi gärna vill dela med er.
+
+Vi garanterar att du få mer tid över till din vardag som du kan göra något annat istället. Därför ska du inte tveka att kontakta oss när du behöver städfirma i Bromma. Vi tar oss an alla typer av städuppdrag, och gör det med noggrannhet & glädje. Vi vet vad som krävs för att huset, lägenheten eller kontoret ska bli skinande rent och du som kund ska bli nöjd.
 
 ## Vårt löfte:
 <img class="alignnone size-full wp-image-83" src="https://enrenarevardag.se/wp-content/uploads/2016/05/nkg.png" alt="" width="151" height="150" srcset="https://enrenarevardag.se/wp-content/uploads/2016/05/nkg.png 151w, https://enrenarevardag.se/wp-content/uploads/2016/05/nkg-150x150.png 150w, https://enrenarevardag.se/wp-content/uploads/2016/05/nkg-125x125.png 125w" sizes="(max-width: 151px) 100vw, 151px" />
