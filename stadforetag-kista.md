@@ -1,6 +1,7 @@
 ---
 id: 1477
 title: Städföretag Kista
+description: "En renare vardag erbjuder allt inom städ och erbjuder lokalvård till hög kvalitet i Kista."
 date: 2017-04-25T13:17:10+02:00
 author: admin
 layout: oldpages
@@ -9,13 +10,9 @@ guid: https://enrenarevardag.se/?page_id=1477
 bakgrund:
   - "2443"
 ---
-&nbsp;
-
-En renare vardag erbjuder som ett städföretag Kista allt inom städ och erbjuder lokalvård till hög kvalitet.
-
 För att du ska känna dig trygg med våra Städföretag Kista så följer En renare vardag branschens högsta krav gäller säkerhet och ansvarsfrågor.
 
-Vi erbjuder våra kunder:
+### Vi erbjuder våra kunder:
 
   * Hög kvalitet till rimligt pris
   * Alltid samma städerska
@@ -28,9 +25,7 @@ Vi erbjuder våra kunder:
 
 [<img class="wp-image-1478 aligncenter" src="https://enrenarevardag.se/wp-content/uploads/2017/04/Flyttstädning-21-300x300.jpg" alt="Städföretag, Kista" width="181" height="181" srcset="https://enrenarevardag.se/wp-content/uploads/2017/04/Flyttstädning-21-300x300.jpg 300w, https://enrenarevardag.se/wp-content/uploads/2017/04/Flyttstädning-21-150x150.jpg 150w, https://enrenarevardag.se/wp-content/uploads/2017/04/Flyttstädning-21-125x125.jpg 125w, https://enrenarevardag.se/wp-content/uploads/2017/04/Flyttstädning-21.jpg 450w" sizes="(max-width: 181px) 100vw, 181px" />](https://enrenarevardag.se/pris/) 
 
-&nbsp;
-
-Vårt löfte:
+### Vårt löfte:
 
   * Alltid samma städerska
   * Hög kvalitet till rimlig pris
@@ -43,11 +38,7 @@ Vi erbjuder rut-avdraget för våra privatkunder.
 
 Läs gärna mer om våra erbjudanden [här](https://enrenarevardag.se/erbjudanden/) och kolla hur mycket du kan spara i dag!
 
-&nbsp;
-
-## Det ska kännas tryggt att anlita ett städföretag i Kista.
-
-&nbsp;
+### Det ska kännas tryggt att anlita ett städföretag i Kista.
 
 När du beställer städföretag Kista är det viktigt för oss att du känner dig trygg därför följer en renare vardag branschens högsta krav när det gäller säkerhet och ansvarsfrågor.
 
@@ -59,9 +50,7 @@ ditt förtroende är avgörande sås därför hanterade dina nycklar min högsta
 
 Om du inte vill lämna ifrån hem/företagsnycklarna så går det bra men då behövs det någon på plats för att öppna för städaren.
 
-Städföretag Kista har för din trygghet har alla anställda sina id-kort på sig när dom är på plats, våra medarbetare är professionella har många års erfarenhet inom städföretag Kista ,
-
-&nbsp;
+Städföretag Kista har för din trygghet har alla anställda sina id-kort på sig när dom är på plats, våra medarbetare är professionella har många års erfarenhet inom städföretag Kista.
 
 Det är alltid samma städare/ städerska som tar hand om ditt hem. Om din ordinarie städare är sjuk eller ledig så informerar vi detta och skickar vikarier.
 
