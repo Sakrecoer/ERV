@@ -42,6 +42,8 @@ exclude:
 collections:
   staff_members:
     _hide_content: true
+  oldpages:
+    output: true
 
 paginate: 10
 paginate_path: "/blog/:num/"

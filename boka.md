@@ -7,8 +7,7 @@ author: admin
 layout: oldpages
 image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=294
-bakgrund:
-  - "296"
+permalink: /:title/
 ---
 # Boka våra tjänster
 
