@@ -10,7 +10,7 @@ guid: https://enrenarevardag.se/?page_id=450
 bakgrund:
   - "560"
 ---
-Har du tänkt att sälja din bostad? Då vet du säkert hur viktig det är att göra bra intryck på potentiella köpare. Våra duktiga anställda kan hjälpa dig med ordenligt städning och fönsterputsning, så att din bostaden är skinande rent innan visning. Samtidigt du kan få 15% rabatt på flyttstädning efteråt och vi har kvalité på det som vi gör och har blivit rekommenderade städföretag 2015 enligt Reco med ett betyg på 4,5.. Fråga din mäklare, kanske hörde hen redan om oss. 
+Har du tänkt att sälja din bostad? Då vet du säkert hur viktig det är att göra bra intryck på potentiella köpare. Våra duktiga anställda kan hjälpa dig med ordenligt städning och fönsterputsning, så att din bostaden är skinande rent innan visning. Samtidigt du kan få 15% rabatt på flyttstädning efteråt och vi har kvalité på det som vi gör och har blivit rekommenderade städföretag 2015 enligt Reco med ett betyg på 4,5. Fråga din mäklare, kanske hörde hen redan om oss. 
 
 ## Vårt löfte:
 * Inga dolda avgifter
@@ -24,43 +24,43 @@ Har du tänkt att sälja din bostad? Då vet du säkert hur viktig det är att g
 ### Kök
 * Rengöring av diskbänk och arbetsbänk
 * Rengöring av mikrovågsugn
-* Rengöring av kran 
-* Rengöring av alla kakel 
-* Rengöring av köksluckor utvändigt 
-* Rengöring av fläkt utvändigt 
-* Kalkborttagning överallt 
-* Tömning av sopbehållare 
-* Rengöring av sopbehållare 
-* Rengöring av alla vitvaror utvändigt 
-* Rengöring av lampor 
-* Rengöring av dörr och ram 
-* engöring av fönsterbrädor, golvlister och kontakter 
-* Dammsugning och våttorkning av golv  
+* Rengöring av kran
+* Rengöring av alla kakel
+* Rengöring av köksluckor utvändigt
+* Rengöring av fläkt utvändigt
+* Kalkborttagning överallt
+* Tömning av sopbehållare
+* Rengöring av sopbehållare
+* Rengöring av alla vitvaror utvändigt
+* Rengöring av lampor
+* Rengöring av dörr och ram
+* engöring av fönsterbrädor, golvlister och kontakter
+* Dammsugning och våttorkning av golv
 
 ### Badrum
 * Rengöring av alla kakel
 * Rengöring av alla sanitet
-* Rengöring av alla vitvaror utvändigt 
-* Rengöring av dörr och badrumsskåp 
-* Rengöring av belysning 
-* Kalkborttagning överallt 
-* Tömning av papperskorgar 
-* Rengöring av eventuellt fönsterbrädor, golvlister och kontakter 
-* Dammsugning och våttorkning av golv 
-* Avtorkning av speglar  
+* Rengöring av alla vitvaror utvändigt
+* Rengöring av dörr och badrumsskåp
+* Rengöring av belysning
+* Kalkborttagning överallt
+* Tömning av papperskorgar
+* Rengöring av eventuellt fönsterbrädor, golvlister och kontakter
+* Dammsugning och våttorkning av golv
+* Avtorkning av speglar
 
 ### Alla Rum
-* Dammtorkning av tavlor 
-* Rengöring av fönsterbrädor, golvlister, lampor och kontakter 
-* Dammtorkning av TV, spelkonsoler, ljudsystem osv. 
-* Rengöring av lampor 
-* Rengöring av dörrar och ramar 
-* Rengöring av möbler med fria ytor 
-* Dammsugning av klädda/stoppade möbler 
-* Dammsugning av golv och mattor 
-* Skakning av små mattor (om möjligheten finns) 
-* Våttorkning av golv 
-* Tömning av papperskorgar 
+* Dammtorkning av tavlor
+* Rengöring av fönsterbrädor, golvlister, lampor och kontakter
+* Dammtorkning av TV, spelkonsoler, ljudsystem osv.
+* Rengöring av lampor
+* Rengöring av dörrar och ramar
+* Rengöring av möbler med fria ytor
+* Dammsugning av klädda/stoppade möbler
+* Dammsugning av golv och mattor
+* Skakning av små mattor (om möjligheten finns)
+* Våttorkning av golv
+* Tömning av papperskorgar
 * Avtorkning av alla speglar
 
 
@@ -73,13 +73,13 @@ Har du tänkt att sälja din bostad? Då vet du säkert hur viktig det är att g
 ### Hur lång tid tar en visningsstädning?
 * Det beror på storlek och skick av bostad. Det brukar ta mellan 4 och 8 timmar. Ju större bostad desto fler städerskor skickar vi på en gång, så att de kan klara av en storstädning inom en arbetsdag. Vi kan säga till lite mer exakt hur länge storstädning ska ta, efter vi går runt genom bostad och se hur det ser ut.
 ### Hur snabbt kommer vi igång med städningen?
-* Efter att ha fått dina kontaktuppgifter så bokar vi in städning direkt för den önskade datum och tid.  ​
+* Efter att ha fått dina kontaktuppgifter så bokar vi in städning direkt för den önskade datum och tid.
 ### Måste jag vara hemma vid städtillfället?
 * Nej, men det är bra om du är hemma vid första stunden för att träffa personen som städar. Det följer även med en arbetsledare ut vid första tillfället för att göra en kvalitetskontroll. Då har du även möjlighet att kvittera ut nycklar om så önskas.
 ### Måste jag lämna ut nycklar?
 Nej, om du garanterar att vara hemma när städningen påbörjas och avslutas behöver vi ingen nyckel.
 ### Kan jag avboka visningsstädning?
-Du kan boka av visningsstädning 72 timmar innan bokade tid utan extra kostnader. Avbokningar sker via mail – eller per telefon 0762-34 46 61. Vid senare avbokning debiterar vi dig med 500 kr avbokningsavgift.   Vid avbokningar gjorda mindre än 12 timmar före planerat sändningstid, vi debiterar kunden med 1000 kr avgift på grund av utebliven tjänst. Samma regler gäller om vi ska inte ha fri åtkomst till kundens bostad. 
+Du kan boka av visningsstädning 72 timmar innan bokade tid utan extra kostnader. Avbokningar sker via mail – eller per telefon 0762-34 46 61. Vid senare avbokning debiterar vi dig med 500 kr avbokningsavgift. Vid avbokningar gjorda mindre än 12 timmar före planerat sändningstid, vi debiterar kunden med 1000 kr avgift på grund av utebliven tjänst. Samma regler gäller om vi ska inte ha fri åtkomst till kundens bostad. 
 ### Hur arbetar En Renare Vardag med säkerhet?
 Alla våra personal är ansvarsförsäkrade. Innan anställning måste varje anställd skriva på ett sekretessavtal samt lämna ett utdrag ur belastningsregistret. En Renare Vardags rutiner för hantering av nycklar, larm och andra kunduppgifter är speciellt utvecklade för att skapa trygghet och sekretess för dig.
 ### Vad händer om jag inte är nöjd med visning-städningen?
