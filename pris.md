@@ -1,6 +1,7 @@
 ---
 id: 34
 title: Priser
+description: "En Renare Vardag har alltid bästa priserna!"
 date: 2016-05-04T08:51:22+00:00
 author: admin
 layout: oldpages
@@ -9,9 +10,7 @@ guid: https://enrenarevardag.se/?page_id=34
 bakgrund:
   - "201"
 ---
-* * *
-
-### Privatkunder
+# Privatkunder
 
   * Alla våra priser är efter lagstadgat RUT-avdrag inklusive moms.
   * I våra priser ingår också att vi administrerar RUT-avdraget med Skatteverket åt er samt inga inställelseavgifter, inga fakturaavgifter och inga resekostnader.
@@ -21,139 +20,106 @@ bakgrund:
   * Alla priser nedan är ett ungefärligt pris.Vi genomför ett kostnadsfritt och förutsättningslöst hembesök där vi går igenom dina önskemål och behov samt ger ett exakt pris. Därefter ni får en kontaktperson och en fast städdag och tid.
   * Vi garanterar att din vardag blir mycket enklare om du blir en av våra nöjda kunder.
 
-<strong style="color: #555;">Vi kommer att göra en kreditupplysning på alla kunder som väljer nån av våra tjänster.</strong>
-
-&nbsp;
-
-* * *
-
 ### Fönsterputs prislista:
 
-<div class="table-responsive">
-  <table border="1" cellpadding="1">
+<div class="table-responsive" style="width:100%">
+  <table cellpadding="2px" style="width:100%">
     <tr>
-      <td>
+      <td style="background-color: #eee;">
         Lägenhet
       </td>
-      
-      <td>
+      <td style="background-color: #eee;">
         2 sidor
       </td>
-      
-      <td>
+      <td style="background-color: #eee;">
         4 sidor
       </td>
-      
-      <td>
+      <td style="background-color: #eee;">
         6 sidor
       </td>
     </tr>
-    
     <tr>
-      <td>
+      <td style="background-color: #eee;">
         1:a
       </td>
-      
       <td>
-        270
+        270:-
       </td>
-      
       <td>
-        540
+        540:-
       </td>
-      
       <td>
-        620
+        620:-
       </td>
     </tr>
-    
     <tr>
-      <td>
+      <td style="background-color: #eee;">
         2:a
       </td>
-      
       <td>
-        300
+        300:-
       </td>
-      
       <td>
-        600
+        600:-
       </td>
-      
       <td>
-        690
+        690:-
       </td>
     </tr>
-    
     <tr>
-      <td>
+      <td style="background-color: #eee;">
         3:a
       </td>
-      
       <td>
-        340
+        340:-
       </td>
-      
       <td>
-        680
+        680:-
       </td>
-      
       <td>
-        810
+        810:-
       </td>
     </tr>
-    
     <tr>
-      <td>
+      <td style="background-color: #eee;">
         4:a
       </td>
-      
       <td>
-        390
+        390:-
       </td>
-      
       <td>
-        780
+        780:-
       </td>
-      
       <td>
-        960
+        960:-
       </td>
     </tr>
-    
     <tr>
-      <td>
+      <td style="background-color: #eee;">
         5:a
       </td>
-      
       <td>
-        450
+        450:-
       </td>
-      
       <td>
-        900
+        900:-
       </td>
-      
       <td>
-        1140
+        1140:-
       </td>
     </tr>
-    
     <tr>
-      <td>
+      <td style="background-color: #eee;">
         6:a
       </td>
-      
       <td>
-        525
+        525:-
       </td>
-      
       <td>
-        1050
+        1050:-
       </td>
-      
       <td>
-        1350
+        1350:-
       </td>
     </tr>
   </table>
@@ -161,4 +127,4 @@ bakgrund:
 
 Inglasad balkong tillkommer från 250 kr.  
 Balkongdörr tillkommer 120 kr/st.  
-[Boka fönsterputs](https://enrenarevardag.se/privat/fonsterputs/){.btn.btn-primary.btn-block.pris-knapp}
+[Boka fönsterputs](https://enrenarevardag.se/privat/fonsterputs/)

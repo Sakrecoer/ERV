@@ -1,6 +1,7 @@
 ---
 id: 1492
 title: Hemstädning Danderyd
+description: "Genom att anlita en renare vardag för hemstädning i Danderyd får du hög kvalitet och trevligt bemötande."
 date: 2017-04-25T13:52:11+02:00
 author: admin
 layout: oldpages
@@ -9,11 +10,7 @@ guid: https://enrenarevardag.se/?page_id=1492
 bakgrund:
   - "2407"
 ---
-&nbsp;
-
-Genom att anlita en renare vardag för hemstädning i  Danderyd får du hög kvalitet och trevligt bemötande.
-
-Vi garanterar att du får mer tid över till annat roligt som du kan göra med familjen eller vänner ,låt oss sköta din hemstädning Danderyd.
+Vi garanterar att du får mer tid över till annat roligt som du kan göra med familjen eller vänner, låt oss sköta din hemstädning Danderyd.
 
 Vi tar oss an alla typer av hemstädning Danderyds uppdrag, därför tycker En renare vardag att du inte ska tveka och ta kontakt med oss när du behöver städhjälp.
 

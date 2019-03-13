@@ -1,6 +1,7 @@
 ---
 id: 1340
 title: Hemstädning Täby
+description: "Letar du efter någon som kan utföra hemstädning i Täby? Låt oss göra det åt dig!"
 date: 2017-04-10T13:54:05+02:00
 author: admin
 layout: oldpages
@@ -9,35 +10,21 @@ guid: https://enrenarevardag.se/?page_id=1340
 bakgrund:
   - "2415"
 ---
-<h1 style="text-align: center;">
-  Letar du efter någon som kan utföra hemstädning i Täby!
-</h1>
 
-<p style="text-align: center;">
-  Då har du kommit helt rätt. Välkommen till En Renare Vardag Vi sköter din hemstädning i Täby är noggranna och ta våra uppdrag på fullaste allvar.
-</p>
+# Välkommen till En Renare Vardag 
 
-<p style="text-align: center;">
-  Vi vill att ni alltid känner att ni har trevligt och rent hem kan för dig och din familj. Och när ni har besök så ska ni tänka på annat än på städningen.
-</p>
+Vi sköter din hemstädning i Täby är noggranna och ta våra uppdrag på fullaste allvar.
 
-<p style="text-align: center;">
+Vi vill att ni alltid känner att ni har trevligt och rent hem kan för dig och din familj. Och när ni har besök så ska ni tänka på annat än på städningen.
+
+
   En renare vardags hemstädning i Solna sköts av kompetenta seriösa stolta och proffsiga städare som tar sin uppdrag på fullaste allvar vi ser till att du har du rent och fräscht utan bekymmer och kan skräddarsy städningen efter era behov med många olika lösningar.
-</p>
 
-<p style="text-align: center;">
   Vad ingår hemstädning i Täby?
-</p>
 
-<p style="text-align: center;">
   <a href="https://enrenarevardag.se/pris/"><img class="alignnone wp-image-1341" src="https://enrenarevardag.se/wp-content/uploads/2017/04/En-Rensare-Pris-768x197-2-300x77.png" alt="Hemstädning, Täby " width="335" height="86" srcset="https://enrenarevardag.se/wp-content/uploads/2017/04/En-Rensare-Pris-768x197-2-300x77.png 300w, https://enrenarevardag.se/wp-content/uploads/2017/04/En-Rensare-Pris-768x197-2.png 768w" sizes="(max-width: 335px) 100vw, 335px" /></a>
-</p>
-
-** **
 
 ### Kök
-
-&nbsp;
 
   * Torkar av allt kakel ovanför diskbänken
   * Torkar av alla köksluckor utvändigt
@@ -52,7 +39,7 @@ bakgrund:
   * Torkar dörrar, karmar och fönsterbrädor
   * Bad & Toalett
 
-#### Badrum
+### Badrum
 
   * Torkar av allt kakel runt toalettstolen, handfatet och duschen/badkaret
   * Rengör toalettstolen, duschkabinen och badkaret
@@ -67,7 +54,7 @@ bakgrund:
   * och våttorkar golvet
   * Alla rum
 
-#### Övriga hemmet
+### Övriga hemmet
 
   * Dammtorkar/våttorkar alla öppna ytor, som t.ex. bord, bänkar, bokhyllor, eluttag mm.
   * Dammsuger soffor och fåtöljer – både utanpå och under dynor
@@ -77,7 +64,7 @@ bakgrund:
   * Torkar dörrar, karmar och fönsterbrädor
   * Städredskap som Ni ska ha hemma
 
-#### Detta ska ni ha hemma
+### Detta ska ni ha hemma
 
   * Dammsugare (dammsugarpåsar)
   * En skurhink med moppress (gärna av lite bättre modell typ Wileda)
@@ -91,9 +78,6 @@ bakgrund:
   * Diskhanddukar
   * Toaborste
   * Rengöringsmedel som Ni ska ha hemma
-
-&nbsp;
-
   * Bra diskmedel (typ Yes)
   * Fönsterputs (för speglar)
   * JIF Cream eller VIM
@@ -103,28 +87,14 @@ bakgrund:
   * Kakel eller badrumsspray (typ Ajax)
   * Toalettrent (typ WC-anka)
 
-&nbsp;
-
-<p style="text-align: center;">
   <img class="alignnone size-full wp-image-1342" src="https://enrenarevardag.se/wp-content/uploads/2017/04/Flyttstädning-Stockholm-Solna-2.png" alt="Hemstädning, Täby " width="151" height="150" srcset="https://enrenarevardag.se/wp-content/uploads/2017/04/Flyttstädning-Stockholm-Solna-2.png 151w, https://enrenarevardag.se/wp-content/uploads/2017/04/Flyttstädning-Stockholm-Solna-2-150x150.png 150w, https://enrenarevardag.se/wp-content/uploads/2017/04/Flyttstädning-Stockholm-Solna-2-125x125.png 125w" sizes="(max-width: 151px) 100vw, 151px" />
-</p>
 
-<p style="text-align: center;">
   När vi har utför hemstädning i Täby så anpassar vi alltid städmaterialet efter golv materialet.
-</p>
 
-<p style="text-align: center;">
   En renare vardag använder självklart bara Svanmärkta och miljömärkta produkter till hemstädning i Täby vi är måna om vår natur och jord.
-</p>
 
-<p style="text-align: center;">
   Vi har självklart nöjd kundgaranti där vi garanterar att ni är nöjda med den städning vi utfört i ert hem.
-</p>
 
-<p style="text-align: center;">
   Kontakta oss för offert och schemaläggning för din städning
-</p>
 
-<p style="text-align: center;">
   Varmt välkommen
-</p>

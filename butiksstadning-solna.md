@@ -1,6 +1,7 @@
 ---
 id: 1952
 title: Butiksstädning Solna
+description: "Vi har butiksstädning i Solna. Vill du ha en riktigt fräsch butik? Det är ju så klart du vill ha det! Det är ju väldigt viktigt att butiken ser bra ut så att kunderna trivs och kommer tillbaka."
 date: 2017-07-21T10:19:26+02:00
 author: admin
 layout: oldpages
@@ -9,8 +10,6 @@ guid: https://enrenarevardag.se/?page_id=1952
 bakgrund:
   - "2389"
 ---
-#### **Vi har butiksstädning i Solna. Vill du ha en riktigt fräsch butik? Det är ju så klart du vill ha det! Det är ju väldigt viktigt att butiken ser bra ut så att kunderna trivs och kommer tillbaka.**
-
 Vi på En renare vardag har en bred erfarenhet och hjälper många butiker. Vi kan erbjuda butiksstädning solna av allt ifrån små butiker till stora varuhus, livsmedelsbutiker, butikskedjor och butikscentrum m.m. Vi har personal som vet att städning i butik skiljer sig från annan städning. Det gäller bl.a. att vara snabb och flexibel med tanke på leveranser och omflyttningar i butiken. Så vi kan verkligen  butiksstädning Solna. Det är mycket som ingår i butiksstädning Solna och det är följande:  
 **Butiksyta**  
 Dammsugning och våttorkning av golv  

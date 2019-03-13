@@ -1,6 +1,7 @@
 ---
 id: 1468
 title: Städföretag Bromma
+description: "En Renare Vardag utför högkvalitativ lokalvård i Bromma och jobbar professionellt inom hela städbranschen."
 date: 2017-04-25T12:56:05+02:00
 author: admin
 layout: oldpages
@@ -9,13 +10,9 @@ guid: https://enrenarevardag.se/?page_id=1468
 bakgrund:
   - "2441"
 ---
-&nbsp;
+För att du ska känna dig trygg med vår städning i Bromma så följer En renare vardag branschens högsta krav gäller säkerhet och ansvarsfrågor.
 
-En Renare Vardag utför arbete som  städföretag Bromma och jobbar professionellt inom städ och erbjuder lokalvård till hög kvalitet.
-
-För att du ska känna dig trygg med våra Städföretag Bromma så följer En renare vardag branschens högsta krav gäller säkerhet och ansvarsfrågor.
-
-Vi erbjuder våra kunder:
+### Vi erbjuder våra kunder:
 
   * Hög kvalitet till rimligt pris
   * Alltid samma städerska
@@ -28,9 +25,7 @@ Vi erbjuder våra kunder:
 
 [<img class="wp-image-1469 aligncenter" src="https://enrenarevardag.se/wp-content/uploads/2017/04/Flyttstädning-18-300x300.jpg" alt="Städföretag, Bromma" width="212" height="212" srcset="https://enrenarevardag.se/wp-content/uploads/2017/04/Flyttstädning-18-300x300.jpg 300w, https://enrenarevardag.se/wp-content/uploads/2017/04/Flyttstädning-18-150x150.jpg 150w, https://enrenarevardag.se/wp-content/uploads/2017/04/Flyttstädning-18-125x125.jpg 125w, https://enrenarevardag.se/wp-content/uploads/2017/04/Flyttstädning-18.jpg 450w" sizes="(max-width: 212px) 100vw, 212px" />](https://enrenarevardag.se/pris/) 
 
-&nbsp;
-
-Vårt löfte:
+### Vårt löfte:
 
   * Alltid samma städerska
   * Hög kvalitet till rimlig pris
@@ -43,11 +38,7 @@ Vi erbjuder rut-avdraget för våra privatkunder.
 
 Läs gärna mer om våra erbjudanden [här](https://enrenarevardag.se/erbjudanden/) och kolla hur mycket du kan spara i dag!
 
-&nbsp;
-
-## Det ska kännas tryggt att anlita ett städföretag i Bromma.
-
-&nbsp;
+### Det ska kännas tryggt att anlita ett städföretag i Bromma.
 
 När du beställer städföretag Bromma är det viktigt för oss att du känner dig trygg därför följer en renare vardag branschens högsta krav när det gäller säkerhet och ansvarsfrågor.
 
@@ -61,14 +52,12 @@ Om du inte vill lämna ifrån hem/företagsnycklarna så går det bra men då be
 
 Städföretag Bromma har för din trygghet har alla anställda sina id-kort på sig när dom är på plats, våra medarbetare är professionella har många års erfarenhet inom städföretag Bromma ,
 
-&nbsp;
-
 Det är alltid samma städare/ städerska som tar hand om ditt hem. Om din ordinarie städare är sjuk eller ledig så informerar vi detta och skickar vikarier.
 
 Som ett städföretag Bromma lämnar vi alltid nöjd kundgaranti på vår Uppdrag
 
 Kontakta oss för offert eller genomgång och se vad det kan erbjuda dig.
 
-Varmt välkommen
+Varmt välkommen,
 
 En Renare vardag!
