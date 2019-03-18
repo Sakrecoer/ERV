@@ -34,7 +34,7 @@ bottom_image: /images/karta.png
       $('#privat').toggle( ix === 0 );
       $('#foretag').toggle( ix === 1 );
     });
-});
+  });
 </script>
 
 <div class="content">
@@ -113,34 +113,36 @@ Vårt motto inom städning och hemstädning är att alltid erbjuda högkvalitati
 		</div>
   </section>
   
-  <div id="bookinganchor">
-    <p id="toggle" style="text-align: center;">
-        <span> Privatperson </span> | 
-        <span> F&ouml;retag </span>
-    </p>
 
-    <div id="privat" class="text-container contact-box">
-        {% if jekyll.environment == 'production' %}
-        <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
-        <script>
-          hbspt.forms.create({
-          portalId: "5554697",
-          formId: "00277579-da94-4d70-a843-fba67fcc89c8"
-        });
-        </script>
-        {% endif %}
+    {% if jekyll.environment == 'production' %}
+    <div id="bookinganchor" class="container flex">
+      <div   id="selection">
+        <p id="toggle">
+          <span> <a href="#">Privatperson</a> </span> | 
+          <span> <a href="#">F&ouml;retag</a> </span>
+        </p>
+      </div>
+      <div class="text">
+        <div id="privat">
+          <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
+          <script>
+            hbspt.forms.create({
+            portalId: "5554697",
+            formId: "00277579-da94-4d70-a843-fba67fcc89c8"
+          });
+          </script>
+        </div>
+        <div id="foretag">
+          <script>
+            hbspt.forms.create({
+            portalId: "5554697",
+            formId: "7ff74f83-5d13-4679-a905-326e6d2343d2"
+          });
+          </script>
+        </div>
     </div>
-    <div id="foretag" class="text-container contact-box">
-        {% if jekyll.environment == 'production' %}
-      <script>
-        hbspt.forms.create({
-        portalId: "5554697",
-        formId: "7ff74f83-5d13-4679-a905-326e6d2343d2"
-      });
-      </script>
-        {% endif %}
     </div>
-  </div>
+  {% endif %}
 
 	<section class="hero" style="background-image: url({% include relative-src.html src=page.bottom_image %})">
 		<div class="inner-hero text-container">
