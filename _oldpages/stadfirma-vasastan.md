@@ -7,7 +7,7 @@ author: admin
 layout: oldpages
 image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=1449
-permalink: /:title/
+permalink: /:name/
 ---
 En Renare Vardag AB arbetar i Vasastan inom hemstädning, storstädning, fönsterputs, flyttstädningen, kontorsstädning, Hotell städning, trappstädning, skolstädning och även butik städning vi har ett brett register och har många års erfarenhet inom detta.
 

@@ -7,7 +7,7 @@ author: admin
 layout: oldpages
 image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=30
-permalink: /privat/:title/
+permalink: /privat/:name/
 ---
 Att göra ett bra storstädning på egen hand kan ta lång tid och vara svårt för många. Under en storstädning får ditt hem en grundläggande rengöring av ytor som normalt inte omfattas av den vanliga städningen.
 

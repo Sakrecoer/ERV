@@ -7,7 +7,7 @@ author: admin
 layout: oldpages
 image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=1038
-permalink: /foretag/:title/
+permalink: /foretag/:name/
 ---
 ## Golvet i våra rum välkomnar samt lyser upp och ger den tillträdande ett vackert intryck. 
 

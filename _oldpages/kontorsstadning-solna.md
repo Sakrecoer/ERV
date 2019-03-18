@@ -7,7 +7,7 @@ author: admin
 layout: oldpages
 image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=1975
-permalink: /:title/
+permalink: /:name/
 ---
 # Det är kanske inte så roligt att städa på jobbet
 

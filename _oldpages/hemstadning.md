@@ -7,7 +7,7 @@ author: admin
 layout: oldpages
 image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=22
-permalink: /privat/:title/
+permalink: /privat/:name/
 ---
 ## Tack vare RUT-avdraget så har hemstädning blivit mer tillgängligt för en större skara människor. 
 

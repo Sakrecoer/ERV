@@ -7,7 +7,7 @@ author: admin
 layout: oldpages
 image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=2000
-permalink: /:title/
+permalink: /:name/
 ---
 # Vill du ha städhjälp i ditt hem? 
 

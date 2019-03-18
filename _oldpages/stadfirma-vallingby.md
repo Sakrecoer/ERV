@@ -7,7 +7,7 @@ author: admin
 layout: oldpages
 image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=1452
-permalink: /:title/
+permalink: /:name/
 ---
 En Renare Vardag arbetar vi inom hemstädning, storstädning, fönsterputs, flyttstädningen, kontorsstädning, Hotell städning, trappstädning, skolstädning och även butik städning i vällingby. Vi har ett brett register och har många års erfarenhet inom detta.
 

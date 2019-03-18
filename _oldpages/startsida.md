@@ -6,7 +6,7 @@ author: admin
 layout: oldpages
 image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/startsida/
-permalink: /:title/
+permalink: /:name/
 ---
 # En Renare Vardag i Stockholm – allt inom städhjälp i Stockholm
 

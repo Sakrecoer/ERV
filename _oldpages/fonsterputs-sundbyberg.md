@@ -7,7 +7,7 @@ author: admin
 layout: oldpages
 image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=1970
-permalink: /:title/
+permalink: /:name/
 ---
 Ni behöver inte hålla på med material och produkter själva. Utan vi tar med våra egna rengöringsprodukter och städmaterial för fönsterputs Sundbyberg. Bara så ni vet så har alltid kund nöjd garanti med oss på En renare vardag. Visst låter det kanon.
 

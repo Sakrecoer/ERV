@@ -7,7 +7,7 @@ author: admin
 layout: oldpages
 image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=24
-permalink: /foretag/:title/
+permalink: /foretag/:name/
 ---
 ## Vi erbjuder alltid  lokalvårdstjänster till hög kvalité. 
 

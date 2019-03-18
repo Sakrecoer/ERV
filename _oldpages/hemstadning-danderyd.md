@@ -7,7 +7,7 @@ author: admin
 layout: oldpages
 image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=1492
-permalink: /:title/
+permalink: /:name/
 ---
 Vi garanterar att du får mer tid över till annat roligt som du kan göra med familjen eller vänner, låt oss sköta din hemstädning Danderyd.
 

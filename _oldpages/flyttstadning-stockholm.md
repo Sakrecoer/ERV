@@ -7,7 +7,7 @@ author: admin
 layout: oldpages
 image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=1385
-permalink: /:title/
+permalink: /:name/
 ---
 En renare vardag erbjuder flyttstädning med garanti i Stockholm. Vi sköter städningen så att du istället kan fokusera till hundra procent på att flytta in i ditt nya hem. För att garantera en smidig flytt är det viktigt att flyttstädningen sker enligt branschens alla regler. Genom att anlita en kompetent städfirma med lång erfarenhet och goda kunskaper om vilka krav som ställs får du hjälp med att lämna bostaden i det skick som förväntas av den nya ägaren eller hyresgästen.
 

@@ -7,7 +7,7 @@ author: admin
 layout: oldpages
 image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=1643
-permalink: /:title/
+permalink: /:name/
 ---
 
 Vi ser till att underhålla ditt kontor så att det är rent och snyggt. 

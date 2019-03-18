@@ -7,7 +7,7 @@ author: admin
 layout: oldpages
 image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=1993
-permalink: /:title/
+permalink: /:name/
 ---
 Vi erbjuder kunnig och utbildad personal med hög servicekänsla och pålitlighet. Vi vill gärna hjälpa dig så det är bara för dig att höra av dig till oss på En renare vardag. Vårt mål är att vara ett bolag som står för långsiktighet, bra villkor och en hög kvalité.
 

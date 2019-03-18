@@ -7,7 +7,7 @@ author: admin
 layout: oldpages
 image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=1962
-permalink: /:title/
+permalink: /:name/
 ---
 Vi på en renare vardag har väldigt duktiga och begåvade fönsterputsare. Så om du vill snygga till dina fönster och vill ha fönsterputsning Solna så är det bara att slänga dig på luren och kontakta oss på en renare vardag omgående. Ett erbjudande till dig som är kund hos oss är att ni får alltid 20% rabatt på fönsterputsning än så länge som ni använder våra tjänster. Vilket är ju ett kanon erbjudande. Så tveka inte att anlita oss för städning och fönsterputsning i Solna snarast!
 

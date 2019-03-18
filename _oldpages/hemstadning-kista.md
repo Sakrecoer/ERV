@@ -7,7 +7,7 @@ author: admin
 layout: oldpages
 image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=1499
-permalink: /:title/
+permalink: /:name/
 ---
 Vi garanterar att du får mer tid över till annat roligt som du kan göra med familjen eller vänner ,låt oss sköta din hemstädning Kista. Vi tar oss an alla typer av hemstädning Kistas uppdrag, därför tycker En renare vardag att du inte ska tveka och ta kontakt med oss när du behöver städhjälp.
 

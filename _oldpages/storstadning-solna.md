@@ -7,7 +7,7 @@ author: admin
 layout: oldpages
 image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=1990
-permalink: /:title/
+permalink: /:name/
 ---
 Vi på En renare vardag är grymma på storstädning Solna och vi gör det riktigt bra och dessutom så är det mycket prisvärt. Så det är bara att slå till så fixar vi storstädning Solna åt dig. Att göra ett bra storstädning på egen hand kan ta lång tid och vara svårt för många. Under en storstädning solna får ditt hem en grundläggande rengöring av ytor som normalt inte omfattas av den vanliga städningen.
 

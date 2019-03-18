@@ -7,7 +7,7 @@ author: admin
 layout: oldpages
 image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=28
-permalink: /foretag/:title/
+permalink: /foretag/trappstadning/
 ---
 Vår professionella utrustning klarar av de allra minsta vinklar och vrår där damm och smuts kan gömma sig. För att upprätta ett kontrakt går vi tillsammans med kunden igenom deras behov och önskemål, för att sedan finna en lösning för båda parter.
 

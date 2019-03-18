@@ -7,7 +7,7 @@ author: admin
 layout: oldpages
 image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=26
-permalink: /foretag/:title/
+permalink: /foretag/:name/
 ---
 ## Vill du att ditt kontor glänser när du tänder ljuset på morgonen?
 

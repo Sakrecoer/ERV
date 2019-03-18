@@ -7,7 +7,7 @@ author: admin
 layout: oldpages
 image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=1464
-permalink: /:title/
+permalink: /:name/
 ---
 För att du ska känna dig trygg med våra Städföretag i Sundbyberg så följer En renare vardag branschens högsta krav gäller säkerhet och ansvarsfrågor.
 

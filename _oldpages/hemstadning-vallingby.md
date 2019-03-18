@@ -7,7 +7,7 @@ author: admin
 layout: oldpages
 image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=1506
-permalink: /:title/
+permalink: /:name/
 ---
 Vi erbjuder rut-avdrag för våra privatkunder. Läs gärna mer om våra erbjudanden [här](https://enrenarevardag.se/erbjudanden/) och kolla hur mycket du kan spara i dag!
 

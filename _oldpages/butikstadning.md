@@ -7,7 +7,7 @@ author: admin
 layout: oldpages
 image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=245
-permalink: /foretag/:title/
+permalink: /foretag/:name/
 ---
 ## Visst är det viktigt med en ren och fräsch lokal, butik för att du och dina kunder ska trivas? 
 

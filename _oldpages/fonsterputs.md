@@ -7,7 +7,7 @@ author: admin
 layout: oldpages
 image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=78
-permalink: /privat/:title/
+permalink: /privat/:name/
 ---
 ## Håller du med om att fönsterputsning är svårt och tidskrävande?
 

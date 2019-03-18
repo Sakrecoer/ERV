@@ -7,7 +7,7 @@ author: admin
 layout: oldpages
 image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=1408
-permalink: /:title/
+permalink: /:name/
 ---
 Att flytta innebär massa saker att tänka på och när man flyttar ut ur lägenheten är det viktigt med flyttstädning Vällingby så man inte får onödiga kostnader.
 

@@ -7,7 +7,7 @@ author: admin
 layout: oldpages
 image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=1966
-permalink: /:title/
+permalink: /:name/
 ---
 I alla fall om man vill att det ska se bra ut och att det ska bli rent. 
 

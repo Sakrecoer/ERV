@@ -7,7 +7,7 @@ author: admin
 layout: oldpages
 image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=1468
-permalink: /:title/
+permalink: /:name/
 ---
 För att du ska känna dig trygg med vår städning i Bromma så följer En renare vardag branschens högsta krav gäller säkerhet och ansvarsfrågor.
 
