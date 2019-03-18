@@ -42,9 +42,14 @@ exclude:
 collections:
   staff_members:
     _hide_content: true
-  oldpages:
+  foretag:
     output: true
-#    permalink: /:name/
+    permalink: /foretag/:name/
+    layout: generic
+  privat:
+    output: true
+    permalink: /privat/:name/
+    layout: generic
 
 paginate: 10
 paginate_path: "/blog/:num/"
@@ -60,48 +65,11 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      _options:
-        image:
-          width: 2000
-          height: 1322
-          resize_style: cover
-        content:
-          width: 1500
-          height: 2000
   -
     scope:
       path: "contact-success.html"
     values:
       layout: "page"
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      image:
-        width: 2000
-        height: 1322
-        resize_style: cover
-      bottom_image:
-        width: 2000
-        height: 1322
-        resize_style: cover
 
-# -----------
-# CloudCannon
-
-social_icons:
-  - Facebook
-  - Google Plus
-  - Instagram
-  - LinkedIn
-  - Pinterest
-  - Tumblr
-  - Twitter
-  - YouTube
-  - Email
-  - RSS
-
-_comments:
-  description: Text shown when sharing on social media
-  blurb: Short bio or description of this person
+sass:
+    sass_dir: /assets/sass/

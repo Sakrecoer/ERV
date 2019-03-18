@@ -1,11 +1,8 @@
-- name: Boka Städning
-  link: '/#bookinganchor'
+- name: Priser
+  link: /pris/
 - name: Trygghet
   link: /din-trygghet/
-- name: Privatperson
-  link: /privat/
-- name: Företag
-  link: /foretag/
-- name: 08-660 55 55
-  link: tel:+4686605555
+- name: Jobba med oss
+  link: /jobba-hos-oss/
+
   
