@@ -6,6 +6,7 @@ permalink: /privat/:name/
 layout: generic
 menutitle: Hemstädning
 framsida: true
+hubspot: '?v_lj_tj_nst=Hemstädning'
 ---
 ## Tack vare RUT-avdraget så har hemstädning blivit mer tillgängligt för en större skara människor. 
 

@@ -6,6 +6,7 @@ permalink: /privat/:name/
 layout: generic
 menutitle: Fönsterputsning
 framsida: true
+hubspot: '?v_lj_tj_nst=Fönsterputs'
 ---
 ## Håller du med om att fönsterputsning är svårt och tidskrävande?
 

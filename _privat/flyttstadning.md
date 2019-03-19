@@ -6,6 +6,7 @@ permalink: /privat/flyttstadning/
 layout: generic
 menutitle: Flyttstädning
 framsida: true
+hubspot: '?v_lj_tj_nst=Flyttstädning'
 ---
 
 ## Flyttstädning i Stockholm och Solna 
