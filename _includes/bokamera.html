@@ -19,6 +19,7 @@
                       </script>
                     </div>
                     <div class="item">
+                      <h4>För företag</h4>
 {% for foretag in site.foretag %} {% if foretag.framsida == true %} 
                       <div class="col-4 col-12-small" style="margin-bottom:10px;">
                         <a href="{{ foretag.url }}">{{ foretag.menutitle }}</a> <i class="fa fa-arrow-right"></i>
@@ -26,6 +27,7 @@
 {% endif %}{% endfor %}
                     </div> 
                     <div class="item">
+                      <h4>För privatpersoner</h4>
 {% for privat in site.privat %}{% if privat.framsida == true %} 
                       <div class="col-4 col-12-small" style="margin-bottom:10px;">
                         <a href="{{ privat.url }}">{{ privat.menutitle }}</a> <i class="fa fa-arrow-right"></i>
