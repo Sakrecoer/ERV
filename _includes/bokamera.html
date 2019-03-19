@@ -1,12 +1,14 @@
                 <div style="background-color:#fff; padding:15px;border-radius: 3px;">
                 <h3>Boka en av våra andra tjänster</h3>
                 <div class="row">
-                  <div class="col-4 col-12-medium editable" style="margin-bottom:10px;"><a href="#">Storstädning</a> <i class="fa fa-arrow-right"></i></div>
-                  <div class="col-4 col-12-medium editable" style="margin-bottom:10px;"><a href="#">Fönsterputs</a> <i class="fa fa-arrow-right"></i></div>
-                  <div class="col-4 col-12-medium editable" style="margin-bottom:10px;"><a href="#">Flyttstädning</a> <i class="fa fa-arrow-right"></i></div>
-                  <div class="col-4 col-12-medium editable" style="margin-bottom:10px;"><a href="#">Kontorstädning</a> <i class="fa fa-arrow-right"></i></div>
-                  <div class="col-4 col-12-medium editable" style="margin-bottom:10px;"><a href="#">Trappstädning</a> <i class="fa fa-arrow-right"></i></div>
-                  <div class="col-4 col-12-medium editable" style="margin-bottom:10px;"><a href="#">Hotellstädning</a> <i class="fa fa-arrow-right"></i></div>
+{% for foretag in site.foretag %} {% if foretag.framsida == true %} 
+                  <div class="col-4 col-12-medium editable" style="margin-bottom:10px;"><a href="#">{{ foretag.menutitle }}</a> <i class="fa fa-arrow-right"></i></div>
+{% endif %}
+{% endfor %}
+{% for privat in site.privat %}{% if privat.framsida == true %} 
+                  <div class="col-4 col-12-medium editable" style="margin-bottom:10px;"><a href="#">{{ privat.menutitle }}</a> <i class="fa fa-arrow-right"></i></div>
+{% endif %}
+{% endfor %}
                 </div>
                 </div>
                 <br />

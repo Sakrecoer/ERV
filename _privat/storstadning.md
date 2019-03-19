@@ -1,9 +1,11 @@
 ---
 title: "Storstädning i Stockholm"
 description: "En Renare Vardag AB erbjuder kvalitativ storstädning till privatpersoner i Stockholm till bästa priset."
-image: /images/the-creative-exchange-682637-unsplash.jpg
+image: /images/the-creative-exchange-682637-unsplash.
+permalink: /privat/:name/
 layout: generic
 menutitle: Storstädning
+framsida: true
 ---
 Att göra ett bra storstädning på egen hand kan ta lång tid och vara svårt för många. Under en storstädning får ditt hem en grundläggande rengöring av ytor som normalt inte omfattas av den vanliga städningen.
 

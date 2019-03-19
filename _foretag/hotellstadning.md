@@ -5,6 +5,7 @@ image: /images/nikola-johnny-mirkovic-1331606-unsplash.jpg
 permalink: /foretag/:name/
 layout: generic
 menutitle: Hotelstädning
+framsida: true
 ---
 ## Vi erbjuder alltid  lokalvårdstjänster till hög kvalité. 
 

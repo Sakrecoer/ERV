@@ -1,10 +1,11 @@
 ---
 title: Byggstädning i Stockholm
-descrtiption: "Byggstädning är ett krävande uppdrag som vi på En Renare Vardag AB utför med professionalism och hög kvalité"
+description: "Byggstädning är ett krävande uppdrag som vi på En Renare Vardag AB utför med professionalism och hög kvalité"
 image: /images/ivan-bandura-736227-unsplash.jpg
 permalink: /foretag/:name/
 layout: generic
 menutitle: Byggstädning 
+framsida: true
 ---
 ## Byggstädning är sådant som kan krävas av er som byggare. 
 

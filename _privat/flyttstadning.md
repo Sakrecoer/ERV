@@ -5,6 +5,7 @@ image: /images/erda-estremera-581452-unsplash.jpg
 permalink: /privat/flyttstadning/
 layout: generic
 menutitle: Flyttstädning
+framsida: true
 ---
 
 ## Flyttstädning i Stockholm och Solna 

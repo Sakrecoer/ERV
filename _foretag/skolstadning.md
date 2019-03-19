@@ -5,6 +5,7 @@ image: /images/moren-hsu-359121-unsplash.jpg
 permalink: /foretag/:name/
 layout: generic
 menutitle: Skolstädning
+framsida: true
 ---
 ## En skola skall vara fri från smuts och damm. 
 

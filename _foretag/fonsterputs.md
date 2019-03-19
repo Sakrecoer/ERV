@@ -5,6 +5,7 @@ image: /images/daniel-von-appen-268726-unsplash.jpg
 permalink: /foretag/fonsterputs/
 layout: generic
 menutitle: Fönsterputs
+framsida: true
 ---
 ## Håller du med oss att fönsterputsning är svårt och tidskrävande?
 

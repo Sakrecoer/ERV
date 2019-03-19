@@ -5,6 +5,7 @@ image: /images/aaron-huber-401200-unsplash.jpg
 permalink: /privat/:name/
 layout: generic
 menutitle: Hemstädning
+framsida: true
 ---
 ## Tack vare RUT-avdraget så har hemstädning blivit mer tillgängligt för en större skara människor. 
 

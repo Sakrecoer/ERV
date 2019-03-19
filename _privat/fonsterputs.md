@@ -5,6 +5,7 @@ image: /images/london-wood-co-1215836-unsplash.jpg
 permalink: /privat/:name/
 layout: generic
 menutitle: Fönsterputsning
+framsida: true
 ---
 ## Håller du med om att fönsterputsning är svårt och tidskrävande?
 
