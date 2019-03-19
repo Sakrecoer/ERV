@@ -4,6 +4,7 @@ description: "Vi på En Renare Vardag AB erbjuder butikstädning av högsta stan
 image: /images/clark-street-mercantile-33931-unsplash.jpg
 permalink: /foretag/:name/
 layout: generic
+menutitle: Butikstädning
 ---
 ## Visst är det viktigt med en ren och fräsch lokal, butik för att du och dina kunder ska trivas? 
 

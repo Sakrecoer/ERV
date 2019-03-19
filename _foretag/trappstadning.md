@@ -4,6 +4,7 @@ description: "Vi på En Renare Vardag AB sköter trapphusstädning åt företag,
 image: /images/tobias-van-schneider-230814-unsplash.jpg
 permalink: /foretag/:name/
 layout: generic
+menutitle: Trappstädning
 ---
 Vår professionella utrustning klarar av de allra minsta vinklar och vrår där damm och smuts kan gömma sig. För att upprätta ett kontrakt går vi tillsammans med kunden igenom deras behov och önskemål, för att sedan finna en lösning för båda parter.
 

@@ -4,6 +4,7 @@ description: "Vi på En Renare Vardag erbjuder golvvård för företag i Storsto
 image: /images/jason-hafso-1292128-unsplash.jpg
 permalink: /foretag/:name/
 layout: generic
+menutitle: Golvvård
 ---
 ## Golvet i våra rum välkomnar samt lyser upp och ger den tillträdande ett vackert intryck. 
 

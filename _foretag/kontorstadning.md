@@ -4,6 +4,7 @@ description: "En Renare Vardag erbjuder kontorsstädning du kan lita på. Vår s
 image: /images/nastuh-abootalebi-284883-unsplash-1.jpg
 permalink: /foretag/:name/
 layout: generic
+menutitle: Kontorstädning
 ---
 ## Vill du att ditt kontor glänser när du tänder ljuset på morgonen?
 

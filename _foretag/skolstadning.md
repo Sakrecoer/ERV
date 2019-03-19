@@ -4,6 +4,7 @@ description: "En renare vardag hjälper er att vistas i en ren och fräsch skolm
 image: /images/moren-hsu-359121-unsplash.jpg
 permalink: /foretag/:name/
 layout: generic
+menutitle: Skolstädning
 ---
 ## En skola skall vara fri från smuts och damm. 
 

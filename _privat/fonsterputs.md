@@ -4,6 +4,7 @@ description: "Vi på En Renare Vardag erbjuder duktiga fönsterputsare i Stockho
 image: /images/london-wood-co-1215836-unsplash.jpg
 permalink: /privat/:name/
 layout: generic
+menutitle: Fönsterputsning
 ---
 ## Håller du med om att fönsterputsning är svårt och tidskrävande?
 

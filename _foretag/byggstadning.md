@@ -4,6 +4,7 @@ descrtiption: "Byggstädning är ett krävande uppdrag som vi på En Renare Vard
 image: /images/ivan-bandura-736227-unsplash.jpg
 permalink: /foretag/:name/
 layout: generic
+menutitle: Byggstädning 
 ---
 ## Byggstädning är sådant som kan krävas av er som byggare. 
 

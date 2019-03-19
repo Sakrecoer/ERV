@@ -4,6 +4,7 @@ description: "En Renare Vardag är specialister på hotellstädning i Stockholm 
 image: /images/nikola-johnny-mirkovic-1331606-unsplash.jpg
 permalink: /foretag/:name/
 layout: generic
+menutitle: Hotelstädning
 ---
 ## Vi erbjuder alltid  lokalvårdstjänster till hög kvalité. 
 
