@@ -1,6 +1,15 @@
-                <div style="background-color:#fff; padding:15px;border-radius: 3px;">
-                  <div class="row">
-                    <div class="col-6 col-12-small">
+<style>
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+.item {
+  flex: 1 0 300px;
+ 
+}
+</style>
+                  <div style="background-color:#fff; padding:15px;border-radius: 3px;" class="flex">
+                    <div class="item">
                       <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
                       <script>
                         hbspt.forms.create({
@@ -8,16 +17,19 @@
                         formId: "6ff8fa9d-0652-4fa6-b76e-c781e5bb352b"
                       });
                       </script>
-                      </div>
-                    <div class="col-6 col-12-small">
+                    </div>
+                    <div class="item">
 {% for foretag in site.foretag %} {% if foretag.framsida == true %} 
-                  <div class="col-4 col-12-small" style="margin-bottom:10px;"><a href="{{ foretag.url }}">{{ foretag.menutitle }}</a> <i class="fa fa-arrow-right"></i></div>
-{% endif %}
-{% endfor %}
+                      <div class="col-4 col-12-small" style="margin-bottom:10px;">
+                        <a href="{{ foretag.url }}">{{ foretag.menutitle }}</a> <i class="fa fa-arrow-right"></i>
+                      </div>
+{% endif %}{% endfor %}
+                    </div> 
+                    <div class="item">
 {% for privat in site.privat %}{% if privat.framsida == true %} 
-                  <div class="col-4 col-12-small" style="margin-bottom:10px;"><a href="{{ privat.url }}">{{ privat.menutitle }}</a> <i class="fa fa-arrow-right"></i></div>
-{% endif %}
-{% endfor %}
+                      <div class="col-4 col-12-small" style="margin-bottom:10px;">
+                        <a href="{{ privat.url }}">{{ privat.menutitle }}</a> <i class="fa fa-arrow-right"></i>
+                      </div>
+{% endif %}{% endfor %}
                     </div>
                   </div>
-                </div>
