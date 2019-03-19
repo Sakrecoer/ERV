@@ -5,7 +5,7 @@ image: /images/ivan-bandura-736227-unsplash.jpg
 permalink: /foretag/:name/
 layout: generic
 menutitle: Byggstädning 
-framsida: true
+framsida: false
 ---
 ## Byggstädning är sådant som kan krävas av er som byggare. 
 

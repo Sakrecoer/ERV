@@ -4,33 +4,36 @@ description: "Alltid prisgaranti! Städhjälp och lokalvård i Stockholm med fok
 ---
 
 <!-- Banner -->
-								<section id="banner">
+								<section id="banner" style="background-image: url(/images/aaron-huber-401200-unsplash.jpg);background-repeat: no-repeat;background-size: cover;">
 									<div class="content">
-										<header>
+										<header style="background-color:rgba(234, 255, 245, 0.85);margin:0 15px 0 15px; padding:10px;border-radius: 5px;">
 											<h1>{{ page.title }}<br /></h1>
 											
 											<p>{{ page.description }}</p>
 										</header>
-										<p class="editable">
+										<!-- <p class="editable">
 											Aenean test for cuk sake ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam.
-										</p>
-										<ul class="actions">
+										</p> -->
+										<!-- <ul class="actions">
 											<li><a href="/boka/" class="button primary large editable">Boka Nu</a></li>
-										</ul>
+                    </ul> -->
+
 									</div>
 									<span class="image object">
-										<img src="/images/pic10.jpg" alt="" class="editable" href="/boka/" />
+                    <img src="/images/ikon/trustFiveYears.png" alt="" class="editable" href="/boka/" />
+
                   </span>
-                  
+
                 </section>
 {% include bokamera.html %}
+
 							<!-- Section Foretag -->
 								<section>
 									<header class="major">
 										<h2>Våra tjänster för företag</h2>
 									</header>
 									<div class="features">
-{% for foretag in site.foretag %}
+{% for foretag in site.foretag %}{% if foretag.framsida == true %}
 										<article>
 											<span class="icon fa-diamond"></span>
 											<div class="content">
@@ -38,7 +41,7 @@ description: "Alltid prisgaranti! Städhjälp och lokalvård i Stockholm med fok
 												<p>{{ foretag.description }}</p>
 											</div>
                     </article>
-{% endfor %}
+{% endif %}{% endfor %}
 									</div>
                 </section>
                 
@@ -48,7 +51,7 @@ description: "Alltid prisgaranti! Städhjälp och lokalvård i Stockholm med fok
                       <h2>Våra tjänster för privatpersoner</h2>
                     </header>
                     <div class="features">
-{% for privat in site.privat %}
+{% for privat in site.privat %}{% if privat.framsida == true %}
                       <article>
                         <span class="icon fa-diamond"></span>
                         <div class="content">
@@ -56,7 +59,7 @@ description: "Alltid prisgaranti! Städhjälp och lokalvård i Stockholm med fok
                           <p>{{ privat.description }}</p>
                         </div>
                       </article>
-{% endfor %}
+{% endif %}{% endfor %}
                     </div>
                   </section>
 
