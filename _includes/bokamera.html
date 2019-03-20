@@ -5,7 +5,7 @@
 }
 .item {
   flex: 1 0 40%;
-  min-width: 300px;
+  min-width: 250px;
   display: flex;
   flex-wrap: wrap;
   align-self: flex-start;
@@ -35,10 +35,13 @@
                           <p class="editable">
                           	Vi matchar v&aring;ra konkurenters offert. L&aring;t oss hj&auml;lpa dig med st&auml;dningen s&aring; kan du spendera din tid p&aring; annat.
                           </p>
-                          <ul class="actions">
-                              <li><a href="#booknow" id="button" class="button primary large editable knap">Boka Nu</a></li>
-                            </ul>
+                          <h2><a href="tel:+4686605555">08 - 660 55 55</a>
+                            <br /><a href="mailto:kundtjanst@enrenarevardag.se">E-Post</a></h2>
 
+                          <ul class="actions">
+                              <li><a href="#booknow" id="button" class="button primary large editable knap" style="width:250px;">Boka Nu</a></li>
+                            </ul>
+   
                         
                       </div>
                       <div id="boka" class="item-child">
@@ -57,18 +60,18 @@
                       <p class="editable">Vi har ett brett urval av tjänster för företag och privatpersoner</p>
                     </div>
                     <div class="item-child">
-                      <h4>För företag</h4>
+                      <h3>För företag</h3>
 {% for foretag in site.foretag %} {% if foretag.framsida == true %} 
                       <div class="col-4 col-12-small" style="margin-bottom:10px;">
-                        <a href="{{ foretag.url }}{{ foretag.hubspot }}">{{ foretag.menutitle }}</a> <i class="fa fa-arrow-right"></i>
+                        <h4><a href="{{ foretag.url }}{{ foretag.hubspot }}">{{ foretag.menutitle }}</a> <i class="fa fa-arrow-right"></i></h4>
                       </div>
 {% endif %}{% endfor %}
                     </div> 
                     <div class="item-child">
-                      <h4>För privatpersoner</h4>
+                      <h3>För privatpersoner</h3>
 {% for privat in site.privat %}{% if privat.framsida == true %} 
                       <div class="col-4 col-12-small" style="margin-bottom:10px;">
-                        <a href="{{ privat.url }}{{ privat.hubspot }}">{{ privat.menutitle }}</a> <i class="fa fa-arrow-right"></i>
+                        <h4><a href="{{ privat.url }}{{ privat.hubspot }}">{{ privat.menutitle }}</a> <i class="fa fa-arrow-right"></i></h4>
                       </div>
 {% endif %}{% endfor %}
                     </div>
