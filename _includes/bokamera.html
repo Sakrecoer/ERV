@@ -63,7 +63,7 @@
                       <h3>För företag</h3>
 {% for foretag in site.foretag %} {% if foretag.framsida == true %} 
                       <div class="col-4 col-12-small" style="margin-bottom:10px;">
-                        <h4><a href="{{ foretag.url }}{{ foretag.hubspot }}">{{ foretag.menutitle }}</a> <i class="fa fa-arrow-right"></i></h4>
+                        <h4><a href="{{ foretag.url }}{{ foretag.hubspot }}">{{ foretag.menutitle }}</a> <i class="fa fa-arrow-right" style="color:#94ce3c;"></i></h4>
                       </div>
 {% endif %}{% endfor %}
                     </div> 
@@ -71,7 +71,7 @@
                       <h3>För privatpersoner</h3>
 {% for privat in site.privat %}{% if privat.framsida == true %} 
                       <div class="col-4 col-12-small" style="margin-bottom:10px;">
-                        <h4><a href="{{ privat.url }}{{ privat.hubspot }}">{{ privat.menutitle }}</a> <i class="fa fa-arrow-right"></i></h4>
+                        <h4><a href="{{ privat.url }}{{ privat.hubspot }}">{{ privat.menutitle }}</a> <i class="fa fa-arrow-right" style="color:#94ce3c;"></i></h4>
                       </div>
 {% endif %}{% endfor %}
                     </div>
