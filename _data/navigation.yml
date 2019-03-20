@@ -1,8 +1,8 @@
-- name: Priser
-  link: /pris/
+# - name: Priser
+#   link: /pris/
+- name: Nyheter
+  link: /nyheter/
 - name: Trygghet
   link: /din-trygghet/
 - name: Jobba med oss
   link: /jobba-hos-oss/
-
-  
