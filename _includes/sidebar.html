@@ -20,7 +20,7 @@
 											<span class="opener">F&ouml;retag</span>
 											<ul>
 {% for foretag in site.foretag %}
-                        <li><a href="{{ foretag.url }}">{{ foretag.menutitle }}</a></li>
+                        <li><a href="{{ foretag.url }}{{ foretag.hubspot }}">{{ foretag.menutitle }}</a></li>
 {% endfor %}
 											</ul>
 										</li>
@@ -28,7 +28,7 @@
 											<span class="opener">Privatperson</span>
 											<ul>
 {% for privat in site.privat %}
-                        <li><a href="{{ privat.url }}">{{ privat.menutitle }}</a></li>
+                        <li><a href="{{ privat.url }}{{ privat.hubspot }}">{{ privat.menutitle }}</a></li>
 {% endfor %}
 											</ul>
 										</li>
