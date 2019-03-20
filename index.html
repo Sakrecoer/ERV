@@ -15,7 +15,7 @@ image: '/images/intro-5.jpg'
 									<div class="features">
 {% for foretag in site.foretag %}{% if foretag.framsida == true %}
 										<article>
-											<span class="icon"><img src="{{ foretag.icon }}" width="50px" /></span>
+											<span class="icon"><img src="{{ foretag.icon }}" width="30px" /></span>
 											<div class="content">
 												<h3><a href="{{ foretag.url }}{{ foretag.hubspot }}">{{ foretag.menutitle }}</a></h3>
 												<p>{{ foretag.description }}</p>
@@ -33,7 +33,7 @@ image: '/images/intro-5.jpg'
                     <div class="features">
 {% for privat in site.privat %}{% if privat.framsida == true %}
                       <article>
-                        <span class="icon"><img src="{{ privat.icon }}" width="50px" /></span>
+                        <span class="icon"><img src="{{ privat.icon }}" width="30px" /></span>
                         <div class="content">
                           <h3><a href="{{ privat.url }}{{ privat.hubspot }}">{{ privat.menutitle }}</a></h3>
                           <p>{{ privat.description }}</p>
