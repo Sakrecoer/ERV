@@ -7,6 +7,7 @@ layout: generic
 menutitle: Storstädning
 framsida: true
 hubspot: '?v_lj_tj_nst=Storstädning'
+icon: /images/ikon/stor-ikon.png
 ---
 Att göra ett bra storstädning på egen hand kan ta lång tid och vara svårt för många. Under en storstädning får ditt hem en grundläggande rengöring av ytor som normalt inte omfattas av den vanliga städningen.
 

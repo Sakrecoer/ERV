@@ -6,6 +6,8 @@ permalink: /foretag/:name/
 layout: generic
 menutitle: Butikstädning
 framsida: true
+hubspot: '?v_lj_tj_nst=Butikstädning'
+icon: images/ikon/butik-ikon.png
 ---
 ## Visst är det viktigt med en ren och fräsch lokal, butik för att du och dina kunder ska trivas? 
 

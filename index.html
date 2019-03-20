@@ -15,9 +15,9 @@ image: '/images/intro-5.jpg'
 									<div class="features">
 {% for foretag in site.foretag %}{% if foretag.framsida == true %}
 										<article>
-											<span class="icon fa-diamond"></span>
+											<span class="icon"><img src="{{ foretag.icon }}" width="50px" /></span>
 											<div class="content">
-												<h3>{{ foretag.menutitle }}</h3>
+												<h3><a href="{{ foretag.url }}{{ foretag.hubspot }}">{{ foretag.menutitle }}</a></h3>
 												<p>{{ foretag.description }}</p>
 											</div>
                     </article>
@@ -25,7 +25,7 @@ image: '/images/intro-5.jpg'
 									</div>
                 </section>
                 
-                							<!-- Section PRivat -->
+                							<!-- Section Privat -->
 								<section>
                     <header class="major">
                       <h2>Våra tjänster för privatpersoner</h2>
@@ -33,9 +33,9 @@ image: '/images/intro-5.jpg'
                     <div class="features">
 {% for privat in site.privat %}{% if privat.framsida == true %}
                       <article>
-                        <span class="icon fa-diamond"></span>
+                        <span class="icon"><img src="{{ privat.icon }}" width="50px" /></span>
                         <div class="content">
-                          <h3>{{ privat.title }}</h3>
+                          <h3><a href="{{ privat.url }}{{ privat.hubspot }}">{{ privat.menutitle }}</a></h3>
                           <p>{{ privat.description }}</p>
                         </div>
                       </article>

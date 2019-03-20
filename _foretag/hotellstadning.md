@@ -6,6 +6,8 @@ permalink: '/foretag/:name/'
 layout: generic
 menutitle: Hotelstädning
 framsida: false
+hubspot: 
+icon: /images/ikon/hotell-ikon.png
 ---
 
 ## Vi erbjuder alltid  lokalvårdstjänster till hög kvalité. 

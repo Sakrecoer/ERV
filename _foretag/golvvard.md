@@ -6,6 +6,8 @@ permalink: /foretag/:name/
 layout: generic
 menutitle: Golvvård
 framsida: false
+hubspot: 
+icon:
 ---
 ## Golvet i våra rum välkomnar samt lyser upp och ger den tillträdande ett vackert intryck. 
 

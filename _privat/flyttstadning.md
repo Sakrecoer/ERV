@@ -7,6 +7,7 @@ layout: generic
 menutitle: Flyttstädning
 framsida: true
 hubspot: '?v_lj_tj_nst=Flyttstädning'
+icon: /images/ikon/flytt-ikon.png
 ---
 
 ## Flyttstädning i Stockholm och Solna 

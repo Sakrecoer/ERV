@@ -6,6 +6,8 @@ permalink: /foretag/:name/
 layout: generic
 menutitle: Kontorstädning
 framsida: true
+hubspot: '?v_lj_tj_nst=Kontorstädning'
+icon: /images/ikon/kontor-ikon.png
 ---
 ## Vill du att ditt kontor glänser när du tänder ljuset på morgonen?
 

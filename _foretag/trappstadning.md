@@ -6,6 +6,8 @@ permalink: /foretag/:name/
 layout: generic
 menutitle: Trappstädning
 framsida: true
+hubspot: '?v_lj_tj_nst=Trappstädning'
+icon: /images/ikon/trapp-ikon.png
 ---
 Vår professionella utrustning klarar av de allra minsta vinklar och vrår där damm och smuts kan gömma sig. För att upprätta ett kontrakt går vi tillsammans med kunden igenom deras behov och önskemål, för att sedan finna en lösning för båda parter.
 

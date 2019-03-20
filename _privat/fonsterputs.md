@@ -7,6 +7,7 @@ layout: generic
 menutitle: Fönsterputsning
 framsida: true
 hubspot: '?v_lj_tj_nst=Fönsterputs'
+icon: /images/ikon/fonster-ikon.png
 ---
 ## Håller du med om att fönsterputsning är svårt och tidskrävande?
 
