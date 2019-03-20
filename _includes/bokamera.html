@@ -9,10 +9,11 @@
   display: flex;
   flex-wrap: wrap;
   align-self: flex-start;
-  padding-right: 0px;
+  padding-right: 20px;
 }
 .item-child {
   flex: 1 auto;  
+  min-width: 200px;
 }
 .item-staticchild {
  flex: 0 0 100%;
@@ -30,8 +31,8 @@
                   <div style="background-color:#fff; padding:15px;border-radius: 3px;" class="flex">
                     <div class="item">
                       <div class="item-staticchild">
-                          <h3 id="booknow">Hos oss får du alltid pris garanti</h3>
-                          <p>Vi matchar våra konkurenters offert. Låt oss hjälpa dig med städningen så kan du spendera din tid på annat.</p>
+                          <h3 id="booknow" class="editable">Hos oss får du alltid pris garanti</h3>
+                          <p class="editable">Vi matchar våra konkurenters offert. Låt oss hjälpa dig med städningen så kan du spendera din tid på annat.</p>
                           <ul class="actions">
                               <li><a href="#booknow" id="button" class="button primary large editable">Boka Nu</a></li>
                             </ul>
@@ -39,12 +40,13 @@
                         
                       </div>
                       <div id="boka" class="item-child">
-                        <script>
-                          hbspt.forms.create({
-                          portalId: "5554697",
-                          formId: "00277579-da94-4d70-a843-fba67fcc89c8"
-                        });
-                        </script>
+{% if collection == privat %}
+{% include privat-form.html %}
+{% elsif collection == foretag %}
+{% include foretag-from.html %}
+{% else %}
+{% include privat-form.html %}
+{% endif %}
                       </div>
                     </div>
                     <div class="item">
