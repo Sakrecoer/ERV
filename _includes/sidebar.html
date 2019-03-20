@@ -4,10 +4,13 @@
 
 							<!-- Search -->
 								<section id="search" class="alt">
-                  <a href="/" style="border: none"><img src="/images/enrenarevardaglogo.svg" /></a>
+                  <a href="/" style="border: none"><img src="/images/enrenarevardaglogo.svg" /></a><br />
+                  <a href="https://www.reco.se/en-renare-vardag" style="border: none;">
+                    <img src="/images/trust2018-v2.svg" width="60px" height="60px" /><img src="/images/trust2017-v2.svg" width="60px" height="60px" /><img src="/images/trust2016-v2.svg" width="60px" height="60px" /><img src="/images/trust2015-v2.svg" width="60px" height="60px" /><img src="/images/trust2014-v2.svg" width="60px" height="60px" /></a>
 								</section>
 
-							<!-- Menu -->
+              <!-- Menu -->
+                    
 								<nav id="menu">
 									<header class="major">
 										<h2>Meny</h2>
@@ -35,8 +38,8 @@
 									</ul>
                 </nav>
                 <section>
-                  <a href="https://www.reco.se/en-renare-vardag" style="border: none;">
-                    <img src="/images/trust2018-v2.svg" width="60px" height="60px" /><img src="/images/trust2017-v2.svg" width="60px" height="60px" /><img src="/images/trust2016-v2.svg" width="60px" height="60px" /><img src="/images/trust2015-v2.svg" width="60px" height="60px" /><img src="/images/trust2014-v2.svg" width="60px" height="60px" /></a>
+                    <iframe src="https://widget.reco.se/v2/widget/3673336?mode=TALL" width="100%" height="220px" scrolling="no" style="border:0;display:block;" data-reactroot=""></iframe>
+
                 </section>
                 
             	<!-- Section -->
@@ -44,36 +47,25 @@
                   <header class="major">
                     <h2>Kontakta oss</h2>
                   </header>
+                    <script>
+                      hbspt.forms.create({
+                      portalId: "5554697",
+                      formId: "6897e211-234e-4743-b1fc-d1932955be15"
+                    });
+                    </script>
                   <ul class="contact">
                     <li class="fa-envelope-o"><a href="mailto:kundtjanst@enrenarevardag.se">kundtjanst@enrenarevardag.se</a></li>
                     <li class="fa-phone"><a href="tel:+4686605555">08-660 55 55</a></li>
                     <li class="fa-home">Storgatan 104 B, 171 55 Solna <br />
                     Org nr: 556847-2038</li>
                   </ul>
-                  <p>Sed varius enim lorem ullamcorper dolore aliquam aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin sed aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-                  
+                  <p class="editable">&nbsp;</p>
+                  <ul class="actions">
+                    <li><a href="#booknow" class="button primary large editable knap">Boka Nu</a></li>
+                  </ul>
                 </section>
 
-{% if page.url != '/' %}
-							<!-- Section -->
-								<section>
-									<header class="major">
-										<h2>Nyheter</h2>
-									</header>
-									<div class="mini-posts">
-{% for post in site.posts %}
-										<article>
-                      <a href="{{ post.url }}" class="image"><img src="{{ post.image }}" alt="{{ post.title }}" widht="288px" height="174px" /></a>
-                      <h4>{{ post.title }}</h4>
-											<p>{{ post.description }}</p>
-										</article>
-{% endfor %}
-									</div>
-									<ul class="actions">
-										<li><a href="/nyheter/" class="button">Fler Artiklar</a></li>
-									</ul>
-								</section>
-{% endif %}
+
 							<!-- Footer -->
 								<footer id="footer">
 									<p class="copyright">&copy; En Renare Vardag AB. All rights reserved. <a href="https://html5up.net">Click here for Credits for Photos and Software</a>.</p>
