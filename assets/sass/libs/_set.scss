@@ -18,3 +18,26 @@
   color:#fff !important;
   border: none;
 }
+
+/* bokning */
+
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+.item {
+  flex: 1 0 40%;
+  min-width: 250px;
+  display: flex;
+  flex-wrap: wrap;
+  align-self: flex-start;
+  padding-right: 20px;
+}
+.item-child {
+  flex: 1 auto;  
+  min-width: 200px;
+}
+.item-staticchild {
+ flex: 0 0 100%;
+}
+#boka { display:none; }

@@ -103,11 +103,11 @@
 			&:before {
         content: '\f0c9';
         color: _palette(fg-bold);
-				font-size: 4rem;
+				font-size: 3rem;
 				height: inherit;
 				left: 0;
 				line-height: inherit;
-				position: fixed;
+				position: absolute;
 				text-indent: 0;
 				top: 0;
 				width: inherit;
