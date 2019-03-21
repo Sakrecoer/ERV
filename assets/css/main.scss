@@ -7,7 +7,6 @@
 @import 'libs/breakpoints';
 @import 'libs/html-grid';
 @import 'font-awesome.min.css';
-@import 'libs/set';
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,400i,600,600i|Ubuntu:400,700');
 
 /*
@@ -62,4 +61,6 @@
 	@import 'layout/header';
 	@import 'layout/banner';
 	@import 'layout/footer';
-	@import 'layout/menu';
+  @import 'layout/menu';
+  @import 'libs/set';
+  

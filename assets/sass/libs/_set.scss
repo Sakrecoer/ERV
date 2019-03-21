@@ -7,7 +7,12 @@
   z-index: 100; 
   width:100%;
 }
-#numberalways a,
+#numberalways:hover {
+
+}
+#numberalways a {
+  color:#000 !important;
+}
 #numberalways a:hover {
-  color:#000;
+  color:#fff !important;
 }
