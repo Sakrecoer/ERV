@@ -101,12 +101,13 @@
 			z-index: _misc(z-index-base);
 
 			&:before {
-				content: '\f0c9';
-				font-size: 2rem;
+        content: '\f0c9';
+        color: _palette(fg-bold);
+				font-size: 4rem;
 				height: inherit;
 				left: 0;
 				line-height: inherit;
-				position: absolute;
+				position: fixed;
 				text-indent: 0;
 				top: 0;
 				width: inherit;
