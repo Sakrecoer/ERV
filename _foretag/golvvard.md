@@ -25,4 +25,3 @@ Som ägare av ett lackerat trägolv kan det hända att man känner viss oro öve
 
 En fastighetsägare har många sorters golv att underhålla, det är inte alltid optimalt att göra jobbet själv. Vi vet vilken behandling olika typer av golv kräver för att vara hygieniska och rena. Ett plus när man underhåller sitt golv under rätt förutsättningar är att livslängen ökar. På kontor rör sig personal och kunder fram och tillbaka, att alltid erbjuda ett snyggt golv samt ett fint intryck är betydande för kunders uppfattning och personalens trivsel. Golvvård kan behövas överallt inte bara på kontor eller i villor. Butiker, hissar, trapphus, hotell, restauranger osv.. Oavsett varför ni vill att vi ska vårda era golv hjälper vi er att framföra bästa resultat.
 
-## Begär Offert

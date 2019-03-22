@@ -1,7 +1,7 @@
 ---
 title: Kontorstädning i Stockholm
 description: "En Renare Vardag erbjuder kontorsstädning du kan lita på. Vår specialiserade kontorsstädnings-service kan få ditt företag att skina genom att eliminera all smuts som har lämnats kvar när ljusen släckts."
-image: /images/nastuh-abootalebi-284883-unsplash-1.jpg
+image: /images/kontor-1.jpg
 permalink: /foretag/:name/
 layout: generic
 menutitle: Kontorstädning
@@ -69,4 +69,4 @@ Upprättas i samband med jobb start och samråd med kund för att åstadkomma de
 * En dammsugare  hyrs till kund. (Frivilligt)
 * Alla medel som används i kontoret är Svanesmärkta och miljömärkta.
 
-## Begär Offert
+

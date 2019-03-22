@@ -1,11 +1,8 @@
 ---
-id: 36
 title: Jobba hos oss
-date: 2016-05-04T08:51:34+00:00
-author: admin
+description: Jobba med oss på Stockholms bästa Städföretag. Ansök via mail idag!
 layout: generic
 image: /images/jobb-1.jpg
-guid: https://enrenarevardag.se/?page_id=36
 bokning: false
 ---
 **Vad trevligt att du söker jobb hos oss!**  
@@ -20,3 +17,25 @@ I mailet ser vi gärna att du inkluderar:
 - Om du har körkort
 - Om du har tillgång till bil
 - Om du 
+
+<ul class="actions">
+  <li><a href="mailto:info@enrenarevardag.se" id="button" class="button primary large editable knap">Maila oss idag!</a></li>
+</ul>
+<br />
+<br /><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />

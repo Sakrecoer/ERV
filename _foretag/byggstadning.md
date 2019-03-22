@@ -26,4 +26,4 @@ Vi hjälper dig med byggstädningen oavsett hur omfattande eller krävande den v
 
 Man kanske kan tro att det endast finns en slags byggstädning, men arbetet varierar beroende på hur omfattande arbetssituationen varit. Vissa byggen består av totalrenoveringar, andra nybyggnationer , och en del lindriga renoveringar. Med våra nöjd kund garanti kan vi garantera att städningen blir väl utförd när byggarna lämnat arbetsplatsen. Vi vill skapa en god kontakt med våra kunder och erbjuda personal som visar på gos kunskap inom området. Byggstädningar är nödvändiga efter varje byggnation, och det är inte alltid man har tid att utföra arbetet själv. Vi hjälper er återställa villan i de skick det skick den lämnades, byggnationen har tillfört fräscha utrymmen och rum vi har tillfört en renare vardag. Oavsett vilka ni är, byggare eller ägare av fastigheten så tar vi hänsyn till era önskemål och utför ett arbete av kvalité så att ni alltid känner er nöjda med resultatet.
 
-Begär Offert
+

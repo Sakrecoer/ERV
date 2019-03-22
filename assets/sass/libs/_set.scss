@@ -2,14 +2,14 @@
   color: #000;
   position:fixed; 
   bottom:0; left:0; 
-  background-color: #94ce3c; 
+  background-color: _palette(fg-bold); 
   text-align: center; 
   z-index: 100; 
   width:100%;
 }
 
 #numberalways a {
-  color:#000 !important;
+  color:#fff !important;
   border: none;
 }
 #numberalways a:hover {

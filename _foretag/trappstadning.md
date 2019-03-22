@@ -24,4 +24,3 @@ Vi bestämmer alltid individuellt med kunden vad som ingår i trappstädning, me
 * Avfläckning runt strömbrytare/kontakter
 * Tvättstuga enligt ök
 
-## Begär Offert

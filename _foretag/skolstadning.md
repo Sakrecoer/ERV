@@ -51,4 +51,3 @@ Det ställs stora krav på en bra hygien i skolans lokaler och bara en ordentlig
 * Dammsugning av golv och mattor
 * Avtorkning köksbänk och bord
 
-## Begär Offert

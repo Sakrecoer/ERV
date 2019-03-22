@@ -49,5 +49,3 @@ Vi arbetar snabbt och effektivt och garanterar alltid den bästa servicen och kv
 * Tömning av papperskorg
 * Påfyllning av engångsmaterial
 * Dammsugning och våttorkning av golv
-
-# Begär Offert Idag!
