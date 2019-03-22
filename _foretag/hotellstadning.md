@@ -1,6 +1,6 @@
 ---
 title: Hotelstädning i Stockholm
-description: "En Renare Vardag är specialister på hotellstädning i Stockholm och\_jobbar professionellt \_på förhållandet mellan pris och prestation."
+description: "En Renare Vardag är specialister på hotellstädning i Stockholm och jobbar professionellt på förhållandet mellan pris och prestation."
 image: /images/nikola-johnny-mirkovic-1331606-unsplash.jpg
 permalink: '/foretag/:name/'
 layout: generic
@@ -12,7 +12,7 @@ icon: /images/ikon/hotell-ikon.png
 
 ## Vi erbjuder alltid  lokalvårdstjänster till hög kvalité. 
 
-**Låt oss göra jobbet åt er**
+Låt oss göra jobbet åt er!
 
 Det som gör oss unika är att vi skräddarsyr enligt dina önskemål och behov. Vår verksamhet präglas av en öppen och rak kommunikation både mot kunder och medarbetare. **Vår fokus ligger på att ge snabb och personlig service.**
 
@@ -24,7 +24,7 @@ Våra medarbetare har flera års erfarenhet inom hotellstädning. Våra servicel
 
 ## Vad ingår i hotellstädning?
 
-**Städning av Hotellrum värt att tänka på.**
+### Städning av Hotellrum värt att tänka på.
 
 * Kontrollera linnevagn och städvagn:
 * Lägg dit rätt antal av sänglinne och frotté.
@@ -35,11 +35,11 @@ Våra medarbetare har flera års erfarenhet inom hotellstädning. Våra servicel
 * Fyll på med rena glas, toalettpapper, tvål och schampo, broschyrer, skrivblock, pennor etc.
 * Tänk på att all utrustning ska placeras på en sida i korridoren samt att inga dörrar får blockeras.
 
-### Städarna städar efter listan och klarrapporterar rummen efter hand som de är klara.
+**Städarna städar efter listan och klarrapporterar rummen efter hand som de är klara.**
 
 ## Städning
 
-**Tömning av rummet:**
+### Tömning av rummet:
 
 * Knacka på dörren och invänta eventuellt svar.
 * Gå in i rummet och fram till fönstret – öppna och vädra om det går, kontrollera att gardiner hänger rätt.
@@ -54,13 +54,13 @@ Våra medarbetare har flera års erfarenhet inom hotellstädning. Våra servicel
 * Ställ papperskorgen på tvättstället för rengörning.
 * Förbered bäddningen genom att placera ut den rena tvätten – lakan på sängen, örngott på kuddarna samt påslakan på täcket.
 
-**Tänk på:**
+### Tänk på:
 
 * Att ta bort sängkläder från täcken utgör stor belastning för axlar och armar. Därför är det viktigt att du inte skakar bort täcket. För istället in händerna i påslakanet och dra ut täcket.
 * Ställ papperskorgen på skrivbordet så undviker du onödigt spring och slipper böja dig ner för att kasta skräp.
 * Rulla inte ihop sänglinnet till ett ”paket” . Detta skulle försvåra tvätteripersonalens arbete.
 
-**Badrummet**
+### Badrummet:
 
 * Skölj ur papperskorgen och ställ den för avrinning.
 * Spola toaletten och häll i medel för att därefter rengöra toalettens insida med toalettborsten.
@@ -94,7 +94,7 @@ Våra medarbetare har flera års erfarenhet inom hotellstädning. Våra servicel
 * Stå vid fotändan och lägg på täcket, gå sedan runt till huvudändan och sträck till bädden.
 * Låt sängen stå framme till dammsugning.
 
-### Dammsugning
+### Dammsugning:
 
 * Dammsug rummet, lägg tillbaks kuddar i fåtölj/soffa efter dammsugning, avsluta med att dammsuga badrumsgolvet.
 * Dammsug vid tröskel samt utanför rummet i korridoren.
