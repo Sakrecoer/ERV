@@ -41,21 +41,25 @@
                 <header class="major">
                   <h2>Kontakta oss</h2>
                 </header>
+                {% if page.url != '/' %}
                   <script>
                     hbspt.forms.create({
                     portalId: "5554697",
                     formId: "6897e211-234e-4743-b1fc-d1932955be15"
                   });
                   </script>
+                {% endif %}
                 <ul class="contact">
                   <li class="fa-envelope-o"><a href="mailto:kundtjanst@enrenarevardag.se">kundtjanst@enrenarevardag.se</a></li>
                   <li class="fa-phone"><a href="tel:+4686605555">08-660 55 55</a></li>
                   <li class="fa-home">Storgatan 104 B, 171 55 Solna <br />
                   Org nr: 556847-2038</li>
                 </ul>
+                {% if page.url != '/boka/' %}
                 <ul class="actions">
                   <li><a href="/boka/" class="button primary large editable knap">Boka Nu</a></li>
                 </ul>
+                {% endif %}
                             <!-- Footer -->
               <footer id="footer">
                   <p class="copyright">&copy; En Renare Vardag AB. All rights reserved. <a href="https://html5up.net">Click here for Credits for Photos and Software</a>.</p>

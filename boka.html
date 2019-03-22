@@ -1,13 +1,76 @@
 ---
-layout: default
-permalink: /boka/
-title: Contact
-description: Send us a message to find out more!
-map:
-  latitude: 59.353057
-  longitude: 17.9791564
-  address: "Storgatan 104 B, 171 55 Solna"
-  zoom: 13
-image: https://source.unsplash.com/WNAO036c6FM/2000x1322?a=.png
+title: 'Boka Städhjälp'
+description: 'Alltid prisgaranti! Städhjälp och lokalvård i Stockholm med fokus på kvalitet och trygghet.'
+image: '/images/intro-5.jpg'
 ---
+
+{% include banner.html %}
+
+
+							<!-- Section Foretag -->
+								<section>
+									<header class="major">
+										<h2>Fyll i blanketten</h2>
+									</header>
+									<div class="features">
+{% for foretag in site.foretag %}{% if foretag.framsida == true %}
+										<article>
+											<span class="icon"><img src="{{ foretag.icon }}" width="30px" /></span>
+											<div class="content">
+												<h3><a href="{{ foretag.url }}{{ foretag.hubspot }}">{{ foretag.menutitle }}</a></h3>
+												<p>{{ foretag.description }}</p>
+											</div>
+                    </article>
+{% endif %}{% endfor %}
+									</div>
+                </section>
+                
+                							<!-- Section Privat -->
+								<section>
+                    <header class="major">
+                      <h2>Våra tjänster för privatpersoner</h2>
+                    </header>
+                    <div class="features">
+{% for privat in site.privat %}{% if privat.framsida == true %}
+                      <article>
+                        <span class="icon"><img src="{{ privat.icon }}" width="30px" /></span>
+                        <div class="content">
+                          <h3><a href="{{ privat.url }}{{ privat.hubspot }}">{{ privat.menutitle }}</a></h3>
+                          <p>{{ privat.description }}</p>
+                        </div>
+                      </article>
+{% endif %}{% endfor %}
+                    </div>
+                    <ul class="actions">
+                        <li><a href="#booknow" class="button primary large editable knap">Begär offert</a></li>
+                    </ul>
+                  </section>
+
+							<!-- Section -->
+								<section>
+									<header class="major">
+										<h2>Vi är En Renare Vardag</h2>
+									</header>
+									<div class="posts">
+{% for post in site.posts %}
+										<article>
+											<a href="{{ post.url }}" class="image"><img src="{{ post.image }}" alt="" /></a>
+											<h3>{{ post.title }}</h3>
+											<p>{{ post.description }}</p>
+											<ul class="actions">
+												<li><a href="{{ post.url }}" class="button">Läs mer</a></li>
+											</ul>
+										</article>
+{% endfor %}
+                  </div>
+                  
+								</section>
+
+
+
+
+
+
+
+
 
