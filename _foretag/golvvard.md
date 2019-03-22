@@ -21,8 +21,8 @@ Textilgolv är inte bara behagliga att gå på, utan har även en fantastisk bet
 
 Som ägare av ett lackerat trägolv kan det hända att man känner viss oro över repor och skador. Lackerade trägolv är svårare att undvika skador och repor på. När dessa uppstår och blir starka syns de väl. Arbetet att återställa golvet är tidskrävande. Vi vet hur man vårdar dessa underlag på bästa sätt. Vad ett lackerat golv behöver är omvårdnad relativt ofta. Man behöver undvika att grus, stenar och smuts kan repa och skada mot golvet. Tiden finns inte alltid till för att vårda sina golv så mycket som kan vara nödvändigt. Vi hjälper er oavsett vad ni har för golv, vi underhåller textiler, plastmattor, heltäckningsmattor, behandlade och obehandlade trägolv samt mycket mer.
 
-# Golvvård av olika slag
+## Golvvård av olika slag
 
 En fastighetsägare har många sorters golv att underhålla, det är inte alltid optimalt att göra jobbet själv. Vi vet vilken behandling olika typer av golv kräver för att vara hygieniska och rena. Ett plus när man underhåller sitt golv under rätt förutsättningar är att livslängen ökar. På kontor rör sig personal och kunder fram och tillbaka, att alltid erbjuda ett snyggt golv samt ett fint intryck är betydande för kunders uppfattning och personalens trivsel. Golvvård kan behövas överallt inte bara på kontor eller i villor. Butiker, hissar, trapphus, hotell, restauranger osv.. Oavsett varför ni vill att vi ska vårda era golv hjälper vi er att framföra bästa resultat.
 
-# Begär Offert
+## Begär Offert

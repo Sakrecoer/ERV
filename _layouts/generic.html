@@ -2,12 +2,21 @@
 layout: default
 ---
 {% include banner.html %}
+{% if page.bokning == false %}
+&nbsp;
+{% else %}
 {% include bokamera.html %}
+{% endif %}
 							<!-- Content -->
 								<section>
 {{ content }}
+{% if page.bokning == false %}
+&nbsp;
+{% else %}
               <ul class="actions">
                 <li><a href="#booknow" class="button primary large editable knap">Begär offert</a></li>
               </ul>
-								</section>
+{% endif %}
+                </section>
+
 
