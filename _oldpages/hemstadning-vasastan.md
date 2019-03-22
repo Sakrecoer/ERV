@@ -4,7 +4,7 @@ title: Hemstädning Vasastan
 description: "Genom att anlita En Renare Vardag för hemstädning i  Vasastan får du hög kvalitet och trevligt bemötande"
 date: 2017-04-25T14:12:28+02:00
 author: admin
-layout: oldpages
+layout: generic
 image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=1503
 permalink: /:name/

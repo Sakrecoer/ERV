@@ -4,7 +4,7 @@ title: Hemstädning Danderyd
 description: "Genom att anlita en renare vardag för hemstädning i Danderyd får du hög kvalitet och trevligt bemötande."
 date: 2017-04-25T13:52:11+02:00
 author: admin
-layout: oldpages
+layout: generic
 image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=1492
 permalink: /:name/

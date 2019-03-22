@@ -4,7 +4,7 @@ title: Flyttstädning Vällingby
 description: "Ska du flytta? En renare vardag erbjuder flyttstädning Vällingby."
 date: 2017-04-21T14:13:21+02:00
 author: admin
-layout: oldpages
+layout: generic
 image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=1408
 permalink: /:name/

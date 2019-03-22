@@ -4,7 +4,7 @@ title: Storstädning Solna
 descrtiption: "Att göra en storstädning i Solna är inte helt enkelt. Det är dessutom väldigt tidskrävande om du vill att det ska bli riktigt bra. Och det vill du väl antagligen."
 date: 2017-07-22T09:29:30+02:00
 author: admin
-layout: oldpages
+layout: generic
 image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=1990
 permalink: /:name/

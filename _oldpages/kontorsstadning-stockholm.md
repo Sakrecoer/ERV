@@ -4,7 +4,7 @@ title: Kontorsstädning Stockholm
 description: "En Renare Vardag har kontorsstädning i Stockholm till företag.Vill du att ditt kontor glänser när du tänder ljuset på morgonen?"
 date: 2017-05-24T09:49:49+02:00
 author: admin
-layout: oldpages
+layout: generic
 image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=1643
 permalink: /:name/

@@ -4,7 +4,7 @@ title: Städfirma Täby
 description: "Låt En Renare Vardag AB i Täby städa åt er. Så ni kan tänka på annat."
 date: 2017-04-25T11:13:27+02:00
 author: admin
-layout: oldpages
+layout: generic
 image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=1445
 permalink: /:name/

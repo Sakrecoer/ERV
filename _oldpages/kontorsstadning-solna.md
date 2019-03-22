@@ -4,7 +4,7 @@ title: Kontorsstädning Solna
 description: "Vi har kontorsstädning i Solna. Visst är det härligt att komma till jobbet och det är nystädat och fint?"
 date: 2017-07-21T11:18:39+02:00
 author: admin
-layout: oldpages
+layout: generic
 image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=1975
 permalink: /:name/

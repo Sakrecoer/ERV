@@ -4,7 +4,7 @@ title: Hemstädning Solna
 description: "Vi har hemstädning i Solna. Hur skönt är det att komma hem och det är städat, fräscht och fint?"
 date: 2017-07-18T09:40:05+02:00
 author: admin
-layout: oldpages
+layout: generic
 image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=1929
 permalink: /:name/

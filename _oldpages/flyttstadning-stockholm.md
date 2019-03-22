@@ -4,7 +4,7 @@ title: Flyttstädning Stockholm
 description: "Boka billig flyttstädning i Stockholm redan idag – Hög kvalitet och snabb service!"
 date: 2017-04-21T12:31:16+02:00
 author: admin
-layout: oldpages
+layout: generic
 image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=1385
 permalink: /:name/

@@ -4,7 +4,7 @@ title: Städning för företag
 description: "Vi erbjuder alla typer av städning till företag; bland annat flyttstädning och storstädning."
 date: 2016-05-25T11:38:14+00:00
 author: admin
-layout: oldpages
+layout: generic
 image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=240
 permalink: /foretag/

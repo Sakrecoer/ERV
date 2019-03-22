@@ -4,7 +4,7 @@ title: Städ Sundbyberg
 description: "Vi på En Renare Vardag erbjuder städhjälp i Sundbyberg och på andra ställen runt om i Stockholm"
 date: 2017-07-22T10:04:15+02:00
 author: admin
-layout: oldpages
+layout: generic
 image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=2000
 permalink: /:name/

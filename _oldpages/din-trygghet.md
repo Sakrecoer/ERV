@@ -4,7 +4,7 @@ title: Trygghet
 description: "För att du som kund ska känna dig trygg så följer En Renare Vardag branschens högsta krav när det gäller säkerhet och ansvarsfrågor."
 date: 2016-05-03T16:45:34+00:00
 author: admin
-layout: oldpages
+layout: generic
 image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=11
 permalink: /:name/

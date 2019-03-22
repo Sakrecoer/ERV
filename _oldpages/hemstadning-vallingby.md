@@ -4,7 +4,7 @@ title: Hemstädning Vällingby
 description: "Anlita En Renare Vardag för hemstädning i Vällingby för en proffsig städning och ett trevligt bemötande."
 date: 2017-04-25T14:17:03+02:00
 author: admin
-layout: oldpages
+layout: generic
 image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=1506
 permalink: /:name/

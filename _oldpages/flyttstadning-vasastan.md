@@ -4,7 +4,7 @@ title: Flyttstädning i Vasastan
 description: "Ska du flytta? En renare vardag erbjuder flyttstädning Vasastan."
 date: 2017-04-21T14:07:03+02:00
 author: admin
-layout: oldpages
+layout: generic
 image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=1405
 permalink: /:name/

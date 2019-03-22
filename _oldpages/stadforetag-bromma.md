@@ -4,7 +4,7 @@ title: Städföretag Bromma
 description: "En Renare Vardag utför högkvalitativ lokalvård i Bromma och jobbar professionellt inom hela städbranschen."
 date: 2017-04-25T12:56:05+02:00
 author: admin
-layout: oldpages
+layout: generic
 image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=1468
 permalink: /:name/

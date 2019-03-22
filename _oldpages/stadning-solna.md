@@ -4,7 +4,7 @@ title: Städning Solna
 description: "Vi erbjuder städning i Solna. En Renare Vardag är ett städföretag som jobbar professionellt inom städ och lokalvårdstjänster till hög kvalité."
 date: 2017-07-22T09:58:49+02:00
 author: admin
-layout: oldpages
+layout: generic
 image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=1996
 permalink: /:name/

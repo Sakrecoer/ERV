@@ -4,7 +4,7 @@ title: Hemstädning Kista
 description: "Genom att anlita En Renare Vardag för hemstädning i Kista får du  hög kvalitet och ett trevligt bemötande."
 date: 2017-04-25T14:06:38+02:00
 author: admin
-layout: oldpages
+layout: generic
 image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=1499
 permalink: /:name/

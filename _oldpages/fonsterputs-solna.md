@@ -4,7 +4,7 @@ title: Fönsterputs Solna
 description: "Fönsterputs i Solna. En Renare Vardag löser det. Att putsa fönster är inte helt lätt och det tar dessutom hyfsat lång tid."
 date: 2017-07-21T10:56:10+02:00
 author: admin
-layout: oldpages
+layout: generic
 image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=1966
 permalink: /:name/

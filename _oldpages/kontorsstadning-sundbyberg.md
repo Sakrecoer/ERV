@@ -4,7 +4,7 @@ title: Kontorsstädning Sundbyberg
 description: "Vi på En renare vardag är ett städföretag som har lång erfarenhet av kontorsstädning Sundbyberg"
 date: 2017-07-22T09:21:52+02:00
 author: admin
-layout: oldpages
+layout: generic
 image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=1983
 permalink: /:name/

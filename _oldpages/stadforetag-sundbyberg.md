@@ -4,7 +4,7 @@ title: Städföretag Sundbyberg
 decsription: "En Renare Vardag jobbar i Sundbyberg professionellt inom städ och erbjuder lokalvård till hög kvalitet."
 date: 2017-04-25T12:47:58+02:00
 author: admin
-layout: oldpages
+layout: generic
 image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=1464
 permalink: /:name/

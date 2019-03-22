@@ -4,7 +4,7 @@ title: Städfirma Vällingby
 description: "Låt En Renare Vardag städa åt er i Vällingby. Så kan du tänka på annat."
 date: 2017-04-25T12:23:17+02:00
 author: admin
-layout: oldpages
+layout: generic
 image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=1452
 permalink: /:name/

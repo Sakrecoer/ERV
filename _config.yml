@@ -52,6 +52,11 @@ collections:
     output: true
     permalink: /privat/:name/
     layout: generic
+  oldpages:
+    output: true
+    permalink: /:name/
+
+
 
 defaults:
   -

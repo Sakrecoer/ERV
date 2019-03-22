@@ -4,7 +4,7 @@ title: Fönsterputsning Solna
 description: "Vi utför fönsterputsning i Solna. Att putsa fönster är inte helt lätt och det tar dessutom hyfsat lång tid. I alla fall om man vill att det ska se bra ut och att det ska bli rent."
 date: 2017-07-21T10:38:24+02:00
 author: admin
-layout: oldpages
+layout: generic
 image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=1962
 permalink: /:name/

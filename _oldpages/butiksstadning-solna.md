@@ -4,7 +4,7 @@ title: Butiksstädning Solna
 description: "Vi har butiksstädning i Solna. Vill du ha en riktigt fräsch butik? Det är ju så klart du vill ha det! Det är ju väldigt viktigt att butiken ser bra ut så att kunderna trivs och kommer tillbaka."
 date: 2017-07-21T10:19:26+02:00
 author: admin
-layout: oldpages
+layout: generic
 image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=1952
 permalink: /:name/

@@ -4,7 +4,7 @@ title: Städfirma Bromma
 description: "Välkommen till En Renare Vardag. Din Städfirma i Bromma"
 date: 2017-03-25T11:37:06+01:00
 author: admin
-layout: oldpages
+layout: generic
 image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=1221
 permalink: /:name/

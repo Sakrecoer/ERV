@@ -4,7 +4,7 @@ title: Städfirma Kista
 description: "En renare vardag erbjuder Städfirma Kista och jobbar professionellt inom städ och erbjuder lokalvård till hög kvalitet."
 date: 2017-04-25T11:08:23+02:00
 author: admin
-layout: oldpages
+layout: generic
 image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=1442
 permalink: /:name/

@@ -3,7 +3,7 @@ id: 278
 title: Erbjudanden
 date: 2016-05-25T16:57:17+00:00
 author: admin
-layout: oldpages
+layout: generic
 image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=278
 permalink: /:name/

@@ -4,7 +4,7 @@ title: Butiksstädning Stockholm
 description: "Vi på En Renare Vardag har snabb och effektiv butiksstädning i Stockholm"
 date: 2017-07-18T09:52:50+02:00
 author: admin
-layout: oldpages
+layout: generic
 image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=1936
 permalink: /:name/

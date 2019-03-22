@@ -4,7 +4,7 @@ title: Städföretag Vällingby
 description: "En renare vardag erbjuder professionel städning och erbjuder lokalvård till hög kvalitet i Vällingby"
 date: 2017-04-25T13:37:51+02:00
 author: admin
-layout: oldpages
+layout: generic
 image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=1486
 permalink: /:name/

@@ -3,7 +3,7 @@ id: 4
 title: Startsida
 date: 2016-05-03T15:41:14+00:00
 author: admin
-layout: oldpages
+layout: generic
 image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/startsida/
 permalink: /:name/

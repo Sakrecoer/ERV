@@ -4,7 +4,7 @@ title: Hemstädning Sundbyberg
 description: "Vi har hemstädning i Sundbyberg! Anlita oss när du vill tänka på annat än städning och komma till ett rent hem varje vecka."
 date: 2017-04-04T14:44:05+02:00
 author: admin
-layout: oldpages
+layout: generic
 image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=1307
 permalink: /:name/

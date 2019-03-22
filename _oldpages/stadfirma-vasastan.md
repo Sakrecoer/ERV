@@ -4,7 +4,7 @@ title: Städfirma Vasastan
 description: "Söker du en städfirma i Vasastan? Kontakta oss på En Renare Vardag."
 date: 2017-04-25T11:21:12+02:00
 author: admin
-layout: oldpages
+layout: generic
 image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=1449
 permalink: /:name/

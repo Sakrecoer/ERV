@@ -4,7 +4,7 @@ title: Hemstädning Täby
 description: "Letar du efter någon som kan utföra hemstädning i Täby? Låt oss göra det åt dig!"
 date: 2017-04-10T13:54:05+02:00
 author: admin
-layout: oldpages
+layout: generic
 image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=1340
 permalink: /:name/

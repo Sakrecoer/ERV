@@ -4,7 +4,7 @@ title: Städning för privatpersoner
 description: "Genom att anlita En Renare Vardag AB får du alltid en städning med högkvalité och ett trevligt bemötande. "
 date: 2016-05-25T11:33:49+00:00
 author: admin
-layout: oldpages
+layout: generic
 image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=233
 permalink: /:name/

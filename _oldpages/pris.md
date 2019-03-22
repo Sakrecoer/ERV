@@ -4,7 +4,7 @@ title: Priser
 description: "En Renare Vardag har alltid bästa priserna!"
 date: 2016-05-04T08:51:22+00:00
 author: admin
-layout: oldpages
+layout: generic
 image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=34
 permalink: /:name/

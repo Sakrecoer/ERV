@@ -4,7 +4,7 @@ title: Flyttstädning Kista
 description: "Ska du flytta? En Renare Vardag erbjuder flyttstädning Kista"
 date: 2017-04-21T13:05:28+02:00
 author: admin
-layout: oldpages
+layout: generic
 image: /uploads/blur-clean-clear-989941.jpg
 guid: https://enrenarevardag.se/?page_id=1397
 permalink: /:name/
