@@ -4,6 +4,9 @@ description: "En Renare Vardag sköter visningsstädningen åt dig i Stockholm. 
 image: /images/philipp-berndt-173197-unsplash.jpg
 permalink: /privat/:name/
 layout: generic
+menutitle: Visningsstädning
+framsida: false
+hubspot: '?v_lj_tj_nst=Visningsstädning'
 ---
 Har du tänkt att sälja din bostad? Då vet du säkert hur viktig det är att göra bra intryck på potentiella köpare. Våra duktiga anställda kan hjälpa dig med ordenligt städning och fönsterputsning, så att din bostaden är skinande rent innan visning. Samtidigt du kan få 15% rabatt på flyttstädning efteråt och vi har kvalité på det som vi gör och har blivit rekommenderade städföretag 2015 enligt Reco med ett betyg på 4,5. Fråga din mäklare, kanske hörde hen redan om oss. 
 

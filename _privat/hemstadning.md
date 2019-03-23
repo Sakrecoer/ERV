@@ -4,6 +4,10 @@ description: "En Renare Vardag har stor erfarenhet inom hemstädning och vi unde
 image: /images/aaron-huber-401200-unsplash.jpg
 permalink: /privat/:name/
 layout: generic
+menutitle: Hemstädning
+framsida: true
+hubspot: '?v_lj_tj_nst=Hemstädning'
+icon: /images/ikon/hem-ikon.png
 ---
 ## Tack vare RUT-avdraget så har hemstädning blivit mer tillgängligt för en större skara människor. 
 

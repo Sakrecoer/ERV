@@ -4,6 +4,10 @@ description: "En renare vardag hjälper er att vistas i en ren och fräsch skolm
 image: /images/moren-hsu-359121-unsplash.jpg
 permalink: /foretag/:name/
 layout: generic
+menutitle: Skolstädning
+framsida: true
+hubspot: '?v_lj_tj_nst=Kontorstädning'
+icon: /images/ikon/skol-ikon.png
 ---
 ## En skola skall vara fri från smuts och damm. 
 
@@ -14,6 +18,7 @@ Det ställs stora krav på en bra hygien i skolans lokaler och bara en ordentlig
 ## Vad ingår i en skolstädning?
 
 ### Städning av kontorsrum och skolsalar
+
 * Dammsugning av golv och mattor
 * Golv moppas, våttorkas vid behov
 * Dammning av fria ytor
@@ -23,28 +28,32 @@ Det ställs stora krav på en bra hygien i skolans lokaler och bara en ordentlig
 * Kasta avfall, sopsortering
  
 ### Städning av Lunchrum
+
 * Dammtorkning av fria ytor på möbler
 * Rengöring av diskbänkar om porslin o dyl. är bortplockat. OBS!
 * Diskhantering utförs vid beställning
 * Golv moppas och våttorkas
 
 ### Städning av toaletter
+
 * Rengöring handfat och toalett in- och utvändigt
 * Golv moppas och våttorkas
 * Påfyllning av toalettpapper, pappershanddukar och flytande tvål
 
 ### Städning av korridorer
+
 * Dammsugning av golv och mattor
 * Golv moppas, vid behov våttorkas
 
 ### Städning av trappor
+
 * Dammtorkning av ledstänger samt fria ytor
 * Golv moppas och vid behov våttorkas
 
-### Städning av kök / pentry</strong>
+### Städning av kök / pentry
+
 * Rengöring kök eller pentry
 * Avtorkning av arbetsbänk och diskbänk
 * Dammsugning av golv och mattor
 * Avtorkning köksbänk och bord
 
-## Begär Offert

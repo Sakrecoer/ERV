@@ -101,8 +101,9 @@
 			z-index: _misc(z-index-base);
 
 			&:before {
-				content: '\f0c9';
-				font-size: 2rem;
+        content: '\f0c9';
+        color: _palette(fg-bold);
+				font-size: 3rem;
 				height: inherit;
 				left: 0;
 				line-height: inherit;

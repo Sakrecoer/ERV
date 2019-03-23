@@ -1,0 +1,41 @@
+#numberalways {
+  color: #000;
+  position:fixed; 
+  bottom:0; left:0; 
+  background-color: _palette(fg-bold); 
+  text-align: center; 
+  z-index: 100; 
+  width:100%;
+}
+
+#numberalways a {
+  color:#fff !important;
+  border: none;
+}
+#numberalways a:hover {
+  color:#fff !important;
+  border: none;
+}
+
+/* bokning */
+
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+.item {
+  flex: 1 0 40%;
+  min-width: 250px;
+  display: flex;
+  flex-wrap: wrap;
+  align-self: flex-start;
+  padding-right: 20px;
+}
+.item-child {
+  flex: 1 auto;  
+  min-width: 200px;
+}
+.item-staticchild {
+ flex: 0 0 100%;
+}
+#boka { display:none; }

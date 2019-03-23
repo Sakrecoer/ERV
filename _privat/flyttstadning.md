@@ -1,9 +1,13 @@
 ---
-title: Flyttstädning i Stockholm och Solna
+title: Flyttstädning i Stockholm
 description: "En Renare Vardag erbjuder högkvalitativ flyttstädning till privatpersoner i Stockholm och Solna"
 image: /images/erda-estremera-581452-unsplash.jpg
 permalink: /privat/flyttstadning/
 layout: generic
+menutitle: Flyttstädning
+framsida: true
+hubspot: '?v_lj_tj_nst=Flyttstädning'
+icon: /images/ikon/flytt-ikon.png
 ---
 
 ## Flyttstädning i Stockholm och Solna 

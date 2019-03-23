@@ -4,6 +4,10 @@ description: "Vi på En Renare Vardag AB erbjuder butikstädning av högsta stan
 image: /images/clark-street-mercantile-33931-unsplash.jpg
 permalink: /foretag/:name/
 layout: generic
+menutitle: Butikstädning
+framsida: true
+hubspot: '?v_lj_tj_nst=Butikstädning'
+icon: images/ikon/butik-ikon.png
 ---
 ## Visst är det viktigt med en ren och fräsch lokal, butik för att du och dina kunder ska trivas? 
 
@@ -45,5 +49,3 @@ Vi arbetar snabbt och effektivt och garanterar alltid den bästa servicen och kv
 * Tömning av papperskorg
 * Påfyllning av engångsmaterial
 * Dammsugning och våttorkning av golv
-
-# Begär Offert Idag!

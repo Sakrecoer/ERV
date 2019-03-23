@@ -5,11 +5,11 @@
 	html5up.net | @ajlkn
   Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
   
-  Jekyllified by Set Hallström (https://set.hallstrom.ch) for En Renare Vardag AB 
+  Jekyllified and modified by Set Hallström (https://set.hallstrom.ch) for En Renare Vardag AB 
 -->
 <html>
 <head>
-  <title>{{ page.title }} | {{ site.name }}</title>
+  <title>{{ page.title }} | {{ site.title }}</title>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
   <link rel="apple-touch-icon" href="{{ site.baseurl }}/apple-touch-icon.png">
@@ -32,22 +32,25 @@
   <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/5554697.js"></script>
   <!-- End of HubSpot Embed Code -->
 {% endif %}
+<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
   <link rel="stylesheet" href="/assets/css/main.css" />
 </head>
 <body class="is-preload">
+
   <!-- Wrapper -->
   <div id="wrapper">
+
     <!-- Main -->
     <div id="main">
         <div class="inner">
 
           <!-- Header -->
           <header id="header">
-            <a href="/" class="logo" title="Startsida"><strong>En Renare Vardag</strong> AB</a>
+            <a href="/" class="logo" title="Startsida"><img src="/images/enrenarevardaglogo.svg" width="250px;" /></a>
             <ul class="icons">
-              <li><a href="#" class="icon fa-linkedin"><span class="label">Linked in</span></a></li>
-              <li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-              <li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+              <li><a href="https://www.linkedin.com/company/en-renare-vardag-i-stockholm-ab" class="icon fa-linkedin" target="_blank" rel="noopener noreferrer nofollow"><span class="label">Linked in</span></a></li>
+              <li><a href="https://www.facebook.com/enrenarevardagAB" class="icon fa-facebook" target="_blank" rel="noopener noreferrer nofollow"><span class="label">Facebook</span></a></li>
+              <li><a href="https://www.instagram.com/enrenarevardag" class="icon fa-instagram" target="_blank" rel="noopener noreferrer nofollow"><span class="label">Instagram</span></a></li>
             </ul>
           </header>
 
@@ -57,5 +60,6 @@
 {% include sidebar.html %}
   </div>
   {% include scripts.html %}
+  <div id="numberalways"><a href="tel:+4686605555" >08 - 660 55 55</a> | <a href="mailto:kundtjanst@enrenarevardag.se">kundtjanst@enrenarevardag.se</a></div>
 </body>
 </html>

@@ -4,6 +4,10 @@ description: "Vi på En Renare Vardag utför fönsterputsning åt företag i Sto
 image: /images/daniel-von-appen-268726-unsplash.jpg
 permalink: /foretag/fonsterputs/
 layout: generic
+menutitle: Fönsterputs
+framsida: false
+hubspot: 
+icon: 
 ---
 ## Håller du med oss att fönsterputsning är svårt och tidskrävande?
 
@@ -15,4 +19,3 @@ Tveka inte att anlita oss för städning och fönsterputsning snarast!
 
 Vi tar även med våra egna rengöringsprodukter och städmaterial för fönsterputsning och ni har alltid kund nöjd garanti med oss.
 
-## Begär Offert Nu!

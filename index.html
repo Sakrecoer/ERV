@@ -1,26 +1,11 @@
 ---
-title: "Städfirma i Stockholm"
-description: "Alltid prisgaranti! Städhjälp och lokalvård i Stockholm med fokus på kvalitet och trygghet."
+title: 'Städhjälp i Stockholm'
+description: 'Alltid prisgaranti! Städhjälp och lokalvård i Stockholm med fokus på kvalitet och trygghet.'
+image: '/images/intro-5.jpg'
 ---
 
-
-							<!-- Banner -->
-								<section id="banner">
-									<div class="content">
-										<header>
-											<h1>{{ page.title }}<br /></h1>
-											
-											<p>{{ page.description }}</p>
-										</header>
-										<p class="editable">Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam.</p>
-										<ul class="actions">
-											<li><a href="/boka/" class="button primary large editable">Boka Nu</a></li>
-										</ul>
-									</div>
-									<span class="image object">
-										<img src="/images/pic10.jpg" alt="" class="editable" />
-									</span>
-								</section>
+{% include banner.html %}
+{% include bokamera.html %}
 
 							<!-- Section Foretag -->
 								<section>
@@ -28,72 +13,37 @@ description: "Alltid prisgaranti! Städhjälp och lokalvård i Stockholm med fok
 										<h2>Våra tjänster för företag</h2>
 									</header>
 									<div class="features">
+{% for foretag in site.foretag %}{% if foretag.framsida == true %}
 										<article>
-											<span class="icon fa-diamond"></span>
+											<span class="icon"><img src="{{ foretag.icon }}" width="30px" /></span>
 											<div class="content">
-												<h3>Portitor ullamcorper</h3>
-												<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+												<h3><a href="{{ foretag.url }}{{ foretag.hubspot }}">{{ foretag.menutitle }}</a></h3>
+												<p>{{ foretag.description }}</p>
 											</div>
-										</article>
-										<article>
-											<span class="icon fa-paper-plane"></span>
-											<div class="content">
-												<h3>Sapien veroeros</h3>
-												<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-											</div>
-										</article>
-										<article>
-											<span class="icon fa-rocket"></span>
-											<div class="content">
-												<h3>Quam lorem ipsum</h3>
-												<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-											</div>
-										</article>
-										<article>
-											<span class="icon fa-signal"></span>
-											<div class="content">
-												<h3>Sed magna finibus</h3>
-												<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-											</div>
-										</article>
+                    </article>
+{% endif %}{% endfor %}
 									</div>
                 </section>
                 
-                							<!-- Section PRivat -->
+                							<!-- Section Privat -->
 								<section>
                     <header class="major">
                       <h2>Våra tjänster för privatpersoner</h2>
                     </header>
                     <div class="features">
+{% for privat in site.privat %}{% if privat.framsida == true %}
                       <article>
-                        <span class="icon fa-diamond"></span>
+                        <span class="icon"><img src="{{ privat.icon }}" width="30px" /></span>
                         <div class="content">
-                          <h3>Portitor ullamcorper</h3>
-                          <p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+                          <h3><a href="{{ privat.url }}{{ privat.hubspot }}">{{ privat.menutitle }}</a></h3>
+                          <p>{{ privat.description }}</p>
                         </div>
                       </article>
-                      <article>
-                        <span class="icon fa-paper-plane"></span>
-                        <div class="content">
-                          <h3>Sapien veroeros</h3>
-                          <p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-                        </div>
-                      </article>
-                      <article>
-                        <span class="icon fa-rocket"></span>
-                        <div class="content">
-                          <h3>Quam lorem ipsum</h3>
-                          <p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-                        </div>
-                      </article>
-                      <article>
-                        <span class="icon fa-signal"></span>
-                        <div class="content">
-                          <h3>Sed magna finibus</h3>
-                          <p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-                        </div>
-                      </article>
+{% endif %}{% endfor %}
                     </div>
+                    <ul class="actions">
+                        <li><a href="#booknow" class="button primary large editable knap">Begär offert</a></li>
+                    </ul>
                   </section>
 
 							<!-- Section -->
@@ -102,55 +52,18 @@ description: "Alltid prisgaranti! Städhjälp och lokalvård i Stockholm med fok
 										<h2>Vi är En Renare Vardag</h2>
 									</header>
 									<div class="posts">
+{% for post in site.posts %}
 										<article>
-											<a href="#" class="image"><img src="images/pic01.jpg" alt="" /></a>
-											<h3>Interdum aenean</h3>
-											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+											<a href="{{ post.url }}" class="image"><img src="{{ post.image }}" alt="" /></a>
+											<h3>{{ post.title }}</h3>
+											<p>{{ post.description }}</p>
 											<ul class="actions">
-												<li><a href="#" class="button">More</a></li>
+												<li><a href="{{ post.url }}" class="button">Läs mer</a></li>
 											</ul>
 										</article>
-										<article>
-											<a href="#" class="image"><img src="images/pic02.jpg" alt="" /></a>
-											<h3>Nulla amet dolore</h3>
-											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-											<ul class="actions">
-												<li><a href="#" class="button">More</a></li>
-											</ul>
-										</article>
-										<article>
-											<a href="#" class="image"><img src="images/pic03.jpg" alt="" /></a>
-											<h3>Tempus ullamcorper</h3>
-											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-											<ul class="actions">
-												<li><a href="#" class="button">More</a></li>
-											</ul>
-										</article>
-										<article>
-											<a href="#" class="image"><img src="images/pic04.jpg" alt="" /></a>
-											<h3>Sed etiam facilis</h3>
-											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-											<ul class="actions">
-												<li><a href="#" class="button">More</a></li>
-											</ul>
-										</article>
-										<article>
-											<a href="#" class="image"><img src="images/pic05.jpg" alt="" /></a>
-											<h3>Feugiat lorem aenean</h3>
-											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-											<ul class="actions">
-												<li><a href="#" class="button">More</a></li>
-											</ul>
-										</article>
-										<article>
-											<a href="#" class="image"><img src="images/pic06.jpg" alt="" /></a>
-											<h3>Amet varius aliquam</h3>
-											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-											<ul class="actions">
-												<li><a href="#" class="button">More</a></li>
-											</ul>
-										</article>
-									</div>
+{% endfor %}
+                  </div>
+                  
 								</section>
 
 

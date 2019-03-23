@@ -1,26 +1,22 @@
 ---
 layout: default
 ---
-							<!-- Banner -->
-              <section id="banner">
-									<div class="content">
-										<header>
-											<h1>{{ page.title }}<br /></h1>
-											<p>{{ page.description }}</p>
-										</header>
-										<ul class="actions">
-											<li><a href="/boka/" class="button primary large editable">Boka Nu</a></li>
-										</ul>
-									</div>
-									<span class="image object">
-										<img src="{{ page.image }}" alt="{{ page.title }}" />
-									</span>
-								</section>
+{% include banner.html %}
+{% if page.bokning == false %}
+&nbsp;
+{% else %}
+{% include bokamera.html %}
+{% endif %}
 							<!-- Content -->
 								<section>
 {{ content }}
+{% if page.bokning == false %}
+&nbsp;
+{% else %}
               <ul class="actions">
-                <li><a href="/boka/" class="button primary large editable">Boka Nu</a></li>
+                <li><a href="#booknow" class="button primary large editable knap">Begär offert</a></li>
               </ul>
-								</section>
+{% endif %}
+                </section>
+
 
