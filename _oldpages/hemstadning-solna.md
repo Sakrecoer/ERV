@@ -1,38 +1,29 @@
 ---
-id: 1929
 title: Hemstädning Solna
 description: "Vi har hemstädning i Solna. Hur skönt är det att komma hem och det är städat, fräscht och fint?"
 date: 2017-07-18T09:40:05+02:00
-author: admin
 layout: generic
-image: /uploads/blur-clean-clear-989941.jpg
-guid: https://enrenarevardag.se/?page_id=1929
+image: /images/blur-clean-clear-989941.jpg
 permalink: /:name/
 ---
-# Det är en riktigt skön och härlig känsla. 
+## Det är en riktigt skön och härlig känsla. 
 
 Så om du inte har anlitat oss på En renare vardag så är det bara att slänga dig på luren och kontakta oss så fixar vi hemstädning Solna. En Renare Vardag har stor erfarenhet inom hemstädning Solna. Vi känner att vi underlättar många människors vardag genom att sköta städningen åt dem.  
 Tack vare RUT-avdraget så har hemstädning blivit mer tillgängligt för en större skara människor. Det behöver faktiskt inte längre vara så dyrt att få hjälp med städning någon eller några gånger i månaden. Hör av dig dig till oss så berättar vi mer om hemstädning Solna.  Vi har hemstädning Solna och Stockholm från endast 169 kr/timmen, vilket är ju helt kanon.
 
-[<img class="size-medium wp-image-1472 aligncenter" src="https://enrenarevardag.se/wp-content/uploads/2017/04/Flyttstädning-19-300x300.jpg" alt="Hemstädning, Solna" width="300" height="300" srcset="https://enrenarevardag.se/wp-content/uploads/2017/04/Flyttstädning-19-300x300.jpg 300w, https://enrenarevardag.se/wp-content/uploads/2017/04/Flyttstädning-19-150x150.jpg 150w, https://enrenarevardag.se/wp-content/uploads/2017/04/Flyttstädning-19-125x125.jpg 125w, https://enrenarevardag.se/wp-content/uploads/2017/04/Flyttstädning-19.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" />](https://enrenarevardag.se/pris/) 
+[![alt text](/images/ikon/nojdkund.png "Nöjd Kund Garanti")](https://enrenarevardag.se/pris/)  
 
 ## Hemstädning Solna, hög kvalité till rimligt pris!
 
-  * Vi erbjuder följande vid hemstädning Solna
-  * Hög kvalitet till rimligt pris
-  * Alltid samma städerska
-  * Nöjd kund garanti
-  * Intern utbildning till Våra medarbetare
-  * Ansvarsförsäkring  &  Personal försäkring
-  * Hög Säkerhet
-  * Inga inställelseavgifter, inga fakturaavgifter, inga resekostnader
-  * Varje anställd skriver på ett sekretessavtal samt lämnar ett utdrag ur belastningsregistret.
-
-&nbsp;
-
-&nbsp;
-
-### 
+- Vi erbjuder följande vid hemstädning Solna
+- Hög kvalitet till rimligt pris
+- Alltid samma städerska
+- Nöjd kund garanti
+- Intern utbildning till Våra medarbetare
+- Ansvarsförsäkring  &  Personal försäkring
+- Hög Säkerhet
+- Inga inställelseavgifter, inga fakturaavgifter, inga resekostnader
+- Varje anställd skriver på ett sekretessavtal samt lämnar ett utdrag ur belastningsregistret.
 
 ### Att tänka på innan hemstädning Solna:
 

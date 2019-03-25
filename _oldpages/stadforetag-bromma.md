@@ -1,35 +1,32 @@
 ---
-id: 1468
 title: Städföretag Bromma
 description: "En Renare Vardag utför högkvalitativ lokalvård i Bromma och jobbar professionellt inom hela städbranschen."
 date: 2017-04-25T12:56:05+02:00
-author: admin
 layout: generic
-image: /uploads/blur-clean-clear-989941.jpg
-guid: https://enrenarevardag.se/?page_id=1468
+image: /images/blur-clean-clear-989941.jpg
 permalink: /:name/
 ---
 För att du ska känna dig trygg med vår städning i Bromma så följer En renare vardag branschens högsta krav gäller säkerhet och ansvarsfrågor.
 
 ### Vi erbjuder våra kunder:
 
-  * Hög kvalitet till rimligt pris
-  * Alltid samma städerska
-  * Nöjd kund garanti
-  * Intern utbildning till Våra medarbetare
-  * Ansvarsförsäkring & Personal försäkring
-  * Hög Säkerhet
-  * Inga inställelseavgifter, inga fakturaavgifter, inga resekostnader
-  * Våra medarbetare bär alltid på sig ID-kort från En Renare Vardag
+- Hög kvalitet till rimligt pris
+- Alltid samma städerska
+- Nöjd kund garanti
+- Intern utbildning till Våra medarbetare
+- Ansvarsförsäkring & Personal försäkring
+- Hög Säkerhet
+- Inga inställelseavgifter, inga fakturaavgifter, inga resekostnader
+- Våra medarbetare bär alltid på sig ID-kort från En Renare Vardag
 
 [<img class="wp-image-1469 aligncenter" src="https://enrenarevardag.se/wp-content/uploads/2017/04/Flyttstädning-18-300x300.jpg" alt="Städföretag, Bromma" width="212" height="212" srcset="https://enrenarevardag.se/wp-content/uploads/2017/04/Flyttstädning-18-300x300.jpg 300w, https://enrenarevardag.se/wp-content/uploads/2017/04/Flyttstädning-18-150x150.jpg 150w, https://enrenarevardag.se/wp-content/uploads/2017/04/Flyttstädning-18-125x125.jpg 125w, https://enrenarevardag.se/wp-content/uploads/2017/04/Flyttstädning-18.jpg 450w" sizes="(max-width: 212px) 100vw, 212px" />](https://enrenarevardag.se/pris/) 
 
 ### Vårt löfte:
 
-  * Alltid samma städerska
-  * Hög kvalitet till rimlig pris
-  * 20% rabatt på fönsterputsning än så länge som du är kund hos oss
-  * Vi innehar F-skattsedel och ansvarsförsäkring
+- Alltid samma städerska
+- Hög kvalitet till rimlig pris
+- 20% rabatt på fönsterputsning än så länge som du är kund hos oss
+- Vi innehar F-skattsedel och ansvarsförsäkring
 
 Njut av livet och låt oss ta hand om städningen!
 

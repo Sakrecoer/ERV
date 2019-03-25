@@ -1,28 +1,25 @@
 ---
-id: 1442
 title: Städfirma Kista
-description: "En renare vardag erbjuder Städfirma Kista och jobbar professionellt inom städ och erbjuder lokalvård till hög kvalitet."
+description: "En renare vardag erbjuder Städhjälp i Kista och jobbar professionellt inom städ och lokalvård till hög kvalitet."
 date: 2017-04-25T11:08:23+02:00
-author: admin
 layout: generic
-image: /uploads/blur-clean-clear-989941.jpg
-guid: https://enrenarevardag.se/?page_id=1442
+image: /images/blur-clean-clear-989941.jpg
 permalink: /:name/
 ---
 För att du ska känna dig trygg med våra Städfirma Kista så följer En renare vardag branschens högsta krav gäller säkerhet och ansvarsfrågor.
 
 Vi erbjuder våra kunder:
 
-  * Hög kvalitet till rimligt pris
-  * Alltid samma städerska
-  * Nöjd kund garanti
-  * Intern utbildning till Våra medarbetare
-  * Ansvarsförsäkring & Personal försäkring
-  * Hög Säkerhet
-  * Inga inställelseavgifter, inga fakturaavgifter, inga resekostnader
-  * Våra medarbetare bär alltid på sig ID-kort från En Renare Vardag
+- Hög kvalitet till rimligt pris
+- Alltid samma städerska
+- Nöjd kund garanti
+- Intern utbildning till Våra medarbetare
+- Ansvarsförsäkring & Personal försäkring
+- Hög Säkerhet
+- Inga inställelseavgifter, inga fakturaavgifter, inga resekostnader
+- Våra medarbetare bär alltid på sig ID-kort från En Renare Vardag
 
-[<img class="wp-image-1443 aligncenter" src="https://enrenarevardag.se/wp-content/uploads/2017/04/Flyttstädning-12-300x300.jpg" alt="Städfirma, Kista" width="220" height="220" srcset="https://enrenarevardag.se/wp-content/uploads/2017/04/Flyttstädning-12-300x300.jpg 300w, https://enrenarevardag.se/wp-content/uploads/2017/04/Flyttstädning-12-150x150.jpg 150w, https://enrenarevardag.se/wp-content/uploads/2017/04/Flyttstädning-12-125x125.jpg 125w, https://enrenarevardag.se/wp-content/uploads/2017/04/Flyttstädning-12.jpg 450w" sizes="(max-width: 220px) 100vw, 220px" />](https://enrenarevardag.se/pris/) 
+[![alt text](/images/ikon/nojdkund.png "Nöjd Kund Garanti")](https://enrenarevardag.se/pris/)  
 
 
 När vi säger hög kvalité & utmärkt service, då menar vi det!
@@ -50,5 +47,3 @@ Vi ser fram emot att träffa er kontakta våra säljare angående Städfirma Kis
 för ett möte och eventuellt schemaläggning
 
 Varmt välkommen
-
-En Renare vardag!
