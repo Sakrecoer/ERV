@@ -8,13 +8,13 @@ permalink: /:name/
 ---
 ## Privatkunder
 
-  * Alla våra priser är efter lagstadgat RUT-avdrag inklusive moms.
-  * I våra priser ingår också att vi administrerar RUT-avdraget med Skatteverket åt er samt inga inställelseavgifter, inga fakturaavgifter och inga resekostnader.
-  * Minimitid för beställning 3 tim/tillfälle.
-  * Engångskunder faktureras löpande efter utfört uppdrag med 10 dagars förfallotid eller med Swish i samband med utfört arbete
-  * Fakturering abonnemangskunder sker månadsvis den 15:e av varje månad med 10 dagars förfallotid.
-  * Alla priser nedan är ett ungefärligt pris.Vi genomför ett kostnadsfritt och förutsättningslöst hembesök där vi går igenom dina önskemål och behov samt ger ett exakt pris. Därefter ni får en kontaktperson och en fast städdag och tid.
-  * Vi garanterar att din vardag blir mycket enklare om du blir en av våra nöjda kunder.
+- Alla våra priser är efter lagstadgat RUT-avdrag inklusive moms.
+- I våra priser ingår också att vi administrerar RUT-avdraget med Skatteverket åt er samt inga inställelseavgifter, inga fakturaavgifter och inga resekostnader.
+- Minimitid för beställning 3 tim/tillfälle.
+- Engångskunder faktureras löpande efter utfört uppdrag med 10 dagars förfallotid eller med Swish i samband med utfört arbete
+- Fakturering abonnemangskunder sker månadsvis den 15:e av varje månad med 10 dagars förfallotid.
+- Alla priser nedan är ett ungefärligt pris.Vi genomför ett kostnadsfritt och förutsättningslöst hembesök där vi går igenom dina önskemål och behov samt ger ett exakt pris. Därefter ni får en kontaktperson och en fast städdag och tid.
+- Vi garanterar att din vardag blir mycket enklare om du blir en av våra nöjda kunder.
 
 ### Fönsterputs prislista:
 
