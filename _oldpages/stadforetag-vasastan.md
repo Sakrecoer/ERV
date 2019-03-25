@@ -1,35 +1,32 @@
 ---
-id: 1483
 title: Städföretag Vasastan
 description: "En renare vardag erbjuder som ett  städföretag i Vasastan allt inom städ och erbjuder lokalvård till hög kvalitet."
 date: 2017-04-25T13:32:13+02:00
-author: admin
 layout: generic
-image: /uploads/blur-clean-clear-989941.jpg
-guid: https://enrenarevardag.se/?page_id=1483
+image: /images/blur-clean-clear-989941.jpg
 permalink: /:name/
 ---
 För att du ska känna dig trygg med våra Städföretag Vasastan så följer En renare vardag branschens högsta krav gäller säkerhet och ansvarsfrågor.
 
 ### Vi erbjuder våra kunder:
 
-  * Hög kvalitet till rimligt pris
-  * Alltid samma städerska
-  * Nöjd kund garanti
-  * Intern utbildning till Våra medarbetare
-  * Ansvarsförsäkring & Personal försäkring
-  * Hög Säkerhet
-  * Inga inställelseavgifter, inga fakturaavgifter, inga resekostnader
-  * Våra medarbetare bär alltid på sig ID-kort från En Renare Vardag
+- Hög kvalitet till rimligt pris
+- Alltid samma städerska
+- Nöjd kund garanti
+- Intern utbildning till Våra medarbetare
+- Ansvarsförsäkring & Personal försäkring
+- Hög Säkerhet
+- Inga inställelseavgifter, inga fakturaavgifter, inga resekostnader
+- Våra medarbetare bär alltid på sig ID-kort från En Renare Vardag
 
-[<img class="wp-image-1484 aligncenter" src="https://enrenarevardag.se/wp-content/uploads/2017/04/Flyttstädning-23-300x300.jpg" alt="Städföretag, Vasastan " width="234" height="234" srcset="https://enrenarevardag.se/wp-content/uploads/2017/04/Flyttstädning-23-300x300.jpg 300w, https://enrenarevardag.se/wp-content/uploads/2017/04/Flyttstädning-23-150x150.jpg 150w, https://enrenarevardag.se/wp-content/uploads/2017/04/Flyttstädning-23-125x125.jpg 125w, https://enrenarevardag.se/wp-content/uploads/2017/04/Flyttstädning-23.jpg 450w" sizes="(max-width: 234px) 100vw, 234px" />](https://enrenarevardag.se/pris/) 
+[![alt text](/images/ikon/nojdkund.png "Nöjd Kund Garanti")](https://enrenarevardag.se/pris/)  
 
 ### Vårt löfte:
 
-  * Alltid samma städerska
-  * Hög kvalitet till rimlig pris
-  * 20% rabatt på fönsterputsning än så länge som du är kund hos oss
-  * Vi innehar F-skattsedel och ansvarsförsäkring
+- Alltid samma städerska
+- Hög kvalitet till rimlig pris
+- 20% rabatt på fönsterputsning än så länge som du är kund hos oss
+- Vi innehar F-skattsedel och ansvarsförsäkring
 
 Njut av livet och låt oss ta hand om städningen!
 
@@ -57,5 +54,4 @@ Som ett städföretag Vasastan lämnar vi alltid nöjd kundgaranti på vår Uppd
 
 Kontakta oss för offert eller genomgång och se vad det kan erbjuda dig.
 
-Varmt välkommen,
-En Renare vardag!
+Varmt välkommen!

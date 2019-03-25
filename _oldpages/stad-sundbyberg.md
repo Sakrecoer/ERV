@@ -1,19 +1,16 @@
 ---
-id: 2000
 title: Städ Sundbyberg
 description: "Vi på En Renare Vardag erbjuder städhjälp i Sundbyberg och på andra ställen runt om i Stockholm"
 date: 2017-07-22T10:04:15+02:00
-author: admin
 layout: generic
-image: /uploads/blur-clean-clear-989941.jpg
-guid: https://enrenarevardag.se/?page_id=2000
+image: /images/blur-clean-clear-989941.jpg
 permalink: /:name/
 ---
-# Vill du ha städhjälp i ditt hem? 
+## Vill du ha städhjälp i ditt hem? 
 
 Då ska du kontakta oss omgående så ska vi städa så du blir nöjd och belåten. Vi är nöjda att du har kommit till den här delen av vår hemsida. Hela tiden uppdaterar vi våra erbjudanden så att du kan hitta den som passar dig bäst.
 
-[<img class="size-medium wp-image-2003 aligncenter" src="https://enrenarevardag.se/wp-content/uploads/2017/07/Flyttstädning-5-300x300.jpg" alt="Städ Sundbyberg" width="300" height="300" srcset="https://enrenarevardag.se/wp-content/uploads/2017/07/Flyttstädning-5-300x300.jpg 300w, https://enrenarevardag.se/wp-content/uploads/2017/07/Flyttstädning-5-150x150.jpg 150w, https://enrenarevardag.se/wp-content/uploads/2017/07/Flyttstädning-5-125x125.jpg 125w, https://enrenarevardag.se/wp-content/uploads/2017/07/Flyttstädning-5.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" />](https://enrenarevardag.se/pris/) 
+[![alt text](/images/ikon/nojdkund.png "Nöjd Kund Garanti")](https://enrenarevardag.se/pris/)  
 
 Vi startar med ny kampanj “Tipsa en vän”. Alla våra nuvarande kunder kan få 200 kr rabatt för den näst kommande faktura. Allt som du behöver göra är att tipsa en vän eller familj om oss. Tipsade kunder kommer att få 10% rabatt till sin första faktura som välkomst present när de väljer oss som städleverantör. Det är en riktig bra deal för alla.
 

@@ -1,35 +1,30 @@
 ---
-id: 1464
 title: Städföretag Sundbyberg
 decsription: "En Renare Vardag jobbar i Sundbyberg professionellt inom städ och erbjuder lokalvård till hög kvalitet."
 date: 2017-04-25T12:47:58+02:00
-author: admin
 layout: generic
-image: /uploads/blur-clean-clear-989941.jpg
-guid: https://enrenarevardag.se/?page_id=1464
+image: /images/blur-clean-clear-989941.jpg
 permalink: /:name/
 ---
 För att du ska känna dig trygg med våra Städföretag i Sundbyberg så följer En renare vardag branschens högsta krav gäller säkerhet och ansvarsfrågor.
 
 ### Vi erbjuder våra kunder:
 
-  * Hög kvalitet till rimligt pris
-  * Alltid samma städerska
-  * Nöjd kund garanti
-  * Intern utbildning till Våra medarbetare
-  * Ansvarsförsäkring & Personal försäkring
-  * Hög Säkerhet
-  * Inga inställelseavgifter, inga fakturaavgifter, inga resekostnader
-  * Våra medarbetare bär alltid på sig ID-kort från En Renare Vardag
-
-<img class=" wp-image-1465 aligncenter" src="https://enrenarevardag.se/wp-content/uploads/2017/04/Flyttstädning-17-300x300.jpg" alt="Städföretag, Sundbyberg" width="226" height="226" srcset="https://enrenarevardag.se/wp-content/uploads/2017/04/Flyttstädning-17-300x300.jpg 300w, https://enrenarevardag.se/wp-content/uploads/2017/04/Flyttstädning-17-150x150.jpg 150w, https://enrenarevardag.se/wp-content/uploads/2017/04/Flyttstädning-17-125x125.jpg 125w, https://enrenarevardag.se/wp-content/uploads/2017/04/Flyttstädning-17.jpg 450w" sizes="(max-width: 226px) 100vw, 226px" /> 
+- Hög kvalitet till rimligt pris
+- Alltid samma städerska
+- Nöjd kund garanti
+- Intern utbildning till Våra medarbetare
+- Ansvarsförsäkring & Personal försäkring
+- Hög Säkerhet
+- Inga inställelseavgifter, inga fakturaavgifter, inga resekostnader
+- Våra medarbetare bär alltid på sig ID-kort från En Renare Vardag
 
 ### Vårt löfte:
 
-  * Alltid samma städerska
-  * Hög kvalitet till rimlig pris
-  * 20% rabatt på fönsterputsning än så länge som du är kund hos oss
-  * Vi innehar F-skattsedel och ansvarsförsäkring
+- Alltid samma städerska
+- Hög kvalitet till rimlig pris
+- 20% rabatt på fönsterputsning än så länge som du är kund hos oss
+- Vi innehar F-skattsedel och ansvarsförsäkring
 
 Njut av livet och låt oss ta hand om städningen!
 
@@ -55,6 +50,4 @@ Som ett städföretag Sundbyberg lämnar vi alltid nöjd kundgaranti på vår Up
 
 Kontakta oss för offert eller genomgång och se vad det kan erbjuda dig.
 
-Varmt välkommen,
-
-En Renare vardag!
+Varmt välkommen!
