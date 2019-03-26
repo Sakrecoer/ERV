@@ -1,51 +1,52 @@
 ---
 title: Priser
-description: "En Renare Vardag har alltid bästa priserna!"
-date: 2016-05-04T08:51:22+00:00
+description: En Renare Vardag har alltid bästa priserna!
+date: 2016-05-04 08:51:00
 layout: generic
 image: /images/pris.jpg
-permalink: /:name/
-fonster: 
-  1a: 
-    2sidor:
-    3sidor:
+permalink: '/:name/'
+fonster:
+  1a:
+    2sidor: '270'
+    3sidor: '540'
     4sidor:
-    6sidor:
+    6sidor: '620'
   2a:
-    2sidor:
+    2sidor: '300'
     3sidor:
-    4sidor:
-    6sidor:
+    4sidor: '600'
+    6sidor: '690'
   3a:
-    2sidor:
+    2sidor: '340'
     3sidor:
-    4sidor:
-    6sidor:
+    4sidor: '680'
+    6sidor: '810'
   4a:
-    2sidor:
+    2sidor: '390'
     3sidor:
-    4sidor:
-    6sidor:
+    4sidor: '780'
+    6sidor: '960'
   5a:
-    2sidor:
+    2sidor: '450'
     3sidor:
-    4sidor:
-    6sidor:
+    4sidor: '900'
+    6sidor: '1140'
   6a:
-    2sidor:
+    2sidor: '525'
     3sidor:
-    4sidor:
-    6sidor:
+    4sidor: '1050'
+    6sidor: '1350'
 ---
+
 ## Privatkunder
 
-- Alla våra priser är efter lagstadgat RUT-avdrag inklusive moms.
-- I våra priser ingår också att vi administrerar RUT-avdraget med Skatteverket åt er samt inga inställelseavgifter, inga fakturaavgifter och inga resekostnader.
-- Minimitid för beställning 3 tim/tillfälle.
-- Engångskunder faktureras löpande efter utfört uppdrag med 10 dagars förfallotid eller med Swish i samband med utfört arbete
-- Fakturering abonnemangskunder sker månadsvis den 15:e av varje månad med 10 dagars förfallotid.
-- Alla priser nedan är ett ungefärligt pris.Vi genomför ett kostnadsfritt och förutsättningslöst hembesök där vi går igenom dina önskemål och behov samt ger ett exakt pris. Därefter ni får en kontaktperson och en fast städdag och tid.
-- Vi garanterar att din vardag blir mycket enklare om du blir en av våra nöjda kunder.
+* Alla våra priser är efter lagstadgat RUT-avdrag inklusive moms.
+* I våra priser ingår också att vi administrerar RUT-avdraget med Skatteverket åt er samt inga inställelseavgifter, inga fakturaavgifter och inga resekostnader.
+* Minimitid för beställning 3 tim/tillfälle.
+* Engångskunder faktureras löpande efter utfört uppdrag med 10 dagars förfallotid eller med Swish i samband med utfört arbete
+* Fakturering abonnemangskunder sker månadsvis den 15:e av varje månad med 10 dagars förfallotid.
+* Alla priser nedan är ett ungefärligt pris.Vi genomför ett kostnadsfritt och förutsättningslöst hembesök där vi går igenom dina önskemål och behov samt ger ett exakt pris. Därefter ni får en kontaktperson och en fast städdag och tid.
+* Vi garanterar att din vardag blir mycket enklare om du blir en av våra nöjda kunder.
 
 ### Fönsterputs prislista:
 
@@ -152,6 +153,4 @@ fonster:
   </table>
 </div>
 
-Inglasad balkong tillkommer från 250 kr.  
-Balkongdörr tillkommer 120 kr/st.  
-[Boka fönsterputs](https://enrenarevardag.se/privat/fonsterputs/)
+Inglasad balkong tillkommer från 250 kr.<br>Balkongdörr tillkommer 120 kr/st.<br>[Boka fönsterputs](https://enrenarevardag.se/privat/fonsterputs/)
