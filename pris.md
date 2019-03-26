@@ -7,29 +7,29 @@ image: /images/pris.jpg
 permalink: '/:name/'
 fonster:
   - rum: '1:a'
-    2sidor: '270'
-    4sidor: '540'
-    6sidor: '620'
+    sidor_2: '270'
+    sidor_4: '540'
+    sidor_6: '620'
   - rum: '2:a'
-    2sidor: '300'
-    4sidor: '600'
-    6sidor: '690'
+    sidor_2: '300'
+    sidor_4: '600'
+    sidor_6: '690'
   - rum: '3:a'
-    2sidor: '340'
-    4sidor: '680'
-    6sidor: '810'
+    sidor_2: '340'
+    sidor_4: '680'
+    sidor_6: '810'
   - rum: '4:a'
-    2sidor: '390'
-    4sidor: '780'
-    6sidor: '960'
+    sidor_2: '390'
+    sidor_4: '780'
+    sidor_6: '960'
   - rum: '5:a'
-    2sidor: '450'
-    4sidor: '900'
-    6sidor: '1140'
+    sidor_2: '450'
+    sidor_4: '900'
+    sidor_6: '1140'
   - rum: '6:a'
-    2sidor: '525'
-    4sidor: '1050'
-    6sidor: '1350'
+    sidor_2: '525'
+    sidor_4: '1050'
+    sidor_6: '1350'
 ---
 
 ## Privatkunder
@@ -66,13 +66,13 @@ fonster:
         {{ lagenhet.rum }}
       </td>
       <td>
-        {{ lagenhet.2sidor }}
+        {{ lagenhet.sidor_2 }}
       </td>
       <td>
-        {{ lagenhet.4sidor }}
+        {{ lagenhet.sidor_4 }}
       </td>
       <td>
-        {{ lagenhet.6sidor }}
+        {{ lagenhet.sidor_6 }}
       </td>
     </tr>
   {% endfor %}
