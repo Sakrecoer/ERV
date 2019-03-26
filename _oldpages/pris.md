@@ -6,34 +6,28 @@ layout: generic
 image: /images/pris.jpg
 permalink: '/:name/'
 fonster:
-  1a:
+  - rum: '1:a'
     2sidor: '270'
-    3sidor: '540'
-    4sidor:
+    4sidor: '540'
     6sidor: '620'
-  2a:
+  - rum: '2:a'
     2sidor: '300'
-    3sidor:
     4sidor: '600'
     6sidor: '690'
-  3a:
+  - rum: '3:a'
     2sidor: '340'
-    3sidor:
     4sidor: '680'
     6sidor: '810'
-  4a:
+  - rum: '4:a'
     2sidor: '390'
-    3sidor:
     4sidor: '780'
     6sidor: '960'
-  5a:
+  - rum: '5:a'
     2sidor: '450'
-    3sidor:
     4sidor: '900'
     6sidor: '1140'
-  6a:
+  - rum: '6:a'
     2sidor: '525'
-    3sidor:
     4sidor: '1050'
     6sidor: '1350'
 ---
@@ -66,90 +60,23 @@ fonster:
         6 sidor
       </td>
     </tr>
+{% for lagenhet in page.fonster %}
     <tr>
       <td style="background-color: #eee;">
-        1:a
+        {{ lagenhet.rum }}
       </td>
       <td>
-        270:-
+        {{ lagenhet.2sidor }}
       </td>
       <td>
-        540:-
+        {{ lagenhet.4sidor }}
       </td>
       <td>
-        620:-
+        {{ lagenhet.6sidor }}
       </td>
     </tr>
-    <tr>
-      <td style="background-color: #eee;">
-        2:a
-      </td>
-      <td>
-        300:-
-      </td>
-      <td>
-        600:-
-      </td>
-      <td>
-        690:-
-      </td>
-    </tr>
-    <tr>
-      <td style="background-color: #eee;">
-        3:a
-      </td>
-      <td>
-        340:-
-      </td>
-      <td>
-        680:-
-      </td>
-      <td>
-        810:-
-      </td>
-    </tr>
-    <tr>
-      <td style="background-color: #eee;">
-        4:a
-      </td>
-      <td>
-        390:-
-      </td>
-      <td>
-        780:-
-      </td>
-      <td>
-        960:-
-      </td>
-    </tr>
-    <tr>
-      <td style="background-color: #eee;">
-        5:a
-      </td>
-      <td>
-        450:-
-      </td>
-      <td>
-        900:-
-      </td>
-      <td>
-        1140:-
-      </td>
-    </tr>
-    <tr>
-      <td style="background-color: #eee;">
-        6:a
-      </td>
-      <td>
-        525:-
-      </td>
-      <td>
-        1050:-
-      </td>
-      <td>
-        1350:-
-      </td>
-    </tr>
+  {% endfor %}
+    
   </table>
 </div>
 
