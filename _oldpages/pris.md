@@ -5,6 +5,37 @@ date: 2016-05-04T08:51:22+00:00
 layout: generic
 image: /images/pris.jpg
 permalink: /:name/
+fonster: 
+  1a: 
+    2sidor:
+    3sidor:
+    4sidor:
+    6sidor:
+  2a:
+    2sidor:
+    3sidor:
+    4sidor:
+    6sidor:
+  3a:
+    2sidor:
+    3sidor:
+    4sidor:
+    6sidor:
+  4a:
+    2sidor:
+    3sidor:
+    4sidor:
+    6sidor:
+  5a:
+    2sidor:
+    3sidor:
+    4sidor:
+    6sidor:
+  6a:
+    2sidor:
+    3sidor:
+    4sidor:
+    6sidor:
 ---
 ## Privatkunder
 
