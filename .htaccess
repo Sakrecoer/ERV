@@ -1,0 +1,3 @@
+Redirect 301 /startsida/ /
+Redirect 301 /testsida/ /
+Redirect 301 /test/ /
