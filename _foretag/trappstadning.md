@@ -1,6 +1,6 @@
 ---
 title: Trappstädning i Stockholm
-description: "Vi på En Renare Vardag AB sköter trapphusstädning åt företag, bostadsrättsföreningar och skolor i Stockholm."
+description: "Vi på En Renare Vardag AB sköter trapphusstädning åt företag, bostadsrättsföreningar och skolor i Stockholm. Hör av dig och boka ett kostnadsfritt möte."
 image: /images/tobias-van-schneider-230814-unsplash.jpg
 permalink: /foretag/:name/
 layout: generic

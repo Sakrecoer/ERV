@@ -1,6 +1,6 @@
 ---
 title: "Fönsterputsning i Stockholm"
-description: "Vi på En Renare Vardag erbjuder duktiga fönsterputsare i Stockholm som kan göra jobbet åt er."
+description: "Vi på En Renare Vardag erbjuder duktiga fönsterputsare i Storstockholm som kan göra jobbet åt er."
 image: /images/london-wood-co-1215836-unsplash.jpg
 permalink: /privat/:name/
 layout: generic

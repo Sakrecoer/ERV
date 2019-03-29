@@ -1,6 +1,6 @@
 ---
 title: Kontorstädning i Stockholm
-description: "En Renare Vardag erbjuder kontorsstädning du kan lita på. Vår specialiserade kontorsstädnings-service kan få ditt företag att skina genom att eliminera all smuts som har lämnats kvar när ljusen släckts."
+description: "En Renare Vardag erbjuder konstorsstädning som kan få ditt företag att skina genom att eliminera all smuts som har lämnats kvar när ljusen släckts. Hör av dig och boka ett kostnadsfritt möte."
 image: /images/kontor-1.jpg
 permalink: /foretag/:name/
 layout: generic

@@ -1,6 +1,6 @@
 ---
 title: Flyttstädning i Stockholm
-description: "En Renare Vardag erbjuder högkvalitativ flyttstädning till privatpersoner i Stockholm och Solna"
+description: "En Renare Vardag erbjuder högkvalitativ flyttstädning till privatpersoner i Storstockholm."
 image: /images/erda-estremera-581452-unsplash.jpg
 permalink: /privat/flyttstadning/
 layout: generic

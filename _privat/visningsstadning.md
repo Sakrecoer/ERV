@@ -1,6 +1,6 @@
 ---
 title: Visningsstädning i Stockholm
-description: "En Renare Vardag sköter visningsstädningen åt dig i Stockholm. Visa din bostad i sitt renaste ljus för potentiella köpare."
+description: "En Renare Vardag samarbetar med Stockholms bästa mäklare och kan sköta visningsstädningen åt dig. Visa din bostad i sitt renaste ljus för potentiella köpare."
 image: /images/philipp-berndt-173197-unsplash.jpg
 permalink: /privat/:name/
 layout: generic

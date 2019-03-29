@@ -1,6 +1,6 @@
 ---
 title: "Hemstädning i Stockholm"
-description: "En Renare Vardag har stor erfarenhet inom hemstädning och vi underlättar många människors vardag i Stockholm genom att sköta städningen åt dem."
+description: "En Renare Vardag har stor erfarenhet inom hemstädning och vi underlättar många människors vardag i Storstockholm genom att sköta städningen åt dem."
 image: /images/aaron-huber-401200-unsplash.jpg
 permalink: /privat/:name/
 layout: generic

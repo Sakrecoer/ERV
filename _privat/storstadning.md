@@ -1,6 +1,6 @@
 ---
 title: "Storstädning i Stockholm"
-description: "En Renare Vardag AB erbjuder kvalitativ storstädning till privatpersoner i Stockholm till bästa priset."
+description: "En Renare Vardag AB erbjuder kvalitativ storstädning till privatpersoner i Storstockholm till ett rimligt priset."
 image: /images/the-creative-exchange-682637-unsplash.jpg
 permalink: /privat/:name/
 layout: generic
