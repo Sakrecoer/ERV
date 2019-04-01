@@ -21,11 +21,12 @@ social:
     - https://www.facebook.com/enrenarevardagAB/
     - https://www.linkedin.com/company/en-renare-vardag-i-stockholm-ab
     - https://www.instagram.com/enrenarevardag/
+lang: sv_SE
 
 # -----
 # Build
 
-timezone: Etc/UTC
+timezone: "Europe/Stockholm"
 
 permalink: /:categories/:title/
 
