@@ -6,12 +6,10 @@
       <p>{{ page.description }}</p>
       {% if page.url != '/boka/' %}      
       <ul class="actions">
-        <li><a href="{% if page.url != '/' %}#booknow{% else %}/boka/{% endif %}" id="button" class="button primary large editable knap">Boka Nu</a></li>
+        <li><a href="{% if page.url == '/' or page.url == '/kontakta-oss/' or page.url == '/din-trygghet/' or page.url == '/jobba-hos-oss/' %}/boka/{% else %}#booknow{% endif %}" id="button" class="button primary large editable knap">Boka Nu</a></li>
       </ul>
 {% endif %}
-      <h2><a href="tel:+4686605555">08 - 660 55 55</a>
-        <br /><a href="mailto:kundtjanst@enrenarevardag.se">E-Post</a>
-        </h2>
+
 
     </header>
 
