@@ -42,8 +42,6 @@ exclude:
   - LICENCE
 
 collections:
-  staff_members:
-    _hide_content: true
   foretag:
     output: true
     permalink: /foretag/:name/
@@ -52,10 +50,6 @@ collections:
     output: true
     permalink: /privat/:name/
     layout: generic
-  oldpages:
-    output: true
-    permalink: /:name/
-
 
 
 defaults:
