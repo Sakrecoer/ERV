@@ -6,23 +6,17 @@ image: '/images/intro-5.jpg'
 {% include banner.html %}
 <!-- Banner -->
 <section style="padding:0">
-  <div style="border-radius:3px;" class="flex">
-    <div class="item" style="background-color: rgba(224, 255, 240 , 0.85);padding:10px;">
+  <div style="border-radius:3px;background-color: rgba(224, 255, 240 , 0.85);" class="flex">
+    <div class="item" style="padding:10px;">
         
         <div class="item-child">
+            <h3 id="booknow" class="editable">Vi matchar v&aring;ra konkurenters offert.</h3>
+            <p class="editable">Hos oss får du alltid pris garanti! L&aring;t oss hj&auml;lpa dig med st&auml;dningen s&aring; kan du spendera din tid p&aring; annat.</p>
           <h3>Fyll i blanketten</h3>
   {% include boka-form.html %}
+  <br /><br /><br />
         </div>
-        <div class="item-staticchild">
-          <h3 id="booknow" class="editable">Vi matchar v&aring;ra konkurenters offert.</h3>
-            <p class="editable">Hos oss får du alltid pris garanti! L&aring;t oss hj&auml;lpa dig med st&auml;dningen s&aring; kan du spendera din tid p&aring; annat.</p>
-            
-  
-            
-            <h2>
-              <br /><a href="mailto:kundtjanst@enrenarevardag.se">E-Post</a>
-              </h2>
-        </div>
+
       </div>
       {% if page.url != '/' %}
     <div class="item" style="padding:10px;">
@@ -45,7 +39,7 @@ image: '/images/intro-5.jpg'
         <div class="col-4 col-12-small" style="margin-bottom:10px;">
           <h4><a href="{{ privat.url }}{{ privat.hubspot }}">{{ privat.menutitle }}</a> <i class="fa fa-arrow-right" style="color:#94ce3c;"></i></h4>
         </div>
-{% endif %}{% endfor %}
+{% endif %}{% endfor %}<br /><br />
       </div>
     </div>
 {% endif %}
