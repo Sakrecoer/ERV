@@ -18,7 +18,8 @@ image: '/images/intro-5.jpg'
 											<span class="icon"><img src="{{ foretag.icon }}" width="30px" /></span>
 											<div class="content">
 												<h3><a href="{{ foretag.url }}{{ foretag.hubspot }}">{{ foretag.menutitle }}</a></h3>
-												<p>{{ foretag.description }}</p>
+                        <p>{{ foretag.description }}</p>
+                        <a href="{{ foretag.url }}{{ foretag.hubspot }}" class="button">Läs mer & boka kostnadsfritt möte</a>
 											</div>
                     </article>
 {% endif %}{% endfor %}
@@ -37,6 +38,7 @@ image: '/images/intro-5.jpg'
                         <div class="content">
                           <h3><a href="{{ privat.url }}{{ privat.hubspot }}">{{ privat.menutitle }}</a></h3>
                           <p>{{ privat.description }}</p>
+                          <a href="{{ privat.url }}{{ privat.hubspot }}" class="button">Läs mer & Räkna pris</a>
                         </div>
                       </article>
 {% endif %}{% endfor %}
