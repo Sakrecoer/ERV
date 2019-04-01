@@ -9,8 +9,8 @@
 
 <!-- Banner -->
 <section style="padding:0">
-  <div style="border-radius:3px;" class="flex">
-    <div class="item" style="background-color: rgba(224, 255, 240 , 0.85);padding:10px;">
+  <div style="border-radius:3px;background-color: rgba(224, 255, 240 , 0.85);" class="flex">
+    <div class="item" style="padding:10px;">
         <div class="item-staticchild">
             
           <h3 id="booknow" class="editable">Hos oss får du alltid pris garanti</h3>
@@ -18,11 +18,11 @@
             <h3><img src="/images/ikon/five-star.png" alt="Rekommenderat företag" width="250px;" /></h3>
         </div>
         <div id="boka" class="item-child">
-  {% include boka-form.html %}
+  {% if page.url != '/' %}{% include boka-form.html %}{% endif %}
         </div>
       </div>
       {% if page.url != '/' %}
-    <div class="item" style="background-color: rgba(224, 255, 240 , 0.85);padding:10px;">
+    <div class="item" style="padding:10px;">
 
     <div class="item-staticchild">
       <h3 class="editable">Läs mer om våra tjänster</h3>
