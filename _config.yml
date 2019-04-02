@@ -99,6 +99,10 @@ defaults:
           height: "540"
           resize_style: "cover"
           mime_type: "image/jpeg"
+        layout:
+          hidden: true
+        permalink:
+          hidden: true
   -
     scope:
       type: "privat"
