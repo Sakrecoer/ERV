@@ -35,3 +35,4 @@ Redirect 301 /stadforetag-vasastan/ /
 Redirect 301 /stadning-solna/ /
 Redirect 301 /storstadning-solna/ /privat/storstadning/
 Redirect 301 /storstadning-sundbyberg/ /privat/storstadning/
+Redirect 301 /privat/visningsstadning/ /privat/storstadning/

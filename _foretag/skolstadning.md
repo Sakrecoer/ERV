@@ -6,7 +6,7 @@ permalink: /foretag/:name/
 layout: generic
 menutitle: Skolstädning
 framsida: true
-hubspot: '?v_lj_tj_nst=Kontorstädning'
+hubspot: '?v_lj_tj_nst=Skolstädning'
 icon: /images/ikon/skol-ikon.png
 ---
 ## En skola skall vara fri från smuts och damm. 
