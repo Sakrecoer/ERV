@@ -60,75 +60,25 @@ defaults:
       type: ""
     values:
       layout: "default"
+      _options:
+        image:
+          uploads_dir: "images"
+          width: "960"
+          height: "540"
+          resize_style: "cover"
+          mime_type: "image/jpeg"
+        content:
+          uploads_dir: "images"
+          width: "960"
+          height: "540"
+          resize_style: "cover"
+          mime_type: "image/jpeg"
   -
     scope:
       type: "posts"
     values:
       layout: "post"
-      _options:
-        image:
-          uploads_dir: "images"
-          width: "960"
-          height: "540"
-          resize_style: "cover"
-          mime_type: "image/jpeg"
-        content:
-          uploads_dir: "images"
-          width: "960"
-          height: "540"
-          resize_style: "cover"
-          mime_type: "image/jpeg"
-  -
-    scope:
-      type: "pages"
-    values:
-      _options:
-        image:
-          uploads_dir: "images"
-          width: "960"
-          height: "540"
-          resize_style: "cover"
-          mime_type: "image/jpeg"
-        content:
-          uploads_dir: "images"
-          width: "960"
-          height: "540"
-          resize_style: "cover"
-          mime_type: "image/jpeg"
-  -
-    scope:
-      type: "foretag"
-    values:
-      _options:
-        image:
-          uploads_dir: "images"
-          width: "960"
-          height: "540"
-          resize_style: "cover"
-          mime_type: "image/jpeg"
-        content:
-          uploads_dir: "images"
-          width: "960"
-          height: "540"
-          resize_style: "cover"
-          mime_type: "image/jpeg"
-  -
-    scope:
-      type: "privat"
-    values:
-      _options:
-        image:
-          uploads_dir: "images"
-          width: "960"
-          height: "540"
-          resize_style: "cover"
-          mime_type: "image/jpeg"
-        content:
-          uploads_dir: "images"
-          width: "960"
-          height: "540"
-          resize_style: "cover"
-          mime_type: "image/jpeg"
+
 
 
 sass:
