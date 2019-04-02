@@ -99,7 +99,7 @@ defaults:
           resize_style: "cover"
           mime_type: "image/jpeg"
         icon_image:
-          uploads_dir: "images"
+          uploads_dir: "images/ikon"
           width: "75"
           height: "75"
           resize_style: "cover"
@@ -126,7 +126,7 @@ defaults:
           resize_style: "cover"
           mime_type: "image/jpeg"
         icon_image:
-          uploads_dir: "images"
+          uploads_dir: "images/ikon"
           width: "75"
           height: "75"
           resize_style: "cover"
