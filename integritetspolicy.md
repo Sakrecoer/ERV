@@ -2,6 +2,7 @@
 title: Integritets Policy
 date: 2019-04-02 00:01:00 +0200
 descrtiption: 'På En Renare Vardag AB bryr vi oss om dig och alla våra kunder.'
+sitemap: false
 ---
 # {{ page.title }}
 ## Syfte
