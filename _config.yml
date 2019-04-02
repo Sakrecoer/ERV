@@ -59,11 +59,25 @@ defaults:
       path: ""
     values:
       layout: "default"
+      _options:
+        image:
+          uploads_dir: "images"
+          width: "960"
+          height: "540"
+          resize_style: "cover"
+          mime_type: "image/jpeg"
+        content:
+          uploads_dir: "images"
+          width: "960"
+          height: "540"
+          resize_style: "cover"
+          mime_type: "image/jpeg"
   -
     scope:
       type: "posts"
     values:
       layout: "post"
+  -
 
 sass:
     sass_dir: /assets/sass/
