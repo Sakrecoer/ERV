@@ -2,12 +2,12 @@
 title: Kontorstädning i Stockholm
 description: "En Renare Vardag erbjuder konstorsstädning som kan få ditt företag att skina genom att eliminera all smuts som har lämnats kvar när ljusen släckts. Hör av dig och boka ett kostnadsfritt möte."
 image: /images/kontor-1.jpg
-permalink: /foretag/:name/
+permalink: /foretag/kontorstadning/
 layout: generic
 menutitle: Kontorstädning
 framsida: true
 hubspot: '?v_lj_tj_nst=Kontorstädning'
-icon: /images/ikon/kontor-ikon.png
+icon_image: /images/ikon/kontor-ikon.png
 ---
 ## Vill du att ditt kontor glänser när du tänder ljuset på morgonen?
 

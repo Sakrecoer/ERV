@@ -7,7 +7,7 @@ layout: generic
 menutitle: Fönsterputs
 framsida: false
 hubspot: 
-icon: 
+icon_image: 
 ---
 ## Håller du med oss att fönsterputsning är svårt och tidskrävande?
 

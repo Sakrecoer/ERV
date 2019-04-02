@@ -7,7 +7,7 @@ layout: generic
 menutitle: Hemstädning
 framsida: true
 hubspot: '?v_lj_tj_nst=Hemstädning'
-icon: /images/ikon/hem-ikon.png
+icon_image: /images/ikon/hem-ikon.png
 ---
 ## Tack vare RUT-avdraget så har hemstädning blivit mer tillgängligt för en större skara människor. 
 
