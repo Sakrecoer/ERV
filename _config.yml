@@ -86,6 +86,7 @@ defaults:
     scope:
       type: "foretag"
     values:
+      layout: generic
       _options:
         image:
           uploads_dir: "images"
@@ -113,6 +114,7 @@ defaults:
     scope:
       type: "privat"
     values:
+      layout: generic
       _options:
         image:
           uploads_dir: "images"
