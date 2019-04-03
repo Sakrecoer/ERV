@@ -1,7 +1,7 @@
 ---
 title: Butikstädning i Stockholm
 description: "Vi på En Renare Vardag AB erbjuder butikstädning av högsta standard i Storstockholm. Hör av dig och boka ett kostnadsfritt möte."
-image: /images/clark-street-mercantile-33931-unsplash.jpg
+image: /images/anastasia-dulgier-1155331-unsplash.jpg
 permalink: /foretag/butikstadning/
 layout: generic
 menutitle: Butikstädning
