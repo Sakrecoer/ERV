@@ -1,7 +1,7 @@
 ---
 title: "Storstädning och visningsstädning i Stockholm"
 description: "En Renare Vardag AB erbjuder kvalitativ storstädning och visningsstädning till privatpersoner i Storstockholm till ett rimligt priset."
-image: /images/aaron-huber-401200-unsplash.jpg
+image: /images/hemstad-1.jpg
 permalink: /privat/:name/
 layout: generic
 menutitle: Storstädning

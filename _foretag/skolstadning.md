@@ -1,7 +1,7 @@
 ---
 title: Skolstädning i Stockholm
 description: "En renare vardag hjälper er att vistas i en ren och fräsch skolmiljö som ger ökat trivsel för elever och personal med högkvalitativ städning. Hör av dig och boka ett kostnadsfritt möte."
-image: /images/moren-hsu-359121-unsplash.jpg
+image: /images/sko.jpg
 permalink: /foretag/skolstadning/
 layout: generic
 menutitle: Skolstädning

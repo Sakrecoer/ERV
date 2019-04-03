@@ -1,7 +1,7 @@
 ---
 title: "Hemstädning i Stockholm"
 description: "En Renare Vardag har stor erfarenhet inom hemstädning och vi underlättar många människors vardag i Storstockholm genom att sköta städningen åt dem."
-image: /images/aaron-burden-133359-unsplash.jpg
+image: /images/hemstad-1.jpg
 permalink: /privat/:name/
 layout: generic
 menutitle: Hemstädning

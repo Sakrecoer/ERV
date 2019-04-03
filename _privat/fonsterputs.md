@@ -1,7 +1,7 @@
 ---
 title: "Fönsterputsning i Stockholm"
 description: "Vi på En Renare Vardag erbjuder duktiga fönsterputsare i Storstockholm som kan göra jobbet åt er."
-image: /images/jason-hafso-1292128-unsplash.jpg
+image: /images/fonsterputs.jpg
 permalink: /privat/:name/
 layout: generic
 menutitle: Fönsterputsning

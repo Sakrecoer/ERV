@@ -1,7 +1,7 @@
 ---
 title: Fönsterputs i Stockholm
 description: "Vi på En Renare Vardag utför fönsterputsning åt företag i Storstockholm med proffesionalism och hög kvalité. Hör av dig och boka ett kostnadsfritt möte."
-image: /images/daniel-von-appen-268726-unsplash.jpg
+image: /images/fonster-1.jpg
 permalink: /foretag/fonsterputs/
 layout: generic
 menutitle: Fönsterputs
