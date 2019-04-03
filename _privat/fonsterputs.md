@@ -1,7 +1,7 @@
 ---
 title: "Fönsterputsning i Stockholm"
 description: "Vi på En Renare Vardag erbjuder duktiga fönsterputsare i Storstockholm som kan göra jobbet åt er."
-image: /images/london-wood-co-1215836-unsplash.jpg
+image: /images/jason-hafso-1292128-unsplash.jpg
 permalink: /privat/:name/
 layout: generic
 menutitle: Fönsterputsning
@@ -35,5 +35,5 @@ icon_image: /images/ikon/fonster-ikon.png
 
 * Ja. Våran anställda tar med allt som de behöver till fönsterputsning. Kan jag betala kontant? Vi tar endast emot betalning via faktura – e-faktura i pdf-format via e-post (kostnadsfritt), eller pappersfaktura (35kr/faktura).
 
-## Boka nu
+
 

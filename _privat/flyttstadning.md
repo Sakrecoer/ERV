@@ -118,4 +118,4 @@ Från och med den första 1 juli 2009 kan privatpersoner få skattereduktion gen
 
 Efter 1 januari 2016 har regeringen fattat beslut att summan sänks från 50 000kr till 25 000kr per person med 50% skattereduktion för Rut-avdrag och för enkla städning.
 
-## Boka nu
+
