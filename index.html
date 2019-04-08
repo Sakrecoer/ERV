@@ -6,9 +6,9 @@ image: '/images/erv.jpg'
 
 {% include banner.html %}
 {% include bokamera.html %}
-<iframe src="https://widget.reco.se/v2/widget/3673336?mode=HORIZONTAL_QUOTE" width="100%" height="225" scrolling="no" style="border:0;display:block;" data-reactroot=""></iframe>
+<iframe src="https://widget.reco.se/v2/widget/3673336?mode=HORIZONTAL_QUOTE" width="100%" height="225" scrolling="no" style="border:0;display:block;margin-top:20px;" data-reactroot=""></iframe>
 							<!-- Section Foretag -->
-								<section>
+								<section style="background-color: #fff;padding: 10px;margin-top:20px;">
 									<header class="major">
 										<h2>Våra tjänster för företag</h2>
 									</header>
@@ -27,7 +27,7 @@ image: '/images/erv.jpg'
                 </section>
                 
                 							<!-- Section Privat -->
-								<section>
+								<section style="background-color: #fff;padding: 10px;margin-top:20px;">
                     <header class="major">
                       <h2>Våra tjänster för privatpersoner</h2>
                     </header>
@@ -47,6 +47,26 @@ image: '/images/erv.jpg'
                   </section>
 
 							<!-- Section -->
+              <section style="padding: 10px;margin-top:20px;">
+									<header class="major">
+										<h2>Formulär</h2>
+									</header>
+                  <div style="border-radius:3px;" class="flex">
+                      <div class="item" style="padding:10px;">
+                          
+                          <div class="item-child">
+                              
+                    {% include homebrewform.html %}
+                          </div>
+                  
+                        </div>
+      
+                    </div>
+                  
+								</section>
+
+                  
+							<!-- Section -->
 								<section>
 									<header class="major">
 										<h2>Vi är En Renare Vardag</h2>
@@ -54,7 +74,7 @@ image: '/images/erv.jpg'
 									<div class="posts">
 {% for post in site.posts %}
 										<article>
-											<a href="{{ post.url }}" class="image"><img src="{{ post.image }}" alt="" /></a>
+											<a href="{{ post.url }}" class="image"><img src="{{ post.image }}" alt="{{ post.title }}" /></a>
 											<h3>{{ post.title }}</h3>
 											<p>{{ post.description }}</p>
 											<ul class="actions">
