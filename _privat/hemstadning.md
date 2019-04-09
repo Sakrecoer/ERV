@@ -1,13 +1,13 @@
 ---
 title: "Hemstädning i Stockholm"
-description: "En Renare Vardag har stor erfarenhet inom hemstädning och vi underlättar många människors vardag i Stockholm genom att sköta städningen åt dem."
-image: /images/aaron-huber-401200-unsplash.jpg
+description: "En Renare Vardag har stor erfarenhet inom hemstädning och vi underlättar många människors vardag i Storstockholm genom att sköta städningen åt dem."
+image: /images/hemstad-1.jpg
 permalink: /privat/:name/
 layout: generic
 menutitle: Hemstädning
 framsida: true
 hubspot: '?v_lj_tj_nst=Hemstädning'
-icon: /images/ikon/hem-ikon.png
+icon_image: /images/ikon/hem-ikon.png
 ---
 ## Tack vare RUT-avdraget så har hemstädning blivit mer tillgängligt för en större skara människor. 
 
@@ -163,4 +163,4 @@ Var gärna hemma vid första städtillfället och se att du blir nöjd med resul
 Från och med den första 1 juli 2009 kan privatpersoner få skattereduktion genom fakturamodellen. Det innebär att du som kund betalar hälften av arbetskostnaden till den som utför arbetet. För att du ska kunna utnyttja fakturamodellen krävs att företaget som anlitas har F-skattsedel. När arbetet är utfört begär företaget resten av arbetsersättningen av Skatteverket. Följande år står det förtryckt i din inkomstdeklaration hur stort belopp du har fått i preliminär skattereduktion. Du får upp till 50 000 kronor i skattereduktion. Är ni två blir maxavdraget 100 000 konor. Dock kan avdraget aldrig bli större än det belopp som du/ni ska betala i slutlig skatt.
 Efter 1 januari 2016 har regeringen fattat beslut att summan sänks från 50 000kr till 25 000kr per person med 50% skattereduktion för Rut-avdrag och för enkla städning.
 
-## Boka nu
+

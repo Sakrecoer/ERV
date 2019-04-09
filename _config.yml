@@ -12,22 +12,25 @@ google_analytics_key:
 logo: /siteicon.png
 description: 'Din städfirma i Stockholm - Vår service betyder omtanke'
 author:
-  name: 
-  email:
-  twitter: # twitter username without the @ symbol
+  name: En Renare Vardag AB
+  email: info@enrenarevardag.se
+#  twitter: # twitter username without the @ symbol
+feed:
+  path: rss.xml
 social:
   name: En Renare Vardag AB
   links:
     - https://www.facebook.com/enrenarevardagAB/
     - https://www.linkedin.com/company/en-renare-vardag-i-stockholm-ab
     - https://www.instagram.com/enrenarevardag/
+lang: sv_SE
 
 # -----
 # Build
 
-timezone: Etc/UTC
+timezone: "Europe/Stockholm"
 
-permalink: /:categories/:title/
+permalink: /:categories/:year/:month/:day/:slug/
 
 plugins:
   - jekyll-sitemap
@@ -42,8 +45,6 @@ exclude:
   - LICENCE
 
 collections:
-  staff_members:
-    _hide_content: true
   foretag:
     output: true
     permalink: /foretag/:name/
@@ -52,10 +53,6 @@ collections:
     output: true
     permalink: /privat/:name/
     layout: generic
-  oldpages:
-    output: true
-    permalink: /:name/
-
 
 
 defaults:
@@ -69,6 +66,77 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+  -
+    scope:
+      type: "pages"
+    values:
+      _options:
+        image:
+          uploads_dir: "images"
+          width: "960"
+          height: "540"
+          resize_style: "cover"
+          mime_type: "image/jpeg"
+        content:
+          uploads_dir: "images"
+          width: "960"
+          height: "540"
+          resize_style: "cover"
+          mime_type: "image/jpeg"
+  -
+    scope:
+      type: "foretag"
+    values:
+      _options:
+        image:
+          uploads_dir: "images"
+          width: "960"
+          height: "540"
+          resize_style: "cover"
+          mime_type: "image/jpeg"
+        content:
+          uploads_dir: "images"
+          width: "960"
+          height: "540"
+          resize_style: "cover"
+          mime_type: "image/jpeg"
+        icon_image:
+          uploads_dir: "images/ikon"
+          width: "75"
+          height: "75"
+          resize_style: "cover"
+          mime_type: "image/png"
+        layout:
+          hidden: true
+        permalink:
+          hidden: true
+  -
+    scope:
+      type: "privat"
+    values:
+      _options:
+        image:
+          uploads_dir: "images"
+          width: "960"
+          height: "540"
+          resize_style: "cover"
+          mime_type: "image/jpeg"
+        content:
+          uploads_dir: "images"
+          width: "960"
+          height: "540"
+          resize_style: "cover"
+          mime_type: "image/jpeg"
+        icon_image:
+          uploads_dir: "images/ikon"
+          width: "75"
+          height: "75"
+          resize_style: "cover"
+          mime_type: "image/png"
+        layout:
+          hidden: true
+        permalink:
+          hidden: true
 
 sass:
     sass_dir: /assets/sass/

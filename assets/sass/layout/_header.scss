@@ -10,8 +10,9 @@
 		@include vendor('display', 'flex');
 		border-bottom: solid 5px _palette(accent);
 		padding: 1em 0 1em 0;
-		position: relative;
-
+    position: relative;
+    margin-top: 35px;
+    background-color: #fff;
 		> * {
 			@include vendor('flex', '1');
 			margin-bottom: 0;
@@ -21,11 +22,13 @@
 			border-bottom: 0;
 			color: inherit;
 			font-family: _font(family-heading);
-			font-size: 1.125em;
+      font-size: 1.125em;
+      padding-left: 20px;
 		}
 
 		.icons {
-			text-align: right;
+      text-align: right;
+      margin-right: 20px;
 		}
 
 		@include breakpoint('<=xlarge') {

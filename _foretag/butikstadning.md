@@ -1,13 +1,13 @@
 ---
 title: Butikstädning i Stockholm
-description: "Vi på En Renare Vardag AB erbjuder butikstädning av högsta standard i Storstockholm. Boka en provstädning idag och se vad dina kunder säger!"
-image: /images/clark-street-mercantile-33931-unsplash.jpg
-permalink: /foretag/:name/
+description: "Vi på En Renare Vardag AB erbjuder butikstädning av högsta standard i Storstockholm. Hör av dig och boka ett kostnadsfritt möte."
+image: /images/butik.jpg
+permalink: /foretag/butikstadning/
 layout: generic
 menutitle: Butikstädning
 framsida: true
 hubspot: '?v_lj_tj_nst=Butikstädning'
-icon: images/ikon/butik-ikon.png
+icon_image: /images/ikon/butik-ikon.png
 ---
 ## Visst är det viktigt med en ren och fräsch lokal, butik för att du och dina kunder ska trivas? 
 

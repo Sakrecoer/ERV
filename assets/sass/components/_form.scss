@@ -23,11 +23,13 @@
 	input[type="email"],
 	input[type="tel"],
 	input[type="search"],
-	input[type="url"],
+  input[type="url"],
+  input[type="number"],
+  input[type="date"],
 	select,
 	textarea {
 		@include vendor('appearance', 'none');
-		background: _palette(bg);
+		background: _palette(bg-alt);
 		border-radius: _size(border-radius);
 		border: none;
 		border: solid 1px _palette(border);
@@ -78,7 +80,9 @@
 	input[type="email"],
 	input[type="tel"],
 	input[type="search"],
-	input[type="url"],
+  input[type="url"],
+  input[type="number"],
+  input[type="date"],
 	select {
 		height: _size(element-height);
 	}
@@ -109,7 +113,7 @@
 			position: relative;
 
 			&:before {
-				background: _palette(bg);
+				background: _palette(bg-alt);
 				border-radius: _size(border-radius);
 				border: solid 1px _palette(border);
 				content: '';

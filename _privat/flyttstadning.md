@@ -1,13 +1,13 @@
 ---
 title: Flyttstädning i Stockholm
-description: "En Renare Vardag erbjuder högkvalitativ flyttstädning till privatpersoner i Stockholm och Solna"
-image: /images/erda-estremera-581452-unsplash.jpg
+description: "En Renare Vardag erbjuder högkvalitativ flyttstädning till privatpersoner i Storstockholm."
+image: /images/flytt-1.jpg
 permalink: /privat/flyttstadning/
 layout: generic
 menutitle: Flyttstädning
 framsida: true
 hubspot: '?v_lj_tj_nst=Flyttstädning'
-icon: /images/ikon/flytt-ikon.png
+icon_image: /images/ikon/flytt-ikon.png
 ---
 
 ## Flyttstädning i Stockholm och Solna 
@@ -118,4 +118,4 @@ Från och med den första 1 juli 2009 kan privatpersoner få skattereduktion gen
 
 Efter 1 januari 2016 har regeringen fattat beslut att summan sänks från 50 000kr till 25 000kr per person med 50% skattereduktion för Rut-avdrag och för enkla städning.
 
-## Boka nu
+

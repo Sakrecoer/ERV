@@ -1,8 +1,10 @@
-# - name: Priser
-#   link: /pris/
-- name: Nyheter
-  link: /nyheter/
 - name: Trygghet
   link: /din-trygghet/
+#- name: Nyheter
+#  link: /nyheter/
+- name: Vanlig Frågor
+  link: /vanliga-fragor/
 - name: Jobba med oss
   link: /jobba-hos-oss/
+- name: Aktuella Erbjudanden
+  link: /nyheter/

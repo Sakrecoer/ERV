@@ -54,7 +54,7 @@
 				&:after {
 					@include vendor('transform', 'rotate(45deg)');
 					border-radius: 0.25rem;
-					border: solid 2px _palette(border);
+					border: none;// solid 2px _palette(border);
 					content: '';
 					display: block;
 					height: 7em;
