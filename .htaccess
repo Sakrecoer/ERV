@@ -11,6 +11,8 @@ Redirect 301 /flyttstadning-vasastan/ /privat/flyttstadning/
 Redirect 301 /fonsterputs-solna/ /foretag/fonsterputs/
 Redirect 301 /fonsterputs-sundbyberg/ /foretag/fonsterputs/
 Redirect 301 /fonsterputsning-solna/ /foretag/fonsterputs/
+Redirect 301 /foretag/byggstadning/ /foretag/
+Redirect 301 /foretag/hotellstadning/ /foretag/
 Redirect 301 /hemstadning-danderyd/ /privat/hemstadning/
 Redirect 301 /hemstadning-kista/ /privat/hemstadning/
 Redirect 301 /hemstadning-solna/ /privat/hemstadning/
