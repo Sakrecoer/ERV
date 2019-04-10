@@ -1,60 +1,53 @@
 ---
 title: Integritets Policy
-date: 2019-04-02 00:01:00 +0200
+date: 2019-04-10 00:01:00 +0200
 descrtiption: 'På En Renare Vardag AB bryr vi oss om dig och alla våra kunder.'
-sitemap: false
+sitemap: true
 ---
-# {{ page.title }}
-## Syfte
-Syftet med denna integritetspolicy (”Policyn”) är att informera dig om vilka personuppgifter En Renare Vardag AB samlar in från dig när du besöker vår webbplats och ger oss dina kontaktuppgifter.
+# Personuppgifter och integritetspolicy
 
-För att behandla och skydda personuppgifter på ett riktigt sätt följer vi Dataskyddsförordningen (EU) 2016/679 (GDPR) och de principer för god sed som praktiseras på området.
+**En Renare Vardag** är personuppgiftsansvarig och förvaltar Användarens personuppgifter enligt Dataskyddsförordningen (GDPR) och annan tillämplig lagstiftning. Användarens kontaktuppgifter används för att **En Renare Vardag** kunna uppfylla sina avtalsenliga förpliktelser mot denne. 
 
-Med personuppgifter menar vi ditt namn, e-postadress, telefonnummer eller annan kontaktinformation.
+Vi värnar om din personliga integritet vid behandling av dina personuppgifter och eftersträvar alltid en hög nivå av dataskydd. Denna integritetspolicy förklarar hur vi på **En Renare Vardag** samlar in och använder dina personuppgifter. Vår policy beskriver även hur vi samlar in uppgifter på ett lagligt och pålitligt sätt och den beskriver även dina rättigheter. Kontakta oss om du har frågor kring vår hantering av dina personuppgifter och hur vi arbetar med integritets- och dataskydd på nedanstående adress.
+Vi vidtar åtgärder för att säkerställa att dina personuppgifter alltid är skyddade hos oss och att behandlingen sker i enlighet med gällande dataskyddsregler och våra interna riktlinjer och rutiner.
 
-Policyn utgör inte en del av En Renare Vardag AB's Allmänna villkor utan är att betrakta som en dokumentation över En Renare Vardag AB's förhållningssätt i sekretess- och integritetsfrågor för dem som inte är kunder.
+### Vem är personuppgiftsansvarig?
+**En Renare Vardag** är personuppgiftsansvarig och kan kontaktas på följande adress:
+```
+En Renare Vardag AB
+Org nr: 556847-2038
+Adress: Storgatan 104, 171 55 Solna
+Tel: 08-660 55 55
+info@enrenarevardag.se
+```
 
-## Insamling av personuppgifter
-Att enbart besöka vår hemsida kräver inte att du lämnar någon personlig information.
+### Hur samlar vi in personuppgifter?
+Vi samlar in information som du lämnar till oss vid t.ex. att du skickar in en förfrågan om vår städtjänster.
 
-Om du kontaktar oss via formulär på webbsidan, via e-post eller telefon samlar vi in de personuppgifter som du lämnar över till oss, såsom:
-- Namn
-- E-postadress
-- Telefonnummer
-- Address
+### Vilken typ av personuppgifter samlar vi in?
+**En Renare Vardag** samlar in de personuppgifter som behövs för att kunna utföra de städtjänster.
+Personuppgifter är alla slags uppgifter som ensamt eller i kombination med andra uppgifter kan knytas till en fysisk person som är i livet. Vanliga personuppgifter är namn, personnummer och kontaktuppgifter, andra personuppgifter kan till exempel vara bilder och ljudupptagningar.
 
-Vi noterar även vilket företag du representerar.
+### Vad är ändamålet med behandlingen av dina personuppgifter?
+Dina personuppgifter kan användas för att kunna leverera en städtjänst du har bett oss om hjälp med som att få offerter eller för att skicka e-post med relevant information. Vi kan även, om du inte skriftligen har motsatt dig sådan marknadsföring, komma att använda dina personuppgifter för marknads- och kundanalyser, utveckling och förbättring av våra tjänster, riskhantering och statistik.
 
-Vi använder dina personuppgifter för att kommunicera med dig angående att tillhandahålla sådan tjänst som du bett om eller om våra tjänster i allmänhet.
-Vi dokumenterar all vår kommunikation med dig.
+### Närmare om dina rättigheter till rättelse, radering m.m.
+Du har rätt att gratis en gång per kalenderår få besked om vilka personuppgifter om dig som vi behandlar och hur vi behandlar dessa. Du har också rätt att begära rättelse i fråga om personuppgifter som vi behandlar om dig. Du har även rätt att bli raderad (”rätten att bli bortglömd”). Detta innebär att du kan begära radering av dina personuppgifter för de fall att datan inte längre är nödvändig för det syfte den blev insamlad för. Tänkt dock på att det kan finnas legala skyldigheter för oss som hindrar en omedelbar radering, t.ex. krav i bokförings- och skattelagstiftning.
+Vill du framföra klagomål till en tillsynsmyndighet eller undrar något annat om dina rättigheter kring personuppgifter behandlade av oss ska du vända dig till Datainspektionen /Integritetsskydds-myndigheten. Kontaktuppgifter till dem hittar du här: <https://www.datainspektionen.se>
 
-## Hur skyddar vi dina uppgifter?
-- Vi skyddar dina personuppgifter mot obehörig åtkomst eller annan behandling som inte är förenlig med GDPR.
-- Vi begränsar åtkomst till dina personuppgifter till de anställda som behöver åtkomst till dessa för att kommunicera med dig angående våra tjänster.
-- Vi delar inte dina personuppgifter med någon annan part.
-- Vi raderar eller avidentifiera personuppgifter om det inte längre är aktuellt att kommunicera med dig angående våra tjänster.
+### Hur länge sparar vi dina personuppgifter?
+Vi sparar din data endast så länge som det är nödvändigt för att utföra våra avtalsenliga åtaganden gentemot dig och så länge det krävs enligt lagstadgade lagringstider. När vi sparar din data för andra syften än för våra avtalsenliga åtaganden, t.ex. för att uppfylla krav på bokföring och andra regulatoriska kapitalkrav, sparar vi dina personuppgifter endast så länge som det är nödvändigt och/eller lagstadgat för respektive syfte.
 
-## Dina rättigheter
-Eftersom vi behandlar dina personuppgifter har du rätt att begära att få information om vilka personuppgifter som vi har registrerat om dig. Du har även rätt att begära att vi korrigerar eller tar bort uppgifter om dig.
+### Hur använder vi cookies?
+På våra webbsidor används cookies. En cookie är en textfil som sparas ned till din enhet så att hemsidan kan känna igen din enhet. Denna cookie innehåller ingen personinformation. Det finns två typer av cookies, permanenta och temporära (så kallade sessionscookies).
+Permanenta cookies lagras som en fil på din enhet under en längre period, medan temporära/sessionscookies är temporärt placerade på din enhet och används bara under den tid du surfar på sidan och försvinner därefter.
 
-Om du vill utöva dina rättigheter enligt ovan skall du begära det skriftligen, kontaktuppgifter nedan, med uppgivande av namn, adress och e-postadress.
-En Renare Vardag AB kommer att behandla förfrågningar enligt ovan skyndsamt och vi kommer återkomma med svar inom 30 dagar från den dag vi mottog förfrågan.
+Cookies används till att ge dig som besökare tillgång till olika funktioner. I en cookie är det möjligt att se/följa en användares surfande och vi använder cookies för att administrera och anpassa dina besök i våra onlinetjänster samt erbjuda tillgång till särskilt utvalda delar i våra onlinetjänster. Vi använder även cookies på vår webbsida för att vi ska kunna föra statistik över vad som beställs och hur mycket webben används i sin helhet.
+Om du vill veta när din enhet tar emot en cookie, kan du ställa in din webbläsare så att den meddelar dig om det. På så vis har du möjlighet att acceptera eller avvisa en cookie. Din enhet kan också ställas in så att den avvisar samtliga cookies. För det fall du väljer att inte acceptera cookies, vänligen notera att vissa funktioner i våra onlinetjänster inte längre kommer att fungera såsom avsett.
 
-För att avsluta prenumeration på meddelanden avseende våra tjänster och produkter kan du svara på meddeleande du fått av oss eller maila: webmaster@enrenarevardag.se
+Senaste versionen: {{ page.date | date: '%Y-%m-%d' }}
 
-Om vi inte bifaller din begäran, oavsett skäl, kan du klaga hos Datainspektionen, datainspektionen@datainspektionen.se
+<br />
+<iframe src="https://widget.reco.se/v2/widget/3673336?mode=HORIZONTAL_QUOTE" width="100%" height="225" scrolling="no" style="border:0;display:block;margin-top:20px;" data-reactroot=""></iframe>
 
-## Ändringar i Policyn
-En Renare Vardag AB förbehåller sig rätten att göra ändringar i denna Policy när som helst i tiden i den utsträckning ändringarna är nödvändiga för att uppfylla legala eller tekniska krav. Alla ändringar av denna Policy kommer att publiceras på webbplatsen. Datumet för senaste ändring publiceras sist på denna sida.
-
-## Kontaktuppgifter
-Om du har några frågor vänligen kontakta vår Data Policy Officer via e-post på webmaster@enrenarevardag.se eller via post 
-
-**En Renare Vardag AB,** <br />
-Storgatan 104 B, <br />
-171 55 Solna<br />
-Org nr: **556847-2038**
-
-Senaste versionen: {{ page.date }}
-
-<br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br />
