@@ -5,7 +5,7 @@ description: >-
   högsta krav när det gäller säkerhet och ansvarsfrågor.
 date: 2016-05-03 18:45:00 +0200
 layout: generic
-image: /images/erv.jpg
+image: /images/trygghet-mitten2-538d907e2a6b22099a1eb5b5.jpg
 permalink: /din-trygghet/
 ---
 
