@@ -1,7 +1,10 @@
 ---
 title: Kontorstädning i Stockholm
-description: "En Renare Vardag erbjuder konstorsstädning som kan få ditt företag att skina genom att eliminera all smuts som har lämnats kvar när ljusen släckts. Hör av dig och boka ett kostnadsfritt möte."
-image: /images/kontor-1.jpg
+description: >-
+  En Renare Vardag erbjuder konstorsstädning som kan få ditt företag att skina
+  genom att eliminera all smuts som har lämnats kvar när ljusen släckts. Hör av
+  dig och boka ett kostnadsfritt möte.
+image: /images/intro-2.jpg
 permalink: /foretag/kontorstadning/
 layout: generic
 menutitle: Kontorstädning
@@ -9,6 +12,7 @@ framsida: true
 hubspot: '?v_lj_tj_nst=Kontorstädning'
 icon_image: /images/ikon/kontor-ikon.png
 ---
+
 ## Vill du att ditt kontor glänser när du tänder ljuset på morgonen?
 
 Vi erbjuder kontorsstädning du kan lita på. Vår specialiserade kontorsstädnings- service kan få ditt företag att skina genom att eliminera all smuts som har lämnats kvar när ljusen släckts. Vår städservice är skräddarsydd för att passa dina behov.
@@ -17,7 +21,7 @@ Vi erbjuder kontorsstädning du kan lita på. Vår specialiserade kontorsstädn
 
 ## Vad ingår i en kontorstädning?
 
-### Kontorsrum, Kontorslandskap, Konferensrum, Korridorer, Entré & Reception**
+### Kontorsrum, Kontorslandskap, Konferensrum, Korridorer, Entré & Reception\*\*
 
 * Tömning av papperskorgar.
 * Avtorkning av fria ytor på skrivbord.
@@ -63,10 +67,8 @@ Vi erbjuder kontorsstädning du kan lita på. Vår specialiserade kontorsstädn
 
 Upprättas i samband med jobb start och samråd med kund för att åstadkomma det bästa resultat.
 
-
 ### Städmaterial
+
 * En städ vagn med tillhörande utrustning hyrs till kund. (Frivilligt)
 * En dammsugare  hyrs till kund. (Frivilligt)
 * Alla medel som används i kontoret är Svanesmärkta och miljömärkta.
-
-
