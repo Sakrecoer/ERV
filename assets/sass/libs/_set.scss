@@ -42,3 +42,13 @@
  flex: 0 0 100%;
 }
 #boka { display:none; }
+
+#offert {
+  color: #000;
+  position:fixed; 
+  bottom:20px; left:15px; 
+  text-align: center; 
+  z-index: 100; 
+  width:100px;
+  height: 35px;
+}
