@@ -70,11 +70,17 @@
   <div id="numberalways">
     <a href="tel:+4686605555">08-660 55 55</a> | <a href="mailto:info@enrenarevardag.se">info@enrenarevardag.se</a>
   </div>
+  {% if page.collection == 'privat' %}
+  {% elsif page.collection == 'foretag' %}
+  {% elsif page.url == '/foretag/' %}
+  {% elsif page.url == '/privat/' %}
+  {% else %}
   <div id="offert">
     <ul class="actions">
       <li><a href="/boka/{{ page.hubspot }}" class="button primary small knap">Begär Offert</a></li>
     </ul>
   </div>
+  {% endif %}
 </body>
 
 </html>
