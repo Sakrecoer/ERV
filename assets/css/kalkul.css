@@ -1,0 +1,728 @@
+
+.inner {
+    width: 700px;
+}
+
+
+#my_price_form {
+
+    width: 100%;
+
+    margin: 0 auto;
+
+    background: #efefef;
+
+    text-align: center;
+
+    border-top-right-radius: 5px;
+
+    border-top-left-radius: 5px;
+
+    border-bottom-right-radius: 5px;
+
+    border-bottom-left-radius: 5px;
+
+}
+
+.find-price {
+
+    padding: 25px;
+
+    background: #efefef;
+
+}
+
+.my-price-pre-text h2 {
+
+    padding: 0;
+
+    margin: 0px;
+
+    font-size: 19px;
+
+    font-family: Arial, Helvetica, sans-serif;
+
+    line-height: 30px;
+
+    text-transform: uppercase;
+
+    color: #59862a;
+
+}
+
+
+
+.my-price-pre-text {
+
+  /*float: left;*/
+
+}
+
+
+
+#calculate_price {
+
+  background: #b8c975;
+
+  width: auto;
+
+  border: none;
+
+  color: #1e5d26;
+
+  height: 35px;
+
+  box-shadow: 1px 1px 5px 0px rgba(0, 0, 0, 0.75);
+
+  border-radius: 5px;
+
+  font-size: 20px;
+
+  text-transform: uppercase;
+
+  font-weight: 500;
+
+}
+
+#calculate_price:hover {
+
+  background: #1e5d26;
+
+  color: #fff;
+
+}
+
+
+.my-price-pre-text h2 {
+
+  padding: 0;
+
+  margin: 0px;
+
+  font-size: 19px;
+
+  font-family: Arial, Helvetica, sans-serif;
+
+  line-height: 30px;
+
+  text-transform: uppercase;
+
+  color: #59862a;
+
+}
+
+.my-price-pre-text p {
+
+  padding: 0;
+
+  padding-left: 13px;
+
+  margin: 0px;
+
+  font-size: 0px;
+
+  color: #808080;
+
+}
+
+
+.find-price {
+
+  padding: 25px;
+
+}
+
+.kvm,
+
+.rok, .wcheck , .rokw{
+
+  position: relative;
+
+  border: 1px solid #969696;
+
+  border-width: 1px 0 0 1px;
+
+  float: left;
+
+  margin: 0 20px;
+
+}
+
+
+
+
+
+.kvm label,
+
+.rok label, .rokw label {
+
+  text-align: center;
+
+  position: absolute;
+
+  top: -12px;
+
+  left: 23px;
+
+  height: 35px;
+
+  line-height: 57px;
+
+  color: #808080;
+
+  cursor: text;
+
+  font-size: 13px;
+  
+   font-family: "Calibri", Verdana, Geneva, sans-serif;
+
+
+}
+.rok_kvm{
+    margin: auto;
+}
+
+#kvm,
+
+#rok, #wcheck {
+
+  height: 35px;
+
+  
+
+  line-height: 35px;
+
+  border: 1px solid #dcdcdc;
+
+  border-width: 1px 0 0 1px;
+
+  font-size: 13px;
+  
+ font-family: "Calibri", Verdana, Geneva, sans-serif;
+
+  color: #808080;
+
+  text-align: center;
+
+  width: 130px;
+
+  border-radius: 0;
+
+}
+ #wcheck {width: 100%;}
+#kvm select:invalid, #wcheck select:invalid { color: white; }
+
+
+.calculate {
+
+  background-color: #b8c975;
+
+  border-radius: 5px;
+
+  display: inline-block;
+
+  color: #000;
+
+  font-size: 18px;
+
+  text-transform: uppercase;
+
+  height: 35px;
+
+  line-height: 35px;
+
+  width: 150px;
+
+  text-decoration: none;
+
+  text-align: center;
+
+  text-shadow: 0px 2px 4px #689324;
+
+}
+
+
+.calculate:hover {
+
+  background-color: #8cb82b;
+
+}
+
+.calculate:active {
+
+  position: relative;
+
+  top: 1px;
+
+}
+
+#show_price {
+
+  margin-top: 10px;
+
+  display: none;
+
+  clear: both;
+
+  position: relative;
+
+  border-top-right-radius: 5px;
+
+  border-top-left-radius: 5px;
+
+  border-bottom-right-radius: 5px;
+
+  border-bottom-left-radius: 5px;
+
+}
+
+#close {
+
+  position: absolute;
+
+  top: 0px;
+
+  right: 20px;
+
+  cursor: pointer;
+
+  color: #bbb;
+
+  font-size: 12px;
+
+  font-weight: bold;
+
+  text-shadow: 0 1px 0 #ffffff;
+
+}
+
+.paket-wrapper {
+
+  text-align: left;
+
+  clear: both;
+
+  width: 100%;
+
+  padding: 0 10px;
+
+  border-top-right-radius: 5px;
+
+  border-top-left-radius: 5px;
+
+  border-bottom-right-radius: 5px;
+
+  border-bottom-left-radius: 5px;
+
+}
+
+.paket-wrapper td {
+
+  padding: 10px 10px 4px 10px;
+
+  height: 30px;
+
+  /* line-height:30px;*/
+
+  overflow: hidden;
+
+}
+
+
+.paket-wrapper h5 {
+
+  font-family: Arial, Helvetica, sans-serif;
+
+  margin: 0;
+
+  font-size: 19px;
+
+  padding: 0;
+
+  line-height: 30px;
+
+  color: #59862a;
+
+}
+
+
+.paket-wrapper .price {
+
+  font-size: 25px;
+
+  color: #e13b2b;
+
+  font-family: 'CalibriBold', Verdana, Geneva, sans-serif;
+
+  text-align: left;
+
+  display: block;
+
+}
+
+
+.paket-wrapper .las-mer {
+
+  white-space: nowrap;
+
+  font-size: 14px;
+
+  text-transform: uppercase;
+
+  width: 60px;
+
+  color: #E13B2B;
+
+  font-family: "Calibri", Verdana, Geneva, sans-serif;
+
+}
+
+.raknareEller {
+
+  font-family: Arial, Helvetica, sans-serif;
+
+  color: #808080;
+
+}
+
+.raknareIkon2 {
+
+  height: 35px;
+
+  width: 35px;
+
+}
+
+.paket-wrapper .disclaimer {
+
+  text-align: left;
+
+  font-size: 11px;
+
+  line-height: 15px;
+
+}
+
+.paket-wrapper .border {
+
+  padding: 0;
+
+  height: 1px;
+
+  border-bottom: 1px dashed #FFF;
+
+}
+
+.paket-wrapper img {
+
+  float: right;
+
+}
+
+.paket-wrapper .intresse-btn-small {
+
+  font-size: 14px;
+
+  text-transform: uppercase;
+
+  height: 23px;
+
+  line-height: 23px;
+
+  padding: 0 20px;
+
+  border-radius: 4px;
+
+  color: #000;
+
+  background: #b8c975;
+
+  text-decoration: none;
+
+  display: block;
+
+  float: left;
+
+  margin-top: 4px;
+
+  font-weight: normal;
+
+}
+
+a.go-back {
+
+  color: #1e5d26;
+
+  font-size: 16px;
+
+  margin-bottom: 20px;
+
+  margin-left: 5px;
+
+  display: block;
+
+}
+
+button.submit-form {
+
+  background: #b8c975;
+
+  color: #fff;
+
+}
+
+button.submit-form p {
+
+  display: none;
+
+}
+
+a.pris-knapp {
+
+  background: #b8c975;
+
+  padding: 13px 30px;
+
+  border-radius: 10px;
+
+  border: none;
+
+  margin: 0 auto;
+
+  margin-top: 30px;
+
+  width: 250px;
+
+  color: #1e5d26;
+
+  box-shadow: 1px 1px 5px 0px rgba(0, 0, 0, 0.75);
+
+}
+
+a.pris-knapp:hover {
+
+  background: #1e5d26;
+
+  color: #fff;
+
+}
+
+.kontorh1 {
+
+  font-size: 27px !important;
+
+}
+
+em {
+
+  font-style: normal;
+
+  color: red;
+
+}
+
+.intresse-btn-small {
+
+  cursor: pointer;
+
+}
+
+.bil-img {
+
+  text-align: center;
+
+}
+
+.hello-h3 {
+
+  color: #1e5d26;
+
+  font-size: 52px;
+
+  font-family: 'Cookie';
+
+  text-align: center;
+
+}
+
+
+
+p.rek {
+
+  margin: 0 auto;
+
+  text-align: center;
+
+}
+
+p.rek img {
+
+  max-width: 110px;
+
+}
+
+.content-box-white p a:hover {
+
+  text-decoration: underline;
+
+}
+
+
+@media (max-width: 768px) {
+
+  
+  .my-price-pre-text {
+
+    float: none;
+   
+
+    padding-left: 0;
+
+  }
+  .inner {
+      width: auto;
+  }
+
+
+  #calculate_price {
+
+
+    width: 170px;
+
+  }
+  
+  .kvm, .rok, .wcheck, .rokw {
+
+    margin: 0 10px;
+    /*width: 90px;*/
+
+  }
+   #calculate_price {
+
+
+   
+
+}
+
+
+
+@media (max-width: 568px) {
+
+  
+  .my-price-pre-text {
+
+    float: none;
+   
+
+    padding-left: 0;
+
+  }
+  .inner {
+      width: auto;
+  }
+
+
+  #calculate_price {
+
+
+    width: 150px;
+   
+
+  }
+
+  .kvm, .rok, .wcheck, .rokw{
+
+    margin: 0 5px;
+    width: 90px;
+
+  }
+
+  #kvm, #rok, #wcheck {width: 90px;}
+  
+ 
+
+
+  
+
+
+}
+
+@media (max-width: 468px) {
+
+  
+  .my-price-pre-text {
+
+    float: none;
+   
+
+    padding-left: 0;
+
+  }
+  .inner {
+      width: auto;
+  }
+  .paket-wrapper .las-mer {
+    font-size: 11px;
+  }
+
+
+  #calculate_price {
+
+
+    width: 150px;
+  margin-top: 20px;
+
+  }
+  .kvm label, .rok label
+  {top: -1px;
+
+  left: 100px;
+    
+  }
+  .rokw label {
+    top: 0px;
+    left: 5px;
+  }
+
+  .kvm, .rok, .wcheck, .rokw {
+    
+    width: 100%;
+    border: 0px;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+
+  }
+
+  #kvm, #rok, #wcheck {width: 100%;
+  margin: 10px auto;}
+  
+  
+  
+  .paket-wrapper h5 {
+    font-size: 14px;
+  }
+  .paket-wrapper .price{
+    font-size: 17px;
+  }
+  .paket-wrapper .intresse-btn-small{
+    padding: 0 3px;
+    font-size: 10px;
+  }
+  
+  
+  .raknareIkon {
+    display: none;
+  }
+.paket-wrapper .border {
+    padding: 0;
+    height: 1px;
+    border-bottom: 1px dashed #dfe1df;
+}
+#close {
+    position: relative;
+    padding-right: 10px;
+}
+
+}

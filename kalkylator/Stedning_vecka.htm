@@ -1,0 +1,82 @@
+<script src="http://evgtest.de/wp-content/themes/wp53539/js/kalk.js"></script>
+<div id="my_price_form">
+      <div class="find-price">
+        <div class="my-price-pre-text">
+          <h2>RÄKNA UT HEMSTÄDNING PRISET HÄR</h2>
+          <p>Ange antal rum exkl. kök och hur stor bostaden är i kvm</p>
+        </div>
+        <div id="my_price_form">
+          <div class="rok">
+            <label for="rok">Antal rum</label>
+            <input type="text" id="rok" name="rok" value="">
+          </div>
+          <div class="kvm">
+            <label for="kvm">Antal kvm</label>
+            <input type="text" id="kvm" name="kvm" value="">
+          </div>
+          <input type="submit" id="calculate_price" class="btn btn-primary" value="SE DITT PRIS">
+        </div>
+      </div>
+    </div>
+    <div id="show_price">
+
+      <div id="close" onclick="jQuery('#show_price').hide();">stäng x</div>
+
+      <table class="paket-wrapper">
+        <tbody>
+          <tr>
+            <td class="border" colspan="6"></td>
+          </tr>
+          <tr>
+             <td class="raknareIkon hidden-xs"><img src="http://evgtest.de/wp-content/uploads/2019/04/1.png"  alt="Kostnad"></td>
+            <td class="raknareTitel"><h5>Städning per månad<span class="asterisk">*</span></h5></td>
+            <td><span id="pris_s" data-number="9" class="price"> kr</span></td>
+            <td class="raknareLasmer "><a class="las-mer" href="#">Läs mer"</a></td>
+           
+            <td><a class="intresse-btn-small hidden-xs" data-toggle="modal" data-target="#offert-modal" rel="noopener noreferrer">Offert</a></td>
+          </tr>
+          <tr>
+            <td class="border" colspan="6"></td>
+          </tr>
+          <tr>
+            <td class="raknareIkon hidden-xs"><img src="http://evgtest.de/wp-content/uploads/2019/04/2.png"  alt="Kostnad"></td>
+            <td class="raknareTitel"><h5>Städning varannan vecka<span class="asterisk">*</span></h5></td>
+            <td><span id="pris_m" data-number="10" class="price">:-</span></td>
+            <td class="raknareLasmer "><a class="las-mer" href="#">Läs mer"</a></td>
+          
+            <td><a class="intresse-btn-small hidden-xs" data-toggle="modal" data-target="#offert-modal" rel="noopener noreferrer">Offert</a></td>
+          </tr>
+          <tr>
+            <td class="border" colspan="6"></td>
+          </tr>
+          <tr>
+             <td class="raknareIkon hidden-xs"><img src="http://evgtest.de/wp-content/uploads/2019/04/3.png"  alt="Kostnad"></td>
+            <td class="raknareTitel"><h5>Städning varje vecka<span class="asterisk">*</span></h5></td>
+            <td><span id="pris_l" data-number="11" class="price">:-</span></td>
+           <td class="raknareLasmer "><a class="las-mer" href="#">Läs mer"</a></td>
+           
+            <td><a class="intresse-btn-small hidden-xs" data-toggle="modal" data-target="#offert-modal" rel="noopener noreferrer">Offert</a></td>
+          </tr>
+          <tr>
+            <td class="border" colspan="6"></td>
+          </tr>
+         
+         
+          <tr>
+            <td class="border" colspan="6"></td>
+          </tr>
+
+          <tr>
+            <td colspan="6" class="disclaimer">
+              *Priset är endast uppskattat. Du får ett exakt pris efter vi genomför ett kostnadsfritt hembesök där vi skräddarsyr efter dina behov
+              och önskemål.<br>
+              ** Vid intresse av fönsterputsning i samband med hemstädning vänligen kontakta oss på 08- 660 55 55 för priset.<br>
+              ***För priser över 200 kvm ring eller maila för offert.
+              Priset är efter skatteavdraget på 50% som vi gör åt dig direkt på fakturan.
+            </td>
+          </tr>
+        </tbody>
+      </table>
+
+
+    </div>
