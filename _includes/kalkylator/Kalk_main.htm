@@ -1,0 +1,128 @@
+<script src="/assets/js/kalk.js"></script>
+
+<div id="my_price_form">
+  <div class="find-price">
+    <div class="my-price-pre-text">
+      <h2>RÄKNA UT STÄDHJÄLP PRISET HÄR</h2>
+      <p>Ange antal rum exkl. kök och hur stor bostaden är i kvm</p>
+    </div>
+    <div id="my_price_form">
+
+      <div class="rok">
+        <label for="rok" style="display: none;">Antal rum</label>
+        <input type="text" id="rok" name="rok" placeholder="Antal rum" value="">
+      </div>
+      <div class="kvm">
+        <label for="kvm" style="display: none;">Antal kvm</label><br />
+        <input type="text" id="kvm" name="kvm" placeholder="Antal kvm" value=""><br />
+      </div>
+
+      <input type="submit" id="calculate_price" class="btn btn-primary" value="SE DITT PRIS">
+    </div>
+
+  </div>
+</div>
+<div id="show_price" style="display: none;">
+
+  <div id="close" onclick="jQuery('#show_price').hide();">stäng x</div>
+
+  <table class="paket-wrapper">
+    <tbody>
+      <tr>
+        <td class="border" colspan="6"></td>
+      </tr>
+      <tr>
+        <td class="raknareIkon hidden-xs"><img src="http://evgtest.de/wp-content/uploads/2019/04/1.png" alt="Kostnad">
+        </td>
+        <td class="raknareTitel">
+          <h5>Städning per månad<span class="asterisk">*</span></h5>
+        </td>
+        <td><span id="pris_s" data-number="9" class="price"> kr</span> kr</td>
+        <td class="raknareLasmer "><a class="las-mer" href="#">Läs mer"</a></td>
+
+        <td><a class="intresse-btn-small hidden-xs" data-toggle="modal" data-target="#offert-modal"
+            rel="noopener noreferrer">Offert</a></td>
+      </tr>
+
+      <td class="border" colspan="6"></td>
+      </tr>
+      <tr>
+        <td class="raknareIkon hidden-xs"><img src="http://evgtest.de/wp-content/uploads/2019/04/2.png" alt="Kostnad">
+        </td>
+        <td class="raknareTitel">
+          <h5>Städning varannan vecka<span class="asterisk">*</span></h5>
+        </td>
+        <td><span id="pris_m" data-number="10" class="price">:-</span></td>
+        <td class="raknareLasmer "><a class="las-mer" href="#">Läs mer"</a></td>
+
+        <td><a class="intresse-btn-small hidden-xs" data-toggle="modal" data-target="#offert-modal"
+            rel="noopener noreferrer">Offert</a></td>
+      </tr>
+      <tr>
+        <td class="border" colspan="6"></td>
+      </tr>
+      <tr>
+        <td class="raknareIkon hidden-xs"><img src="http://evgtest.de/wp-content/uploads/2019/04/3.png" alt="Kostnad">
+        </td>
+        <td class="raknareTitel">
+          <h5>Städning varje vecka<span class="asterisk">*</span></h5>
+        </td>
+        <td><span id="pris_l" data-number="11" class="price">:-</span></td>
+        <td class="raknareLasmer "><a class="las-mer" href="#">Läs mer"</a></td>
+
+        <td><a class="intresse-btn-small hidden-xs" data-toggle="modal" data-target="#offert-modal"
+            rel="noopener noreferrer">Offert</a></td>
+      </tr>
+      <tr>
+        <td class="border" colspan="6"></td>
+      </tr>
+
+      <tr>
+        <td class="border" colspan="6"></td>
+      </tr>
+      <tr>
+        <td class="raknareIkon hidden-xs"><img src="http://evgtest.de/wp-content/uploads/2019/04/5.png" width="35"
+            height="35" alt="Kostnad"></td>
+        <td class="raknareTitel">
+          <h5>Storstädning<span class="asterisk">***</span></h5>
+        </td>
+        <td><span id="flyttstadning" data-number="8" class="price">:-</span></td>
+        <td class="raknareLasmer "><a class="las-mer" href="#">Läs mer"</a></td>
+
+        <td><a class="intresse-btn-small hidden-xs" data-toggle="modal" data-target="#offert-modal"
+            rel="noopener noreferrer">Offert</a></td>
+      </tr>
+
+      <tr>
+        <td class="border" colspan="6"></td>
+      </tr>
+      <tr>
+        <td class="raknareIkon hidden-xs"><img src="http://evgtest.de/wp-content/uploads/2019/04/6.png" alt="Kostnad">
+        </td>
+        <td class="raknareTitel">
+          <h5>Flyttstädning<span class="asterisk">***</span></h5>
+        </td>
+        <td><span id="flyttstadning" data-number="7" class="price">:-</span></td>
+        <td class="raknareLasmer "><a class="las-mer" href="#">Läs mer"</a></td>
+
+        <td><a class="intresse-btn-small hidden-xs" data-toggle="modal" data-target="#offert-modal"
+            rel="noopener noreferrer">Offert</a></td>
+      </tr>
+      <tr>
+        <td class="border" colspan="6"></td>
+      </tr>
+
+      <tr>
+        <td colspan="6" class="disclaimer">
+          *Priset är endast uppskattat. Du får ett exakt pris efter vi genomför ett kostnadsfritt hembesök där vi
+          skräddarsyr efter dina behov
+          och önskemål.<br>
+
+          **För priser över 200 kvm ring eller maila för offert.
+          Priset är efter skatteavdraget på 50% som vi gör åt dig direkt på fakturan.
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+</div>

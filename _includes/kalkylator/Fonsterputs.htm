@@ -1,6 +1,4 @@
-<script src="http://evgtest.de/wp-content/themes/wp53539/js/kalk_window.js"></script>
-
-
+<script src="/assets/js/kalk_window.js"></script>
 
 <div id="my_price_form"> 
       <div class="find-price">
@@ -10,8 +8,8 @@
         </div>
         <div id="my_price_form">
           <div class="rokw">
-            <label for="rokw">Antal rum</label>
-            <input type="text" id="rok" name="rok" value="">
+            <label for="rokw" style="display: none;">Antal rum</label>
+            <input type="text" id="rok" name="rok" placeholder="Antal rum" value="">
           </div>
           <div class="kvm">
             <select id="kvm" class="js-example-basic-single">
@@ -34,8 +32,7 @@
         </div>
       </div>
     </div>
-    <div id="show_price">
-
+    <div id="show_price" style="display: none;">
       <div id="close" onclick="jQuery('#show_price').hide();">stäng x</div>
 
       <table class="paket-wrapper">
