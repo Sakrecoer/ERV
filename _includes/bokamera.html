@@ -13,9 +13,9 @@
     <div class="item" style="padding:10px;">
         <div class="item-staticchild">
             
-          <h3 id="booknow" class="editable">Hos oss får du alltid pris garanti</h3>
-            <p class="editable">Vi matchar v&aring;ra konkurenters offert. L&aring;t oss hj&auml;lpa dig med st&auml;dningen s&aring; kan du spendera din tid p&aring; annat.</p>
-       
+          <!-- <h3 id="booknow" class="editable">Hos oss får du alltid pris garanti</h3>
+            <p class="editable">Vi matchar v&aring;ra konkurenters offert. L&aring;t oss hj&auml;lpa dig med st&auml;dningen s&aring; kan du spendera din tid p&aring; annat.</p> -->
+            {% include /kalkylator/kalkmain.html %}
         </div>
         <div id="boka" class="item-child">
   {% if page.url != '/' %}{% include boka-form.html %}{% endif %}
