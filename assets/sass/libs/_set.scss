@@ -62,5 +62,50 @@
 }
 
 .disclaimer {
-  font-size: .7em;
+  font-size: .8em;
+}
+
+.rok, .kvm {
+  label {
+    color: #f00;
+  }
+
+}
+td.raknareLasmer {
+  @include vendor('appearance', 'none');
+  @include vendor('transition', (
+    'background-color #{_duration(transition)} ease-in-out',
+    'color #{_duration(transition)} ease-in-out'
+  ));
+  a {
+    font-size: .9em;
+    background-color: _palette(cta);
+    border-radius: 100px;
+    color: #fff;
+    padding: 0 5px 0 5px;
+    text-decoration: none;
+    border: none;
+  }
+  a:hover {
+    color: #fff !important;
+    background-color: transparentize(_palette(cta), 0.5);
+  }
+}
+a.intresse-btn-small {
+  @include vendor('appearance', 'none');
+  @include vendor('transition', (
+    'background-color #{_duration(transition)} ease-in-out',
+    'color #{_duration(transition)} ease-in-out'
+  ));
+  font-size: .9em;
+  background-color: _palette(cta);
+  border-radius: 100px;
+  color: #fff;
+  padding: 0 5px 0 5px;
+  text-decoration: none;
+  border: none;
+  &:hover {
+    color: #fff !important;
+    background-color: transparentize(_palette(cta), 0.05);
+  }
 }
