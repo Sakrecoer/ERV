@@ -17,7 +17,7 @@ Bi har infört en ny rubrik på första sidan, där du kan ta del av nyheter och
 
 #### Just nu! Rekrytera kunder åt oss och få upp till 200kr i rabbatt (inlusive rutavdrag)
 
-### Var är mina sidor?
+### Var är "Mina sidor"?
 
 I detta första skede har vi ännu inte implementerat Mina Sidor, men vi siktar mot att ha tillbaka mina sidor så fort som möjligt. Under tiden kan du kontakta kundtjänsten om du har glömt vilken tid och datum du bokat din tjänst med oss.
 
