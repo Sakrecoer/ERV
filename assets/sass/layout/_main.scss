@@ -17,7 +17,7 @@
 			max-width: 110em;
 
 			> section {
-				@include padding(20em, 0);
+				@include padding(3em, 0);
 				border-top: solid 2px _palette(border);
 
 				&:first-of-type {
