@@ -9,33 +9,34 @@
 <html>
 
 <head>
-  <title>{{ page.title }} | {{ site.title }}</title>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-  <link rel="apple-touch-icon" href="{{ site.baseurl }}/apple-touch-icon.png">
-  <link rel="icon" type="image/png" href="{{ site.baseurl }}/touch-icon.png" sizes="192x192">
-  <link rel="shortcut icon" href="/favicon.png" type="image/png" />
 
-  {% seo %}
-  {% feed_meta %}
-  {% if jekyll.environment == 'production' and site.google_analytics_key != '' %}
-  <script>
-    window.ga = window.ga || function () { (ga.q = ga.q || []).push(arguments) }; ga.l = +new Date;
-    ga('create', '{{ site.google_analytics_key }}', 'auto');
-    ga('send', 'pageview');
-  </script>
-  <script async src='https://www.google-analytics.com/analytics.js'></script>
-  {% endif %}
-  <script src="/assets/js/jquery.min.js"></script>
-  {% if jekyll.environment == 'production' %}
-  <!-- Start of HubSpot Embed Code -->
-  <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/5554697.js"></script>
-  <!-- End of HubSpot Embed Code -->
-  {% endif %}
-  <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+<link rel="apple-touch-icon" href="{{ site.baseurl }}/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="{{ site.baseurl }}/touch-icon.png" sizes="192x192">
+<link rel="shortcut icon" href="/favicon.png" type="image/png" />
 
-  <link rel="stylesheet" href="/assets/css/main.css" />
-  <link rel="stylesheet" href="/assets/css/font-awesome.min.css" />
+{% include seo.html %}
+
+{% seo %}
+{% feed_meta %}
+{% if jekyll.environment == 'production' and site.google_analytics_key != '' %}
+<script>
+  window.ga = window.ga || function () { (ga.q = ga.q || []).push(arguments) }; ga.l = +new Date;
+  ga('create', '{{ site.google_analytics_key }}', 'auto');
+  ga('send', 'pageview');
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+{% endif %}
+<script src="/assets/js/jquery.min.js"></script>
+{% if jekyll.environment == 'production' %}
+<!-- Start of HubSpot Embed Code -->
+<script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/5554697.js"></script>
+<!-- End of HubSpot Embed Code -->
+{% endif %}
+<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
+
+<link rel="stylesheet" href="/assets/css/main.css" />
+<link rel="stylesheet" href="/assets/css/font-awesome.min.css" />
 
 </head>
 
@@ -63,7 +64,7 @@
         </header>
 
         {{ content }}
-        <br /><br /><br />
+
       </div>
     </div>
     {% include sidebar.html %}
