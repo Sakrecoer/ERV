@@ -1,4 +1,4 @@
-<!-- Banner -->
+<!-- BEGIN banner.html -->
 <section id="banner" style="background-image: url({{ page.image }});background-repeat: no-repeat;background-size: cover;">
   <div class="content">
     <header style="background-color:rgba(255,255,255,0.85);margin:0 15px 0 15px; padding:10px;border-radius: 5px;">
@@ -8,7 +8,6 @@
       <ul class="actions">
         <li><a href="{% if page.url == '/' or page.url == '/kontakta-oss/' or page.url == '/din-trygghet/' or page.url == '/jobba-hos-oss/' or page.url == '/om-oss/' %}/boka/{% else %}#booknow{% endif %}" id="button" class="button primary large knap">Boka Nu</a></li>
       </ul>
-      {% else %}
 {% endif %}
 
 
@@ -20,3 +19,4 @@
   </span>
 </section>
 
+<!-- END banner.html -->

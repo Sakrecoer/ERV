@@ -109,3 +109,11 @@ a.intresse-btn-small {
     background-color: transparentize(_palette(cta), 0.05);
   }
 }
+
+#main {
+  .inner {
+    section {
+      padding-bottom: 1em; 
+    }
+  }
+}
