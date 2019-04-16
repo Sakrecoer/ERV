@@ -7,9 +7,19 @@ image: '/images/erv.jpg'
 author_staff_member: Samuel
 layout: post
 ---
-## Kära besökare, ärade kunder,
 
-Som du ser har saker och ting ändrats på denna webbplats; det är med mycket nöjje som vi på En Renare Vardag AB presenterar vår nya webbsida. Våran gamla wordpress har tjänat oss väl, men nu är dags för nya tider! Skilnaden är ganska stor men förhoppningsvis inte förvirrande. Vi har jobbat på att förbättra bokningsföldet, vi har uppdaterat våran integritets policy, och implementerat en chat där du kan hör av dig till kundtjänsten.
+## Kära besökare, ärade kund
 
-I ett första skede är det mycket möjligt att du stöter på fel. Det vorre is så fall väldigt trevligt av dig att du rapporterar dom till våran webbteknier, Set med [denna formulär.](/kontakta-oss/)
+Som du ser har saker och ting ändrats på denna webbplats; det är med mycket nöjje som vi på En Renare Vardag AB presenterar vår nya webbsida. Våran gamla wordpress har tjänat oss väl, men nu är dags för nya tider! Skilnaden är ganska stor men förhoppningsvis inte förvirrande. Vi har jobbat på bland annat att förbättra bokningsföldet, vi har uppdaterat våran [integritetspolicy,](/integritetspolicy/) och implementerat en chat där du kan höra av dig till kundtjänsten under våra öppetider.
 
+I ett första skedet är det mycket möjligt att du stöter på fel. Det vorre is så fall väldigt trevligt av dig om du rapporterar dom till våran webbtekniker, Set, med [denna formulär.](/kontakta-oss/)
+
+### Nyheter & Erbjudanden
+
+Bi har infört en ny rubrik på första sidan, där du kan ta del av nyheter och erbjudanden. Vi kommer dela med oss av diverse tips, life-hacks och så klart erbjudanden som gynnar dig som kund.
+
+#### Just nu! Rekrytera kunder åt oss och få upp till 200kr i rabbatt (inklusive rutavdrag)
+
+### Var är mina sidor?
+
+I detta första skede har vi ännu inte implementerat Mina Sidor, men vi siktar mot att ha tillbaka mina sidor så fort som möjligt. Under tiden kan du kontakta kundtjänsten om du har glömt vilken tid och datum du bokat din tjänst med oss.
