@@ -79,5 +79,5 @@ Ni kan självklart lägga till fler punkter efter egna önskemål.
 
 ## Garanti
 
-![Flyttstädning ,Stockholm, Solna](/images/ikon/nojdkund.png)<br> Vi lämnar garanti på städningen, eventuella klagomål som kan framkomma vid besiktningstillfället åtgärdas snarast av oss. Garantin gäller i 3 dagar från och med städningstillfället.
+![Flyttstädning, nöjd kund garanti](/images/ikon/nojdkund.png)<br> Vi lämnar garanti på städningen, eventuella klagomål som kan framkomma vid besiktningstillfället åtgärdas snarast av oss. Garantin gäller i 3 dagar från och med städningstillfället.
 

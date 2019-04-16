@@ -1,112 +1,119 @@
-                        <form method="post" action="{{ site.baseurl }}/contact-success/" class="cta" name="hemsida_form" id="hemgjordform">
-														<div class="row gtr-uniform">
-															<div class="col-6 col-12-xsmall">
-                                <input type="text" name="firstname" id="firstname" value="" placeholder="Förnamn" /><br />
-                                <input type="text" name="lastname" id="lastname" value="" placeholder="Efternamn" />
-															</div>
-															<div class="col-6 col-12-xsmall">
-                                <input type="email" name="email" id="email" value="" placeholder="Email" required /> <br />
-                                <input type="text" name="phone" id="phone" value="" placeholder="Phone" required />
-                              </div>
-                              <div class="col-6 col-12-xsmall">
-                                <input type="text" name="zip" id="zip" value="" placeholder="Postkod" required /> <br />
-                              </div>
-                              <div class="col-6 col-12-xsmall">
-                                <input type="text" name="address" id="address" value="" placeholder="Gatuadress" required />
-                              </div>
-                                  
+<!-- BEGIN homebrewform.html -->
+<form method="post" action="{{ site.baseurl }}/contact-success/" class="cta" name="hemsida_form" id="hemgjordform">
+  <div class="row gtr-uniform">
+    <div class="col-6 col-12-xsmall">
+      <input type="text" name="firstname" id="firstname" value="" placeholder="Förnamn" /><br />
+      <input type="text" name="lastname" id="lastname" value="" placeholder="Efternamn" />
+    </div>
+    <div class="col-6 col-12-xsmall">
+      <input type="email" name="email" id="email" value="" placeholder="Email" required /> <br />
+      <input type="text" name="phone" id="phone" value="" placeholder="Phone" required />
+    </div>
+    <div class="col-6 col-12-xsmall">
+      <input type="text" name="zip" id="zip" value="" placeholder="Postkod" required /> <br />
+    </div>
+    <div class="col-6 col-12-xsmall">
+      <input type="text" name="address" id="address" value="" placeholder="Gatuadress" required />
+    </div>
 
-															<!-- Break -->
-															<div class="col-12">
-																<select name="v_lj_tj_nst" id="v_lj_tj_nst">
-																	<option value="">- Vilken typ av städning vill du ha? -</option>
-																	<option value="Butikstädning">Butikstädning (Företag)</option>
-                                  <option value="Skolstädning">Skolstädning (Företag)</option>
-                                  <option value="Kontorstädning">Kontorstädning (Företag)</option>
-                                  <option value="Trappstädning">Trappstädning (Företag)</option>
-                                  <option value="Golvvård">Golvvård (Företag)</option>
-                                  <option value="Storstädning">Storstädning (Privatperson)</option>
-                                  <option value="Hemstädning">Hemstädning (Privatperson)</option>
-                                  <option value="Flyttstädning">Flyttstädning (Privatperson)</option>
-                                  <option value="Fönsterputs">Fönsterputs (Privatperson)</option>
-																</select>
-                              </div>
-                              <div class="col-12">
-                                  <input type="text" name="vilka_dagar_" id="vilka_dagar_" value="" placeholder="Vilka dagar passar dig bäst? (ett eller flera alternativ)" />
-                              </div>
-                              <div class="col-12">
-                                  <input type="text" name="vilka_tider_passar_dig_b_st_" id="vilka_tider_passar_dig_b_st_" value="" placeholder="Vilka Tider passar dig bäst? (ett eller flera" />
-                              </div>
 
-															<!-- Break -->
-															<div class="col-6 col-12-small">
-                                <fieldset name="vilka_dagar_">
-                                <h3>Vilka dagar passar dig bäst?</h3> 
-                                <input type="checkbox" id="Måndag" value="Måndag">
-                                <label for="Måndag">Måndag</label><br />
-                                <input type="checkbox" id="Tisdag" value="Tisdag">
-                                <label for="Tisdag">Tisdag</label><br />
-                                <input type="checkbox" id="Onsdag" value="Onsdag">
-                                <label for="Onsdag">Onsdag</label><br />
-                                <input type="checkbox" id="Torsdag" value="Torsdag">
-                                <label for="Torsdag">Torsdag</label><br />
-                                <input type="checkbox" id="Fredag" value="Fredag">
-                                <label for="Fredag">Fredag</label><br />
-                                <input type="checkbox" id="Lördag" value="Lördag">
-                                <label for="Lördag">Lördag</label><br />
-                                <input type="checkbox" id="Söndag" value="Söndag">
-                                <label for="Söndag">Söndag</label>
-                                </fieldset>
-															</div>
-															<div class="col-6 col-12-small">
-                                <fieldset>
-                                <h3>Vilka tider passar dig bäst?</h3>
-																<input type="checkbox" name="vilka_tider_passar_dig_b_st_[]" id="08:00" value="08:00;">
-                                <label for="08:00">08:00</label><br />
-                                <input type="checkbox" name="vilka_tider_passar_dig_b_st_[]" id="09:00" value="09:00;">
-                                <label for="09:00">09:00</label><br />
-                                <input type="checkbox" name="vilka_tider_passar_dig_b_st_[]" id="10:00" value="10:00;">
-                                <label for="10:00">10:00</label><br />
-                                <input type="checkbox" name="vilka_tider_passar_dig_b_st_[]" id="11:00" value="11:00;">
-                                <label for="11:00">11:00</label><br />
-                                <input type="checkbox" name="vilka_tider_passar_dig_b_st_[]" id="12:00" value="12:00;">
-                                <label for="12:00">12:00</label><br />
-                                <input type="checkbox" name="vilka_tider_passar_dig_b_st_[]" id="13:00" value="13:00;">
-                                <label for="13:00">13:00</label><br />
-                                <input type="checkbox" name="vilka_tider_passar_dig_b_st_[]" id="14:00" value="14:00;">
-                                <label for="14:00">14:00</label><br />
-                                <input type="checkbox" name="vilka_tider_passar_dig_b_st_[]" id="15:00" value="15:00;">
-                                <label for="15:00">15:00</label><br />
-                                <input type="checkbox" name="vilka_tider_passar_dig_b_st_[]" id="16:00" value="16:00;">
-                                <label for="16:00">16:00</label><br />
-                                <input type="checkbox" name="vilka_tider_passar_dig_b_st_[]" id="17:00" value="17:00;">
-                                <label for="17:00">17:00</label><br />
-                                <input type="checkbox" name="vilka_tider_passar_dig_b_st_[]" id="Annan_tid" value="Annan_tid;">
-                                <label for="Annan_tid">Annan Tid</label>
-                              </fieldset>
-                              </div>  
-                              
-                              <div class="col-6 col-12-xsmall">
-                                  <input type="number" name="hur_m_nga_f_nster" id="hur_m_nga_f_nster" value="" placeholder="Hur Många Fönster?" /> <br />
-                              </div>
-                              <div class="col-6 col-12-xsmall">
-                                  <input type="number" name="hur_stor_yta_" id="hur_stor_yta_" value="" placeholder="Hur stor yta (i kvadratmeter)?" /> <br />
-                              </div>
+    <!-- Break -->
+    <div class="col-12">
+      <select name="v_lj_tj_nst" id="v_lj_tj_nst">
+        <option value="">- Vilken typ av städning vill du ha? -</option>
+        <option value="Butikstädning">Butikstädning (Företag)</option>
+        <option value="Skolstädning">Skolstädning (Företag)</option>
+        <option value="Kontorstädning">Kontorstädning (Företag)</option>
+        <option value="Trappstädning">Trappstädning (Företag)</option>
+        <option value="Golvvård">Golvvård (Företag)</option>
+        <option value="Storstädning">Storstädning (Privatperson)</option>
+        <option value="Hemstädning">Hemstädning (Privatperson)</option>
+        <option value="Flyttstädning">Flyttstädning (Privatperson)</option>
+        <option value="Fönsterputs">Fönsterputs (Privatperson)</option>
+      </select>
+    </div>
+    <div class="col-12">
+      <input type="text" name="vilka_dagar_" id="vilka_dagar_" value=""
+        placeholder="Vilka dagar passar dig bäst? (ett eller flera alternativ)" />
+    </div>
+    <div class="col-12">
+      <input type="text" name="vilka_tider_passar_dig_b_st_" id="vilka_tider_passar_dig_b_st_" value=""
+        placeholder="Vilka Tider passar dig bäst? (ett eller flera" />
+    </div>
 
-                              <div class="col-6 col-12-xsmall">Vilket datum passar bäst?
-                                  <input type="date" name="vilket_datum_" id="vilket_datum_" value="" placeholder="Vilket Datum?" /><br />
-                              </div>
+    <!-- Break -->
+    <div class="col-6 col-12-small">
+      <fieldset name="vilka_dagar_">
+        <h3>Vilka dagar passar dig bäst?</h3>
+        <input type="checkbox" id="Måndag" value="Måndag">
+        <label for="Måndag">Måndag</label><br />
+        <input type="checkbox" id="Tisdag" value="Tisdag">
+        <label for="Tisdag">Tisdag</label><br />
+        <input type="checkbox" id="Onsdag" value="Onsdag">
+        <label for="Onsdag">Onsdag</label><br />
+        <input type="checkbox" id="Torsdag" value="Torsdag">
+        <label for="Torsdag">Torsdag</label><br />
+        <input type="checkbox" id="Fredag" value="Fredag">
+        <label for="Fredag">Fredag</label><br />
+        <input type="checkbox" id="Lördag" value="Lördag">
+        <label for="Lördag">Lördag</label><br />
+        <input type="checkbox" id="Söndag" value="Söndag">
+        <label for="Söndag">Söndag</label>
+      </fieldset>
+    </div>
+    <div class="col-6 col-12-small">
+      <fieldset>
+        <h3>Vilka tider passar dig bäst?</h3>
+        <input type="checkbox" name="vilka_tider_passar_dig_b_st_[]" id="08:00" value="08:00;">
+        <label for="08:00">08:00</label><br />
+        <input type="checkbox" name="vilka_tider_passar_dig_b_st_[]" id="09:00" value="09:00;">
+        <label for="09:00">09:00</label><br />
+        <input type="checkbox" name="vilka_tider_passar_dig_b_st_[]" id="10:00" value="10:00;">
+        <label for="10:00">10:00</label><br />
+        <input type="checkbox" name="vilka_tider_passar_dig_b_st_[]" id="11:00" value="11:00;">
+        <label for="11:00">11:00</label><br />
+        <input type="checkbox" name="vilka_tider_passar_dig_b_st_[]" id="12:00" value="12:00;">
+        <label for="12:00">12:00</label><br />
+        <input type="checkbox" name="vilka_tider_passar_dig_b_st_[]" id="13:00" value="13:00;">
+        <label for="13:00">13:00</label><br />
+        <input type="checkbox" name="vilka_tider_passar_dig_b_st_[]" id="14:00" value="14:00;">
+        <label for="14:00">14:00</label><br />
+        <input type="checkbox" name="vilka_tider_passar_dig_b_st_[]" id="15:00" value="15:00;">
+        <label for="15:00">15:00</label><br />
+        <input type="checkbox" name="vilka_tider_passar_dig_b_st_[]" id="16:00" value="16:00;">
+        <label for="16:00">16:00</label><br />
+        <input type="checkbox" name="vilka_tider_passar_dig_b_st_[]" id="17:00" value="17:00;">
+        <label for="17:00">17:00</label><br />
+        <input type="checkbox" name="vilka_tider_passar_dig_b_st_[]" id="Annan_tid" value="Annan_tid;">
+        <label for="Annan_tid">Annan Tid</label>
+      </fieldset>
+    </div>
 
-															<!-- Break -->
-															<div class="col-12">
-																<textarea name="finns_det_n_got_extra_vi_borde_t_nka_p_" id="finns_det_n_got_extra_vi_borde_t_nka_p_" placeholder="Något mer vi borde tänka på? Skriv det gärna här." rows="6"></textarea>
-															</div>
-															<!-- Break -->
-															<div class="col-12">
-																<ul class="actions">
-																	<li><input type="submit" value="Skicka Formulär" class="primary" /></li>
-																	<li><input type="reset" value="Återställ formulär" /></li>
-																</ul>
-															</div>
-														</div>
-													</form>
+    <div class="col-6 col-12-xsmall">
+      <input type="number" name="hur_m_nga_f_nster" id="hur_m_nga_f_nster" value="" placeholder="Hur Många Fönster?" />
+      <br />
+    </div>
+    <div class="col-6 col-12-xsmall">
+      <input type="number" name="hur_stor_yta_" id="hur_stor_yta_" value=""
+        placeholder="Hur stor yta (i kvadratmeter)?" /> <br />
+    </div>
+
+    <div class="col-6 col-12-xsmall">Vilket datum passar bäst?
+      <input type="date" name="vilket_datum_" id="vilket_datum_" value="" placeholder="Vilket Datum?" /><br />
+    </div>
+    <!-- Break -->
+    <div class="col-12">
+      <textarea name="finns_det_n_got_extra_vi_borde_t_nka_p_" id="finns_det_n_got_extra_vi_borde_t_nka_p_"
+        placeholder="Något mer vi borde tänka på? Skriv det gärna här." rows="6"></textarea>
+    </div>
+    <!-- Break -->
+    <div class="col-12">
+      <ul class="actions">
+        <li><input type="submit" value="Skicka Formulär" class="primary" /></li>
+        <li><input type="reset" value="Återställ formulär" /></li>
+      </ul>
+    </div>
+  </div>
+</form>
+
+<!-- END homebrewform.html -->

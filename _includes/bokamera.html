@@ -12,9 +12,6 @@
   <div style="border-radius:3px;" class="flex">
     <div class="item">
       <div class="item-staticchild">
-
-        <!-- <h3 id="booknow" class="editable">Hos oss får du alltid pris garanti</h3>
-            <p class="editable">Vi matchar v&aring;ra konkurenters offert. L&aring;t oss hj&auml;lpa dig med st&auml;dningen s&aring; kan du spendera din tid p&aring; annat.</p> -->
         {% if page.url == '/privat/fonsterputs/' %}
         {% include /kalkylator/fonsterputs.html %}
         {% elsif page.url == '/privat/flyttstadning/' %}
@@ -25,6 +22,9 @@
         {% include /kalkylator/storstedning.html %}
         {% elsif page.url == '/' %}
         {% include /kalkylator/kalkmain.html %}
+        {% else %}
+        <h2>Begär offert!</h2>
+        {% include homebrewmedellande.html %}
         {% endif %}
       </div>
       <div id="boka" class="item-child">
@@ -66,8 +66,7 @@
         <h3 style="text-decoration:underline #94ce3c solid">För företag</h3>
         {% for foretag in site.foretag %} {% if foretag.framsida == true %}
         <div class="col-4 col-12-small" style="margin-bottom:10px;">
-          <h4><a href="{{ foretag.url }}{{ foretag.hubspot }}">{{ foretag.menutitle }}</a> <i class="fa fa-arrow-right"
-              style="color:#94ce3c;"></i></h4>
+          <h4><a href="{{ foretag.url }}{{ foretag.hubspot }}">{{ foretag.menutitle }}</a> <i class="fa fa-arrow-right" style="color:#94ce3c;"></i></h4>
         </div>
         {% endif %}{% endfor %}
       </div>
@@ -75,8 +74,7 @@
         <h3 style="text-decoration:underline #94ce3c solid">För privatpersoner</h3>
         {% for privat in site.privat %}{% if privat.framsida == true %}
         <div class="col-4 col-12-small" style="margin-bottom:10px;">
-          <h4><a href="{{ privat.url }}{{ privat.hubspot }}">{{ privat.menutitle }}</a> <i class="fa fa-arrow-right"
-              style="color:#94ce3c;"></i></h4>
+          <h4><a href="{{ privat.url }}{{ privat.hubspot }}">{{ privat.menutitle }}</a> <i class="fa fa-arrow-right" style="color:#94ce3c;"></i></h4>
         </div>
         {% endif %}{% endfor %}
       </div>

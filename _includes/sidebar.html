@@ -1,59 +1,59 @@
-				<!-- Sidebar -->
-					<div id="sidebar" class="inactive">
-						<div class="inner">
+<!-- Sidebar -->
+<div id="sidebar" class="inactive">
+  <div class="inner">
 
-              <!-- Menu -->
-              <nav id="menu">
-                <br />
-                <ul>
-                  {% if page.url != '/' %}<li><a href="/">Hem</a></li>{% endif %}
-                  <li><a href="/om-oss/">Om Oss</a></li>
+    <!-- Menu -->
+    <nav id="menu">
+      <br />
+      <ul>
+        {% if page.url != '/' %}<li><a href="/">Hem</a></li>{% endif %}
+        <li><a href="/om-oss/">Om Oss</a></li>
 
-                  <li>
-                    <span class="opener">F&ouml;retag</span>
-                    <ul>
-{% for foretag in site.foretag %}
-                      <li><a href="{{ foretag.url }}{{ foretag.hubspot }}">{{ foretag.menutitle }}</a></li>
-{% endfor %}
-                    </ul>
-                  </li>
-                  <li>
-                    <span class="opener">Privatperson</span>
-                    <ul>
-{% for privat in site.privat %}
-                      <li><a href="{{ privat.url }}{{ privat.hubspot }}">{{ privat.menutitle }}</a></li>
-{% endfor %}
-                    </ul>
-                  </li>
-{% for link in site.data.navigation %}
-                  <li><a href="{{ link.link }}">{{ link.name }}</a></li>
-{% endfor %}
-                </ul>
-              </nav>
-            <!-- Section -->
-              <section>
-                <!-- <header class="major">
+        <li>
+          <span class="opener">F&ouml;retag</span>
+          <ul>
+            {% for foretag in site.foretag %}
+            <li><a href="{{ foretag.url }}{{ foretag.hubspot }}">{{ foretag.menutitle }}</a></li>
+            {% endfor %}
+          </ul>
+        </li>
+        <li>
+          <span class="opener">Privatperson</span>
+          <ul>
+            {% for privat in site.privat %}
+            <li><a href="{{ privat.url }}{{ privat.hubspot }}">{{ privat.menutitle }}</a></li>
+            {% endfor %}
+          </ul>
+        </li>
+        {% for link in site.data.navigation %}
+        <li><a href="{{ link.link }}">{{ link.name }}</a></li>
+        {% endfor %}
+      </ul>
+    </nav>
+    <!-- Section -->
+    <section>
+      <!-- <header class="major">
                   <h2>Kontakta oss</h2>
                 </header> -->
-                {% if page.url != '/kontakta-oss/' %}<ul class="actions">
-                  <li><a href="/kontakta-oss/" class="button large editable">Kontakta oss</a></li>
-                </ul>{% endif %}
-                <ul class="contact">
-                  <li class="fa-envelope-o"><a href="mailto:kundtjanst@enrenarevardag.se">kundtjanst@enrenarevardag.se</a></li>
-                  <li class="fa-phone"><a href="tel:+4686605555">08-660 55 55</a></li>
-                  <li class="fa-home">Storgatan 104 B, 171 55 Solna <br />
-                  Org nr: 556847-2038</li>
-                </ul>
-                
+      {% if page.url != '/kontakta-oss/' %}<ul class="actions">
+        <li><a href="/kontakta-oss/" class="button large editable">Kontakta oss</a></li>
+      </ul>{% endif %}
+      <ul class="contact">
+        <li class="fa-envelope-o"><a href="mailto:kundtjanst@enrenarevardag.se">kundtjanst@enrenarevardag.se</a></li>
+        <li class="fa-phone"><a href="tel:+4686605555">08-660 55 55</a></li>
+        <li class="fa-home">Storgatan 104 B, 171 55 Solna <br />
+          Org nr: 556847-2038</li>
+      </ul>
 
-                            <!-- Footer -->
-              <footer id="footer">
-                  <p class="copyright">&copy; {{ site.time | date: '%Y'}} En Renare Vardag AB. All rights reserved. 
-                    <br /><a href="/integritetspolicy/">Integritets Policy</a>
-                    <br /><a href="https://github.com/Sakrecoer/ERV/blob/master/README.md" target="_blank" rel="noopener noreferrer nofollow">Photos and Software Credits</a></p>
-                  </footer>
-              </section>
-              
-						</div>
-					</div>
-          
+
+      <!-- Footer -->
+      <footer id="footer">
+        <p class="copyright">&copy; {{ site.time | date: '%Y'}} En Renare Vardag AB. All rights reserved.
+          <br /><a href="/integritetspolicy/">Integritets Policy</a>
+          <br /><a href="https://github.com/Sakrecoer/ERV/blob/master/README.md" target="_blank"
+            rel="noopener noreferrer nofollow">Photos and Software Credits</a></p>
+      </footer>
+    </section>
+
+  </div>
+</div>
