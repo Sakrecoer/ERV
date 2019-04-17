@@ -40,23 +40,17 @@
 {% include hubspot-remove-GA-too.html %}
 {% endif %}
 
-
-
-
 <link rel="stylesheet" href="/assets/css/main.css" />
 <link rel="stylesheet" href="/assets/css/font-awesome.min.css" />
 
 </head>
 
 <body class="is-preload">
-
   <!-- Wrapper -->
   <div id="wrapper">
-
     <!-- Main -->
     <div id="main">
       <div class="inner">
-
         <!-- Header -->
         <header id="header">
           <a href="/" class="logo" title="Startsida"><img src="/images/enrenarevardaglogo.svg" width="200px;" /> <img
@@ -71,7 +65,8 @@
           </ul>
         </header>
 
-        {{ content }}
+{{ content }}
+        
         <br /><br /><br />
       </div>
     </div>
@@ -88,7 +83,8 @@
   {% else %}
   <div id="offert">
     <ul class="actions">
-      <li><a href="/kontakta-oss/" class="button primary small knap" style="box-shadow: 6px 6px 6px 3px rgba(0, 0, 0, 0.2);">Begär Offert</a></li>
+      <li><a href="/kontakta-oss/" class="button primary small knap"
+          style="box-shadow: 6px 6px 6px 3px rgba(0, 0, 0, 0.2);">Begär Offert</a></li>
     </ul>
   </div>
   {% endif %}
