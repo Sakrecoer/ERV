@@ -52,7 +52,7 @@ image: '/images/intro-5.jpg'
         <img
           src="{{ site.baseurl }}/images/insta/{{ post.detail.display_url }}"
           data-gallery-source="{{ site.baseurl }}/assets/instagram/{{ post.detail.display_url }}"
-          data-gallery-caption="{{ post.detail.edge_media_to_caption.edges[0].node.text | markdownify }}" />
+          alt="{{ post.detail.edge_media_to_caption.edges[0].node.text | strip_html }}" />
       </li>
     {% endfor %}
   </ul>
