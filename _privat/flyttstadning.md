@@ -16,13 +16,13 @@ icon_image: /images/ikon/flytt-ikon.png
 
 Alla vill flytta in i en ren och fräsch bostad. Vi erbjuder komplett flyttstädning i Stockholm med allt vad det innebär.
 
-Flyttstädning kräver noggrannhet. Vår utbildade medarbetare använder sig utav moderna metoder och miljövänliga medel för att nå bästa resultat.
+Flyttstädning kräver noggrannhet. Våra utbildade medarbetare använder sig utav moderna metoder och miljövänliga medel för att uppnå det bästa resultatet.
 
 Det förekommer att det uppstår en tvist mellan utflyttande och inflyttande boende vad gäller flyttstädningen.
 
-Därför är vår kundnöjds-garanti extra viktig när det gäller flyttstädning. Vi följer upp resultatet av arbetet tillsammans med kunden och fakturerar efter ditt godkännande.
+Därför är vårat nöjd kundgaranti extra viktigt när det gäller flyttstädning. Vi följer upp resultatet av arbetet tillsammans med kunden och fakturerar efter ditt godkännande.
 
-Vi tar även med våra egna rengöringsprodukter och städmaterial vid flyttstädning, då vi antar att huset är tomt på allt. I den flyttstädning vi erbjuder ingår dessutom fönsterputsning.
+Vi tar även med våra egna rengöringsprodukter och städmaterial vid flyttstädning, då vi antar att huset är tomt på allt. I den flyttstädning vi erbjuder **ingår dessutom fönsterputsning.**
 
 ## Vad ingår i flyttstädning i Solna och Stockholm?
 

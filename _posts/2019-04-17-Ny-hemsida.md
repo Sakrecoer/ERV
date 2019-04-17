@@ -1,7 +1,7 @@
 ---
-title: Ny Hemsida
+title: Ny och städad Hemsida
 date: 2019-04-17 08:00
-description: 'En renare hemsida för att göra det lättare för dig att ha En Renare Vardag'
+description: 'En renare och städad hemsida för att göra det lättare för dig att ha En Renare Vardag'
 categories: 'Nyheter'
 image: '/images/erv.jpg'
 author_staff_member: Samuel
@@ -9,7 +9,7 @@ layout: post
 ---
 ## Kära besökare, ärade kunder,
 
-Som du ser har saker och ting ändrats på denna webbplats; det är med mycket nöjje som vi på En Renare Vardag AB presenterar vår nya webbsida. Våran gamla wordpress har tjänat oss väl, men nu är dags för nya tider! Skilnaden är ganska stor men förhoppningsvis inte förvirrande. Vi har jobbat på bland annat att förbättra bokningsföldet, vi har uppdaterat våran [integritetspolicy,](/integritetspolicy/) och implementerat en chat där du kan höra av dig till kundtjänsten under våra öppetider.
+Som du ser har saker och ting ändrats på denna webbplats; det är med mycket nöjje som vi på En Renare Vardag AB presenterar vår nya städade webbsida. Våran gamla wordpress har tjänat oss väl, men nu är dags för nya tider! Skilnaden är ganska stor men förhoppningsvis inte förvirrande. Vi har jobbat på bland annat att förbättra bokningsföldet, vi har uppdaterat våran [integritetspolicy,](/integritetspolicy/) och implementerat en chat där du kan höra av dig till kundtjänsten under våra öppetider.
 
 ### Nyheter & Erbjudanden
 

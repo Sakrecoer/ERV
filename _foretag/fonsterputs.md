@@ -13,9 +13,9 @@ icon_image:
 
 Därför har vi på En Renare Vardag duktiga fönsterputsare som kan göra jobbet åt er.
 
-Ett erbjudande till dig som är kund hos oss är att ni får alltid 20% rabatt på fönsterputsning än så länge som ni använder våra tjänster.
+Ni som städhjälp kund får alltid 20% rabatt på fönsterputsning så länge som ni anlitar våra tjänster.
 
 Tveka inte att anlita oss för städning och fönsterputsning snarast! 
 
-Vi tar även med våra egna rengöringsprodukter och städmaterial för fönsterputsning och ni har alltid kund nöjd garanti med oss.
+Vi tar även med våra egna rengöringsprodukter och städmaterial för fönsterputsning och ni har alltid nöjd kundgaranti med oss.
 

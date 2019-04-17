@@ -11,10 +11,10 @@ icon_image: /images/ikon/fonster-ikon.png
 ---
 ## Håller du med om att fönsterputsning är svårt och tidskrävande?
 
- Ett erbjudande till dig som är kund hos oss är att ni får alltid 20% rabatt på fönsterputsning än så länge som ni använder våra tjänster.
+ Du som är kund hos oss får alltid 20% rabatt på fönsterputsning, så länge ni använder våra tjänster.
  
  Tveka inte att anlita oss för städning och fönsterputsning snarast!
  
- Vi tar även med våra egna rengöringsprodukter och städmaterial för fönsterputsning och ni har alltid kund nöjd garanti med oss.
+ Vi tar även med våra egna rengöringsprodukter och städmaterial för fönsterputsning och ni får alltid nöjd kundgaranti med oss.
 
 

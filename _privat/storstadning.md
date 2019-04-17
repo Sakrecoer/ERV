@@ -1,8 +1,7 @@
 ---
 title: Storstädning och visningsstädning i Stockholm
 description: >-
-  En Renare Vardag AB erbjuder kvalitativ storstädning och visningsstädning till
-  privatpersoner i Storstockholm till ett rimligt priset.
+  En Renare Vardag AB erbjuder kvalitativ storstädning och visningsstädning för privatpersoner i Storstockholm till ett rimligt pris.
 image: /images/stor-1.jpg
 permalink: '/privat/:name/'
 layout: generic
@@ -12,9 +11,9 @@ hubspot: '?v_lj_tj_nst=Storstädning'
 icon_image: /images/ikon/stor-ikon.png
 ---
 
-Att göra ett bra storstädning på egen hand kan ta lång tid och vara svårt för många. Under en storstädning får ditt hem en grundläggande rengöring av ytor som normalt inte omfattas av den vanliga städningen.
+Att göra en bra storstädning på egen hand kan ta lång tid och vara svårt för många. Under en storstädning får ditt hem en grundläggande rengöring av ytor som normalt inte omfattas av den vanliga städningen.
 
-Låt oss göra jobbet, vi vet och vi kan. Därför är vår kundnöjd garanti extra viktig när det gäller storstädning. Vi följer upp resultatet av arbetet tillsammans med kunden och fakturerar efter ditt godkännande. **Du får ett fast pris för arbetet och inga dolda avgifter. Det ingår i priset städmaterial och rengöringsprodukter som vi tar med oss.**
+Låt oss göra jobbet, vi vet och vi kan. Därför är vårat nöjd kundgaranti extra viktigt när det gäller storstädning. Vi följer upp resultatet av arbetet tillsammans med kunden och fakturerar efter ditt godkännande. **Du får ett fast pris för arbetet helt utan dolda avgifter. Städmaterial och rengöringsprodukter som vi tar med oss ingår i priset.**
 
 ### Kontakta oss så hjälper vi dig med din storstädning.
 

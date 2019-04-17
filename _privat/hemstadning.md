@@ -11,7 +11,7 @@ icon_image: /images/ikon/hem-ikon.png
 ---
 ## Tack vare RUT-avdraget så har hemstädning blivit mer tillgängligt för en större skara människor. 
 
-Det behöver faktiskt inte längre vara så dyrt att få hjälp med städning någon eller några gånger i månaden.
+Det behöver faktiskt inte längre vara så dyrt att få hjälp med städning i hemmet någon eller några gånger i månaden.
 
 En lämplig rutin för regelbunden veckostädning är 1-4 gånger per månad. Omfattning och intervall avgörs beroende på hur omfattande det dagliga underhållet är.
 
