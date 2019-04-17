@@ -30,14 +30,14 @@
 
 {% if jekyll.environment == 'production' and site.google_analytics_key != '' %}
 
-<!-- <script>
+<script>
   window.ga = window.ga || function () { (ga.q = ga.q || []).push(arguments) }; ga.l = +new Date;
   ga('create', '{{ site.google_analytics_key }}', 'auto');
   ga('send', 'pageview');
   ga('set', 'forceSSL', true);
 </script>
-<script async src='https://www.google-analytics.com/analytics.js'></script> -->
-{% include hubspot-remove-GA-too.html %}
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
 {% endif %}
 
 <link rel="stylesheet" href="/assets/css/main.css" />
