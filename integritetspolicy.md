@@ -48,6 +48,6 @@ Om du vill veta när din enhet tar emot en cookie, kan du ställa in din webblä
 Senaste versionen: {{ page.date | date: '%Y-%m-%d' }}
 
 <br />
-<iframe src="https://widget.reco.se/v2/widget/3673336?mode=HORIZONTAL_QUOTE" width="100%" height="225" scrolling="no" style="border:0;display:block;margin-top:20px;" data-reactroot=""></iframe>
+<iframe src="https://widget.reco.se/v2/widget/3673336?mode=HORIZONTAL_QUOTE" width="100%" title="Reco Betyg" height="225" scrolling="no" style="border:0;display:block;margin-top:20px;" data-reactroot=""></iframe>
 
 <br /><br /><br /><br /><br />
