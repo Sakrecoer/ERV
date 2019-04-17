@@ -1,7 +1,9 @@
 <!-- BEGIN homebrewform.html -->
-<form method="post" action="{{ site.baseurl }}/contact-success/" class="cta" name="hemsida_form" id="hemgjordform">
+<form action="{{ site.baseurl }}/contact-success/" method="post" class="cta" name="hemsida_form" id="hemgjordform">
   <div class="row gtr-uniform">
     <div class="col-6 col-12-xsmall">
+        <input type="hidden" name="_to" value="{{ site.kundtjanstmail }}">
+        <input type="text" name="_gotcha" style="display: none;">
       <input type="text" name="firstname" id="firstname" value="" placeholder="Förnamn" /><br />
       <input type="text" name="lastname" id="lastname" value="" placeholder="Efternamn" />
     </div>
