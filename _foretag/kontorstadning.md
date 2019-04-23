@@ -7,7 +7,7 @@ description: >-
 image: /images/kontor-1.jpg
 permalink: /foretag/kontorstadning/
 layout: generic
-menutitle: Kontorstädning
+menutitle: Kontorsstädning
 framsida: true
 hubspot: '?v_lj_tj_nst=Kontorstädning'
 icon_image: /images/ikon/kontor-ikon.png
