@@ -10,7 +10,7 @@
         <li><a href="/om-oss/">Om Oss</a></li>
 
         <li>
-          <span class="opener">F&ouml;retag</span>
+          <span class="opener">Städning för företag</span>
           <ul>
             {% for foretag in site.foretag %}
             <li><a href="{{ foretag.url }}{{ foretag.hubspot }}">{{ foretag.menutitle }}</a></li>
@@ -18,7 +18,7 @@
           </ul>
         </li>
         <li>
-          <span class="opener">Privatperson</span>
+          <span class="opener">Städning för privarpersoner</span>
           <ul>
             {% for privat in site.privat %}
             <li><a href="{{ privat.url }}{{ privat.hubspot }}">{{ privat.menutitle }}</a></li>
@@ -42,10 +42,11 @@
         <li class="fa-envelope-o"><a href="mailto:kundtjanst@enrenarevardag.se">kundtjanst@enrenarevardag.se</a></li>
         <li class="fa-phone"><a href="tel:+4686605555">08-660 55 55</a></li>
         <li class="fa-home">Storgatan 104 B, 171 55 Solna <br />
-          Org nr: 556847-2038</li>
+          Org nr: 556847-2038</li>  
+        
       </ul>
 
-
+      <a href="https://goo.gl/maps/e1YiLPf2QKw" target="_blank" rel="noopener noreferrer nofollow" style="border:none;"><img src="/images/hittahitmini.jpg" width="100%" /> </a>
       <!-- Footer -->
       <footer id="footer">
         <p class="copyright">&copy; {{ site.time | date: '%Y'}} En Renare Vardag AB. All rights reserved.

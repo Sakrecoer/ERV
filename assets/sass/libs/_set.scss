@@ -47,7 +47,7 @@
 #offert {
   color: #000;
   position:fixed; 
-  bottom:20px; left:15px; 
+  bottom:40px; left:15px; 
   text-align: center; 
   z-index: 100; 
   width:100px;
@@ -81,7 +81,7 @@
 //   a {
 //     font-size: .9em;
 //     background-color: _palette(cta);
-//     border-radius: 100px;
+//     border-radius: 3px;
 //     color: #fff;
 //     padding: 0 5px 0 5px;
 //     text-decoration: none;
@@ -92,24 +92,24 @@
 //     background-color: transparentize(_palette(cta), 0.5);
 //   }
 // }
-// a.intresse-btn-small {
-//   @include vendor('appearance', 'none');
-//   @include vendor('transition', (
-//     'background-color #{_duration(transition)} ease-in-out',
-//     'color #{_duration(transition)} ease-in-out'
-//   ));
-//   font-size: .9em;
-//   background-color: _palette(cta);
-//   border-radius: 100px;
-//   color: #fff;
-//   padding: 0 5px 0 5px;
-//   text-decoration: none;
-//   border: none;
-//   &:hover {
-//     color: #fff !important;
-//     background-color: transparentize(_palette(cta), 0.05);
-//   }
-// }
+a.intresse-btn-small {
+  @include vendor('appearance', 'none');
+  @include vendor('transition', (
+    'background-color #{_duration(transition)} ease-in-out',
+    'color #{_duration(transition)} ease-in-out'
+  ));
+  font-size: .9em;
+  background-color: _palette(cta);
+  border-radius: 3px;
+  color: #fff;
+  padding: 0 5px 0 5px;
+  text-decoration: none;
+  border: none;
+  &:hover {
+    color: #fff !important;
+    background-color: transparentize(_palette(cta), 0.05);
+  }
+}
 
 #main {
   .inner {
@@ -126,6 +126,7 @@
   max-width: 500px;
 }
 
+<<<<<<< HEAD
 
 
  #instagram {
@@ -153,4 +154,11 @@
     width: inherit;
     height: auto;
   }
+=======
+#lasmer,
+.whiteybg {
+  background-color: #fff; 
+  border-radius: 3px;
+  padding:0 5px 5px 5px !important;
+>>>>>>> master
 }

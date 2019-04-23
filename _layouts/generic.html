@@ -14,8 +14,9 @@ layout: default
 <section id="lasmer">
   {{ content }}
   {% if page.bokning == false %}
-  &nbsp;
+  &nbsp;<img src="/images/ikon/nojdkund.png" />
   {% else %}
+  <img src="/images/ikon/nojdkund.png" />
   <ul class="actions">
     <li><a href="/boka/{{ page.hubspot }}" class="button primary large editable knap">Boka Nu!</a></li>
   </ul>
