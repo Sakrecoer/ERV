@@ -10,3 +10,4 @@ npm run instalib mirror instagram.yml
 cp /home/set/git/instalib/media/*.jpg /home/set/git/erv.com/images/insta/
 cp /home/set/git/instalib/instagram.yml /home/set/git/erv.com/_data/
 
+
