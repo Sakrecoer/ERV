@@ -10,7 +10,7 @@
         <li><a href="/om-oss/">Om Oss</a></li>
 
         <li>
-          <span class="opener">F&ouml;retag</span>
+          <span class="opener">Städning för företag</span>
           <ul>
             {% for foretag in site.foretag %}
             <li><a href="{{ foretag.url }}{{ foretag.hubspot }}">{{ foretag.menutitle }}</a></li>
@@ -18,7 +18,7 @@
           </ul>
         </li>
         <li>
-          <span class="opener">Privatperson</span>
+          <span class="opener">Städning för privarpersoner</span>
           <ul>
             {% for privat in site.privat %}
             <li><a href="{{ privat.url }}{{ privat.hubspot }}">{{ privat.menutitle }}</a></li>
