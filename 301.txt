@@ -1,7 +1,7 @@
 /startsida/ /
 /testsida/ /
 /test/ /
-/erbjudanden/ /nyeheter/
+/erbjudanden/ /nyheter/
 /butiksstadning-solna/ /foretag/butikstadning/
 /butiksstadning-stockholm/ /foretag/butikstadning/
 /flyttstadning-kista/ /privat/flyttstadning/
