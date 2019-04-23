@@ -141,4 +141,4 @@ defaults:
 sass:
     sass_dir: /assets/sass/
 # site variable
-kundtjanstmail: set@enrenarevardag.se
+kundtjanstmail: kundtjanst@enrenarevardag.se
