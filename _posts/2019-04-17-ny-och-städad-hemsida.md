@@ -8,7 +8,7 @@ author_staff_member: Samuel
 layout: post
 ---
 
-## K&auml;ra bes&ouml;kare, &auml;rade kunder.
+K&auml;ra bes&ouml;kare, &auml;rade kunder.
 
 Som du ser har saker och ting &auml;ndrats p&aring; denna webbplats; det &auml;r med mycket n&ouml;je som vi p&aring; En Renare Vardag AB presenterar v&aring;r nya st&auml;dade webbsida. V&aring;ran gamla wordpress har tj&auml;nat oss v&auml;l, men nu &auml;r dags f&ouml;r nya tider\! Skillnaden &auml;r ganska stor men f&ouml;rhoppningsvis inte f&ouml;rvirrande. Vi har jobbat p&aring; att bland annat f&ouml;rb&auml;ttra bokningsfl&ouml;det, vi har uppdaterat v&aring;ran [integritetspolicy,](/integritetspolicy/)&nbsp;implementerat en chat d&auml;r du kan h&ouml;ra av dig till kundtj&auml;nsten under v&aring;ra &ouml;ppettider och naturligtvis en massa &auml;ndringar i bakgrunden som inte syns. Allt detta f&ouml;r att kunna ge privatpersoner och f&ouml;retag den b&auml;sta st&auml;dhj&auml;lpen i Stockholm.
 
@@ -26,4 +26,4 @@ Kort sagt: "Mina Sidor" &auml;r p&aring; g&aring;ng. Under tiden kan du kontakta
 
 Vi hoppas innerligt att du uppskattar dessa &auml;ndringar. Du &auml;r naturligtvis alltid v&auml;lkomna att h&ouml;ra av dig till oss.
 
-#### Skulle du st&ouml;ta p&aring; fel, s&aring; &auml;r vi v&auml;ldigt tacksamma om du rapporterar det till v&aring;ran webbtekniker, Set, via&nbsp;[detta formul&auml;r.](/kontakta-oss/)
+**Skulle du st&ouml;ta p&aring; fel, s&aring; &auml;r vi v&auml;ldigt tacksamma om du rapporterar det till v&aring;ran webbtekniker, Set, via&nbsp;[detta formul&auml;r.](/kontakta-oss/)**
