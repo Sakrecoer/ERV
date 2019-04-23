@@ -6,6 +6,7 @@ npm run instalib -- liberate https://www.instagram.com/enrenarevardag/ -o instag
 rm -f media/*.jpg
 
 npm run instalib mirror instagram.yml 
+mogrify -resize 220 /home/set/git/instalib/media/*.jpg
 
 cp /home/set/git/instalib/media/*.jpg /home/set/git/erv.com/images/insta/
 cp /home/set/git/instalib/instagram.yml /home/set/git/erv.com/_data/
