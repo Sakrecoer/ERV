@@ -1,8 +1,6 @@
 - name: Trygghet
   link: /din-trygghet/
-#- name: Nyheter
-#  link: /nyheter/
-- name: Vanlig Frågor
+- name: Vanliga Frågor
   link: /vanliga-fragor/
 - name: Jobba med oss
   link: /jobba-hos-oss/

@@ -4,7 +4,7 @@ description: >-
   En Renare Vardag erbjuder städning av kontor som kan få ditt företag att skina
   genom att eliminera all smuts som har lämnats kvar när ljusen släckts. Hör av
   dig och boka ett kostnadsfritt möte.
-image: /images/intro-2.jpg
+image: /images/kontor-1.jpg
 permalink: /foretag/kontorstadning/
 layout: generic
 menutitle: Kontorstädning
