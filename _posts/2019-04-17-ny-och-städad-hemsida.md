@@ -16,7 +16,7 @@ Som du ser har saker och ting &auml;ndrats p&aring; denna webbplats; det &auml;r
 
 Vi har inf&ouml;rt en ny rubrik p&aring; f&ouml;rsta sidan, d&auml;r du kan ta del av nyheter och erbjudanden. Vi kommer dela med oss av diverse tips, life-hacks och s&aring; klart erbjudanden som gynnar dig som kund. Dessa nyheter kommer dyka upp som l&auml;nkar i v&aring;ra sociala medier s&aring; att du f&aring;r reda p&aring; vad som h&auml;nder n&auml;r det h&auml;nder. F&ouml;r visst f&ouml;ljer du oss p&aring; [Facebook,](https://www.facebook.com/enrenarevardagAB/){: target="_blank"} [Linkedin](https://www.linkedin.com/company/en-renare-vardag-i-stockholm-ab/){: target="_blank"} och [Instagram?](https://www.instagram.com/enrenarevardag/){: target="_blank"}
 
-#### Just nu\! Rekrytera kunder &aring;t oss och f&aring; upp till 200kr i rabbatt (inklusive rutavdrag)
+#### Just nu\! Rekrytera kunder &aring;t oss och f&aring; upp till 200kr i rabatt (inklusive rutavdrag)
 
 &nbsp;
 
