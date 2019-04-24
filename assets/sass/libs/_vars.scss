@@ -6,29 +6,29 @@
 // Duration.
 	$duration: (
 		nav:				0.5s,
-		transition:			0.2s
+		transition:	0.2s
 	);
 
 // Size.
 	$size: (
-		border-radius:		0.375em,
-		element-height:		2.75em,
-		element-margin:		2em,
-		sidebar-width:		24em,
-		sidebar-width-alt:	22em,
-		gutter:				3em
+		border-radius:		  0.375em,
+		element-height:		  2.75em,
+		element-margin:		  2em,
+		sidebar-width:		  24em,
+		sidebar-width-alt:  22em,
+		gutter:				      3em
 	);
 
 // Font.
 	$font: (
-		family:				('Open Sans', sans-serif),
-		family-heading:		('Georgia', 'Times New Roman', serif),
-		family-fixed:		('Courier New', monospace),
-		weight:				400,
-		weight-bold:		600,
-		weight-heading:		700,
+		family:				      ('Open Sans', sans-serif),
+		family-heading:		  ('Georgia', 'Times New Roman', serif),
+		family-fixed:	  	  ('Courier New', monospace),
+		weight:				      400,
+		weight-bold:	      600,
+		weight-heading:     700,
 		weight-heading-alt:	400,
-		kerning-heading:	0.0em
+		kerning-heading:	  0.0em
 	);
 
 // Palette.
