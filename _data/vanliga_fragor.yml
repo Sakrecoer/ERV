@@ -1,57 +1,249 @@
 - question: Hur lång tid tar en städning?
   answer_markdown: >-
-    Det beror på storlek och skick av bostad. Det brukar ta mellan 3 och 8 timmar. Ju större bostad desto fler städerskor skickar vi på en gång, så att de kan klara av en storstädning eller flyttstädning inom en arbetsdag. Vi kan säga till lite mer exakt hur länge storstädning/ flyttstädning ska ta, efter vi går runt genom bostad och se hur det ser ut.
+    Det beror p&aring; storlek och skick av bostad. Det brukar ta mellan 3 och 8
+    timmar. Ju st&ouml;rre bostad desto fler st&auml;derskor skickar vi p&aring;
+    en g&aring;ng, s&aring; att de kan klara av en storst&auml;dning eller
+    flyttst&auml;dning inom en arbetsdag. Vi kan s&auml;ga till lite mer exakt
+    hur l&auml;nge storst&auml;dning/ flyttst&auml;dning ska ta, efter vi
+    g&aring;r runt genom bostad och se hur det ser ut.
 - question: Är det samma person som kommer hem till mig?
   answer_markdown: >-
-    Ja, vårt upplägg är att du har samma städare utom vid sjukdom eller semester. Vid dessa tillfällen kontaktar vi den som ni anmält som kontaktperson innan vi skickar en vikarie.
-    Om vi av någon anledning måste byta ut städaren hos dig så blir du alltid kontaktad om det innan.
+    Ja, vårt upplägg är att du har samma städare utom vid sjukdom eller
+    semester. Vid dessa tillfällen kontaktar vi den som ni anmält som
+    kontaktperson innan vi skickar en vikarie. Om vi av någon anledning måste
+    byta ut städaren hos dig så blir du alltid kontaktad om det innan.
 - question: Måste jag vara hemma under alla städtillfället?
   answer_markdown: >-
-    Nej, Du kan kvittera ut nyckel gentemot en nyckelvittnes så städar vi hemma hos dig medan du jobbar.
+    Nej, Du kan kvittera ut nyckel gentemot en nyckelvittnes så städar vi hemma
+    hos dig medan du jobbar.
 - question: Arbetar ni på röda dagar?
   answer_markdown: >-
-    Nej, det gör vi inte. Du har två alternativ om städning faller på en röd dag. Första alternativet är att bara hoppa över ett städtillfället - du behöver inte göra någonting. Om vi inte får något meddelande från dig, så antar vi att du inte vill ha städning den här dagen. Andra aternativet är att få ny tid innan, eller efter den lediga dagen - Vi ber dig att du kontaktar oss i så fall, så att vi kan hitta en bra lösning för dig. 
+    Nej, det gör vi inte. Du har två alternativ om städning faller på en röd
+    dag. Första alternativet är att bara hoppa över ett städtillfället - du
+    behöver inte göra någonting. Om vi inte får något meddelande från dig, så
+    antar vi att du inte vill ha städning den här dagen. Andra aternativet är
+    att få ny tid innan, eller efter den lediga dagen - Vi ber dig att du
+    kontaktar oss i så fall, så att vi kan hitta en bra lösning för dig. 
 - question: Hur arbetar En Renare Vardag med säkerhet?
   answer_markdown: >-
-    Alla våra personal är ansvarsförsäkrade. Innan anställning måste varje anställd skriva på ett sekretessavtal samt lämna ett utdrag ur belastningsregistret. En Renare Vardagsrutiner för hantering av nycklar, larm och andra kunduppgifter är speciellt utvecklade för att skapa trygghet och sekretess för dig.
+    Alla våra personal är ansvarsförsäkrade. Innan anställning måste varje
+    anställd skriva på ett sekretessavtal samt lämna ett utdrag ur
+    belastningsregistret. En Renare Vardagsrutiner för hantering av nycklar,
+    larm och andra kunduppgifter är speciellt utvecklade för att skapa trygghet
+    och sekretess för dig.
 - question: Vad händer om något går sönder?
   answer_markdown: >-
-    En Renare Vardag har ansvarsförsäkring som täcker eventuella skador på egendom som kan uppkomma under vårt arbete. Skadeanmälan MÅSTE meddelas inom 24 timmar efter städningen därefter vi godtar tyvärr inte den skadan. Försäkrings omfattning ligger på 10 000 000 kr. Vid första städtillfället vi ber varje kund att berätta oss om eventuella skada i hemmet samt känsliga tavlor, möbler, gardiner eller golv så att vår personal vet hur rengöra dessa saker. Vi tyvärr tar inget ansvar på saker som går sönder tex pga ålder eller när något tekniskt fel inträffar på tex en tvättmaskin eller dammsugare. 
-- question: Kan jag betala kontant? 
+    En Renare Vardag har ansvarsf&ouml;rs&auml;kring som t&auml;cker eventuella
+    skador p&aring; egendom som kan uppkomma under v&aring;rt arbete.
+    Skadeanm&auml;lan **M&Aring;STE** meddelas inom 24 timmar efter
+    st&auml;dningen d&auml;refter vi godtar tyv&auml;rr inte den skadan.
+    F&ouml;rs&auml;krings omfattning ligger p&aring; 10 000 000 kr. Vid
+    f&ouml;rsta st&auml;dtillf&auml;llet vi ber varje kund att ber&auml;tta oss
+    om eventuella skada i hemmet samt k&auml;nsliga tavlor, m&ouml;bler,
+    gardiner eller golv s&aring; att v&aring;r personal vet hur reng&ouml;ra
+    dessa saker. Vi tyv&auml;rr tar inget ansvar p&aring; saker som g&aring;r
+    s&ouml;nder tex pga &aring;lder eller n&auml;r n&aring;got tekniskt fel
+    intr&auml;ffar p&aring; tex en tv&auml;ttmaskin eller dammsugare.
+- question: Kan jag betala kontant?
   answer_markdown: >-
-    Vi tar endast emot betalning via faktura och ingen kontant hantering. Du kan betala på tre olika sätt.
+    Vi tar endast emot betalning via faktura och ingen kontant hantering. Du kan
+    betala p&aring; tre olika s&auml;tt:
 
-    E-post faktura 
-    Fakturan skickas till samma e-post som du har angett när du beställde en städtjänst. Vid betalningen vänligen ange faktura nr.
-    
-    Autogiro 
-    Om du är en kontinuerlig kund hos oss och vill välja den tjänsten så går du i din bankkonto och skicka en anmälan så ordnar vi därefter. Du får alltid en fakturaunderlag från oss för just den betalningen som görs.
-    
-    Swisha
-    Du kan swisha oss till nr. 1232697563. Ange faktura nr i meddelande fältet.
 
-- question:
+    1. **E-post faktura:** Fakturan skickas till samma e-post som du har angett
+    n&auml;r du best&auml;llde en st&auml;dtj&auml;nst. Vid betalningen
+    v&auml;nligen ange faktura nr.
+
+    2. **Autogiro:** Om du &auml;r en kontinuerlig kund hos oss och vill
+    v&auml;lja den tj&auml;nsten s&aring; g&aring;r du i din bankkonto och
+    skicka en anm&auml;lan s&aring; ordnar vi d&auml;refter. Du f&aring;r alltid
+    en fakturaunderlag fr&aring;n oss f&ouml;r just den betalningen som
+    g&ouml;rs.
+
+    3. **Swisha:** Du kan swisha oss till nr. [1232697563\.](tel:+461232697563.)
+    Ange faktura nr i meddelande f&auml;ltet.
+- question: Kan man avboka sin städning under uppsägningstid?
   answer_markdown: >-
-
-- question:
+    Tyv&auml;rr, den avbokade st&auml;dning m&aring;ste ombokas annars kunden
+    blir debiterat p&aring; den kvarst&aring;ende st&auml;dningen om kunden inte
+    &ouml;nskar sig n&aring;n st&auml;dning.
+- question: RUT-avdrag
   answer_markdown: >-
+    Fr&aring;n och med den f&ouml;rsta 1 juli 2009 kan privatpersoner f&aring;
+    skattereduktion genom fakturamodellen. Det inneb&auml;r att du som kund
+    betalar h&auml;lften av arbetskostnaden till den som utf&ouml;r arbetet.
+    F&ouml;r att du ska kunna utnyttja fakturamodellen kr&auml;vs att
+    f&ouml;retaget som anlitas har F-skattsedel. N&auml;r arbetet &auml;r
+    utf&ouml;rt beg&auml;r f&ouml;retaget resten av arbetsers&auml;ttningen av
+    Skatteverket. F&ouml;ljande &aring;r st&aring;r det f&ouml;rtryckt i din
+    inkomstdeklaration hur stort belopp du har f&aring;tt i prelimin&auml;r
+    skattereduktion.
 
-- question:
+
+    Efter 1 januari 2016 har regeringen fattat beslut att summan s&auml;nks
+    fr&aring;n 50 000kr till 25 000kr per person med 50% skattereduktion
+    f&ouml;r Rut-avdrag och f&ouml;r enkla st&auml;dning.
+- question: Vem står för städutrustningen för flyttstädning och storstädning?
   answer_markdown: >-
-
-- question:
+    En Renare Vardag st&aring;r f&ouml;r st&auml;dmaterial, st&auml;dredskap
+    f&ouml;r flyttst&auml;dning och storst&auml;dning.
+- question: Hur blir jag kund?
   answer_markdown: >-
-
-- question:
+    Du kontaktar oss genom
+    v&aring;rt&nbsp;[kontaktformul&auml;r,](https://enrenarevardag.se/kontakta-oss/)&nbsp;per
+    telefon [08-660 55 55](tel:+4686605555) eller genom e-post:
+    [kundtjanst@enrenarevardag.se](mailto:kundtjanst@enrenarevardag.se) s&aring;
+    h&ouml;r vi av oss s&aring; fort som m&ouml;jligt och senast inom 24 timmar.
+    Du b&ouml;rjar alltid med en bindningsfri provst&auml;dning f&ouml;r att se
+    om du &auml;r n&ouml;jd med tj&auml;nsten och om det &auml;r n&aring;got
+    f&ouml;r dig.
+- question: Hur snabbt kommer vi igång med städningen?
   answer_markdown: >-
-
-- question:
+    Efter att ha f&aring;tt dina kontaktuppgifter s&aring; bokar vi in
+    st&auml;dning direkt f&ouml;r den &ouml;nskade datum och tid.
+- question: Måste jag vara hemma vid första städtillfället?
   answer_markdown: >-
-
-- question:
+    Ja, det &auml;r bra om du &auml;r hemma vid f&ouml;rsta
+    st&auml;dtillf&auml;llet f&ouml;r att tr&auml;ffa personen som st&auml;dar.
+    Det f&ouml;ljer &auml;ven med en arbetsledare ut vid f&ouml;rsta
+    tillf&auml;llet f&ouml;r att g&ouml;ra en kvalitetskontroll. D&aring; har du
+    &auml;ven m&ouml;jlighet att kvittera ut nycklar om s&aring; &ouml;nskas.
+- question: Måste jag lämna ut nycklar?
   answer_markdown: >-
-
-- question:
+    Nej, om du garanterar att vara hemma n&auml;r st&auml;dningen
+    p&aring;b&ouml;rjas och avslutas beh&ouml;ver vi ingen nyckel. F&ouml;r att
+    v&aring;r f&ouml;rs&auml;kring ska g&auml;lla m&aring;ste vi kvittera ut
+    nycklar av er eller att ni &auml;r hemma och &ouml;ppnar och sedan
+    l&aring;ser n&auml;r vi &auml;r klara. Om ni v&auml;ljer att g&ouml;mma
+    nycklar eller andra l&ouml;sningar s&aring; g&auml;ller inte v&aring;r
+    f&ouml;rs&auml;kring om det skulle h&auml;nda n&aring;gonting.
+- question: Kan jag avboka i sista minuten?
   answer_markdown: >-
+    Tyv&auml;rr. V&aring;r administration klarar inte av sista-minuten
+    avbokningar. Vi kan inte fylla luckorna och d&auml;rf&ouml;r debiterar vi
+    enligt avbokningsreglerna nedan.
 
 
+    * Du kan avboka flyttst&auml;dning / Storst&auml;dning 72 timmar innan
+    bokade tid utan extra kostnader.
+
+    * Du kan avboka hemst&auml;dning 24 timmar innan bokade tid utan extra
+    kostnader.
+
+    * Avbokningar sker endast via mail.
+
+    * Vid akuta fall utanf&ouml;r arbetstid v&auml;nligen skicka SMS till
+    0763419300 eller under arbetstider ring oss per telefon 08-660 55 55.
+
+
+    \*\*Vid senare avbokning debiterar vi dig med 500 kr avbokningsavgift
+    tillh&ouml;r flyttst&auml;dning / storst&auml;dning.\*\*Vid senare avbokning
+    debiterar vi dig med 250 kr avbokningsavgift tillh&ouml;r
+    Hemst&auml;dning.\*\*Ombokning av sin st&auml;dhj&auml;lp kostar inget om
+    t.ex du &auml;r sjuk och kan inta ta emot st&auml;daren f&ouml;r just den
+    st&auml;dningen och du kommer inte debiteras p&aring; n&aring;got extra
+    avgift men vi m&aring;ste omboka den st&auml;dning som ni missade.
+- question: Vad händer om jag inte är nöjd med städningen?
+  answer_markdown: >-
+    Kvalit&eacute;n p&aring; det jobb vi utf&ouml;r &auml;r av j&auml;tteviktig
+    f&ouml;r oss, och skulle du vara missn&ouml;jd med v&aring;rt arbete ger vi
+    dig m&ouml;jlighet att inom 24 timmar g&ouml;ra en reklamation.
+    D&auml;refter &aring;tg&auml;rdar vi s&aring; snabbt som m&ouml;jligt
+    problemet. Detta &auml;r av st&ouml;rsta vikt f&ouml;r oss d&aring; vi
+    efterstr&auml;var att du skall vara till 100% n&ouml;jd med v&aring;rt
+    arbete.
+
+
+    Om kunden h&ouml;r av sig f&ouml;r en kompensation som har redan passerat 24
+    timmar s&aring; ers&auml;tter vi tyv&auml;rr ingenting. Det &auml;r
+    d&auml;rf&ouml;r &auml;r v&auml;ldigt viktigt f&ouml;r oss att ni h&ouml;r
+    av er omg&aring;ende n&auml;r ni &auml;r missn&ouml;jda med n&aring;got.
+- question: Vad behöver jag tänka på innan flyttstädning?
+  answer_markdown: >-
+    G&aring; igenom hela bostaden och se till att alla sk&aring;p och
+    l&aring;dor &auml;r tomt. Meddela oss om alla eventuella skador. Vi
+    reng&ouml;r endast m&ouml;bler och utrustning som &auml;r helt t&ouml;mda
+    inuti. Du &auml;r skyldig att l&auml;mna ut f&ouml;nsternycklar till
+    st&auml;dpersonalen om det beh&ouml;vs. Om du &ouml;nskar st&auml;dning
+    p&aring; baksidan av tung utrustning (t.ex. kyl, frys, tv&auml;ttmaskin och
+    torktumlare, v&auml;rmeelement i sk&aring;p, etc.) &auml;r du skyldig att
+    flytta utrustningen p&aring; egen hand eller m&ouml;jligen be v&aring;r
+    personal om hj&auml;lp. V&aring;r personal flyttar inte denna typ av
+    utrustning p&aring; egen hand. Om utrustningen inte flyttas t&auml;cker
+    garantin inte de platser som skulle ha rengjorts, men inte rengjordes
+    eftersom det inte fanns tillg&aring;ng till dessa. Vi ansvarar inte f&ouml;r
+    k&aring;por p&aring; badkar s&aring;som jacuzzi, filter i
+    k&ouml;ksfl&auml;kt och ugnspl&aring;tar. **Kom ih&aring;g att frysa av
+    frysen.&nbsp;**
+- question: Hur kan man säga upp sitt städavtal?
+  answer_markdown: >-
+    Skulle du av n&aring;gon anledning inte vilja forts&auml;tta med oss
+    s&aring; meddelar du oss endast via mail. Vi har inga l&aring;nga kontrakt.
+    Detta g&auml;ller under hela din tid som kund hos oss.
+- question: Hur hanterar En Renare Vardag under semestertider?
+  answer_markdown: >-
+    V&aring;ra semestertider &auml;r under juli m&aring;naden. Vi har ett antal
+    vikarier som jobbar under juli om du &ouml;nskar att ha st&auml;dning
+    d&aring;. Om ni har t&auml;nkt att ha en semester i n&aring;gon annan
+    m&aring;nad s&aring; v&auml;nligen kontakta oss s&aring; avbokar vi
+    st&auml;dningen under den m&aring;naden.
+
+
+    **OBS:** Vi beh&ouml;ver veta om er semester en m&aring;nad innan f&ouml;r
+    att kunna hantera eventuella avbokningar under er semester.
+
+
+    Vi kommer att skicka en f&ouml;rfr&aring;gningar till alla v&aring;ra kunder
+    under Juni f&ouml;r att veta vilka som ville ha st&auml;dning n&auml;r vi
+    &auml;r p&aring; semester.
+- question: Vem står för städutrustningen för hemstädning?
+  answer_markdown: >-
+    V&aring;ra st&auml;dare &aring;ker kommunalt ut till er kunder (med undantag
+    f&ouml;r v&aring;ra flyttst&auml;dteam) d&auml;rf&ouml;r beh&ouml;ver du ha
+    material hemma n&auml;r vi kommer. Vi f&ouml;respr&aring;kar en s&aring;
+    milj&ouml;v&auml;nlig st&auml;dning som m&ouml;jligt och st&auml;dar
+    d&auml;rf&ouml;r g&auml;rna med microfibertrasor och milj&ouml;v&auml;nliga
+    medel.
+
+
+    **Tips till v&aring;ra kunder**
+
+
+    St&auml;dredskap som ni ska ha hemma:
+
+
+    * En bra och fungerande Dammsugare (dammsugarp&aring;sar ska kollas av
+    kunden om den &auml;r inte fullt)
+
+    * En skurhink med Moppskaft med mopp (g&auml;rna Micro fiber)
+
+    * Dammvippa
+
+    * Torr tygtrasa (olika f&auml;rg)och hush&aring;llspapper
+
+    * K&ouml;kstrasa (typ Wettex, olika f&auml;rg, gr&ouml;n(k&ouml;k),
+    R&ouml;d(w.c), Gul(&Ouml;vriga utrymmen)
+
+    * Diskborste
+
+    * Diskhanddukar
+
+    * Toaborste
+
+
+    Reng&ouml;ringsmedel som Ni ska ha hemma
+
+
+    * Bra diskmedel (typ Yes)
+
+    * F&ouml;nsterputs (f&ouml;r speglar)
+
+    * JIF Cream eller VIM
+
+    * Allreng&ouml;ringsmedel (typ Ajax / S&aring;pa)
+
+    * K&ouml;ksspray (typ Ajax)
+
+    * Kakel eller badrumsspray (typ Ajax universall)
+
+    * Toalettrent (typ WC-anka)
