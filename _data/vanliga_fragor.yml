@@ -119,45 +119,34 @@
     f&ouml;rs&auml;kring om det skulle h&auml;nda n&aring;gonting.
 - question: Kan jag avboka i sista minuten?
   answer_html: >-
-    Tyv&auml;rr. V&aring;r administration klarar inte av sista-minuten
+    <p>Tyv&auml;rr. V&aring;r administration klarar inte av sista-minuten
     avbokningar. Vi kan inte fylla luckorna och d&auml;rf&ouml;r debiterar vi
-    enligt avbokningsreglerna nedan.
-
-
-    * Du kan avboka flyttst&auml;dning / Storst&auml;dning 72 timmar innan
-    bokade tid utan extra kostnader.
-
-    * Du kan avboka hemst&auml;dning 24 timmar innan bokade tid utan extra
-    kostnader.
-
-    * Avbokningar sker endast via mail.
-
-    * Vid akuta fall utanf&ouml;r arbetstid v&auml;nligen skicka SMS till
-    0763419300 eller under arbetstider ring oss per telefon 08-660 55 55.
-
-
-    \*\*Vid senare avbokning debiterar vi dig med 500 kr avbokningsavgift
-    tillh&ouml;r flyttst&auml;dning / storst&auml;dning.\*\*Vid senare avbokning
+    enligt avbokningsreglerna nedan.</p><ul><li>Du kan avboka flyttst&auml;dning
+    / Storst&auml;dning 72 timmar innan bokade tid utan extra
+    kostnader.</li><li>Du kan avboka hemst&auml;dning 24 timmar innan bokade tid
+    utan extra kostnader.</li><li>Avbokningar sker endast via mail.</li><li>Vid
+    akuta fall utanf&ouml;r arbetstid v&auml;nligen skicka SMS till 0763419300
+    eller under arbetstider ring oss per telefon 08-660 55 55.</li></ul><p>**Vid
+    senare avbokning debiterar vi dig med 500 kr avbokningsavgift tillh&ouml;r
+    flyttst&auml;dning / storst&auml;dning.</p><p>**Vid senare avbokning
     debiterar vi dig med 250 kr avbokningsavgift tillh&ouml;r
-    Hemst&auml;dning.\*\*Ombokning av sin st&auml;dhj&auml;lp kostar inget om
-    t.ex du &auml;r sjuk och kan inta ta emot st&auml;daren f&ouml;r just den
+    Hemst&auml;dning.</p><p>**Ombokning av sin st&auml;dhj&auml;lp kostar inget
+    om t.ex du &auml;r sjuk och kan inta ta emot st&auml;daren f&ouml;r just den
     st&auml;dningen och du kommer inte debiteras p&aring; n&aring;got extra
-    avgift men vi m&aring;ste omboka den st&auml;dning som ni missade.
+    avgift men vi m&aring;ste omboka den st&auml;dning som ni missade.</p>
 - question: Vad händer om jag inte är nöjd med städningen?
   answer_html: >-
-    Kvalit&eacute;n p&aring; det jobb vi utf&ouml;r &auml;r av j&auml;tteviktig
-    f&ouml;r oss, och skulle du vara missn&ouml;jd med v&aring;rt arbete ger vi
-    dig m&ouml;jlighet att inom 24 timmar g&ouml;ra en reklamation.
-    D&auml;refter &aring;tg&auml;rdar vi s&aring; snabbt som m&ouml;jligt
-    problemet. Detta &auml;r av st&ouml;rsta vikt f&ouml;r oss d&aring; vi
-    efterstr&auml;var att du skall vara till 100% n&ouml;jd med v&aring;rt
-    arbete.
-
-
-    Om kunden h&ouml;r av sig f&ouml;r en kompensation som har redan passerat 24
-    timmar s&aring; ers&auml;tter vi tyv&auml;rr ingenting. Det &auml;r
-    d&auml;rf&ouml;r &auml;r v&auml;ldigt viktigt f&ouml;r oss att ni h&ouml;r
-    av er omg&aring;ende n&auml;r ni &auml;r missn&ouml;jda med n&aring;got.
+    <p>Kvalit&eacute;n p&aring; det jobb vi utf&ouml;r &auml;r av
+    j&auml;tteviktig f&ouml;r oss, och skulle du vara missn&ouml;jd med
+    v&aring;rt arbete ger vi dig m&ouml;jlighet att inom 24 timmar g&ouml;ra en
+    reklamation. D&auml;refter &aring;tg&auml;rdar vi s&aring; snabbt som
+    m&ouml;jligt problemet. Detta &auml;r av st&ouml;rsta vikt f&ouml;r oss
+    d&aring; vi efterstr&auml;var att du skall vara till 100% n&ouml;jd med
+    v&aring;rt arbete.</p><p>Om kunden h&ouml;r av sig f&ouml;r en kompensation
+    som har redan passerat 24 timmar s&aring; ers&auml;tter vi tyv&auml;rr
+    ingenting. Det &auml;r d&auml;rf&ouml;r &auml;r v&auml;ldigt viktigt
+    f&ouml;r oss att ni h&ouml;r av er omg&aring;ende n&auml;r ni &auml;r
+    missn&ouml;jda med n&aring;got.</p>
 - question: Vad behöver jag tänka på innan flyttstädning?
   answer_html: >-
     <p>G&aring; igenom hela bostaden och se till att alla sk&aring;p och
