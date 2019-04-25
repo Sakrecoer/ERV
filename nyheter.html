@@ -10,9 +10,9 @@ layout: default
   <header class="major">
     <h2>Vi är En Renare Vardag</h2>
   </header>
-  <div class="posts" style="background-color: #fff;border-radius: 3px; padding: 15px;">
+  <div class="posts">
     {% for post in site.posts %}
-    <article>
+    <article style="background-color: #fff;border-radius: 3px; padding: 15px;">
       <a href="{{ post.url }}" class="image"><img src="{{ post.image }}" alt="{{ post.title }}" /></a>
       <h3>{{ post.title }}</h3>
       <p>{{ post.description }}</p>
