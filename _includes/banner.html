@@ -7,9 +7,10 @@
       <p>{{ page.description }}</p>
       {% if page.url != '/boka/' %}
       <ul class="actions" style="margin-bottom: 0;">
-        <li><a
-            href="{% if page.url == '/' or page.url == '/kontakta-oss/' or page.url == '/din-trygghet/' or page.url == '/jobba-hos-oss/' or page.url == '/om-oss/' %}/boka/{% else %}#booknow{% endif %}"
-            id="button" class="button primary large knap">Boka Nu</a></li>
+        <li>
+          <a href="{% if page.url == '/' or page.url == '/kontakta-oss/' or page.url == '/din-trygghet/' or page.url == '/jobba-hos-oss/' or page.url == '/om-oss/' %}/boka/{% else %}#booknow{% endif %}"
+            id="button" class="button primary large knap">Boka Nu</a>
+        </li>
       </ul>
       {% endif %}
     </header>
