@@ -1,5 +1,5 @@
 ---
-title: Städning av skola i Stockholm
+title: Skolstädning i Stockholm
 description: "En renare vardag hjälper er att vistas i en ren och fräsch skolmiljö som ger ökat trivsel för elever och personal med högkvalitativ städning. Hör av dig och boka ett kostnadsfritt möte."
 image: /images/sko.jpg
 permalink: /foretag/skolstadning/

@@ -1,5 +1,5 @@
 ---
-title: Städning av kontor i Stockholm
+title: Kontorsstädning i Stockholm
 description: >-
   En Renare Vardag erbjuder städning av kontor som kan få ditt företag att skina
   genom att eliminera all smuts som har lämnats kvar när ljusen släckts. Hör av

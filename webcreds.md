@@ -1,11 +1,13 @@
 ---
-title: Mjukvara och Bilder
+title: Mjukvara som körs på sidan
 date: 2019-04-10 00:01:00 +0200
 descrtiption: 'Bilder och mjukvara som använts för att bygga denna webbsida'
 permalink: /webcreds/
 sitemap: true
+layout: infosidor
+image: /images/erv.jpg
 ---
-# En Renare Vardarg AB
+## En Renare Vardarg AB
 
 Built with Jekyll (<https://jekyllrb.com/>)
 

@@ -1,5 +1,5 @@
 ---
-title: Städning av trappor i Stockholm
+title: Trappstädning i Stockholm
 description: "Vi på En Renare Vardag AB sköter trapphus städning åt företag, bostadsrättsföreningar och skolor i Stockholm. Hör av dig och boka ett kostnadsfritt möte."
 image: /images/trapp-2.jpg
 permalink: /foretag/trappstadning/
