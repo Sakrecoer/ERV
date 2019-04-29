@@ -66,6 +66,19 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+      _options:
+        image:
+          uploads_dir: "images/nyheter"
+          width: "960"
+          height: "430"
+          resize_style: "cover"
+          mime_type: "image/jpeg"
+        content:
+          uploads_dir: "images/nyheter"
+          width: "960"
+          height: "430"
+          resize_style: "cover"
+          mime_type: "image/jpeg"
   -
     scope:
       type: "pages"
