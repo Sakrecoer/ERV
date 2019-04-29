@@ -16,7 +16,7 @@ Att hitta tips om verktyg f&ouml;r st&auml;dning eller reng&ouml;ringsmedel p&ar
 
 Veckans tips &auml;r inte en specifik teknik eller ett medel. Det riktar sig till alla f&ouml;r&auml;ldrar d&auml;r ute. Att st&auml;da beh&ouml;ver inte vara tr&aring;kigt, speciellt inte n&auml;r en b&ouml;rjar med det i tidig &aring;lder.&nbsp; Naturligtvis kr&auml;ver detta din &ouml;versikt, men i l&auml;ngden kommer det att l&ouml;na sig, d&aring; barnen inte kommer att se p&aring; st&auml;dning som en tr&aring;kig vuxen syssla om dom introduceras i hyfsat tidig &aring;lder. [En studie](https://www.karger.com/Article/Abstract/356763){: target="_blank"} om f&ouml;r&auml;ldrars s&auml;tt att uppfostra barn i Amazonas visar att, &auml;ven om det kan ta l&auml;ngre tid att st&auml;da tillsammans med sina barn, s&aring; f&aring;r barnen l&auml;ra sig v&auml;rdefulla tekniker som f&ouml;ljer med dom livet ut och framf&ouml;r allt:&nbsp; att ha en positiv attityd inf&ouml;r familj-b&ouml;rdorna.
 
-H&auml;r kommer d&auml;rf&ouml;r fem tips fr&aring;n Amazonas f&ouml;r&auml;ldrarna, som publicerats p&aring; [Amerikanska National Public Radio.](https://www.npr.org/sections/goatsandsoda/2018/06/09/616928895/how-to-get-your-kids-to-do-chores-without-resenting-it?t=1556534685315){: target="_blank"}
+H&auml;r kommer d&auml;rf&ouml;r fem tips fr&aring;n Amazonas f&ouml;r&auml;ldrarna, som publicerats p&aring; [Amerikanska National Public Radio.](https://www.npr.org/sections/goatsandsoda/2018/06/09/616928895/how-to-get-your-kids-to-do-chores-without-resenting-it?t=1556534685315){: target="_blank" }
 
 #### 1\. Exponera barnen f&ouml;r hemsysslor s&aring; mycket som m&ouml;jligt
 
@@ -66,8 +66,6 @@ N&auml;r du tvivlar, prata tillsammans: *"Att s&auml;ga till ett barn: "L&aring;
 
 *"Alla f&ouml;r&auml;ldrar &auml;r intresserade av att st&ouml;dja sina barn",* s&auml;ger han. *"S&aring; om du antar att ditt barn vill leka, s&aring; kommer du sannolikt att hitta ett b&auml;ttre s&auml;tt f&ouml;r dem att leka som &auml;r n&aring;gonstans ur v&auml;gen medan du &auml;r klar med b&ouml;rdorna" *
 
-Resultatet &auml;r ett barn som &auml;r skilt fr&aring;n den vuxna aktiviteten och inte finns runt omkring f&ouml;r att l&auml;ra sig om b&ouml;rdan - eller om hur man arbetar tillsammans i samarbete.
+Resultatet &auml;r ett barn som &auml;r skilt fr&aring;n den vuxna aktiviteten och inte fins runt omkring f&ouml;r att l&auml;ra sig om b&ouml;rdan - eller om hur man arbetar tillsammans i samarbete.
 
-*"Men om du g&ouml;r antagandet vill sm&aring;barnet hj&auml;lpa dig, men bara inte har en bra f&ouml;rst&aring;else f&ouml;r hur man hj&ouml;lper till - d&aring; f&ouml;rs&ouml;ker du hitta en v&auml;g f&ouml;r barnet att hj&auml;lpa till,"* till&auml;gger Coppens. ***"Du hj&auml;lper barnet att hj&auml;lpa till".***
-
-Med tiden kommer "hj&auml;lp" att v&auml;xa i komplexitet. Och den 2-&aring;rige som vispar pannkakablandningen idag kan bli den 6-&aring;ringen som g&ouml;r hela familjens frukost - och m&aring;r himla bra av det dessutom.
+"Men om du g&ouml;r antagandet vill sm&aring;barnet hj&auml;lpa dig, men han har inte en bra f&ouml;rst&aring;else f&ouml;r hur man g&ouml;r det - d&aring; f&ouml;rs&ouml;ker du hitta en v&auml;g f&ouml;r honom att hj&auml;lpa till," till&auml;gger Coppens. "Du hj&auml;lper honom hj&auml;lp".Med tiden kommer "hj&auml;lp" att v&auml;xa i komplexitet. Och den 2-&aring;rige som stirrar pannkakablandningen idag kan bli den 6-&aring;rige som g&ouml;r hela familjen frukost - och k&auml;nns darn bra om det.
