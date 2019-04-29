@@ -1,5 +1,5 @@
 ---
-title: Städtips på nätet
+title: 'Veckans Tips: Städa med barnen!'
 date: 2019-04-29 16:17:00 +0200
 description: >-
   Nätet har det gjort det lätt att hitta alla möjliga sorters tips om
@@ -16,13 +16,13 @@ Att hitta tips om verktyg f&ouml;r st&auml;dning eller reng&ouml;ringsmedel p&ar
 
 Veckans tips &auml;r inte en specifik teknik eller ett medel. Det riktar sig till alla f&ouml;r&auml;ldrar d&auml;r ute. Att st&auml;da beh&ouml;ver inte vara tr&aring;kigt, speciellt inte n&auml;r en b&ouml;rjar med det i tidig &aring;lder.&nbsp; Naturligtvis kr&auml;ver detta din &ouml;versikt, men i l&auml;ngden kommer det att l&ouml;na sig, d&aring; barnen inte kommer att se p&aring; st&auml;dning som en tr&aring;kig vuxen syssla om dom introduceras i hyfsat tidig &aring;lder. [En studie](https://www.karger.com/Article/Abstract/356763){: target="_blank"} om f&ouml;r&auml;ldrars s&auml;tt att uppfostra barn i Amazonas visar att, &auml;ven om det kan ta l&auml;ngre tid att st&auml;da tillsammans med sina barn, s&aring; f&aring;r barnen l&auml;ra sig v&auml;rdefulla tekniker som f&ouml;ljer med dom livet ut och framf&ouml;r allt:&nbsp; att ha en positiv attityd inf&ouml;r familj-b&ouml;rdorna.
 
-H&auml;r kommer d&auml;rf&ouml;r fem tips fr&aring;n Amazonas f&ouml;r&auml;ldrarna, som publicerats p&aring; [Amerikanska National Public Radio.](https://www.npr.org/sections/goatsandsoda/2018/06/09/616928895/how-to-get-your-kids-to-do-chores-without-resenting-it?t=1556534685315){: target="_blank" }
+H&auml;r kommer d&auml;rf&ouml;r fem tips fr&aring;n Amazonas f&ouml;r&auml;ldrarna, som publicerats p&aring; [Amerikanska National Public Radio.](https://www.npr.org/sections/goatsandsoda/2018/06/09/616928895/how-to-get-your-kids-to-do-chores-without-resenting-it?t=1556534685315){: target="_blank"}
 
 #### 1\. Exponera barnen f&ouml;r hemsysslor s&aring; mycket som m&ouml;jligt
 
 L&aring;t dem n&auml;rvara n&auml;r du g&ouml;r tv&auml;tten, lagar mat eller g&aring; ut med hunden. L&aring;t dem hj&auml;lpa till att byta en gl&ouml;dlampa, plantera &ouml;rter i tr&auml;dg&aring;rden eller hj&auml;lpa till att b&auml;dda en s&auml;ng. I grund och botten &auml;r allt som du vill ha hj&auml;lp bra f&ouml;r dem p&aring; sikt, se till att de &auml;r omkring medans aktiviteten intr&auml;ffar.
 
-*"Speciellt under de f&ouml;rsta &aring;ren, ge barnen m&ouml;jlighet att vandra &ouml;ver och titta p&aring; vad som h&auml;nder med vuxna",* s&auml;ger Coppens. *"Du kommer att bli f&ouml;rv&aring;nad &ouml;ver hur mycket sm&aring;barn kan l&auml;ra sig igenom att bara observera vad du g&ouml;r - ingen f&ouml;rel&auml;sning eller f&ouml;rklaring beh&ouml;vs. *
+*"Speciellt under de f&ouml;rsta &aring;ren, ge barnen m&ouml;jlighet att vandra &ouml;ver och titta p&aring; vad som h&auml;nder med vuxna",* s&auml;ger Coppens. \*"Du kommer att bli f&ouml;rv&aring;nad &ouml;ver hur mycket sm&aring;barn kan l&auml;ra sig igenom att bara observera vad du g&ouml;r - ingen f&ouml;rel&auml;sning eller f&ouml;rklaring beh&ouml;vs. \*
 
 *"Denna exponering hj&auml;lper ocks&aring; unga barn att se sysslorna som en social aktivitet",* s&auml;ger Coppens. *"Sysslonra &auml;r m&ouml;jligheter att arbeta tillsammans och vara med familjemedlemmar - vilket unga barn ofta l&auml;ngtar efter. D&aring; knyter ungarna ihop sysslor med en rolig, positiv aktivitet. Den h&auml;r psykologiska integrationen i familjen verkar vara mycket kraftfull utveckling f&ouml;r barnen att l&auml;ra sig att arbeta tillsammans,"* s&auml;ger Coppens.
 
@@ -32,7 +32,7 @@ Erbjud m&ouml;jligheter f&ouml;r barnen att hj&auml;lpa till med det jobb du g&o
 
 *"Uppgiften kan vara liten, men huvuddelen,* s&auml;ger, Coppens *&auml;r att den m&aring;ste g&ouml;ra ett verkligt bidrag till syftet. Det kan inte vara ett "falskt" projekt eller en handling som inte har n&aring;got att g&ouml;ra med den verkliga synen. D&aring; jobbar alla inte f&ouml;r ett gemensamt m&aring;l."*
 
-*"En av v&aring;ra studier i europeiska familjer visar att ett d&aring;ligt s&auml;tt att engagera barn &auml;r att ge sm&aring;barn s&aring; kallade "l&aring;tsas sysslor",* s&auml;ger Coppens. *Till**exempel en mamma som sopar k&ouml;ket och efter&aring;t ger kvasten till sitt unga barn att "sopa k&ouml;ket igen med." *
+*"En av v&aring;ra studier i europeiska familjer visar att ett d&aring;ligt s&auml;tt att engagera barn &auml;r att ge sm&aring;barn s&aring; kallade "l&aring;tsas sysslor",* s&auml;ger Coppens. *Till exempel en mamma som sopar k&ouml;ket och efter&aring;t ger kvasten till sitt unga barn att "sopa k&ouml;ket igen med." *
 
 *F&ouml;r&auml;ldrarna vet att barnet inte bidrar till syftet, och ganska snabbt kommer barnet att f&ouml;rst&aring; den inte gjort n&aring;gonting,* s&auml;ger Coppens. *Barnet f&aring;r d&aring; inte k&auml;nna p&aring; stoltheten och k&auml;nslan av prestation som kommer fr&aring;n att g&ouml;ra ett **verkligt bidrag.***
 
@@ -54,7 +54,7 @@ F&ouml;r att g&ouml;ra det tvingar inte Amazonas inhemska f&ouml;r&auml;ldrar in
 
 *"Att tvinga barnet har faktiskt motsatt effekt,* s&auml;ger Rogoff. *Det kan generera motst&aring;nd."*
 
-*"Precis som vuxna, tycker unga inte om att vara bossade",* s&auml;ger hon. *"Fr&aring;ga ett litet barn; "kan du hj&auml;lpa mig med det h&auml;r?" Fr&aring;gan f&aring;r dem ombord oftare &auml;n att helt enkelt s&auml;ga; "Du m&aring;ste g&ouml;ra det h&auml;r." *
+*"Precis som vuxna, tycker unga inte om att vara bossade",* s&auml;ger hon. *"Fr&aring;ga ett litet barn; "kan du hj&auml;lpa mig med det h&auml;r?" Fr&aring;gan f&aring;r dem ombord oftare &auml;n att helt enkelt s&auml;ga; "Du m&aring;ste g&ouml;ra det h&auml;r."*
 
 N&auml;r du tvivlar, prata tillsammans: *"Att s&auml;ga till ett barn: "L&aring;t oss g&ouml;ra det tillsammans" l&aring;ter s&aring; mycket mer intressant och givande &auml;n att s&auml;ga, "Jag vill att du ska g&ouml;ra det h&auml;r\!",* till&auml;gger hon.
 
@@ -68,4 +68,6 @@ N&auml;r du tvivlar, prata tillsammans: *"Att s&auml;ga till ett barn: "L&aring;
 
 Resultatet &auml;r ett barn som &auml;r skilt fr&aring;n den vuxna aktiviteten och inte fins runt omkring f&ouml;r att l&auml;ra sig om b&ouml;rdan - eller om hur man arbetar tillsammans i samarbete.
 
-"Men om du g&ouml;r antagandet vill sm&aring;barnet hj&auml;lpa dig, men han har inte en bra f&ouml;rst&aring;else f&ouml;r hur man g&ouml;r det - d&aring; f&ouml;rs&ouml;ker du hitta en v&auml;g f&ouml;r honom att hj&auml;lpa till," till&auml;gger Coppens. "Du hj&auml;lper honom hj&auml;lp".Med tiden kommer "hj&auml;lp" att v&auml;xa i komplexitet. Och den 2-&aring;rige som stirrar pannkakablandningen idag kan bli den 6-&aring;rige som g&ouml;r hela familjen frukost - och k&auml;nns darn bra om det.
+*"Men om du g&ouml;r antagandet att sm&aring;barnet faktiskt vill hj&auml;lpa dig, men bara inte har en bra f&ouml;rst&aring;else f&ouml;r hur man g&ouml;r det - d&aring; f&ouml;rs&ouml;ker du hitta en v&auml;g f&ouml;r barnet att hj&auml;lpa till,"* till&auml;gger Coppens. ***"Du hj&auml;lper barnet att hj&auml;lpa dig".***
+
+Med tiden kommer "hj&auml;lp" att v&auml;xa i komplexitet. Och den 2-&aring;rige som vispar pannkakablandningen idag kan bli den 6-&aring;rige som g&ouml;r hela familjens frukost - och m&aring;r bra av det.
