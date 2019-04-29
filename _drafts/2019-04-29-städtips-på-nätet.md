@@ -66,6 +66,8 @@ N&auml;r du tvivlar, prata tillsammans: *"Att s&auml;ga till ett barn: "L&aring;
 
 *"Alla f&ouml;r&auml;ldrar &auml;r intresserade av att st&ouml;dja sina barn",* s&auml;ger han. *"S&aring; om du antar att ditt barn vill leka, s&aring; kommer du sannolikt att hitta ett b&auml;ttre s&auml;tt f&ouml;r dem att leka som &auml;r n&aring;gonstans ur v&auml;gen medan du &auml;r klar med b&ouml;rdorna" *
 
-Resultatet &auml;r ett barn som &auml;r skilt fr&aring;n den vuxna aktiviteten och inte fins runt omkring f&ouml;r att l&auml;ra sig om b&ouml;rdan - eller om hur man arbetar tillsammans i samarbete.
+Resultatet &auml;r ett barn som &auml;r skilt fr&aring;n den vuxna aktiviteten och inte finns runt omkring f&ouml;r att l&auml;ra sig om b&ouml;rdan - eller om hur man arbetar tillsammans i samarbete.
 
-"Men om du g&ouml;r antagandet vill sm&aring;barnet hj&auml;lpa dig, men han har inte en bra f&ouml;rst&aring;else f&ouml;r hur man g&ouml;r det - d&aring; f&ouml;rs&ouml;ker du hitta en v&auml;g f&ouml;r honom att hj&auml;lpa till," till&auml;gger Coppens. "Du hj&auml;lper honom hj&auml;lp".Med tiden kommer "hj&auml;lp" att v&auml;xa i komplexitet. Och den 2-&aring;rige som stirrar pannkakablandningen idag kan bli den 6-&aring;rige som g&ouml;r hela familjen frukost - och k&auml;nns darn bra om det.
+*"Men om du g&ouml;r antagandet vill sm&aring;barnet hj&auml;lpa dig, men bara inte har en bra f&ouml;rst&aring;else f&ouml;r hur man hj&ouml;lper till - d&aring; f&ouml;rs&ouml;ker du hitta en v&auml;g f&ouml;r barnet att hj&auml;lpa till,"* till&auml;gger Coppens. ***"Du hj&auml;lper barnet att hj&auml;lpa till".***
+
+Med tiden kommer "hj&auml;lp" att v&auml;xa i komplexitet. Och den 2-&aring;rige som vispar pannkakablandningen idag kan bli den 6-&aring;ringen som g&ouml;r hela familjens frukost - och m&aring;r himla bra av det dessutom.
