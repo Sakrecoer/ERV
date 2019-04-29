@@ -4,5 +4,6 @@ date:
 description: 
 categories: 
 image: 
-author_staff_member: 
+author_staff_member:
+layout: post
 ---
