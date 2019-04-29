@@ -70,4 +70,4 @@ Resultatet &auml;r ett barn som &auml;r skilt fr&aring;n den vuxna aktiviteten o
 
 *"Men om du g&ouml;r antagandet att sm&aring;barnet faktiskt vill hj&auml;lpa dig, men bara inte har en bra f&ouml;rst&aring;else f&ouml;r hur man g&ouml;r det - d&aring; f&ouml;rs&ouml;ker du hitta en v&auml;g f&ouml;r barnet att hj&auml;lpa till,"* till&auml;gger Coppens. ***"Du hj&auml;lper barnet att hj&auml;lpa dig".***
 
-Med tiden kommer "hj&auml;lpen" att v&auml;xa i komplexitet. Och den 2-&aring;rige som vispar pannkakablandningen idag kan bli den 6-&aring;rige som g&ouml;r hela familjens frukost - och m&aring;r bra av det.
+Med tiden kommer "hj&auml;lpen" att v&auml;xa i komplexitet. Och den 2-&aring;rige som vispar pannkakssmeten idag kan bli den 6-&aring;rige som g&ouml;r hela familjens frukost - och m&aring;r bra av det.
