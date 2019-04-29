@@ -32,10 +32,40 @@ Erbjud m&ouml;jligheter f&ouml;r barnen att hj&auml;lpa till med det jobb du g&o
 
 *"Uppgiften kan vara liten, men huvuddelen,* s&auml;ger, Coppens *&auml;r att den m&aring;ste g&ouml;ra ett verkligt bidrag till syftet. Det kan inte vara ett "falskt" projekt eller en handling som inte har n&aring;got att g&ouml;ra med den verkliga synen. D&aring; jobbar alla inte f&ouml;r ett gemensamt m&aring;l."*
 
-*"En av v&aring;ra studier i europeiska familjer visar att ett bra s&auml;tt att engagera barn &auml;r att ge sm&aring;barn s&aring; kallade "komplementerande sysslor",* s&auml;ger Coppens. T*ill exempel skulle en mamma kunna sopa k&ouml;ket och efter&aring;t ge kvasten till sitt unga barn att "sopa k&ouml;ket igen med." *
+*"En av v&aring;ra studier i europeiska familjer visar att ett d&aring;ligt s&auml;tt att engagera barn &auml;r att ge sm&aring;barn s&aring; kallade "l&aring;tsas sysslor",* s&auml;ger Coppens. *Till**exempel en mamma som sopar k&ouml;ket och efter&aring;t ger kvasten till sitt unga barn att "sopa k&ouml;ket igen med." *
 
-*F&ouml;r&auml;ldrarna vet kanske att barnet inte bidrar till syftet, men ganska snabbt kommer barnet att f&ouml;rst&aring; hur en kan sopa effektivt,* s&auml;ger Coppens. *Och barnet f&aring;r k&auml;nna p&aring; stoltheten och k&auml;nsla av prestation som kommer fr&aring;n att g&ouml;ra ett verkligt bidrag.*
+*F&ouml;r&auml;ldrarna vet att barnet inte bidrar till syftet, och ganska snabbt kommer barnet att f&ouml;rst&aring; den inte gjort n&aring;gonting,* s&auml;ger Coppens. *Barnet f&aring;r d&aring; inte k&auml;nna p&aring; stoltheten och k&auml;nslan av prestation som kommer fr&aring;n att g&ouml;ra ett **verkligt bidrag.***
 
-#### 3\. Sikta alltid p&aring; att arbeta tillsammans
+#### 3\. Sikta p&aring; att arbeta tillsammans s&aring; ofta som m&ouml;jligt
 
-En stor motivationskraft f&ouml;r sm&aring; barn ligger runt familjen och arbetar med ett gemensamt m&aring;l.Denna motivation g&aring;r f&ouml;rlorad om vi dela upp sysslor s&aring; att alla arbetar solo (eller ger barn mock arbete).S&aring; till exempel, om du tv&auml;ttar, var noga med att alla vikar allas kl&auml;der. Om du har barnen bara vikar egna kl&auml;der medan du vikar din egen, blir uppgifterna mer om att arbeta sj&auml;lvst&auml;ndigt.4. Tvinga inte p&aring; det"Ibland tycker m&auml;nniskor att f&ouml;r att f&aring; barn att g&ouml;ra sysslor, som Maya-barn g&ouml;r, m&aring;ste f&ouml;r&auml;ldrarna g&ouml;ra ett riktigt bra jobb att kontrollera barnen", s&auml;ger Barbara Rogoff fr&aring;n UC Santa Cruz. Men faktiskt &auml;r motsatsen sant."M&aring;let &auml;r inte att styra barnen utan snarare att utveckla barnets eget initiativ", till&auml;gger hon.F&ouml;r att g&ouml;ra det tvingar inhemska f&ouml;r&auml;ldrar inte barn till hj&auml;lp. De uppmuntrar barnet och erbjuder m&ouml;jligheter att delta n&auml;r barnet &auml;r intresserat.Att tvinga barnet har faktiskt motsatt effekt, s&auml;ger Rogoff. Det kan generera motst&aring;nd."Precis som vuxna, tycker unga inte om att vara bossad", s&auml;ger hon. "Fr&aring;ga ett litet barn," kan du hj&auml;lpa mig med det h&auml;r? " f&aring;r dem ofta ombord oftare &auml;n helt enkelt och s&auml;ger "Du m&aring;ste g&ouml;ra det h&auml;r." "N&auml;r du &auml;r i tvivel, prata tillsammans: "Att s&auml;ga till ett barn:" L&aring;t oss g&ouml;ra det tillsammans "l&aring;ter s&aring; mycket mer intressant och givande &auml;n att s&auml;ga," Jag vill att du ska g&ouml;ra det h&auml;r ", till&auml;gger hon.5. &Auml;ndra dina tankar om sm&aring; barn:I USA tror vi ofta sm&aring;barn och sm&aring;barn vill bara spela, s&auml;ger Coppens. Men de inhemska mammorna ser ett litet barn komma &ouml;ver till dem som en indikation p&aring; att de vill hj&auml;lpa.Skiftet i tankeg&aring;nget f&ouml;r&auml;ndrar hur f&ouml;r&auml;ldern svarar p&aring; barnets beg&auml;ran att delta i chore, s&auml;ger Coppens."Alla f&ouml;r&auml;ldrar &auml;r intresserade av att st&ouml;dja sina barn", s&auml;ger han. "S&aring; om du antar att ditt barn vill spela, s&aring; kommer du sannolikt att hitta ett b&auml;ttre s&auml;tt f&ouml;r dem att spela som &auml;r n&aring;gonstans ur v&auml;gen medan du &auml;r klar med chore."Resultatet &auml;r ett barn som &auml;r skilt fr&aring;n den vuxna aktiviteten och inte runt f&ouml;r att l&auml;ra sig om syftet - eller om hur man arbetar tillsammans i samarbete."Men om du g&ouml;r antagandet vill sm&aring;barnet hj&auml;lpa dig, men han har inte en bra f&ouml;rst&aring;else f&ouml;r hur man g&ouml;r det - d&aring; f&ouml;rs&ouml;ker du hitta en v&auml;g f&ouml;r honom att hj&auml;lpa till," till&auml;gger Coppens. "Du hj&auml;lper honom hj&auml;lp".Med tiden kommer "hj&auml;lp" att v&auml;xa i komplexitet. Och den 2-&aring;rige som stirrar pannkakablandningen idag kan bli den 6-&aring;rige som g&ouml;r hela familjen frukost - och k&auml;nns darn bra om det.
+En stor motivationskraft f&ouml;r sm&aring; barn ligger runt familjen och arbeta&nbsp; med ett gemensamt m&aring;l.
+
+Denna motivation g&aring;r f&ouml;rlorad om vi delar upp sysslor s&aring; att alla arbetar solo (eller ger barn l&aring;tsasarbete).
+
+S&aring; till exempel, om du tv&auml;ttar, var noga med att alla viker lite av allas kl&auml;der. Om barnen bara vikar sina egna kl&auml;der medan du vikar dina egna, handlar uppgifterna mer om att arbeta sj&auml;lvst&auml;ndigt.
+
+#### 4\. Tvinga inte p&aring; det
+
+*"Ibland tycker m&auml;nniskor att f&ouml;r att f&aring; barn att g&ouml;ra sysslor, som Maya-barn g&ouml;r, m&aring;ste f&ouml;r&auml;ldrarna g&ouml;ra ett riktigt bra jobb att kontrollera barnen",* s&auml;ger Barbara Rogoff fr&aring;n UC Santa Cruz. Men faktiskt &auml;r motsatsen sant.
+
+*"M&aring;let &auml;r inte att styra barnen utan snarare att utveckla barnets eget initiativ",* till&auml;gger hon.
+
+F&ouml;r att g&ouml;ra det tvingar inte Amazonas inhemska f&ouml;r&auml;ldrar inte barn till hj&auml;lp. De uppmuntrar barnet och erbjuder m&ouml;jligheter att delta n&auml;r barnet &auml;r intresserat.
+
+*"Att tvinga barnet har faktiskt motsatt effekt,* s&auml;ger Rogoff. *Det kan generera motst&aring;nd."*
+
+*"Precis som vuxna, tycker unga inte om att vara bossade",* s&auml;ger hon. *"Fr&aring;ga ett litet barn; "kan du hj&auml;lpa mig med det h&auml;r?" Fr&aring;gan f&aring;r dem ombord oftare &auml;n att helt enkelt s&auml;ga; "Du m&aring;ste g&ouml;ra det h&auml;r." *
+
+N&auml;r du tvivlar, prata tillsammans: *"Att s&auml;ga till ett barn: "L&aring;t oss g&ouml;ra det tillsammans" l&aring;ter s&aring; mycket mer intressant och givande &auml;n att s&auml;ga, "Jag vill att du ska g&ouml;ra det h&auml;r\!",* till&auml;gger hon.
+
+#### 5\. &Auml;ndra dina tankar om sm&aring; barn:
+
+*"I Occidenten t&auml;nker vi ofta att sm&aring; och unga barn&nbsp; bara vill leka,* s&auml;ger Coppens. *Men ett litet barn som kommer &ouml;ver till de Amazonas inhemska mammornas ses av dess som en indikation p&aring; att barnet vill hj&auml;lpa till.*
+
+*"Skiftet i tankeg&aring;ngen f&ouml;r&auml;ndrar hur f&ouml;r&auml;ldern svarar p&aring; barnets beg&auml;ran att delta i hemb&ouml;rdorna,* s&auml;ger Coppens.
+
+*"Alla f&ouml;r&auml;ldrar &auml;r intresserade av att st&ouml;dja sina barn",* s&auml;ger han. *"S&aring; om du antar att ditt barn vill leka, s&aring; kommer du sannolikt att hitta ett b&auml;ttre s&auml;tt f&ouml;r dem att leka som &auml;r n&aring;gonstans ur v&auml;gen medan du &auml;r klar med b&ouml;rdorna" *
+
+Resultatet &auml;r ett barn som &auml;r skilt fr&aring;n den vuxna aktiviteten och inte fins runt omkring f&ouml;r att l&auml;ra sig om b&ouml;rdan - eller om hur man arbetar tillsammans i samarbete.
+
+"Men om du g&ouml;r antagandet vill sm&aring;barnet hj&auml;lpa dig, men han har inte en bra f&ouml;rst&aring;else f&ouml;r hur man g&ouml;r det - d&aring; f&ouml;rs&ouml;ker du hitta en v&auml;g f&ouml;r honom att hj&auml;lpa till," till&auml;gger Coppens. "Du hj&auml;lper honom hj&auml;lp".Med tiden kommer "hj&auml;lp" att v&auml;xa i komplexitet. Och den 2-&aring;rige som stirrar pannkakablandningen idag kan bli den 6-&aring;rige som g&ouml;r hela familjen frukost - och k&auml;nns darn bra om det.
