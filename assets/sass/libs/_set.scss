@@ -175,7 +175,7 @@ a.intresse-btn-small {
   overflow-y: scroll;
   z-index: 100000;
   .floatingbooker {
-    width: 500px;
+    width: 400px;
     margin: auto;
     overflow-y: auto;
     height: 100vh;
@@ -186,6 +186,11 @@ a.intresse-btn-small {
     left:15px;
     z-index: 1000000;
 
+  }
+  @media only screen and (max-width: 400px) {
+    .floatingbooker {
+      width: 300px;
+    }
   }
   input[type="submit"].primary, input[type="reset"].primary, input[type="button"].primary, button.primary, .button.primary, a {
     background-color: #ffa060;
