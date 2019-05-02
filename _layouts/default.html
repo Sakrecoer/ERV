@@ -21,12 +21,12 @@
 {% feed_meta %}
 <script src="/assets/js/jquery.min.js"></script>
 <script src="https://www.google.com/recaptcha/api.js?explicit&hl=sv" async defer></script>
-
+{% if jekyll.environment == 'production' %}
 <!-- Start of HubSpot Embed Code -->
 <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/5554697.js"></script>
 <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
 <!-- End of HubSpot Embed Code -->
-
+{% endif %}
 
 {% if jekyll.environment == 'production' and site.google_analytics_key != '' %}
 
