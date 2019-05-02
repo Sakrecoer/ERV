@@ -38,3 +38,4 @@
 /storstadning-solna/ /privat/storstadning/
 /storstadning-sundbyberg/ /privat/storstadning/
 /privat/visningsstadning/ /privat/storstadning/
+/nyheter/2019/04/17/ny-hemsida/ /nyheter/2019/04/17/ny-och-städad-hemsida/
