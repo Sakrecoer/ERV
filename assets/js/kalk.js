@@ -89,14 +89,14 @@ var room_price = {
         '5': 900
     },
     6: {
-        1: 'offert',
-        2: 'offert',
-        4: 'offert',
+        1: 'kontakta oss',
+        2: 'kontakta oss',
+        4: 'kontakta oss',
         '5': 1500
     }
 };
 
-// Städning en gång per vecka
+// Stï¿½dning en gï¿½ng per vecka
 
 function sted_price(room, kvm) {
     jQuery(".price").each(function() {
@@ -121,11 +121,11 @@ function sted_price(room, kvm) {
             else if (kvm <= 200)
                 val = 1290;
             else if (kvm <= 201)
-                val = 'offert';
+                val = 'kontakta oss';
             else
                 val = 10 * kvm;
         } else if (room > 6)
-            val = 'offert';
+            val = 'kontakta oss';
         else
             val = room_price[room][number];
 
@@ -134,7 +134,7 @@ function sted_price(room, kvm) {
 
 }
 
-// Städning två gånger per vecka
+// Stï¿½dning tvï¿½ gï¿½nger per vecka
 
 function stedto_price(room, kvm) {
     jQuery(".price").each(function() {
@@ -159,11 +159,11 @@ function stedto_price(room, kvm) {
             else if (kvm <= 200)
                 val = 1290*2;
             else if (kvm <= 10000)
-                val = 'offert';
+                val = 'kontakta oss';
             else
                 val = 10 * kvm;
         } else if (room > 6)
-            val = 'offert';
+            val = 'kontakta oss';
         else
             val = room_price[room][number];
 
@@ -172,7 +172,7 @@ function stedto_price(room, kvm) {
 
 }
 
-// Städning fyra gånger per vecka
+// Stï¿½dning fyra gï¿½nger per vecka
 
 function stedfor_price(room, kvm) {
     jQuery(".price").each(function() {
@@ -197,11 +197,11 @@ function stedfor_price(room, kvm) {
             else if (kvm <= 200)
                 val = 1290*4;
             else if (kvm <= 10000)
-                val = 'offert';
+                val = 'kontakta oss';
             else
                 val = 10 * kvm;
         } else if (room > 6)
-            val = 'offert';
+            val = 'kontakta oss';
         else
             val = room_price[room][number];
 
@@ -212,7 +212,7 @@ function stedfor_price(room, kvm) {
 
 
 
- // Storstädning
+ // Storstï¿½dning
 
 function set_price(room, kvm) {
     jQuery(".price").each(function() {
@@ -251,11 +251,11 @@ function set_price(room, kvm) {
             else if (kvm <= 200)
                 val = 3885;
             else if (kvm <= 10000)
-                val = 'offert';
+                val = 'kontakta oss';
             else
                 val = 10 * kvm;
         } else if (room > 6)
-            val = 'offert';
+            val = 'kontakta oss';
         else
             val = room_price[room][number];
 
@@ -264,7 +264,7 @@ function set_price(room, kvm) {
 
 }
 
-// Flyttstädning
+// Flyttstï¿½dning
 
 function get_price(room, kvm) {
     jQuery(".price").each(function() {
@@ -297,11 +297,11 @@ function get_price(room, kvm) {
                 val = 2400;
            
             else if (kvm <= 10000)
-                val = 'offert';
+                val = 'kontakta oss';
             else
                 val = 21 * kvm;
         } else if (room > 6)
-            val = '-';
+            val = 'begÃ¤r offert';
         else
             val = room_price[room][number];
 
