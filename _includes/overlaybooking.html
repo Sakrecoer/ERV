@@ -27,9 +27,15 @@
   {% endif %}
 
 <div id="overlaybooking">
-  <div class="exitfloater"><a href="#" onclick="toggle_visibility('overlaybooking');" class="button primary large knap">Stäng fromulär</a></div>
+  <div class="exitfloater">
+    <ul class="actions">
+      <li><a href="#" onclick="toggle_visibility('overlaybooking');" class="button primary large knap">Stäng
+          utan att skicka</a>
+      </li>
+    </ul>
+  </div>
   <div class="floatingbooker">
-{% include boka-form.html %}
-<br /><br /><br /><br />
+    {% include boka-form.html %}
+    <br /><br /><br /><br />
   </div>
 </div>
