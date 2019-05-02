@@ -167,15 +167,13 @@ a.intresse-btn-small {
   position: fixed;
   top: 35px;
   text-align: center;
-  padding: 0 0 100px 30px;
+  padding: 0 0 0 30px;
   display: none;
   overflow-y: scroll;
   z-index: 100000;
   .floatingbooker {
     width: 500px;
     margin: auto;
-    flex-grow: 1;
-    flex-shrink: 1;
     overflow-y: auto;
     height: 100vh;
   }
@@ -183,14 +181,7 @@ a.intresse-btn-small {
     position: fixed;
     bottom: 40px;
     left:15px;
-    background-color: _palette(fg-bold);
-    height: 35px;
-    border-radius: 5px;
     z-index: 1000000;
-    a {
-      border: none;
-      padding: 10px 10px 10px 10px;
-      color: _palette(bg);
-    }
+
   }
 }

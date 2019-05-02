@@ -3,12 +3,15 @@
     var e = document.getElementById(id);
     if(e.style.display == 'block')
        e.style.display = 'none';
+
+
     else
        e.style.display = 'block';
+ 
     
   }
   </script>
-  <a href="#" onclick="toggle_visibility('overlaybooking');">if you click here, #foo will change visibility</a>
+
   {% if page.collection == 'privat' %}
   {% elsif page.collection == 'foretag' %}
   {% elsif page.url == '/foretag/' %}
@@ -24,7 +27,7 @@
   {% endif %}
 
 <div id="overlaybooking">
-  <div class="exitfloater"><a href="#" onclick="toggle_visibility('overlaybooking');">Stäng fromulär</a></div>
+  <div class="exitfloater"><a href="#" onclick="toggle_visibility('overlaybooking');" class="button primary large knap">Stäng fromulär</a></div>
   <div class="floatingbooker">
 {% include boka-form.html %}
 <br /><br /><br /><br />
