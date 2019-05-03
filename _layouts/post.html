@@ -8,7 +8,8 @@ layout: default
     <div class="item" style="border-radius: 3px;">
       {{ content }}
 
-      <p><em>Article Postad: {{ page.date }}</em></p>
+      <p><em>Artikel Postad: {{ page.date | date_to_long_string }}</em></p>
+
     </div>
     <div class="item">
 
@@ -37,3 +38,35 @@ layout: default
     </div>
   </div>
 </section>
+
+<!-- RECO -->
+<iframe src="https://widget.reco.se/v2/widget/3673336?mode=HORIZONTAL_QUOTE" width="100%" title="Reco Betyg" height="225" scrolling="no"
+  style="border:0;display:block;margin-top:20px;" data-reactroot=""></iframe>
+
+<!-- RECO -->
+
+<!-- Nyheter Section -->
+<section>
+  <header class="major">
+    <h2>Vi är En Renare Vardag</h2>
+  </header>
+  <div class="posts">
+    {% for post in site.posts limit:6 %}
+    {% if post.url != page.url %} 
+      {% if forloop.index < 6 or found %}
+    <article style="background-color: #fff;border-radius: 3px; padding: 15px;">
+      <a href="{{ post.url }}" class="image"><img src="{{ post.image }}" alt="{{ post.title }}" /></a>
+      <h3>{{ post.title }}</h3>
+      <p>{{ post.description }}</p>
+      <ul class="actions">
+        <li><a href="{{ post.url }}" class="button">Läs mer</a></li>
+      </ul>
+    </article>
+    {% endif %}
+  {% else %}
+    {% assign found = true %} 
+  {% endif %}
+{% endfor %}
+  </div>
+</section>
+
