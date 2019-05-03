@@ -52,8 +52,8 @@ layout: default
   </header>
   <div class="posts">
     {% for post in site.posts limit:6 %}
-    {% if post.url != page.url %} 
-      {% if forloop.index < 6 or found %}
+    {% if post.url != page.url %}
+    {% if forloop.index < 6 or found %}
     <article style="background-color: #fff;border-radius: 3px; padding: 15px;">
       <a href="{{ post.url }}" class="image"><img src="{{ post.image }}" alt="{{ post.title }}" /></a>
       <h3>{{ post.title }}</h3>
@@ -63,10 +63,9 @@ layout: default
       </ul>
     </article>
     {% endif %}
-  {% else %}
-    {% assign found = true %} 
-  {% endif %}
-{% endfor %}
+    {% else %}
+    {% assign found = true %}
+    {% endif %}
+    {% endfor %}
   </div>
 </section>
-
