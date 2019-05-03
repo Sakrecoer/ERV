@@ -5,14 +5,7 @@
     <header style="background-color:rgba(255,255,255,0.85);margin:0 15px 0 15px; padding:10px;border-radius: 5px;">
       <h1>{{ page.title }}<br /></h1>
       <p>{{ page.description }}</p>
-      {% if page.url != '/boka/' %}
-      <ul class="actions" style="margin-bottom: 0;">
-        <li>
-          <a href="{% if page.url == '/' or page.url == '/kontakta-oss/' or page.url == '/din-trygghet/' or page.url == '/jobba-hos-oss/' or page.url == '/om-oss/' %}/boka/{% else %}#booknow{% endif %}"
-            id="button" class="button primary large knap">Boka Nu</a>
-        </li>
-      </ul>
-      {% endif %}
+
     </header>
   </div>
   <span class="image object">
