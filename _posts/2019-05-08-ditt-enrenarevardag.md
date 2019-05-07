@@ -12,11 +12,11 @@ Det är med stort nöjje som vi vill informera dig om att dina sidor hoss tillba
 
 För att autogirot ska börja fungera måste du ge ditt medgivande att pengarna dras från ett betalkonto. Du kan använda privat konto, företagskonto eller Enkla sparkontot företag. Vi skickar fakturan den 15e som vanligt. Betalningen dras från ditt konto den 26e eller närmaste vardag. Andra försök sker den 30e.   
 
-- Logga in på internetbanken, välj det konto som betalningen ska dras.
-- Välj ”anslut autogiro”.
-- Sök mottagare ”En Renare Vardag I Sthlm AB” och anslut.
-- Vid rutan ”Betalarnummer” anger du ditt fyrsiffriga kund nummer som du har hos oss (se fakturan).
-- På nästa sida finns avtal/medgivande som du behöver godkänna. På sista sidan får du ett bekräftelse.
+1. Logga in på internetbanken, välj det konto som betalningen ska dras.
+2. Välj ”anslut autogiro”.
+3. Sök mottagare ”En Renare Vardag I Sthlm AB” och anslut.
+4. Vid rutan ”Betalarnummer” anger du ditt fyrsiffriga kund nummer som du har hos oss (se fakturan).
+5. På nästa sida finns avtal/medgivande som du behöver godkänna. På sista sidan får du ett bekräftelse.
 
 Vi är väldigt tacksamma om du kan ansluta autogirot redan idag. Vi är övertygade om att detta kommer göra din upplevelse av våran städhjälp ännu mer behaglig.
 
