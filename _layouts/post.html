@@ -5,10 +5,10 @@ layout: default
 <!-- Content -->
 <section>
   <div class="flex" style="background-color:#fff; padding-top:10px;">
-    <div class="item" style="border-radius: 3px;">
+    <div class="item" style="border-radius: 3px;display: block;">
       {{ content }}
-
-      <p><em>Artikel Postad: {{ page.date | date_to_long_string }}</em></p>
+      <br />
+      <p style="font-size: 0.85em"><em>Artikel Postad: {{ page.date | date_to_long_string }}</em></p>
 
     </div>
     <div class="item">
