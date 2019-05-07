@@ -44,42 +44,4 @@ fonster:
   <li>Vi garanterar att din vardag blir mycket enklare om du blir en av våra nöjda kunder.</li>
 </ul>
 </div>
-<h3 id="fönsterputs-prislista">Fönsterputs prislista:</h3>
 
-<div class="table-responsive" style="width:100%">
-  <table cellpadding="2px" style="width:100%">
-    <tr>
-      <td style="background-color: #eee;">
-        Lägenhet
-      </td>
-      <td style="background-color: #eee;">
-        2 sidor
-      </td>
-      <td style="background-color: #eee;">
-        4 sidor
-      </td>
-      <td style="background-color: #eee;">
-        6 sidor
-      </td>
-    </tr>
-{% for lagenhet in page.fonster %}
-    <tr>
-      <td style="background-color: #eee;">
-        {{ lagenhet.rum }}
-      </td>
-      <td>
-        {{ lagenhet.sidor_2 }}
-      </td>
-      <td>
-        {{ lagenhet.sidor_4 }}
-      </td>
-      <td>
-        {{ lagenhet.sidor_6 }}
-      </td>
-    </tr>
-  {% endfor %}
-    
-  </table>
-</div>
-
-<p class="editable">Inglasad balkong tillkommer från 250 kr.<br />Balkongdörr tillkommer 120 kr/st.<br /><a href="https://enrenarevardag.se/privat/fonsterputs/">Boka fönsterputs</a></p>

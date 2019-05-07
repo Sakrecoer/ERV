@@ -6,15 +6,15 @@
     <div class="item">
       <div class="item-staticchild">
         {% if page.url == '/privat/fonsterputs/' %}
-        {% include /kalkylator/fonsterputs.html %}
+        {% include /kalkylator/fonsterputs.html %} <br />
         {% elsif page.url == '/privat/flyttstadning/' %}
-        {% include /kalkylator/flyttstedning.html %}
+        {% include /kalkylator/flyttstedning.html %} <br />
         {% elsif page.url == '/privat/hemstadning/' %}
-        {% include /kalkylator/stedningvecka.html %}
+        {% include /kalkylator/stedningvecka.html %} <br />
         {% elsif page.url == '/privat/storstadning/'' %}
-        {% include /kalkylator/storstedning.html %}
-        {% elsif page.url == '/' %}
-        {% include /kalkylator/kalkmain.html %}
+        {% include /kalkylator/storstedning.html %} <br />
+        {% elsif page.url == '/' or page.url == '/pris/' %}
+        {% include /kalkylator/kalkmain.html %} <br />
         {% else %}
         <h2>Kontakta oss!</h2>
         <p>Använd Boka knappen för att begära offert</p>
@@ -22,8 +22,10 @@
       
         
         {% endif %}
+        
+        <a href="https://www.reco.se/en-renare-vardag" target="_blank" rel="noopener noreferrer nofollow" style="border:none;"><img src="/images/ikon/five-star.png" /></a>
         {% if page.url != '/boka/' %}
-        <br />
+        <br /><br />
         <ul class="actions" style="margin-bottom: 0;">
           <li>
             <a href="#" onclick="toggle_visibility('overlaybooking');"
@@ -31,8 +33,7 @@
           </li>
         </ul>
         {% endif %}
-        <br />
-        <a href="https://www.reco.se/en-renare-vardag" target="_blank" rel="noopener noreferrer nofollow" style="border:none;"><img src="/images/ikon/five-star.png" /></a>
+        
       </div>
 
     </div>
