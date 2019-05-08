@@ -196,14 +196,21 @@ a.intresse-btn-small {
   text-align: center;
   padding: 0 0 0 30px;
   display: none;
-  overflow-y: scroll;
+  flex-wrap: wrap;
+  overflow-y: hidden;
   z-index: 100000;
   .floatingbooker {
+    flex: 0 0 400px;
     width: 400px;
-    margin: auto;
+    margin-left: auto;
     overflow-y: auto;
     height: 100vh;
   }
+  .notauto {
+    margin-left: 10px;
+    margin-right: auto;
+  }
+
   .exitfloater {
     position: fixed;
     bottom: 0px;
@@ -211,9 +218,13 @@ a.intresse-btn-small {
     z-index: 1000000;
 
   }
-  @media only screen and (max-width: 400px) {
+  @media only screen and (max-width: 790px) {
     .floatingbooker {
       width: 300px;
+      display: block;
+    }
+    .notauto {
+      display: none;
     }
   }
   input[type="submit"].primary, input[type="reset"].primary, input[type="button"].primary, button.primary, .button.primary, a {
