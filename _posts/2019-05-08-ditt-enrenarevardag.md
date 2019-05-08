@@ -1,6 +1,6 @@
 ---
 title: Ditt En Renare Vardag
-date: 2019-05-08 16:17:00 +0200
+date: 2019-05-08 09:17:00 +0200
 description: Nu har vi återinfört Mina Sidor där du lätt kan ta reda på dina kommande bokade städningar, och se status på dina fakturor.
 categories: 
   - Nyheter
