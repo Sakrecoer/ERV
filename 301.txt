@@ -39,3 +39,4 @@
 /storstadning-sundbyberg/ /privat/storstadning/
 /privat/visningsstadning/ /privat/storstadning/
 /nyheter/2019/04/17/ny-hemsida/ /nyheter/2019/04/17/ny-och-städad-hemsida/
+/tips/2019/04/29/veckans-tips-st%C3%A4da-med-barnen/ /nyheter/
