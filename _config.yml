@@ -152,6 +152,6 @@ defaults:
           hidden: true
 
 sass:
-    sass_dir: /assets/sass/
+  sass_dir: /assets/sass/
 # site variable
 kundtjanstmail: kundtjanst@enrenarevardag.se
