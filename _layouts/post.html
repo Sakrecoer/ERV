@@ -18,7 +18,7 @@ layout: default
         <p class="editable">Vi har ett brett urval av tjänster för företag och privatpersoner</p>
       </div>
       <div class="item-child">
-        <h3 style="text-decoration:underline #94ce3c solid">För företag</h3>
+        <h3 style="text-decoration:underline #94ce3c solid"><a href="/foretag/">För företag</a></h3>
         {% for foretag in site.foretag %} {% if foretag.framsida == true %}
         <div class="col-4 col-12-small" style="margin-bottom:10px;">
           <h4><a href="{{ foretag.url }}{{ foretag.hubspot }}">{{ foretag.menutitle }}</a> <i class="fa fa-arrow-right"
@@ -27,7 +27,7 @@ layout: default
         {% endif %}{% endfor %}
       </div>
       <div class="item-child">
-        <h3 style="text-decoration:underline #94ce3c solid">För privatpersoner</h3>
+        <h3 style="text-decoration:underline #94ce3c solid"><a href="/privat/">För privatpersoner</a></h3>
         {% for privat in site.privat %}{% if privat.framsida == true %}
         <div class="col-4 col-12-small" style="margin-bottom:10px;">
           <h4><a href="{{ privat.url }}{{ privat.hubspot }}">{{ privat.menutitle }}</a> <i class="fa fa-arrow-right"
