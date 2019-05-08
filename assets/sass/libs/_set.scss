@@ -200,7 +200,7 @@ a.intresse-btn-small {
   overflow-y: hidden;
   z-index: 100000;
   .floatingbooker {
-    flex: 0 0 400px;
+    flex: 0 0 500px;
     width: 400px;
     margin-left: auto;
     overflow-y: auto;
@@ -209,6 +209,7 @@ a.intresse-btn-small {
   .notauto {
     margin-left: 10px;
     margin-right: auto;
+    flex: 0 0 200px;
   }
 
   .exitfloater {
@@ -221,7 +222,8 @@ a.intresse-btn-small {
   @media only screen and (max-width: 790px) {
     .floatingbooker {
       width: 300px;
-      display: block;
+      flex: 0 0 300px;
+      margin: auto;
     }
     .notauto {
       display: none;
