@@ -22,3 +22,5 @@ Vi är väldigt tacksamma om du kan ansluta autogirot redan idag. Vi är överty
 
 Har du frågor är det bara att höra av dig!
 
+[Gå till Mina Sidor](https://mitt.enrenarevardag.se){:class="button"}
+
