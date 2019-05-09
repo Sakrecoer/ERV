@@ -8,7 +8,7 @@ description: >-
 categories:
   - Tips
 image: /images/nyheter/nyheterapril.jpg
-author_staff_member:
+author_staff_member: Set
 layout: post
 ---
 
@@ -20,7 +20,7 @@ H&auml;r kommer d&auml;rf&ouml;r fem tips fr&aring;n Mayafolk f&ouml;r&auml;ldra
 
 #### 1\. Exponera barnen f&ouml;r hemsysslor s&aring; mycket som m&ouml;jligt
 
-L&aring;t dem n&auml;rvara n&auml;r du g&ouml;r tv&auml;tten, lagar mat eller g&aring; ut med hunden. L&aring;t dem hj&auml;lpa till att byta en gl&ouml;dlampa, plantera &ouml;rter i tr&auml;dg&aring;rden eller hj&auml;lpa till att b&auml;dda en s&auml;ng. I grund och botten &auml;r allt som du vill ha hj&auml;lp med bra f&ouml;r dem p&aring; sikt, se till att de &auml;r omkring medans aktiviteten intr&auml;ffar. Ge barnen m&ouml;jlighet att vara med och titta p&aring; vad dom vuxna g&ouml;r, du kommer att bli f&ouml;rv&aring;nad &ouml;ver hur mycket sm&aring;barn kan l&auml;ra sig igenom att bara observera vad du g&ouml;r. Detta hj&auml;lper unga barn att se sysslorna som en social aktivitet; m&ouml;jligheter att vara tillsmans - vilket unga barn ofta l&auml;ngtar efter. D&aring; knyter ungarna ihop sysslor med en rolig, positiv aktivitet. Den h&auml;r psykologiska integrationen i familjen verkar vara mycket kraftfull utveckling f&ouml;r barnen att l&auml;ra sig samarbeta
+L&aring;t dem n&auml;rvara n&auml;r du g&ouml;r tv&auml;tten, lagar mat eller g&aring; ut med hunden. L&aring;t dem hj&auml;lpa till att byta en gl&ouml;dlampa, plantera &ouml;rter i tr&auml;dg&aring;rden eller hj&auml;lpa till att b&auml;dda en s&auml;ng. I grund och botten &auml;r allt som du vill ha hj&auml;lp med bra f&ouml;r dem p&aring; sikt, se till att de &auml;r omkring medans aktiviteten intr&auml;ffar. Ge barnen m&ouml;jlighet att vara med och titta p&aring; vad dom vuxna g&ouml;r, du kommer att bli f&ouml;rv&aring;nad &ouml;ver hur mycket sm&aring;barn kan l&auml;ra sig igenom att bara observera vad du g&ouml;r. Detta hj&auml;lper unga barn att se sysslorna som en social aktivitet; m&ouml;jligheter att vara tillsammans - vilket unga barn ofta l&auml;ngtar efter. D&aring; knyter ungarna ihop sysslor med en rolig, positiv aktivitet. Den h&auml;r psykologiska integrationen i familjen verkar vara mycket kraftfull utveckling f&ouml;r barnen att l&auml;ra sig samarbeta
 
 #### 2\. T&auml;nk "sm&aring; uppgifter, stora bidrag"
 
@@ -36,15 +36,15 @@ S&aring; till exempel, om du tv&auml;ttar, var noga med att alla viker lite av a
 
 #### 4\. Tvinga inte p&aring; det
 
-Maya-barn deltar inte i familjeb&ouml;rdorna, f&ouml;r att f&ouml;r&auml;ldrarna tvinger dom barnen. Tv&auml;rt om faktiskt. M&aring;let ska inte att styra barnen utan snarare att utveckla barnens eget initiativ.
+Maya-barn deltar inte i familjeb&ouml;rdorna, f&ouml;r att f&ouml;r&auml;ldrarna tvingar dom barnen. Tv&auml;rt om faktiskt. M&aring;let ska inte att styra barnen utan snarare att utveckla barnens eget initiativ.
 
-F&ouml;r att g&ouml;ra det uppmuntrar maya-folket sina barn och erbjuder m&ouml;jligheter att delta n&auml;r barnen &auml;r intresserat. Att tvinga barnen har faktiskt motsatt effekt, d&aring; det kan generera motst&aring;nd: precis som vuxna, tycker unga inte om att vara bossade.
+F&ouml;r att g&ouml;ra det uppmuntrar maya-folket sina barn och erbjuder m&ouml;jligheter att delta n&auml;r barnen &auml;r intresserat. Att tvinga barnen har faktiskt motsatt effekt, d&aring; det kan generera motst&aring;nd: precis som vuxna, tycker unga inte om att f&aring; order.
 
 Fr&aring;ga ett litet barn; "kan du hj&auml;lpa mig med det h&auml;r?" Fr&aring;gan f&aring;r dem ombord oftare &auml;n att helt enkelt s&auml;ga; "Du m&aring;ste g&ouml;ra det h&auml;r." Att s&auml;ga till ett barn: "L&aring;t oss g&ouml;ra det tillsammans" l&aring;ter s&aring; mycket mer intressant och givande &auml;n att s&auml;ga, "Jag vill att du ska g&ouml;ra det h&auml;r\!"
 
 #### 5\. &Auml;ndra dina tankar om sm&aring; barn:
 
-I v&auml;sterl&auml;nderna t&auml;nker vi ofta att sm&aring; och unga barn bara vill leka. Men bland mayafolket ses ett litet barn som kommer &ouml;ver till f&ouml;r&auml;ldrarna&nbsp; som ett indikation p&aring; att barnet vill hj&auml;lpa till. Skiftet i tankeg&aring;ngen f&ouml;r&auml;ndrar hur f&ouml;r&auml;ldern svarar p&aring; barnets beg&auml;ran att delta i hemb&ouml;rdorna.
+I v&auml;st t&auml;nker vi ofta att sm&aring; och unga barn bara vill leka. Men bland mayafolket ses ett litet barn som kommer &ouml;ver till f&ouml;r&auml;ldrarna&nbsp; som ett indikation p&aring; att barnet vill hj&auml;lpa till. Skiftet i tankeg&aring;ngen f&ouml;r&auml;ndrar hur f&ouml;r&auml;ldern svarar p&aring; barnets beg&auml;ran att delta i hemb&ouml;rdorna.
 
 Alla f&ouml;r&auml;ldrar &auml;r intresserade av att st&ouml;dja sina barn. Att anta att ditt barn bara vill leka kommer sannolikt f&aring; dig att hitta ett b&auml;ttre s&auml;tt f&ouml;r dem att leka som &auml;r n&aring;gonstans ur v&auml;gen medan du &auml;r klar med b&ouml;rdorna. Resultatet &auml;r ett barn som &auml;r skilt fr&aring;n den vuxna aktiviteten och inte finns runt omkring f&ouml;r att l&auml;ra sig om b&ouml;rdan - eller om hur man arbetar tillsammans i samarbete.
 
