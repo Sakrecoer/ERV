@@ -1,152 +1,5 @@
 - index:
     __typename: GraphImage
-    id: '2038489417250633684'
-    edge_media_to_caption:
-      edges:
-        - node:
-            text: >-
-              Visst har du sett att vi har en ny webbsida? Där kan du läsa #tips
-              och ta del av #erbjudanden. 
-
-              Veckans tips är inte en specifik teknik eller ett medel. Det
-              riktar sig till alla #föräldrar där ute. Att städa behöver inte
-              vara tråkigt, speciellt inte när en börjar med det i tidig ålder. 
-              Naturligtvis kräver detta din översikt, men i längden kommer det
-              att löna sig, då #barnen inte kommer att se på #städning som en
-              tråkig “vuxen syssla” om dom introduceras i hyfsat tidig ålder.
-
-              Du hittar länken i vårat bio.
-    shortcode: BxKK1MZnffU
-    edge_media_to_comment:
-      count: 0
-    comments_disabled: false
-    taken_at_timestamp: 1557226896
-    dimensions:
-      height: 1080
-      width: 1080
-    display_url: >-
-      https://scontent-arn2-1.cdninstagram.com/vp/17a637e16f5b9f49d9aa76f39d3c5335/5D61FAFA/t51.2885-15/fr/e15/s1080x1080/58409855_288343802043054_7110833711983205512_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com
-    edge_liked_by:
-      count: 3
-    edge_media_preview_like:
-      count: 3
-    location: null
-    gating_info: null
-    media_preview: >-
-      ACoq3ttZWpc7cYJGR/KrdmsgXzJX3DHbBH1yKjulBwSfXHoB2/PuabdyV3MplwMdP/r0wIc8DB9wfw/H0qS5jwuR8xODn2HoDxTrUvnDnO7pn0Hv0rJ9ir9CLysYBz/n1pvkj3qW+g34wT1OcnH4ke3SoltbkgFWUr2yecdu1OxRbS6SJNu1lB6njP49OP196twyCbkZIx3GO9ZJt5nzvKqo+9kgkfXH8qtgG2XIYPnjtx6EY5PNHmLQddWnnEsjfMQMDPA7UssLLsjjGSB/rD2/H3PH0rKmlaOQvG3JPPcfT9OlXUvuzcZAzzwPx9QaPPuKyM6RnDFW4J+8T1P4k9PSujjuIwgwQBgY47Yrm7x8y5znOOfwxUYkIroUFKK/roRdpl0lsbJDhWJPHXr1J6Eew70wlGIGSOOW7E9uvT+tIeQmf7wpsxJIB5G48fiK5mhbiSkKSqYwOpI+9/T6Ubw4AA9z9f8A6/p1qKQYfHbHTtV1FHPA/wAigCqQWX1XGQPQ/Wr8dpEVBJ5wM9PSqiH5R/wL+dW9o9KOaxadj//Z
-    owner:
-      id: '6150072434'
-      username: enrenarevardag
-    thumbnail_src: >-
-      https://scontent-arn2-1.cdninstagram.com/vp/16796651bb9aad1b7721eff3a776ffe0/5D699B40/t51.2885-15/sh0.08/e35/s640x640/58409855_288343802043054_7110833711983205512_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com
-    thumbnail_resources:
-      - src: >-
-          https://scontent-arn2-1.cdninstagram.com/vp/e2fa998e3e7298c43aceb48068a93c1a/5D6CCE46/t51.2885-15/e15/s150x150/58409855_288343802043054_7110833711983205512_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com
-        config_width: 150
-        config_height: 150
-      - src: >-
-          https://scontent-arn2-1.cdninstagram.com/vp/be44b86ed6249fb65bd74e24b5ef8f7e/5D5F390C/t51.2885-15/e15/s240x240/58409855_288343802043054_7110833711983205512_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com
-        config_width: 240
-        config_height: 240
-      - src: >-
-          https://scontent-arn2-1.cdninstagram.com/vp/29d6ce60f4ba8983fb9ae5e450a17d46/5D7001B6/t51.2885-15/e15/s320x320/58409855_288343802043054_7110833711983205512_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com
-        config_width: 320
-        config_height: 320
-      - src: >-
-          https://scontent-arn2-1.cdninstagram.com/vp/1ec58efbc038ee94587b8f1152df12ad/5D515EEC/t51.2885-15/e15/s480x480/58409855_288343802043054_7110833711983205512_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com
-        config_width: 480
-        config_height: 480
-      - src: >-
-          https://scontent-arn2-1.cdninstagram.com/vp/16796651bb9aad1b7721eff3a776ffe0/5D699B40/t51.2885-15/sh0.08/e35/s640x640/58409855_288343802043054_7110833711983205512_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com
-        config_width: 640
-        config_height: 640
-    is_video: false
-    accessibility_caption: 'Image may contain: 2 people, plant and outdoor'
-  detail:
-    __typename: GraphImage
-    id: '2038489417250633684'
-    shortcode: BxKK1MZnffU
-    dimensions:
-      height: 1080
-      width: 1080
-    gating_info: null
-    media_preview: >-
-      ACoq3ttZWpc7cYJGR/KrdmsgXzJX3DHbBH1yKjulBwSfXHoB2/PuabdyV3MplwMdP/r0wIc8DB9wfw/H0qS5jwuR8xODn2HoDxTrUvnDnO7pn0Hv0rJ9ir9CLysYBz/n1pvkj3qW+g34wT1OcnH4ke3SoltbkgFWUr2yecdu1OxRbS6SJNu1lB6njP49OP196twyCbkZIx3GO9ZJt5nzvKqo+9kgkfXH8qtgG2XIYPnjtx6EY5PNHmLQddWnnEsjfMQMDPA7UssLLsjjGSB/rD2/H3PH0rKmlaOQvG3JPPcfT9OlXUvuzcZAzzwPx9QaPPuKyM6RnDFW4J+8T1P4k9PSujjuIwgwQBgY47Yrm7x8y5znOOfwxUYkIroUFKK/roRdpl0lsbJDhWJPHXr1J6Eew70wlGIGSOOW7E9uvT+tIeQmf7wpsxJIB5G48fiK5mhbiSkKSqYwOpI+9/T6Ubw4AA9z9f8A6/p1qKQYfHbHTtV1FHPA/wAigCqQWX1XGQPQ/Wr8dpEVBJ5wM9PSqiH5R/wL+dW9o9KOaxadj//Z
-    display_url: 58409855_288343802043054_7110833711983205512_n.jpg
-    display_resources:
-      - src: >-
-          https://scontent-arn2-1.cdninstagram.com/vp/16796651bb9aad1b7721eff3a776ffe0/5D699B40/t51.2885-15/sh0.08/e35/s640x640/58409855_288343802043054_7110833711983205512_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com
-        config_width: 640
-        config_height: 640
-      - src: >-
-          https://scontent-arn2-1.cdninstagram.com/vp/a80e10d46b3695b674583f1a0bc777f8/5D6EDD40/t51.2885-15/sh0.08/e35/s750x750/58409855_288343802043054_7110833711983205512_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com
-        config_width: 750
-        config_height: 750
-      - src: >-
-          https://scontent-arn2-1.cdninstagram.com/vp/17a637e16f5b9f49d9aa76f39d3c5335/5D61FAFA/t51.2885-15/fr/e15/s1080x1080/58409855_288343802043054_7110833711983205512_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com
-        config_width: 1080
-        config_height: 1080
-    accessibility_caption: 'Image may contain: 2 people, plant and outdoor'
-    is_video: false
-    should_log_client_event: false
-    tracking_token: >-
-      eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiYTNhNDhmZTllNmUyNGVhZjg5ZTNlZjUyODU5ZTAzNmMyMDM4NDg5NDE3MjUwNjMzNjg0In0sInNpZ25hdHVyZSI6IiJ9
-    edge_media_to_tagged_user:
-      edges: []
-    edge_media_to_caption:
-      edges:
-        - node:
-            text: >-
-              Visst har du sett att vi har en ny webbsida? Där kan du läsa #tips
-              och ta del av #erbjudanden. 
-
-              Veckans tips är inte en specifik teknik eller ett medel. Det
-              riktar sig till alla #föräldrar där ute. Att städa behöver inte
-              vara tråkigt, speciellt inte när en börjar med det i tidig ålder. 
-              Naturligtvis kräver detta din översikt, men i längden kommer det
-              att löna sig, då #barnen inte kommer att se på #städning som en
-              tråkig “vuxen syssla” om dom introduceras i hyfsat tidig ålder.
-
-              Du hittar länken i vårat bio.
-    caption_is_edited: false
-    has_ranked_comments: false
-    edge_media_to_comment:
-      count: 0
-      page_info:
-        has_next_page: false
-        end_cursor: null
-      edges: []
-    comments_disabled: false
-    taken_at_timestamp: 1557226896
-    edge_media_preview_like:
-      count: 3
-      edges: []
-    edge_media_to_sponsor_user:
-      edges: []
-    location: null
-    viewer_has_liked: false
-    viewer_has_saved: false
-    viewer_has_saved_to_collection: false
-    viewer_in_photo_of_you: false
-    viewer_can_reshare: true
-    owner:
-      id: '6150072434'
-      is_verified: false
-      profile_pic_url: >-
-        https://scontent-arn2-1.cdninstagram.com/vp/687f2e5107000852bd686bf81494a6c9/5D636B2D/t51.2885-19/s150x150/58409548_1877095905727791_1613680051318947840_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com
-      username: enrenarevardag
-      blocked_by_viewer: false
-      followed_by_viewer: false
-      full_name: En Renare Vardag
-      has_blocked_viewer: false
-      is_private: false
-      is_unpublished: false
-      requested_by_viewer: false
-    is_ad: false
-    edge_web_media_to_related_media:
-      edges: []
-- index:
-    __typename: GraphImage
     id: '1715976645157980045'
     edge_media_to_caption:
       edges:
@@ -165,9 +18,9 @@
     display_url: >-
       https://scontent-arn2-1.cdninstagram.com/vp/d8f8c73b361eea67a5535a18258dec9b/5D681159/t51.2885-15/e35/27893067_1606765092726139_4941970485253505024_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com
     edge_liked_by:
-      count: 30
+      count: 31
     edge_media_preview_like:
-      count: 30
+      count: 31
     location:
       id: '235038618'
       has_public_page: true
@@ -232,7 +85,7 @@
     is_video: false
     should_log_client_event: false
     tracking_token: >-
-      eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNTQ4NmUwNTgwMmQxNGMwMmEzNGU3YmJjMGFmMjllNjkxNzE1OTc2NjQ1MTU3OTgwMDQ1In0sInNpZ25hdHVyZSI6IiJ9
+      eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiMmU3YjE5MDJlYTA4NDcyZTg0MjM2MjY2MjFkZTc2N2QxNzE1OTc2NjQ1MTU3OTgwMDQ1In0sInNpZ25hdHVyZSI6IiJ9
     edge_media_to_tagged_user:
       edges: []
     edge_media_to_caption:
@@ -243,7 +96,7 @@
               att beställa storstädning och förbereda för våren också?
     caption_is_edited: false
     has_ranked_comments: false
-    edge_media_to_parent_comment:
+    edge_media_to_comment:
       count: 4
       page_info:
         has_next_page: false
@@ -266,12 +119,6 @@
             viewer_has_liked: false
             edge_liked_by:
               count: 0
-            edge_threaded_comments:
-              count: 0
-              page_info:
-                has_next_page: false
-                end_cursor: null
-              edges: []
         - node:
             id: '17867452393204411'
             text: Mkt fint o kundvänligt☆☆☆☆☆
@@ -286,55 +133,6 @@
             viewer_has_liked: false
             edge_liked_by:
               count: 0
-            edge_threaded_comments:
-              count: 0
-              page_info:
-                has_next_page: false
-                end_cursor: null
-              edges: []
-        - node:
-            id: '17926879717019657'
-            text: Så konstnärlig.
-            created_at: 1519024998
-            did_report_as_spam: false
-            owner:
-              id: '1509381338'
-              is_verified: false
-              profile_pic_url: >-
-                https://scontent-arn2-1.cdninstagram.com/vp/20568c2c93273b7bc9ad2d255d5f4730/5D712E95/t51.2885-19/s150x150/45585430_543051959543667_3672874143969181696_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com
-              username: werona.63
-            viewer_has_liked: false
-            edge_liked_by:
-              count: 0
-            edge_threaded_comments:
-              count: 0
-              page_info:
-                has_next_page: false
-                end_cursor: null
-              edges: []
-        - node:
-            id: '17968623739088751'
-            text: "\U0001F44F"
-            created_at: 1539795207
-            did_report_as_spam: false
-            owner:
-              id: '227971903'
-              is_verified: false
-              profile_pic_url: >-
-                https://scontent-arn2-1.cdninstagram.com/vp/b4ac08923e949b0cbb272017d0f0adcd/5D5B0B75/t51.2885-19/s150x150/13671863_1750958375168747_2058920116_a.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com
-              username: vestitofashion
-            viewer_has_liked: false
-            edge_liked_by:
-              count: 0
-            edge_threaded_comments:
-              count: 0
-              page_info:
-                has_next_page: false
-                end_cursor: null
-              edges: []
-    edge_media_preview_comment:
-      count: 4
-      edges:
         - node:
             id: '17926879717019657'
             text: Så konstnärlig.
@@ -366,7 +164,7 @@
     comments_disabled: false
     taken_at_timestamp: 1518780378
     edge_media_preview_like:
-      count: 30
+      count: 31
       edges: []
     edge_media_to_sponsor_user:
       edges: []
@@ -485,7 +283,7 @@
     is_video: false
     should_log_client_event: false
     tracking_token: >-
-      eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiN2ZjOWZiMTBmMjlkNGY2YmFiOWY1ZjEzYzQwNTFmZTMxNjIzNDM3MTc2NDE3OTI1NDYwIn0sInNpZ25hdHVyZSI6IiJ9
+      eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiZjYwOTIxMjU3MjlkNDBiMjliMTVkNGVlNDQ5MjYyMTAxNjIzNDM3MTc2NDE3OTI1NDYwIn0sInNpZ25hdHVyZSI6IiJ9
     edge_media_to_tagged_user:
       edges: []
     edge_media_to_caption:
@@ -494,34 +292,11 @@
             text: Alla bör ha En Renare Vardag
     caption_is_edited: false
     has_ranked_comments: false
-    edge_media_to_parent_comment:
+    edge_media_to_comment:
       count: 1
       page_info:
         has_next_page: false
         end_cursor: null
-      edges:
-        - node:
-            id: '17899704109077896'
-            text: Bra initiativ!
-            created_at: 1511257353
-            did_report_as_spam: false
-            owner:
-              id: '6428346992'
-              is_verified: false
-              profile_pic_url: >-
-                https://scontent-arn2-1.cdninstagram.com/vp/74bf585939a81be0b1d9da121f14a004/5D6D7AB5/t51.2885-19/s150x150/23507276_727943320739705_1768830333228154880_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com
-              username: bosattfast
-            viewer_has_liked: false
-            edge_liked_by:
-              count: 0
-            edge_threaded_comments:
-              count: 0
-              page_info:
-                has_next_page: false
-                end_cursor: null
-              edges: []
-    edge_media_preview_comment:
-      count: 1
       edges:
         - node:
             id: '17899704109077896'
@@ -659,7 +434,7 @@
     is_video: false
     should_log_client_event: false
     tracking_token: >-
-      eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNDY1OWY3YTFkYTkyNGEwZmJlZTgyYzVlMjZhYWM2ZWUxNjIzMDg4MjI3ODU3NDIxODA5In0sInNpZ25hdHVyZSI6IiJ9
+      eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNTNhMzllYWE2MTI5NDg4OWE0NmI3MzE1YWVkODUyN2QxNjIzMDg4MjI3ODU3NDIxODA5In0sInNpZ25hdHVyZSI6IiJ9
     edge_media_to_tagged_user:
       edges: []
     edge_media_to_caption:
@@ -792,7 +567,7 @@
     is_video: false
     should_log_client_event: false
     tracking_token: >-
-      eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNzFjNTljZWUxOGZiNGM4M2I2YzM4MTIxMzQ5MDVlMmQxNjE4NDAzMTg3NzQ3NjcyNTA1In0sInNpZ25hdHVyZSI6IiJ9
+      eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiZmNiOWEwZjNiMGUzNDNhOWFjYzc4ZjhhNzcwYWY1MzYxNjE4NDAzMTg3NzQ3NjcyNTA1In0sInNpZ25hdHVyZSI6IiJ9
     edge_media_to_tagged_user:
       edges: []
     edge_media_to_caption:
@@ -951,7 +726,7 @@
     is_video: false
     should_log_client_event: false
     tracking_token: >-
-      eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiOGM0YWVjNzE4YmIzNGVjM2E4YmEwOTcyYjVlNmIzMGIxNjE3Njk2OTQ4MzczNjkxNDE0In0sInNpZ25hdHVyZSI6IiJ9
+      eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiZmQwMTNhNTY4NTZmNDgwMWFjMWQ2NTY0ZjNmZmUwYWMxNjE3Njk2OTQ4MzczNjkxNDE0In0sInNpZ25hdHVyZSI6IiJ9
     edge_media_to_tagged_user:
       edges: []
     edge_media_to_caption:
@@ -1120,7 +895,7 @@
     is_video: false
     should_log_client_event: false
     tracking_token: >-
-      eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiM2EyZTkwNmM3NDJkNDY0Nzg4Yjk3MjVlM2U5YzllNTIxNjE3NDQ0OTI0NTU4MTk3MTI5In0sInNpZ25hdHVyZSI6IiJ9
+      eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiZTZkMTdhZjVhZmFjNGJmOWEyNWE3ODQ2MTMyZDFmYTkxNjE3NDQ0OTI0NTU4MTk3MTI5In0sInNpZ25hdHVyZSI6IiJ9
     edge_media_to_tagged_user:
       edges: []
     edge_media_to_caption:
