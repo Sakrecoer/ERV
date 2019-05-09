@@ -1,5 +1,5 @@
 ---
-title: 'Veckans Tips: Städa med barnen!'
+title: 'Veckans Tips: Städa tillsammans med barnen!'
 date: 2019-04-29 16:17:00 +0200
 description: >-
   Nätet har det gjort det lätt att hitta alla möjliga sorters tips om
