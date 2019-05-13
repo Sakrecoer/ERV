@@ -8,8 +8,11 @@ layout: default
     <div class="item" style="border-radius: 3px;display: block;">
       {{ content }}
       <br />
+ {% if page.bokaknapp == true %}
 <a href="/boka/" class="button large">Boka städning!</a>
 <br /><br />
+{% endif %}
+
       <p style="font-size: 0.85em"><em>Artikel Postad: {{ page.date | date_to_long_string }}</em></p>
 
     </div>

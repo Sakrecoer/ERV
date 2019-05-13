@@ -6,5 +6,6 @@ categories: erbjudanden
 image: /images/bon-cadeau-noeud-rouge.jpg
 author_staff_member:
 layout: post
+bokaknapp: true
 ---
 Boka storstädning idag och få 10% rabbatt. Vi är Stockholms bästa städföretag. Vi kan utföra alla tjänster inom städhjälp. Från flyttstädning till fönsterputts via golvvård och kontorsstädning. Passa på och boka vårstädning, så får du mer tid över att njuta av din fritid och det fina vädret.
