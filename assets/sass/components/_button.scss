@@ -64,7 +64,28 @@
 		}
 
 		&.primary {
-			background-color: _palette(cta);
+      background: linear-gradient(228deg, #00d107, #194d1b);
+      background-size: 400% 400%;
+      
+      -webkit-animation: AnimationName 2s ease infinite;
+      -moz-animation: AnimationName 2s ease infinite;
+      animation: AnimationName 2s ease infinite;
+      
+      @-webkit-keyframes AnimationName {
+          0%{background-position:73% 0%}
+          50%{background-position:28% 100%}
+          100%{background-position:73% 0%}
+      }
+      @-moz-keyframes AnimationName {
+          0%{background-position:73% 0%}
+          50%{background-position:28% 100%}
+          100%{background-position:73% 0%}
+      }
+      @keyframes AnimationName {
+          0%{background-position:73% 0%}
+          50%{background-position:28% 100%}
+          100%{background-position:73% 0%}
+      }
 			box-shadow: none;
 			color: _palette(bg) !important;
 
