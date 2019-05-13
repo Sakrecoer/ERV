@@ -1,5 +1,136 @@
 - index:
     __typename: GraphImage
+    id: '2042797542739304103'
+    edge_media_to_caption:
+      edges:
+        - node:
+            text: >-
+              Det kan vara svårt att få städningen gjord hemma. Här kommer 5
+              tips för att etablera rutiner som underlättar #hemstädning. Du
+              hittar länken i vårat bio.
+    shortcode: BxZeYq7BF6n
+    edge_media_to_comment:
+      count: 0
+    comments_disabled: false
+    taken_at_timestamp: 1557740465
+    dimensions:
+      height: 1080
+      width: 1080
+    display_url: >-
+      https://scontent-arn2-1.cdninstagram.com/vp/fb7e7086771bde3097ac7b2ef4605849/5D6B4F86/t51.2885-15/fr/e15/s1080x1080/58797019_895811697425888_607050914641915060_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com
+    edge_liked_by:
+      count: 0
+    edge_media_preview_like:
+      count: 0
+    location: null
+    gating_info: null
+    media_preview: >-
+      ACoqRLd2PAOD+v8AvMf6VfSzUD5upGDjj8P881azRSbuCVincW5YEoeSMEHvjpz2rDkiMf3sqw/hPeunqpdSxqAHAbvg8/jTUrA43MB2EmBjbjr/AI1CfbkVdDrcSjdwg7D27VsBI8fdH5Cm5WJUObW5YVs8d6eKjYUqt2PWoNBzZxx19/8AP8qxZ7KVjncGJ69R+H0Hp+NbDDdVBnniwCu4eooV+gOzVmZgs51/h/Ij/GtyNMKATyAM/XFV0uwfvgqff/GlN0nrQ7vdDiktmXjUbCn000hCK/Y081XepIzlRTAjnKIu5+n8/Ye9YpnOeFGKsXxJmx2C8frVGtIoykz/2Q==
+    owner:
+      id: '6150072434'
+      username: enrenarevardag
+    thumbnail_src: >-
+      https://scontent-arn2-1.cdninstagram.com/vp/dc0993d5843915cd1809de06fba51196/5D7122DA/t51.2885-15/sh0.08/e35/s640x640/58797019_895811697425888_607050914641915060_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com
+    thumbnail_resources:
+      - src: >-
+          https://scontent-arn2-1.cdninstagram.com/vp/04bafbabc3fe0cd9f3a70afe8ebd4eb8/5D559E45/t51.2885-15/e15/s150x150/58797019_895811697425888_607050914641915060_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com
+        config_width: 150
+        config_height: 150
+      - src: >-
+          https://scontent-arn2-1.cdninstagram.com/vp/777b73aa7a92cee5b5bd884bdaee6bc5/5D7375F0/t51.2885-15/e15/s240x240/58797019_895811697425888_607050914641915060_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com
+        config_width: 240
+        config_height: 240
+      - src: >-
+          https://scontent-arn2-1.cdninstagram.com/vp/a1f12700a51e9b4427d60120813cffa1/5D734548/t51.2885-15/e15/s320x320/58797019_895811697425888_607050914641915060_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com
+        config_width: 320
+        config_height: 320
+      - src: >-
+          https://scontent-arn2-1.cdninstagram.com/vp/75eb13cc79d621c8fd385610cc6e35b2/5D62BB14/t51.2885-15/e15/s480x480/58797019_895811697425888_607050914641915060_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com
+        config_width: 480
+        config_height: 480
+      - src: >-
+          https://scontent-arn2-1.cdninstagram.com/vp/dc0993d5843915cd1809de06fba51196/5D7122DA/t51.2885-15/sh0.08/e35/s640x640/58797019_895811697425888_607050914641915060_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com
+        config_width: 640
+        config_height: 640
+    is_video: false
+    accessibility_caption: 'Image may contain: phone'
+  detail:
+    __typename: GraphImage
+    id: '2042797542739304103'
+    shortcode: BxZeYq7BF6n
+    dimensions:
+      height: 1080
+      width: 1080
+    gating_info: null
+    media_preview: >-
+      ACoqRLd2PAOD+v8AvMf6VfSzUD5upGDjj8P881azRSbuCVincW5YEoeSMEHvjpz2rDkiMf3sqw/hPeunqpdSxqAHAbvg8/jTUrA43MB2EmBjbjr/AI1CfbkVdDrcSjdwg7D27VsBI8fdH5Cm5WJUObW5YVs8d6eKjYUqt2PWoNBzZxx19/8AP8qxZ7KVjncGJ69R+H0Hp+NbDDdVBnniwCu4eooV+gOzVmZgs51/h/Ij/GtyNMKATyAM/XFV0uwfvgqff/GlN0nrQ7vdDiktmXjUbCn000hCK/Y081XepIzlRTAjnKIu5+n8/Ye9YpnOeFGKsXxJmx2C8frVGtIoykz/2Q==
+    display_url: 58797019_895811697425888_607050914641915060_n.jpg
+    display_resources:
+      - src: >-
+          https://scontent-arn2-1.cdninstagram.com/vp/dc0993d5843915cd1809de06fba51196/5D7122DA/t51.2885-15/sh0.08/e35/s640x640/58797019_895811697425888_607050914641915060_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com
+        config_width: 640
+        config_height: 640
+      - src: >-
+          https://scontent-arn2-1.cdninstagram.com/vp/8e3a38ae5732d4bcb1c763268a7cdc52/5D5B0625/t51.2885-15/sh0.08/e35/s750x750/58797019_895811697425888_607050914641915060_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com
+        config_width: 750
+        config_height: 750
+      - src: >-
+          https://scontent-arn2-1.cdninstagram.com/vp/fb7e7086771bde3097ac7b2ef4605849/5D6B4F86/t51.2885-15/fr/e15/s1080x1080/58797019_895811697425888_607050914641915060_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com
+        config_width: 1080
+        config_height: 1080
+    accessibility_caption: 'Image may contain: phone'
+    is_video: false
+    should_log_client_event: false
+    tracking_token: >-
+      eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNTc1N2RhOTc0NjM0NDNiMmE3YThkOWM2MmVmMTg3YmYyMDQyNzk3NTQyNzM5MzA0MTAzIn0sInNpZ25hdHVyZSI6IiJ9
+    edge_media_to_tagged_user:
+      edges: []
+    edge_media_to_caption:
+      edges:
+        - node:
+            text: >-
+              Det kan vara svårt att få städningen gjord hemma. Här kommer 5
+              tips för att etablera rutiner som underlättar #hemstädning. Du
+              hittar länken i vårat bio.
+    caption_is_edited: false
+    has_ranked_comments: false
+    edge_media_to_comment:
+      count: 0
+      page_info:
+        has_next_page: false
+        end_cursor: null
+      edges: []
+    comments_disabled: false
+    taken_at_timestamp: 1557740465
+    edge_media_preview_like:
+      count: 0
+      edges: []
+    edge_media_to_sponsor_user:
+      edges: []
+    location: null
+    viewer_has_liked: false
+    viewer_has_saved: false
+    viewer_has_saved_to_collection: false
+    viewer_in_photo_of_you: false
+    viewer_can_reshare: true
+    owner:
+      id: '6150072434'
+      is_verified: false
+      profile_pic_url: >-
+        https://scontent-arn2-1.cdninstagram.com/vp/687f2e5107000852bd686bf81494a6c9/5D636B2D/t51.2885-19/s150x150/58409548_1877095905727791_1613680051318947840_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com
+      username: enrenarevardag
+      blocked_by_viewer: false
+      followed_by_viewer: false
+      full_name: En Renare Vardag
+      has_blocked_viewer: false
+      is_private: false
+      is_unpublished: false
+      requested_by_viewer: false
+    is_ad: false
+    edge_web_media_to_related_media:
+      edges: []
+- index:
+    __typename: GraphImage
     id: '2039885221114816654'
     edge_media_to_caption:
       edges:
@@ -12,7 +143,7 @@
               och kära.
     shortcode: BxPIM0DHiiO
     edge_media_to_comment:
-      count: 0
+      count: 1
     comments_disabled: false
     taken_at_timestamp: 1557393289
     dimensions:
@@ -21,9 +152,9 @@
     display_url: >-
       https://scontent-arn2-1.cdninstagram.com/vp/1cd66269a0a3e2bceb51057dcc4aa9a9/5D61C149/t51.2885-15/fr/e15/s1080x1080/58410429_829774620714776_1060075280282000833_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com
     edge_liked_by:
-      count: 0
+      count: 12
     edge_media_preview_like:
-      count: 0
+      count: 12
     location: null
     gating_info: null
     media_preview: >-
@@ -84,7 +215,7 @@
     is_video: false
     should_log_client_event: false
     tracking_token: >-
-      eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiYzliNWUwNTAxMzhkNDAyYjgzYTQyZWJiODVhN2Q5MzcyMDM5ODg1MjIxMTE0ODE2NjU0In0sInNpZ25hdHVyZSI6IiJ9
+      eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiZTU3ZGQzNWQxODcwNGQ2Y2E4YzUwZWZhZTM3MGZjMTUyMDM5ODg1MjIxMTE0ODE2NjU0In0sInNpZ25hdHVyZSI6IiJ9
     edge_media_to_tagged_user:
       edges: []
     edge_media_to_caption:
@@ -99,15 +230,29 @@
     caption_is_edited: false
     has_ranked_comments: false
     edge_media_to_comment:
-      count: 0
+      count: 1
       page_info:
         has_next_page: false
         end_cursor: null
-      edges: []
+      edges:
+        - node:
+            id: '17842692457446488'
+            text: "\U0001F60D\U0001F495\U0001F44D"
+            created_at: 1557415842
+            did_report_as_spam: false
+            owner:
+              id: '6409862415'
+              is_verified: false
+              profile_pic_url: >-
+                https://scontent-arn2-1.cdninstagram.com/vp/9f07933e330ce980954b0447e9a3c830/5D59DADB/t51.2885-19/s150x150/40783739_2008423482730220_5424575709534224384_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com
+              username: stefan.j62
+            viewer_has_liked: false
+            edge_liked_by:
+              count: 1
     comments_disabled: false
     taken_at_timestamp: 1557393289
     edge_media_preview_like:
-      count: 0
+      count: 12
       edges: []
     edge_media_to_sponsor_user:
       edges: []
@@ -220,7 +365,7 @@
     is_video: false
     should_log_client_event: false
     tracking_token: >-
-      eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiZTI1Y2Y0MTQ2ODVmNDE3OWFiMWU5ODA1Y2I1NzAwNTcxNzE1OTc2NjQ1MTU3OTgwMDQ1In0sInNpZ25hdHVyZSI6IiJ9
+      eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiZGVlMjg3OTI2MWEwNGU3MDg2M2NjMmQ5YzdhZmVlNGQxNzE1OTc2NjQ1MTU3OTgwMDQ1In0sInNpZ25hdHVyZSI6IiJ9
     edge_media_to_tagged_user:
       edges: []
     edge_media_to_caption:
@@ -418,7 +563,7 @@
     is_video: false
     should_log_client_event: false
     tracking_token: >-
-      eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiN2ZkNGM3MTRkODQzNGY5NGEyN2Y1ZDg3N2E5NDhmYmYxNjIzNDM3MTc2NDE3OTI1NDYwIn0sInNpZ25hdHVyZSI6IiJ9
+      eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiOTBmNzQ2YjNmMjlhNGJiNjkzNjU1OTc0M2YwZGMzZDIxNjIzNDM3MTc2NDE3OTI1NDYwIn0sInNpZ25hdHVyZSI6IiJ9
     edge_media_to_tagged_user:
       edges: []
     edge_media_to_caption:
@@ -569,7 +714,7 @@
     is_video: false
     should_log_client_event: false
     tracking_token: >-
-      eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiYTE5Y2VmODNmNmRiNDBhOTlmYTliN2UyZDA1YTg1YWYxNjIzMDg4MjI3ODU3NDIxODA5In0sInNpZ25hdHVyZSI6IiJ9
+      eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNTQzNTEyNzJkZDk5NGU5OThkOTA3NmQ1ODZhNjAwYWMxNjIzMDg4MjI3ODU3NDIxODA5In0sInNpZ25hdHVyZSI6IiJ9
     edge_media_to_tagged_user:
       edges: []
     edge_media_to_caption:
@@ -578,14 +723,11 @@
             text: "Vet du att vi är ett rekommenderat företag sedan fyra år i rad? \U0001F44C\nGå till reco.se och kolla vad våra kunder tycker om vår service.\n\n#enrenarevardag #städfirma #hemstädning #flyttstädning #nöjdkund #stockhom #lokalvård #reco #storstädning #solna"
     caption_is_edited: false
     has_ranked_comments: false
-    edge_media_to_parent_comment:
+    edge_media_to_comment:
       count: 0
       page_info:
         has_next_page: false
         end_cursor: null
-      edges: []
-    edge_media_preview_comment:
-      count: 0
       edges: []
     comments_disabled: false
     taken_at_timestamp: 1507707216
@@ -705,7 +847,7 @@
     is_video: false
     should_log_client_event: false
     tracking_token: >-
-      eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiZDBiOGMyZTdiZDczNGZmM2IwOGQ0NDk3NGRhZjY0ODMxNjE4NDAzMTg3NzQ3NjcyNTA1In0sInNpZ25hdHVyZSI6IiJ9
+      eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiMjkwNzU5NmRmMmMwNDQ5YmFjMzkyZjRhNDgzNDE4NzkxNjE4NDAzMTg3NzQ3NjcyNTA1In0sInNpZ25hdHVyZSI6IiJ9
     edge_media_to_tagged_user:
       edges: []
     edge_media_to_caption:
@@ -864,7 +1006,7 @@
     is_video: false
     should_log_client_event: false
     tracking_token: >-
-      eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiY2M2YWZhNzAwNmRhNDRmMjgxN2I4NDAzZjJkOWRkMTAxNjE3Njk2OTQ4MzczNjkxNDE0In0sInNpZ25hdHVyZSI6IiJ9
+      eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiMjQ5MmI2ODI4MTdlNGI2NWEzNzc3NjMzNDU4OTRkZTYxNjE3Njk2OTQ4MzczNjkxNDE0In0sInNpZ25hdHVyZSI6IiJ9
     edge_media_to_tagged_user:
       edges: []
     edge_media_to_caption:
@@ -1033,7 +1175,7 @@
     is_video: false
     should_log_client_event: false
     tracking_token: >-
-      eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNmZkMGE1YzllMzdlNGViZWEwMTdkNWQ5NTAyODk1MjExNjE3NDQ0OTI0NTU4MTk3MTI5In0sInNpZ25hdHVyZSI6IiJ9
+      eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiOWI1Y2FjYWUxNmMyNDJiOTk3MGViMGNlZjU2MmE1ZDExNjE3NDQ0OTI0NTU4MTk3MTI5In0sInNpZ25hdHVyZSI6IiJ9
     edge_media_to_tagged_user:
       edges: []
     edge_media_to_caption:
