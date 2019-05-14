@@ -35,6 +35,7 @@
 /stadforetag-vallingby/ /
 /stadforetag-vasastan/ /
 /stadning-solna/ /
+/stadfirma-solna/ /
 /storstadning-solna/ /privat/storstadning/
 /storstadning-sundbyberg/ /privat/storstadning/
 /privat/visningsstadning/ /privat/storstadning/
