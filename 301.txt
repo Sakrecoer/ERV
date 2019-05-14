@@ -42,3 +42,11 @@
 /nyheter/2019/04/17/ny-hemsida/ /nyheter/2019/04/17/ny-och-städad-hemsida/
 /nyheter/2019/05/08/ditt-enrenarevardag/ /nyheter/2019/05/08/ditt-en-renare-vardag/
 /tips/2019/04/29/veckans-tips-st%C3%A4da-med-barnen/ /tips/2019/04/29/veckans-tips-städa-tillsammans-med-barnen/
+/wp-content/plugins/wp-google-maps/includes/class.marker.php /
+/wp-content/plugins/wp-google-maps/includes/crud-test.php /
+/category/secret-hypnosis/ /
+/mina-sidor/swish/ https://mitt.enrenarevardag.se/mina-sidor/swish/
+/mina-sidor/ https://mitt.enrenarevardag.se/mina-sidor/
+/mina-sidor/swish/ https://mitt.enrenarevardag.se/mina-sidor/swish/
+/mina-sidor/betalningar/ https://mitt.enrenarevardag.se/mina-sidor/betalningar/
+/author/admin/ /
