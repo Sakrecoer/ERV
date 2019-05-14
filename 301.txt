@@ -50,4 +50,3 @@
 /mina-sidor/swish/ https://mitt.enrenarevardag.se/mina-sidor/swish/
 /mina-sidor/betalningar/ https://mitt.enrenarevardag.se/mina-sidor/betalningar/
 /author/admin/ /
-/privat/hemstadning/%3C/?%3E%E2%80%9D%20class=%E2%80%9Dlas-mer%E2%80%9D%3EL%C3%A4s%20mer%20%C2%BB%3C/a%3E%3C/td%3E%3Ctd%20class= /privat/hemstadning/
