@@ -7,6 +7,7 @@ image: '/images/erv.jpg'
 author_staff_member: Samuel
 layout: post
 bokaknapp: true
+published: true
 ---
 
 K&auml;ra bes&ouml;kare, &auml;rade kunder.

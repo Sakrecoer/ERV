@@ -10,6 +10,7 @@ image: /images/nyheter/glenn-carstens-peters-190592-unsplash.jpg
 author_staff_member: Set
 layout: post
 bokaknapp: true
+published: true
 ---
 
 Vi som jobbar med st&auml;dning kan verkligen bekr&auml;fta att strukturera sitt arbete &auml;r A och O n&auml;r det kommer till dom flesta reng&ouml;ringssysslorna. Att hitta en rutin kan k&auml;nnas sv&aring;rt, men om du s&auml;tter dig ner och antecknar vilka saker du vill ha gjorda med hemst&auml;dningen, och sedan utf&ouml;r listan punkt efter punkt s&aring; kommer du snabbt att falla in i din egen rutin och v&auml;nja dig.

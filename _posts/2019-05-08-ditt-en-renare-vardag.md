@@ -8,6 +8,7 @@ image: /images/nyheter/mittrenarevardag.jpg
 author_staff_member: Set
 layout: post
 bokaknapp: false
+published: true
 ---
 
 Det &auml;r med stort n&ouml;je som vi vill informera dig om att dina sidor hos oss &auml;r tillbaka\! Du hittar dom p&aring; [https://mitt.enrenarevardag.se](https://mitt.enrenarevardag.se) H&auml;r kan du f&aring; information om dina kommande bokade st&auml;dningar, och se status p&aring; dina fakturor. Vi har &auml;ven inf&ouml;rt m&ouml;jlighet att betala med autogiro f&ouml;r att g&ouml;ra det s&aring; bekv&auml;mt som m&ouml;jligt f&ouml;r dig som har st&auml;dhj&auml;lp hos oss. Du kan betala dina &aring;terkommande r&auml;kningar automatiskt p&aring; r&auml;tt dag. Att betala via autogirot &auml;r gratis.
