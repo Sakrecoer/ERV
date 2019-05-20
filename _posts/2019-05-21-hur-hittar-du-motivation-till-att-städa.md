@@ -33,7 +33,7 @@ Tror du att du &auml;r redo att ta itu med ett helt rum? Motst&aring; den freste
 
 Kommer du ih&aring;g att det k&auml;ndes lite pinsamt n&auml;r du f&ouml;rlorade din reng&ouml;ringsmotivation? Motgiftet till den typen av skam &auml;r bekr&auml;ftelse. Men haken &auml;r att du m&aring;ste s&ouml;ka den sj&auml;lv. S&aring; bjud in m&auml;nniskor och se till att suga &aring;t dig den varma gl&ouml;den av deras validering.
 
-#### Upprepa...
+#### Upprepa…
 
 Redo f&ouml;r mer? N&auml;r du &auml;r tillbaka i sv&auml;ngen av saker, kan du b&ouml;rja expandera dina st&auml;dningsanstr&auml;ngningar varje vecka tills du t&auml;cker hela huset. Ingen panik om det tar ett tag f&ouml;rsta g&aring;ngen\! Det &auml;r okej att g&aring; i din egen takt, se bara till att forts&auml;tta. Du kan det h&auml;r\!
 
