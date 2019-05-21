@@ -12,4 +12,4 @@ mogrify -resize 220 /home/set/git/erv.com/_scripts/media/*.jpg
 mv /home/set/git/erv.com/_scripts/media/*.jpg /home/set/git/erv.com/images/insta/
 mv /home/set/git/erv.com/_scripts/instagram.yml /home/set/git/erv.com/_data/
 
-chmod -x _scripts/instalib.sh
+chmod -x /home/set/git/erv.com/_scripts/instalib.sh
