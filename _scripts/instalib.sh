@@ -1,15 +1,15 @@
 #!/bin/bash
 
-cd /home/set/git/instalib/
+cd /home/set/git/erv.com/_scripts/insta/
 
 npm run instalib -- liberate https://www.instagram.com/enrenarevardag/ -o instagram.yml
 rm -f media/*.jpg
 rm -f /home/set/git/erv.com/images/insta/*
 
 npm run instalib mirror instagram.yml 
-mogrify -resize 220 /home/set/git/instalib/media/*.jpg
+mogrify -resize 220 /home/set/git/erv.com/_scripts/media/*.jpg
 
-cp /home/set/git/instalib/media/*.jpg /home/set/git/erv.com/images/insta/
-cp /home/set/git/instalib/instagram.yml /home/set/git/erv.com/_data/
+mv /home/set/git/erv.com/_scripts/media/*.jpg /home/set/git/erv.com/images/insta/
+mv /home/set/git/erv.com/_scripts/instagram.yml /home/set/git/erv.com/_data/
 
-
+chmod -x _scripts/instalib.sh
