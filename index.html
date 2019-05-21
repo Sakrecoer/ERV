@@ -44,30 +44,6 @@ image: '/images/ervhome.jpg'
   </div>
 
 </section>
-<h2>Instagram inlägg</h2>
-<ul id="instagram">
-    {% for post in site.data.instagram limit: 5 %}
-      <li>
-        <a href="https://www.instagram.com/p/{{ post.detail.shortcode }}" target="_blank" rel="noopener noreferrer nofollow">
-        <img
-          src="{{ site.baseurl }}/images/insta/{{ post.detail.display_url }}"
-          data-gallery-source="{{ site.baseurl }}/assets/instagram/{{ post.detail.display_url }}"
-          alt="{{ post.detail.edge_media_to_caption.edges[0].node.text | strip_html }}" />
-        </a>
-      </li>
-    {% endfor %}
-  </ul>
-
-<!-- Section -->
-<section style="padding: 10px;margin-top:20px;">
-  <header class="major">
-    <h2>Formulär</h2>
-  </header>
-
-
-  {% include homebrewmedellande.html %}
-
-</section>
 
 <!-- Nyheter Section -->
 <section>
@@ -86,4 +62,24 @@ image: '/images/ervhome.jpg'
     </article>
     {% endfor %}
   </div>
+</section>
+
+<!-- Section -->
+<section style="padding: 10px;margin-top:20px;">
+  <header class="major">
+    <h2>Instagram inlägg</h2>
+  </header>
+
+  <ul id="instagram">
+    {% for post in site.data.instagram limit: 5 %}
+      <li>
+        <a href="https://www.instagram.com/p/{{ post.detail.shortcode }}" target="_blank" rel="noopener noreferrer nofollow">
+        <img
+          src="{{ site.baseurl }}/images/insta/{{ post.detail.display_url }}"
+          data-gallery-source="{{ site.baseurl }}/assets/instagram/{{ post.detail.display_url }}"
+          alt="{{ post.detail.edge_media_to_caption.edges[0].node.text | strip_html }}" />
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
 </section>
