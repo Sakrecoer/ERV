@@ -4,7 +4,7 @@
   link: /vanliga-fragor/
 - name: Jobba med oss
   link: /jobba-hos-oss/
-- name: Aktuella Erbjudanden
+- name: Nyheter & Erbjudanden
   link: /nyheter/
 - name: Mina Sidor
-  link: https://mitt.enrenarevardag.se/mina-sidor
+  link: 'https://mitt.enrenarevardag.se/mina-sidor'
