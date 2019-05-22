@@ -2,9 +2,8 @@
 title: 'Veckans Tips: Städa tillsammans med barnen!'
 date: 2019-04-29 16:17:00 +0200
 description: >-
-  Nätet har det gjort det lätt att hitta alla möjliga sorters tips om
-  rengöringsmedel och tekniker. Men vilka kan du lita på? Vi hjälper dig
-  navigera internet-djungeln av städhjälpstips.
+  Veckans städtips är inte en specifik teknik eller ett medel. Det riktar sig
+  till alla föräldrar där ute.
 categories:
   - Tips
 image: /images/nyheter/nyheterapril.jpg
