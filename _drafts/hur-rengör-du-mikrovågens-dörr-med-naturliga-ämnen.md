@@ -2,8 +2,8 @@
 title: Hur rengör du mikrovågens dörr med Naturliga ämnen?
 date: 2019-05-27 09:00:00 +0200
 description: >-
-  Så här rengör du dörren på din mikrovågsugn som med tiden har dörren blivit
-  mindre och mindre genomskinlig.
+  Så här rengör du dörren på din mikrovågsugn som med tiden kan ha blivit mindre
+  och mindre genomskinlig.
 categories:
   - Tips
 image: /images/nyheter/naomi-hebert-188443-unsplash.jpg
