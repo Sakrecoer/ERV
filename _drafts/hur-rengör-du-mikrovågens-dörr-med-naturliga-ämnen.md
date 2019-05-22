@@ -24,7 +24,7 @@ S&aring; h&auml;r kan du &aring;tg&auml;rda problemet med enkla naturliga produk
 * 1 diskborste
 * hush&aring;llspapper
 * F&ouml;nsterputs
-* [Bakpulver (](https://en.bab.la/dictionary/swedish-english/matsoda)[&auml;ven kallat "matsoda", "natriumbikarbonat" eller "](https://en.bab.la/dictionary/swedish-english/natriumbikarbonat)[bikarbonat")](https://en.bab.la/dictionary/swedish-english/bikarbonat)
+* Bakpulver (&auml;ven kallat "matsoda", "natriumbikarbonat" eller "bikarbonat")
 
 #### Instruktioner
 
