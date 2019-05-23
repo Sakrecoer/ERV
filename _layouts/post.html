@@ -13,7 +13,31 @@ layout: default
 <br /><br />
 {% endif %}
 
-      <p style="font-size: 0.85em"><em>Artikel Postad: {{ page.date | date_to_long_string }}</em></p>
+      <p style="font-size: 0.85em"><em>Artikel Postad: 
+          {% assign d = page.date | date: "%-d"  %}{% case d %}{% when '1' or '21' or '31' or '2' or '22' %}{{ d }}:a {% else %}{{ d }}:e{% endcase %}
+          
+          {% assign m = page.date | date: "%-m" %}
+
+          {% case m %}
+            {% when '1' %}Januari
+            {% when '2' %}Februar
+            {% when '3' %}Mars
+            {% when '4' %}April
+            {% when '5' %}Maj
+            {% when '6' %}Juni
+            {% when '7' %}Juli
+            {% when '8' %}Augusti
+            {% when '9' %}September
+            {% when '10' %}Oktober
+            {% when '11' %}November
+            {% when '12' %}December
+          {% endcase %}
+          {{ page.date | date: "%Y" }}
+
+        
+
+
+        </em></p>
 
     </div>
     <div class="item">
