@@ -13,3 +13,8 @@ mv /home/set/git/erv.com/_scripts/media/*.jpg /home/set/git/erv.com/images/insta
 mv /home/set/git/erv.com/_scripts/instagram.yml /home/set/git/erv.com/_data/
 
 chmod -x /home/set/git/erv.com/_scripts/instalib.sh
+
+cd /home/set/git/erv.com/
+git add .
+git commit -m "updating instafeed (instalib)"
+git push
