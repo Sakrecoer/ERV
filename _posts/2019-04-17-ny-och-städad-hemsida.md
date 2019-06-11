@@ -1,9 +1,12 @@
 ---
 title: Ny och städad Hemsida
-date: 2019-04-17 08:00
-description: 'En renare och städad hemsida för att göra det lättare för dig att ha En Renare Vardag'
-categories: 'Nyheter'
-image: '/images/erv.jpg'
+date: 2019-04-17 08:00:00 +0200
+description: >-
+  En renare och städad hemsida för att göra det lättare för dig att ha En Renare
+  Vardag
+categories:
+  - Nyheter
+image: /images/erv.jpg
 author_staff_member: Samuel
 layout: post
 bokaknapp: true
@@ -24,7 +27,7 @@ Vi har inf&ouml;rt en ny rubrik p&aring; f&ouml;rsta sidan, d&auml;r du kan ta d
 
 ### Var &auml;r "Mina sidor"?
 
-Kort sagt: "Mina Sidor" &auml;r p&aring; g&aring;ng. Under tiden kan du kontakta kundtj&auml;nst med chatten eller formul&auml;ret h&auml;r p&aring; webbsidan om du har gl&ouml;mt n&auml;r du bokat din tj&auml;nst med oss.
+Du hittar "Mina Sidor" p&aring; [denna l&auml;nken.](https://mitt.enrenarevardag.se)
 
 Vi hoppas innerligt att du uppskattar dessa &auml;ndringar. Du &auml;r naturligtvis alltid v&auml;lkomna att h&ouml;ra av dig till oss.
 
