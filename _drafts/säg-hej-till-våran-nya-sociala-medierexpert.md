@@ -13,11 +13,9 @@ bokaknapp: false
 published: true
 ---
 
-Digitaliseringen g&aring;r fram&aring;t i Stockholm, och &auml;ven om det kanske &auml;r ovanligt i st&auml;dhj&auml;lpsbranschen s&aring; &auml;r det inget konstigt f&ouml;r oss: vi har tillg&aring;ng till dom senaste digitala verktygen och teknologierna. Men hur &auml;r det med sociala medier undrar ni? Det gjorde vi ocks&aring;\! Och d&auml;rf&ouml;r anst&auml;llde vi en expert i Sociala Medier.
+Digitaliseringen g&aring;r fram&aring;t i Stockholm, och &auml;ven om det kanske &auml;r ovanligt i st&auml;dhj&auml;lpsbranschen att f&ouml;retagen anv&auml;nder den senaste teknologin s&aring; &auml;r det inget konstigheter f&ouml;r oss: vi anv&auml;nder dom senaste digitala verktygen\! Men hur &auml;r det med sociala medier undrar ni? Det gjorde vi ocks&aring;\! Och d&auml;rf&ouml;r anst&auml;llde vi en expert i Sociala Medier.
 
 M&ouml;t v&aring;rt senaste tillskott i personalk&aring;ren: Lucky\!
-
-&nbsp;
 
 Lucky &auml;r en Pomerian som precis som alla v&aring;ra anst&auml;llda brinner f&ouml;r att alla ska ha en renare vardag. Han &auml;r expert p&aring; st&auml;dning och har 7 hund&aring;rs erfarenhet i st&auml;dinspektion. Eftersom sociala medier har ett starkt intresse f&ouml;r Pomerianer, s&aring; har Lucky utvecklat ett starkt intresse f&ouml;r sociala medier. Han &auml;r expert p&aring; att se s&ouml;t ut p&aring; [Instagram](https://www.instagram.com/enrenarevardag/){: target="_blank"} och modemogul p&aring; [Facebook](https://www.facebook.com/enrenarevardagAB).
 
