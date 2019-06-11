@@ -1,6 +1,6 @@
 ---
 title: 10% för nya kunder
-date: Invalid date
+date: 2019-05-08 09:00:00 +0200
 description: >-
   Erbjudande för städhjälp i Stockholm: just nu får alla nya kunder 10% i
   rabbatt!
