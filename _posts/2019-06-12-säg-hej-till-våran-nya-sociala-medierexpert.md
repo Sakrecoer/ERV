@@ -19,6 +19,6 @@ M&ouml;t v&aring;rt senaste tillskott i personalk&aring;ren: Lucky\!
 
 Lucky &auml;r en Pomerian som precis som alla v&aring;ra anst&auml;llda brinner f&ouml;r att alla ska ha en renare vardag. Han &auml;r expert p&aring; st&auml;dning och har 7 hund&aring;rs erfarenhet i st&auml;dinspektion. Eftersom sociala medier har ett starkt intresse f&ouml;r Pomerianer, s&aring; har Lucky utvecklat ett starkt intresse f&ouml;r sociala medier. Han &auml;r expert p&aring; att se s&ouml;t ut p&aring; [Instagram](https://www.instagram.com/enrenarevardag/){: target="_blank"} och modemogul p&aring; [Facebook](https://www.facebook.com/enrenarevardagAB). H&auml;r ser vi honom is i sin favorit Cyberrymd-dr&auml;kt:
 
-&nbsp;
+![](/images/nyheter/photo-2019-06-12-10-54-52.jpg){: width="640" height="853"}
 
 Under sommaren kommer Lucky &aring;ka runt i Stockholm med v&aring;r personal och rapportera om v&aring;ra aktiviteter inom [kontorsst&auml;dning](https://enrenarevardag.se/foretag/kontorstadning/), [storst&auml;dning,](https://enrenarevardag.se/privat/storstadning/) [flyttst&auml;dning,](https://enrenarevardag.se/privat/flyttstadning/) [f&ouml;nsterputs](https://enrenarevardag.se/privat/fonsterputs/) och st&auml;dhj&auml;lp i &ouml;vrigt, h&auml;r p&aring; v&aring;ran webbsida, men &auml;ven i sociala medier. S&aring; f&ouml;lj med p&aring; Lucky's &auml;ventyr h&auml;r, p&aring; [Instagram](https://www.instagram.com/enrenarevardag/){: target="_blank"} och [Facebook](https://www.facebook.com/enrenarevardagAB).
