@@ -75,8 +75,8 @@ defaults:
           mime_type: "image/jpeg"
         content:
           uploads_dir: "images/nyheter"
-          width: "960"
-          height: "430"
+          width: "640"
+          height: "320"
           resize_style: "cover"
           mime_type: "image/jpeg"
   -
