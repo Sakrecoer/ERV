@@ -3,7 +3,7 @@ title: Säg hej till våran nya Social Media Expert!
 date: 2019-06-12 09:00:00 +0200
 description: >-
   Marknaden för städning ändras och vi på En Renare Vardag håller oss i
-  framkanten;  nu har vi anställt en expert i sociala medier
+  framkanten;  nu har vi anställt en expert i sociala medier.
 categories:
   - Nyheter
 image: /images/nyheter/photo-2019-06-12-10-54-51.jpg
