@@ -34,11 +34,7 @@
   flex-wrap: wrap;
   align-self: flex-start;
   padding:10px;
-  .blogimages {
-    img {
-      width: 100%;
-    }
-  }
+
 }
 .item-child {
   flex: 1 auto;  
@@ -153,7 +149,12 @@ a.intresse-btn-small {
   width: 100%;
   max-width: 500px;
 }
-
+.blogimages {
+  img {
+    width: 100%;
+    height: 100%;
+  }
+}
 
 
  #instagram {
