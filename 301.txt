@@ -171,3 +171,4 @@
 /tips/2019/04/29/veckans-tips-st%C3%A4da-med-barnen/ /tips/2019/04/29/veckans-tips-städa-tillsammans-med-barnen/
 /wp-content/plugins/wp-google-maps/includes/class.marker.php /
 /wp-content/plugins/wp-google-maps/includes/crud-test.php /
+/nyheter/2019/06/12/s%C3%A4g-hej-till-v%C3%A5ran-nya-sociala-medierexpert/ /nyheter/2019/06/12/s%C3%A4g-hej-till-v%C3%A5ran-nya-social-media-expert/

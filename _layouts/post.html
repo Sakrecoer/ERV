@@ -5,7 +5,7 @@ layout: default
 <!-- Content -->
 <section>
   <div class="flex" style="background-color:#fff; padding-top:10px;">
-    <div class="item" style="border-radius: 3px;display: block;">
+    <div class="item blogimages" style="border-radius: 3px;display: block;">
       {{ content }}
       <br />
  {% if page.bokaknapp == true %}
@@ -20,7 +20,7 @@ layout: default
 
           {% case m %}
             {% when '1' %}Januari
-            {% when '2' %}Februar
+            {% when '2' %}Februari
             {% when '3' %}Mars
             {% when '4' %}April
             {% when '5' %}Maj
@@ -76,9 +76,9 @@ layout: default
     <h2>Läs fler nyheter!</h2>
   </header>
   <div class="posts">
-    {% for post in site.posts limit:6 %}
+    {% for post in site.posts limit:7 %}
     {% if post.url != page.url %}
-    {% if forloop.index < 6 or found %}
+    {% if forloop.index < 7 or found %}
     <article style="background-color: #fff;border-radius: 3px; padding: 15px;">
       <a href="{{ post.url }}" class="image"><img src="{{ post.image }}" alt="{{ post.title }}" /></a>
       <h3>{{ post.title }}</h3>
