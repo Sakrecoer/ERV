@@ -13,7 +13,9 @@
           <span class="opener">Städning för företag</span>
           <ul>
             {% for foretag in site.foretag %}
+            {% if foretag.framsida == true %}
             <li><a href="{{ foretag.url }}{{ foretag.hubspot }}">{{ foretag.menutitle }}</a></li>
+            {% endif %}
             {% endfor %}
           </ul>
         </li>
@@ -21,7 +23,9 @@
           <span class="opener">Städning för privatpersoner</span>
           <ul>
             {% for privat in site.privat %}
+            {% if privat.framsida == true %}
             <li><a href="{{ privat.url }}{{ privat.hubspot }}">{{ privat.menutitle }}</a></li>
+            {% endif %}
             {% endfor %}
           </ul>
         </li>

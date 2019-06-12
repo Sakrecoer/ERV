@@ -6,7 +6,7 @@ permalink: /foretag/fonsterputs/
 layout: generic
 menutitle: Fönsterputs
 framsida: false
-hubspot: 
+hubspot: '?v_lj_tj_nst=Fönsterputs'
 icon_image: 
 ---
 ## Håller du med oss att fönsterputsning är svårt och tidskrävande?
