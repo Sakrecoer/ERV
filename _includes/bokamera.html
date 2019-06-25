@@ -5,7 +5,7 @@
   <div style="border-radius:3px;" class="flex">
     <div class="item">
       <div class="item-staticchild">
-        
+
         {% if page.url == '/privat/fonsterputs/' %}
         {% include /kalkylator/fonsterputs.html %} <br />
         {% elsif page.url == '/privat/flyttstadning/' %}
@@ -18,10 +18,12 @@
         {% include /kalkylator/kalkmain.html %} <br />
         {% else %}
         <h2>Kontakta oss!</h2>
-        <p>Använd Boka knappen för att begära offert</p>  
+        <p>Använd Boka knappen för att begära offert</p>
         {% endif %}
-        
-        <a href="https://www.reco.se/en-renare-vardag" target="_blank" rel="noopener noreferrer nofollow" style="border:none;"><img src="/images/ikon/five-star.png" alt="Reco Recomenderar En Renare Vardag sen 2014" /></a>
+
+        <a href="https://www.reco.se/en-renare-vardag" target="_blank" rel="noopener noreferrer nofollow"
+          style="border:none;"><img src="/images/ikon/five-star.png"
+            alt="Reco Recomenderar En Renare Vardag sen 2014" /></a>
         {% if page.url != '/boka/' %}
         <br /><br />
         <ul class="actions" style="margin-bottom: 0;">
@@ -30,7 +32,7 @@
           </li>
         </ul>
         {% endif %}
-        
+
       </div>
 
     </div>
@@ -45,7 +47,8 @@
         <div>
           {% for post in site.posts limit: 1 %}
           <article>
-            <a href="{{ post.url }}" class="image"><img class="nyheter" src="/images/erbjudande.png" alt="{{ post.title }}" /></a>
+            <a href="{{ post.url }}" class="image"><img class="nyheter" src="/images/erbjudande.png"
+                alt="{{ post.title }}" /></a>
             <h3 class="nyheter">{{ post.title }}</h3>
             <p class="nyheter">{{ post.description }}</p>
             <ul class="actions">
@@ -69,7 +72,8 @@
         <h3 style="text-decoration:underline #94ce3c solid"><a href="/foretag/">För företag</a></h3>
         {% for foretag in site.foretag %} {% if foretag.framsida == true %}
         <div class="col-4 col-12-small" style="margin-bottom:10px;">
-          <h4><a href="{{ foretag.url }}{{ foretag.hubspot }}">{{ foretag.menutitle }}</a> <i class="fa fa-arrow-right" style="color:#94ce3c;"></i></h4>
+          <h4><a href="{{ foretag.url }}{{ foretag.hubspot }}">{{ foretag.menutitle }}</a> <i class="fa fa-arrow-right"
+              style="color:#94ce3c;"></i></h4>
         </div>
         {% endif %}{% endfor %}
       </div>
@@ -77,7 +81,8 @@
         <h3 style="text-decoration:underline #94ce3c solid"><a href="/privat/">För privatpersoner</a></h3>
         {% for privat in site.privat %}{% if privat.framsida == true %}
         <div class="col-4 col-12-small" style="margin-bottom:10px;">
-          <h4><a href="{{ privat.url }}{{ privat.hubspot }}">{{ privat.menutitle }}</a> <i class="fa fa-arrow-right" style="color:#94ce3c;"></i></h4>
+          <h4><a href="{{ privat.url }}{{ privat.hubspot }}">{{ privat.menutitle }}</a> <i class="fa fa-arrow-right"
+              style="color:#94ce3c;"></i></h4>
         </div>
         {% endif %}{% endfor %}
       </div>
