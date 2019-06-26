@@ -39,6 +39,7 @@
 /flyttstadning-vallingby/flyttstadning-vallingby-2/feed/ /privat/flyttstadning/
 /flyttstadning-vasastan/ /privat/flyttstadning/
 /flyttstadning-vasastan/flyttstädning-8/feed/ /privat/flyttstadning/
+/flyttstadning-vasastan/flyttsta%CC%88dning-8/feed/ /privat/flyttstadning/
 /flyttstadning/ /privat/flyttstadning/
 /fonsterputs-solna/ /foretag/fonsterputs/
 /fonsterputs-solna/flyttstädning-33/feed/ /privat/fonsterputs/
