@@ -39,6 +39,7 @@
     ga('create', '{{ site.google_analytics_key }}', 'auto');
     ga('send', 'pageview');
     // facebook pixel
+
     !function(f,b,e,v,n,t,s)
     {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
     n.callMethod.apply(n,arguments):n.queue.push(arguments)};
@@ -46,9 +47,10 @@
     n.queue=[];t=b.createElement(e);t.async=!0;
     t.src=v;s=b.getElementsByTagName(e)[0];
     s.parentNode.insertBefore(t,s)}(window, document,'script',
-    'https://connect.faceboock.net/en_US/fbevents.js');
+    'https://connect.facebook.net/en_US/fbevents.js');
     fbq('init', '2324896937752220');
     fbq('track', 'PageView');
+    // End Facebook Pixel
 
   }
 
