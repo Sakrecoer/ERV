@@ -113,6 +113,7 @@
 /stad-sundbyberg/ /
 /stad-sundbyberg/stad-sundbyberg-2/ /privat/hemstadning/
 /stad-sundbyberg/stad-sundbyberg-2/feed/ /privat/hemstadning/
+/stadfirma/ /om-oss/
 /stadfirma-bromma/ /
 /stadfirma-bromma/en-rensare-pris/feed/ /
 /stadfirma-bromma/stadfirma-bromma-2/feed/ /
