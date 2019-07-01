@@ -20,6 +20,41 @@
   border: none;
 }
 
+#extrameddelande {
+  color: #000;
+  position:fixed; 
+  top:35px; left:0; 
+  background-color: _palette(fg-bold); 
+  text-align: center; 
+  z-index: 100; 
+  width:100%;
+  padding-top: 4px;
+  height: 155px;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+  background: linear-gradient(228deg, #ffa0a0, #cfe7cd);
+  background-size: 400% 400%;
+  
+  -webkit-animation: AnimationName 2s ease infinite;
+  -moz-animation: AnimationName 2s ease infinite;
+  animation: AnimationName 2s ease infinite;
+  
+  @-webkit-keyframes AnimationName {
+      0%{background-position:73% 0%}
+      50%{background-position:28% 100%}
+      100%{background-position:73% 0%}
+  }
+  @-moz-keyframes AnimationName {
+      0%{background-position:73% 0%}
+      50%{background-position:28% 100%}
+      100%{background-position:73% 0%}
+  }
+  @keyframes AnimationName {
+      0%{background-position:73% 0%}
+      50%{background-position:28% 100%}
+      100%{background-position:73% 0%}
+  }
+}
+
 /* bokning */
 
 .flex {
