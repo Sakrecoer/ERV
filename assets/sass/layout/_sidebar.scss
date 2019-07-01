@@ -36,7 +36,7 @@
 
 	#sidebar {
 		$pad: 2em / 0.9;
-
+    z-index: _misc(z-index-base);
 		@include vendor('flex-grow', '0');
 		@include vendor('flex-shrink', '0');
 		@include vendor('transition', (
