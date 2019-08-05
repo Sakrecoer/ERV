@@ -1,6 +1,6 @@
 ---
 title: Konmari metoden
-date: 2019-06-27 00:00:00 +0200
+date: 2019-08-08 00:00:00 +0200
 description:
 categories:
   - Tips
