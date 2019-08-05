@@ -13,8 +13,6 @@ published: true
 
 Marie Kondo
 
-![](/images/nyheter/marie-kondō-2016-cropped.jpg){: width="640" height="905"}
-
 ## Biografi
 
 Kondo s&auml;ger att hon har varit intresserad av att organisera sedan barndomen. P&aring; l&aring;gstadiet i skolan höll hon till i klassrummet för att st&auml;da upp bokhyllor medan hennes klasskamrater hade idrottslektion. N&auml;r det var nominering för uppdrag i klassen försökte hon inte att f&aring; vara klassrepresentant. Ist&auml;llet l&auml;ngtade hon till bokhyllorna för att forts&auml;tta att ordna upp böcker.
