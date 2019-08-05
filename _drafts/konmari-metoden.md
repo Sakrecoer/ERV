@@ -4,7 +4,7 @@ date: 2019-06-27 00:00:00 +0200
 description:
 categories:
   - Tips
-image: /images/nyheter/marie-kondō-2016-cropped-1.jpg
+image: /images/nyheter/mariekondo.jpg
 author_staff_member: set
 layout: post
 bokaknapp: true
