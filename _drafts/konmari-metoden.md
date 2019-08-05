@@ -13,4 +13,6 @@ published: true
 
 Marie Kondo
 
+![](/images/nyheter/marie-kondō-2016-cropped.jpg){: width="640" height="905"}
+
 https://konmari.com/
