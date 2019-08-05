@@ -28,3 +28,5 @@ Kondo har skrivit fyra böcker om organisering, som tillsammans har s&aring;lt i
 Kondo var listad som en av Times "100 mest inflytelserika personer" &aring;r 2015.
 
 https://konmari.com/
+
+Photo: [Rise](https://riseconf.com/){: target="_blank"} - [Flickr](https://www.flickr.com/photos/riseconf/27355402306){: target="_blank"} License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/){: target="_blank"}
