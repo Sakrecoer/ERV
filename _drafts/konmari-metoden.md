@@ -2,8 +2,8 @@
 title: Konmari metoden
 date: 2019-08-06 10:00:00 +0200
 description: >-
-  KonMarimetoden gör stor succé i Sverige. Men vad handlar den om och varför tar
-  så många stockholmare åt sig av den?
+  KonMarimetoden™ gör stor succé i Sverige. Men vad handlar den om och varför
+  tar så många stockholmare åt sig av den?
 categories:
   - Tips
 image: /images/nyheter/mariekondo.jpg
