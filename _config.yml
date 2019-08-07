@@ -59,8 +59,8 @@ defaults:
   - scope:
       type: "instagram"
     values:
-      _unlisted: true
       _options:
+        _unlisted: true
   -
     scope:
       path: ""
