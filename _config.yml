@@ -56,11 +56,6 @@ collections:
 
 
 defaults:
-  - scope:
-      type: "instagram"
-    values:
-      _options:
-        _unlisted: true
   -
     scope:
       path: ""
