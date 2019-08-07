@@ -59,7 +59,7 @@ defaults:
   - scope:
       type: "instagram"
     values:
-      _hide: true
+      _unlisted: true
       _options:
   -
     scope:
