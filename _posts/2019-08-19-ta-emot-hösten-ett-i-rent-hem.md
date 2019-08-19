@@ -1,5 +1,5 @@
 ---
-title: Ta emot hösten ett i rent hem!
+title: Ta emot hösten i ett rent hem!
 date: 2019-08-19 10:00:00 +0200
 description: >-
   Nu är hösten här. Då vill vi Stockholmare spendera mer mystid inomhus, och ha
