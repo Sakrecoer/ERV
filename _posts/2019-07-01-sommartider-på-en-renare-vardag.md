@@ -9,6 +9,7 @@ author_staff_member: set
 layout: post
 bokaknapp: false
 published: true
+_disable_title_filename_sync: true
 ---
 
 Sommaren &auml;r h&auml;r\! &Auml;ntligen &aring;ker skorna av, vi f&aring;r bada, sola och &auml;ta p&aring; balkongen.

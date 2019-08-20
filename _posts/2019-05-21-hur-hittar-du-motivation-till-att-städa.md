@@ -11,6 +11,7 @@ author_staff_member: Set
 layout: post
 bokaknapp: true
 published: true
+_disable_title_filename_sync: true
 ---
 
 Det &auml;r sv&aring;rt att komma tillbaka till vardagen n&auml;r du har varit p&aring; semester och l&aring;tit hotellpersonal ta hand om st&auml;dningen, eller varit sjuk och fortfarande &aring;terh&auml;mtar dig. Det f&ouml;rsta steget f&ouml;r att komma p&aring; banan igen &auml;r att f&ouml;rst&aring; att det &auml;r okej att k&auml;nna sig omotiverad\! Men du m&aring;ste fortfarande ta tag i st&auml;dningen och d&auml;rf&ouml;r kommer h&auml;r n&aring;gra tips f&ouml;r att f&aring; ig&aring;ng rutinerna igen.

@@ -11,6 +11,7 @@ author_staff_member: set
 layout: post
 bokaknapp: false
 published: true
+_disable_title_filename_sync: true
 ---
 
 Digitaliseringen g&aring;r fram&aring;t i Stockholm, och &auml;ven om det kanske &auml;r ovanligt i st&auml;dhj&auml;lpsbranschen att f&ouml;retagen anv&auml;nder den senaste teknologin s&aring; &auml;r det inget konstigheter f&ouml;r oss: vi anv&auml;nder dom senaste digitala verktygen\! Men hur &auml;r det med sociala medier undrar ni? Det gjorde vi ocks&aring;\! Och d&auml;rf&ouml;r anst&auml;llde vi en expert i Sociala Medier.

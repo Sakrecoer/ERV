@@ -11,6 +11,7 @@ author_staff_member: Set
 layout: post
 bokaknapp: true
 published: true
+_disable_title_filename_sync: true
 ---
 
 S&aring; du reng&ouml;r din mikrov&aring;gsugn ofta, men med tiden har d&ouml;rren blivit mindre och mindre genomskinlig och insidan&nbsp; har blivit suddigt? Oavsett hur mycket du skrubbar med en svamp och tv&aring;l, verkar inte d&ouml;rren bli renare. Du brukade se tydligt igenom den n&auml;r du v&auml;rmde mat men nu ser det lite dimmigt ut?
