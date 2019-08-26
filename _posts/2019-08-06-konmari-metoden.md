@@ -11,6 +11,7 @@ author_staff_member: set
 layout: post
 bokaknapp: true
 published: true
+_disable_title_filename_sync: true
 ---
 
 Visst &auml;r det s&aring; att st&auml;da och plocka undan kan vara ett tillfredsst&auml;llande moment i vardagen, speciellt n&auml;r allt &auml;r rent och fint. Vi p&aring; En Renare Vardag &auml;r experter p&aring; att hitta motivation, men det &auml;r ocks&aring; v&aring;rat jobb att f&aring; Stockholmarnas bost&auml;der att bli fina och st&auml;dade, k&auml;nnas hemtrevliga och skina av lyster. Vi har alla v&aring;ra s&auml;tt och metoder för att motivera oss sj&auml;lva: kanske unnar vi oss lite choklad n&auml;r vi &auml;r klara? Kanske belönar vi oss med lite slapp-tid i h&auml;ngmattan? Men just nu &auml;r det m&aring;nga svenska som anv&auml;nder sig av [KonMarimetoden™](https://www.elle.se/sa-skapar-du-ordning-och-reda-i-garderoben-med-konmari-metoden/){: target="_blank"}, en metod uppfunnen av Marie Kondo för organisering som best&aring;r av att samla ihop allt man &auml;ger, en kategori &aring;t g&aring;ngen, och sedan beh&aring;lla endast de saker som "man verkligen gl&auml;ds &aring;t" (tokimeku p&aring; japanska), och d&auml;refter v&auml;lja en plats för dessa saker.
