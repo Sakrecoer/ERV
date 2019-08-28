@@ -177,3 +177,4 @@
 /sitemap_index.xml /sitemap
 /sitemap/sitemap-2/ /sitemap
 /author-sitemap.xml /sitemap
+/author-sitemap/ /sitemap
