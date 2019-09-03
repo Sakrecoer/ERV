@@ -42,10 +42,10 @@
       <!-- Section -->
       <section>
 
-        <h2>Nyheter &amp; Erbjudanden</h2>
+        <h2>Erbjudanden</h2>
 
         <div>
-          {% for post in site.posts limit: 1 %}{% if post.categories contains 'Erbjudande' %}
+          {% for post in site.categories.Erbjudande limit: 1%}
           <article>
             <a href="{{ post.url }}" class="image"><img class="nyheter" src="/images/erbjudande.png"
                 alt="{{ post.title }}" /></a>
@@ -55,7 +55,7 @@
               <li><a href="{{ post.url }}">Läs mer</a></li>
             </ul>
           </article>
-          {% endif %}
+       
           {% endfor %}
         </div>
 
