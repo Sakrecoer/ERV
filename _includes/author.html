@@ -1,8 +1,5 @@
 {% assign author_id = page.member | prepend: "/members/" | append: "/" %}
 {% assign author_name = site.members | where: "url", author_id | first %}
-<div style="float: left; margin-right: 10px;background-image:url({{ author_name.image }});background-repeat: no-repeat; border-radius:150px; width:150px; height:150px;"></div>
+<div alt="Bild av {{ author_name.namn }}" style="float: left; margin-right: 10px;background-image:url({{ author_name.image }});background-repeat: no-repeat; border-radius:150px; width:150px; height:150px;"></div>
 <h3>{{ author_name.namn }}</h3>
-
 <p><em>{{ author_name.bio_html }}</em></p>
-<!-- Editor Link -->
-<a href="cloudcannon:collections/{{ medlem.path }}" class="editor-link cms-editor-link">Redigera Profil</a>
