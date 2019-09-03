@@ -7,7 +7,7 @@ description: >-
 categories:
   - Nyheter
 image: /images/erv.jpg
-member: lucky
+member: set
 bokaknapp: true
 published: true
 _disable_title_filename_sync: true
