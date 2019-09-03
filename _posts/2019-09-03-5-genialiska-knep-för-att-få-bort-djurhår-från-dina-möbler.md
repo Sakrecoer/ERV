@@ -19,7 +19,7 @@ H&auml;r kommer dom 5 b&auml;sta testade knepen jag har plockat ut &aring;t er:
 
 ## 1\. Bakpulver
 
-Det kanske l&aring;ter konstigt att behöva strö ett j&auml;mnt lager bakpulver över sin matta, men det fungerar faktiskt. Stör det p&aring; innan du dammsuger och l&aring;t ligga i 20 minuter. Det kommer hj&auml;lpa till att lossa djurh&aring;ret.
+Det kanske l&aring;ter konstigt att behöva strö ett j&auml;mnt lager bakpulver över sin matta, men det fungerar faktiskt. Strö det p&aring; innan du dammsuger och l&aring;t ligga i 20 minuter. Det kommer hj&auml;lpa till att lossa djurh&aring;ret.
 
 ## 2\. Gummihandskar
 
