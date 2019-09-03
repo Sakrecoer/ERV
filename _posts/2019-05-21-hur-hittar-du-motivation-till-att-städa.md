@@ -7,7 +7,7 @@ description: >-
 categories:
   - Tips
 image: /images/nyheter/samuel-scrimshaw-361576-unsplash.jpg
-author_staff_member: lukcy
+author_staff_member: lucky
 bokaknapp: true
 published: true
 _disable_title_filename_sync: true

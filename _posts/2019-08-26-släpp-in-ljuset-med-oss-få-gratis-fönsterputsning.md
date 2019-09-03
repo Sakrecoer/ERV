@@ -7,7 +7,7 @@ description: >-
 categories:
   - Erbjudande
 image: /images/nyheter/adult-cleaning-flora-713297.jpg
-author_staff_member: lukcy
+author_staff_member: lucky
 bokaknapp: true
 published: true
 _disable_title_filename_sync: true

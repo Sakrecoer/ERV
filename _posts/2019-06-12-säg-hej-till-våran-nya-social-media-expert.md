@@ -7,7 +7,7 @@ description: >-
 categories:
   - Nyheter
 image: /images/nyheter/photo-2019-06-12-10-54-51.jpg
-author_staff_member: lukcy
+author_staff_member: lucky
 bokaknapp: false
 published: true
 _disable_title_filename_sync: true

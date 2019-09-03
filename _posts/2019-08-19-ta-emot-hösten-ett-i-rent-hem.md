@@ -7,7 +7,7 @@ description: >-
 categories:
   - Nyheter
 image: /images/nyheter/autumn-bag-beverage-2282997.jpg
-author_staff_member: lukcy
+author_staff_member: lucky
 bokaknapp: true
 published: true
 _disable_title_filename_sync: true
