@@ -8,7 +8,6 @@ categories:
   - Nyheter
 image: /images/erv.jpg
 author_staff_member: Samuel
-layout: post
 bokaknapp: true
 published: true
 _disable_title_filename_sync: true

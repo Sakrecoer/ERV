@@ -5,8 +5,7 @@ description: Nu har vi återinfört Mina Sidor där du lätt kan ta reda på din
 categories: 
   - Nyheter
 image: /images/nyheter/mittrenarevardag.jpg
-author_staff_member: Set
-layout: post
+author_staff_member: lukcy
 bokaknapp: false
 published: true
 _disable_title_filename_sync: true

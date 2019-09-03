@@ -5,8 +5,7 @@ description: Vi på En Renare Vardag önskar alla våra kunder en riktigt härli
 categories:
   - Nyheter
 image: /images/nyheter/oskars-sylwan-ujex3ju1nac-unsplash.jpg
-author_staff_member: set
-layout: post
+author_staff_member: lukcy
 bokaknapp: false
 published: true
 _disable_title_filename_sync: true
