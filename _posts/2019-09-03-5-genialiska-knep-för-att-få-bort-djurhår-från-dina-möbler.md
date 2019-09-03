@@ -7,7 +7,7 @@ description: >-
 categories:
   - Tips
 image: /images/nyheter/devon-janse-van-rensburg-hpea9qxldhw-unsplash.jpg
-author_staff_member: Lucky
+author_staff_member: lucky
 bokaknapp: true
 published: true
 _disable_title_filename_sync: true
