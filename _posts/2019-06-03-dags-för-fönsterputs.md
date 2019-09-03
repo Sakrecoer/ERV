@@ -7,7 +7,7 @@ description: >-
 categories:
   - Erbjudande
 image: /images/nyheter/beautiful-blur-glass-1934534.jpg
-author_staff_member: lucky
+member: lucky
 bokaknapp: true
 published: true
 _disable_title_filename_sync: true

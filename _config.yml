@@ -53,7 +53,9 @@ collections:
     output: true
     permalink: /privat/:name/
     layout: generic
-
+  members:
+    output: false
+    _hide_content: "true"
 
 defaults:
   -
@@ -150,6 +152,17 @@ defaults:
           hidden: true
         permalink:
           hidden: true
+  -
+    scope:
+      type: "members"
+    values:
+      _options:
+        image:
+          uploads_dir: "images/members"
+          width: "150"
+          height: "150"
+          resize_style: "cover"
+          mime_type: "image/jpeg"
 
 sass:
   sass_dir: /assets/sass/
