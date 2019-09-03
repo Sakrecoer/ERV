@@ -17,7 +17,7 @@ Digitaliseringen g&aring;r fram&aring;t i Stockholm, och &auml;ven om det kanske
 
 Möt v&aring;rt senaste tillskott i personalk&aring;ren: Lucky\!
 
-Lucky &auml;r en Pomerian som precis som alla v&aring;ra anst&auml;llda brinner för att alla Stockholmare ska ha En Renare Vardag. Han &auml;r expert p&aring; st&auml;dning och har 7 hund&aring;rs erfarenhet i st&auml;dinspektion. Eftersom sociala medier har ett starkt intresse för Pomerianer, s&aring; har Lucky utvecklat ett starkt intresse för sociala medier. Han &auml;r expert p&aring; att se söt ut p&aring; [Instagram](https://www.instagram.com/enrenarevardag/){: target="_blank"} och modemogul p&aring; [Facebook](https://www.facebook.com/enrenarevardagAB). H&auml;r ser vi honom is i sin favorit Cyberrymd-dr&auml;kt:
+Lucky &auml;r en Pomeranian som precis som alla v&aring;ra anst&auml;llda brinner för att alla Stockholmare ska ha En Renare Vardag. Han &auml;r expert p&aring; st&auml;dning och har 7 hund&aring;rs erfarenhet i st&auml;dinspektion. Eftersom sociala medier har ett starkt intresse för Pomeranianer, s&aring; har Lucky utvecklat ett starkt intresse för sociala medier. Han &auml;r expert p&aring; att se söt ut p&aring; [Instagram](https://www.instagram.com/enrenarevardag/){: target="_blank"} och modemogul p&aring; [Facebook](https://www.facebook.com/enrenarevardagAB). H&auml;r ser vi honom is i sin favorit Cyberrymd-dr&auml;kt:
 
 ![](/images/nyheter/photo-2019-06-12-10-54-52.jpg){: width="640" height="853"}
 

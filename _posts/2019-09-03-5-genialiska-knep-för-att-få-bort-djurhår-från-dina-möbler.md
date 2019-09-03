@@ -3,7 +3,7 @@ title: 5 genialiska knep för att få bort djurhår från dina möbler
 date: 2019-09-03 11:00:00 +0200
 description: >-
   Om du har husdjur i hemmet, så vet du hur svårt det kan vara att få bort hår
-  som fäller från deras päls. Vår Pomerian, Lucky, ger dig 5 tips!
+  som fäller från deras päls. Vår Pomeranian, Lucky, ger dig 5 tips!
 categories:
   - Tips
 image: /images/nyheter/devon-janse-van-rensburg-hpea9qxldhw-unsplash.jpg
@@ -13,7 +13,7 @@ published: true
 _disable_title_filename_sync: true
 ---
 
-Sj&auml;lv [&auml;r jag en Pomerian](https://enrenarevardag.se/nyheter/2019/06/12/s%C3%A4g-hej-till-v%C3%A5ran-nya-social-media-expert/){: target="_blank"}, s&aring; jag vet vad jag pratar om. Soffor och andra möbler blir t&auml;ckta av mitt h&aring;r. Alla djur&auml;gare &auml;lskar sina djur s&aring; dom brukar kunna st&aring; ut med detta. Men om det kommer allergiker p&aring; besök kan det dock bli v&auml;ldigt jobbigt. D&auml;rför rekomenderar jag att du destar n&aring;gra av dessa v&auml;ldigt smarta knep fr&aring;n [Clean My Space\!](https://www.youtube.com/channel/UCGozdt7Wbd15k7dWhvlmLUw){: target="_blank"}
+Sj&auml;lv [&auml;r jag en Pomeranian](https://enrenarevardag.se/nyheter/2019/06/12/s%C3%A4g-hej-till-v%C3%A5ran-nya-social-media-expert/){: target="_blank"}, s&aring; jag vet vad jag pratar om. Soffor och andra möbler blir t&auml;ckta av mitt h&aring;r. Alla djur&auml;gare &auml;lskar sina djur s&aring; dom brukar kunna st&aring; ut med detta. Men om det kommer allergiker p&aring; besök kan det dock bli v&auml;ldigt jobbigt. D&auml;rför rekomenderar jag att du destar n&aring;gra av dessa v&auml;ldigt smarta knep fr&aring;n [Clean My Space\!](https://www.youtube.com/channel/UCGozdt7Wbd15k7dWhvlmLUw){: target="_blank"}
 
 H&auml;r kommer dom 5 b&auml;sta testade knepen jag har plockat ut &aring;t er:
 
