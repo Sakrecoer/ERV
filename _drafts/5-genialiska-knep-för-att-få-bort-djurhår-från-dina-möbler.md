@@ -3,7 +3,7 @@ title: 5 genialiska knep för att få bort djurhår från dina möbler
 date: 2019-09-03 11:00:00 +0200
 description: >-
   Om du har husdjur i hemmet, så vet du hur svårt det kan vara att få bort hår
-  som fäller från deras päls.
+  som fäller från deras päls. Vår Pomerian, Lucky, ger dig 5 tips!
 categories:
   - Tips
 image: /images/nyheter/devon-janse-van-rensburg-hpea9qxldhw-unsplash.jpg
@@ -38,6 +38,6 @@ Fleece-kl&auml;der &auml;r v&auml;ldigt sv&aring;ra att f&aring; bort djurh&arin
 
 B&auml;sta tipset för att rengöra soffan\! Anv&auml;nd en s&aring;dan skrapa som du har i badrummet, det fungerar helt galet bra. Dessutom &auml;r det ett billigt och miljöv&auml;nligt alternativ, j&auml;mfört med att att införskaffa kl&auml;drullar.
 
-## Men det B&auml;sta Tipset &auml;r...
+## Men det B&auml;sta Tipset &auml;r…
 
 Anlita oss för en storst&auml;dning. N&auml;r vi g&aring;r igenom alla hörn hos dig med v&aring;ran expertis, s&aring; kan du vara s&auml;ker p&aring; att allt djurh&aring;r kommer vara borta. Inget av dessa tips &auml;r permanenta lösningar, s&aring; klart. Men lite h&aring;r kan ni v&auml;l leva med, mot oss husdjurs trevliga s&auml;llskap?
