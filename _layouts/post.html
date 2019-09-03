@@ -14,29 +14,7 @@ layout: default
 {% endif %}
 
       <p style="font-size: 0.85em"><em>Artikel Postad: 
-          {% assign d = page.date | date: "%-d"  %}{% case d %}{% when '1' or '21' or '31' or '2' or '22' %}{{ d }}:a {% else %}{{ d }}:e{% endcase %}
-          
-          {% assign m = page.date | date: "%-m" %}
-
-          {% case m %}
-            {% when '1' %}Januari
-            {% when '2' %}Februari
-            {% when '3' %}Mars
-            {% when '4' %}April
-            {% when '5' %}Maj
-            {% when '6' %}Juni
-            {% when '7' %}Juli
-            {% when '8' %}Augusti
-            {% when '9' %}September
-            {% when '10' %}Oktober
-            {% when '11' %}November
-            {% when '12' %}December
-          {% endcase %}
-          {{ page.date | date: "%Y" }}
-
-        
-
-
+{% assign d = page.date | date: "%-d"  %}{% case d %}{% when '1' or '21' or '31' or '2' or '22' %}{{ d }}:a {% else %}{{ d }}:e{% endcase %}{% assign m = page.date | date: "%-m" %}{% case m %}{% when '1' %} Januari {% when '2' %} Februari {% when '3' %} Mars {% when '4' %} April {% when '5' %} Maj {% when '6' %} Juni {% when '7' %} Juli {% when '8' %} Augusti {% when '9' %} September {% when '10' %} Oktober {% when '11' %} November {% when '12' %} December {% endcase %}{{ page.date | date: "%Y" }}
         </em></p>
 
     </div>
@@ -76,9 +54,17 @@ layout: default
     <h2>Läs fler nyheter!</h2>
   </header>
   <div class="posts">
-    {% for post in site.posts limit:7 %}
+    <article style="background-color: #fff;border-radius: 3px; padding: 15px;">
+      <a href="/arkiv/" class="image"><img src="/images/max-langelott-wWQ760meyWI-unsplash.jpg" alt="Arkiv" /></a>
+      <h3>Arkiv</h3>
+      <p>Här hittar du alla artiklar, tips och erbjudanden som vi publicerat på våran webbplats</p>
+      <ul class="actions">
+        <li><a href="/arkiv/" class="button">Gå till Arkiv</a></li>
+      </ul>
+    </article>
+    {% for post in site.posts limit:6 %}
     {% if post.url != page.url %}
-    {% if forloop.index < 7 or found %}
+    {% if forloop.index < 6 or found %}
     <article style="background-color: #fff;border-radius: 3px; padding: 15px;">
       <a href="{{ post.url }}" class="image"><img src="{{ post.image }}" alt="{{ post.title }}" /></a>
       <h3>{{ post.title }}</h3>
@@ -92,5 +78,6 @@ layout: default
     {% assign found = true %}
     {% endif %}
     {% endfor %}
+
   </div>
 </section>
