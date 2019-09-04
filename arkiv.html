@@ -3,23 +3,25 @@ title: Arkiv för våra nyheter tips och erbjudanden
 description: På denna sidan listas alla poster om tips, nyheter och erbjudanden vi publicerat på våran webbplats.
 image: /images/max-langelott-wWQ760meyWI-unsplash.jpg
 ---
-
 {% include banner_booking.html %}
 
-
-<!-- Nyheter Section -->
+<!-- Tips Section -->
 <section>
   <header class="major">
-    <h2>Arkiv över nyheter, tips & erbjudanden från En Renare Vardag</h2>
+    <h2>Tipsarkiv</h2>
   </header>
   <div class="posts">
-    {% for post in site.posts %}
+    {% for post in site.categories.Tips %}
     <article style="background-color: #fff;border-radius: 3px; padding: 15px;">
       <a href="{{ post.url }}" class="image"><img src="{{ post.image }}" alt="{{ post.title }}" /></a>
       <h3>{{ post.title }}</h3>
- 
+
       <p>{{ post.description }}</p>
-      <p>{% assign d = post.date | date: "%-d"  %}{% case d %}{% when '1' or '21' or '31' or '2' or '22' %}{{ d }}:a {% else %}{{ d }}:e{% endcase %}{% assign m = post.date | date: "%-m" %}{% case m %}{% when '1' %} Januari {% when '2' %} Februari {% when '3' %} Mars {% when '4' %} April {% when '5' %} Maj {% when '6' %} Juni{% when '7' %} Juli {% when '8' %} Augusti {% when '9' %} September {% when '10' %} Oktober {% when '11' %} November {% when '12' %} December {% endcase %}{{ post.date | date: "%Y" }}</p>
+      <p>{% assign d = post.date | date: "%-d"  %}{% case d %}{% when '1' or '21' or '31' or '2' or '22' %}{{ d }}:a
+        {% else %}{{ d }}:e{% endcase %}{% assign m = post.date | date: "%-m" %}{% case m %}{% when '1' %} Januari
+        {% when '2' %} Februari {% when '3' %} Mars {% when '4' %} April {% when '5' %} Maj {% when '6' %}
+        Juni{% when '7' %} Juli {% when '8' %} Augusti {% when '9' %} September {% when '10' %} Oktober {% when '11' %}
+        November {% when '12' %} December {% endcase %}{{ post.date | date: "%Y" }}</p>
       <ul class="actions">
         <li><a href="{{ post.url }}" class="button">Läs mer</a></li>
       </ul>
@@ -27,5 +29,54 @@ image: /images/max-langelott-wWQ760meyWI-unsplash.jpg
     {% endfor %}
   </div>
 </section>
+<!-- Nyheter Section -->
+<section>
+  <header class="major">
+    <h2>Nyhetsarkiv</h2>
+  </header>
+  <div class="posts">
+    {% for post in site.categories.Nyheter %}
+    <article style="background-color: #fff;border-radius: 3px; padding: 15px;">
+      <a href="{{ post.url }}" class="image"><img src="{{ post.image }}" alt="{{ post.title }}" /></a>
+      <h3>{{ post.title }}</h3>
+
+      <p>{{ post.description }}</p>
+      <p>{% assign d = post.date | date: "%-d"  %}{% case d %}{% when '1' or '21' or '31' or '2' or '22' %}{{ d }}:a
+        {% else %}{{ d }}:e{% endcase %}{% assign m = post.date | date: "%-m" %}{% case m %}{% when '1' %} Januari
+        {% when '2' %} Februari {% when '3' %} Mars {% when '4' %} April {% when '5' %} Maj {% when '6' %}
+        Juni{% when '7' %} Juli {% when '8' %} Augusti {% when '9' %} September {% when '10' %} Oktober {% when '11' %}
+        November {% when '12' %} December {% endcase %}{{ post.date | date: "%Y" }}</p>
+      <ul class="actions">
+        <li><a href="{{ post.url }}" class="button">Läs mer</a></li>
+      </ul>
+    </article>
+    {% endfor %}
+  </div>
+</section>
+<!-- Erbjudande Section -->
+<section>
+  <header class="major">
+    <h2>Erbjudandenarkiv</h2>
+  </header>
+  <div class="posts">
+    {% for post in site.categories.Erbjudande %}
+    <article style="background-color: #fff;border-radius: 3px; padding: 15px;">
+      <a href="{{ post.url }}" class="image"><img src="{{ post.image }}" alt="{{ post.title }}" /></a>
+      <h3>{{ post.title }}</h3>
+
+      <p>{{ post.description }}</p>
+      <p>{% assign d = post.date | date: "%-d"  %}{% case d %}{% when '1' or '21' or '31' or '2' or '22' %}{{ d }}:a
+        {% else %}{{ d }}:e{% endcase %}{% assign m = post.date | date: "%-m" %}{% case m %}{% when '1' %} Januari
+        {% when '2' %} Februari {% when '3' %} Mars {% when '4' %} April {% when '5' %} Maj {% when '6' %}
+        Juni{% when '7' %} Juli {% when '8' %} Augusti {% when '9' %} September {% when '10' %} Oktober {% when '11' %}
+        November {% when '12' %} December {% endcase %}{{ post.date | date: "%Y" }}</p>
+      <ul class="actions">
+        <li><a href="{{ post.url }}" class="button">Läs mer</a></li>
+      </ul>
+    </article>
+    {% endfor %}
+  </div>
+</section>
+
 {% include bokamera.html %}
 {% include reco.html %}
