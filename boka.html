@@ -16,15 +16,15 @@ image: /images/boka-intro.jpg
           <h3>Fyll i blanketten</h3>
   {% include boka-form.html %}
   <br /><br />
-  {% include kalkylator/kalkmain.html %}<br />
+
         </div>
 
       </div>
       {% if page.url != '/' %}
     <div class="item" style="padding:10px;">
-
-    <div class="item-staticchild">
-      <h3 class="editable">Läs mer om våra tjänster</h3>
+        {% include kalkylator/kalkmain.html %}<br />
+    <div class="item-staticchild" style="margin-top: 70px;">
+      <h2 class="editable">Läs mer om våra tjänster</h2>
       <p class="editable">Vi har ett brett urval av tjänster för företag och privatpersoner</p>
     </div>
     <div class="item-child">
@@ -43,9 +43,12 @@ image: /images/boka-intro.jpg
         </div>
 {% endif %}{% endfor %}<br /><br />
       </div>
+      
       <!-- Vanliga fragor -->
-      <div class="row" style="background-color: #fff; border-radius: 3px;">
-        <div class="col-6 col-12-small editble"><h2 style="display: block;">Vanliga Frågor</h2></div>
+      <div class="row">
+          <div class="item-staticchild">
+              <h2 class="editable">Vanliga frågor</h2>
+            </div>
         <div class="col-6 col-12-small editable">
           
           <h3>V&aring;rt l&ouml;fte</h3>
