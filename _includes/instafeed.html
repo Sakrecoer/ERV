@@ -7,7 +7,7 @@
   <ul id="instagram">
     {% for post in site.data.instagram limit: 5 %}
       <li>
-        <a href="https://www.instagram.com/p/{{ post.detail.shortcode }}" target="_blank" rel="noopener noreferrer nofollow">
+        <a href="https://www.instagram.com/p/{{ post.detail.shortcode }}" target="_blank" rel="noopener noreferrer">
         <img
           src="{{ site.baseurl }}/images/insta/{{ post.detail.display_url }}"
           data-gallery-source="{{ site.baseurl }}/assets/instagram/{{ post.detail.display_url }}"
