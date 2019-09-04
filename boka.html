@@ -9,48 +9,44 @@ image: /images/boka-intro.jpg
 <section style="padding:0">
   <div style="border-radius:3px;" class="flex">
     <div class="item" style="padding:10px;">
-        
-        <div class="item-child">
-            
-         
-          <h3>Fyll i blanketten</h3>
-  {% include boka-form.html %}
-  <br /><br />
-
-        </div>
-
+      <div class="item-child">
+        <h3>Fyll i blanketten</h3>
+        {% include boka-form.html %}
+        <br /><br />
       </div>
-      {% if page.url != '/' %}
-    <div class="item" style="padding:10px;">
-        {% include kalkylator/kalkmain.html %}<br />
-    <div class="item-staticchild" style="margin-top: 70px;">
-      <h2 class="editable">Läs mer om våra tjänster</h2>
-      <p class="editable">Vi har ett brett urval av tjänster för företag och privatpersoner</p>
     </div>
-    <div class="item-child">
-      <h3 style="text-decoration:underline #94ce3c solid">För företag</h3>
-{% for foretag in site.foretag %} {% if foretag.framsida == true %} 
-      <div class="col-4 col-12-small" style="margin-bottom:10px;">
-        <h4><a href="{{ foretag.url }}{{ foretag.hubspot }}">{{ foretag.menutitle }}</a> <i class="fa fa-arrow-right" style="color:#94ce3c;"></i></h4>
+    {% if page.url != '/' %}
+    <div class="item" style="padding:10px;">
+      {% include kalkylator/kalkmain.html %}<br />
+      <div class="item-staticchild" style="margin-top: 70px;">
+        <h2 class="editable">Läs mer om våra tjänster</h2>
+        <p class="editable">Vi har ett brett urval av tjänster för företag och privatpersoner</p>
       </div>
-{% endif %}{% endfor %}
-    </div> 
+      <div class="item-child">
+        <h3 style="text-decoration:underline #94ce3c solid">För företag</h3>
+        {% for foretag in site.foretag %} {% if foretag.framsida == true %}
+        <div class="col-4 col-12-small" style="margin-bottom:10px;">
+          <h4><a href="{{ foretag.url }}{{ foretag.hubspot }}">{{ foretag.menutitle }}</a> <i class="fa fa-arrow-right"
+              style="color:#94ce3c;"></i></h4>
+        </div>
+        {% endif %}{% endfor %}
+      </div>
       <div class="item-child">
         <h3 style="text-decoration:underline #94ce3c solid">För privatpersoner</h3>
-{% for privat in site.privat %}{% if privat.framsida == true %} 
+        {% for privat in site.privat %}{% if privat.framsida == true %}
         <div class="col-4 col-12-small" style="margin-bottom:10px;">
-          <h4><a href="{{ privat.url }}{{ privat.hubspot }}">{{ privat.menutitle }}</a> <i class="fa fa-arrow-right" style="color:#94ce3c;"></i></h4>
+          <h4><a href="{{ privat.url }}{{ privat.hubspot }}">{{ privat.menutitle }}</a> <i class="fa fa-arrow-right"
+              style="color:#94ce3c;"></i></h4>
         </div>
-{% endif %}{% endfor %}<br /><br />
+        {% endif %}{% endfor %}<br /><br />
       </div>
-      
       <!-- Vanliga fragor -->
       <div class="row">
-          <div class="item-staticchild">
-              <h2 class="editable">Vanliga frågor</h2>
-            </div>
+        <div class="item-staticchild">
+          <h2 class="editable">Vanliga frågor</h2>
+        </div>
         <div class="col-6 col-12-small editable">
-          
+
           <h3>V&aring;rt l&ouml;fte</h3>
           <p><span class="image right"><img alt="Nöjd Kund Garanti" src="/images/ikon/nojdkund.png" /></span>
             <ul>
@@ -69,10 +65,8 @@ image: /images/boka-intro.jpg
         {% endfor %}
       </div>
       <!-- END vanliga fragor-->
-      
     </div>
-{% endif %}
-
+    {% endif %}
   </div>
 
 </section>
