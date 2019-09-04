@@ -14,7 +14,7 @@
           <ul>
             {% for foretag in site.foretag %}
             {% if foretag.framsida == true %}
-            <li><a href="{{ foretag.url }}{{ foretag.hubspot }}">{{ foretag.menutitle }}</a></li>
+            <li><a href="{{ foretag.url }}">{{ foretag.menutitle }}</a></li>
             {% endif %}
             {% endfor %}
           </ul>
@@ -24,7 +24,7 @@
           <ul>
             {% for privat in site.privat %}
             {% if privat.framsida == true %}
-            <li><a href="{{ privat.url }}{{ privat.hubspot }}">{{ privat.menutitle }}</a></li>
+            <li><a href="{{ privat.url }}">{{ privat.menutitle }}</a></li>
             {% endif %}
             {% endfor %}
           </ul>
