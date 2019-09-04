@@ -43,7 +43,33 @@ image: /images/boka-intro.jpg
         </div>
 {% endif %}{% endfor %}<br /><br />
       </div>
+      <!-- Vanliga fragor -->
+      <div class="row" style="background-color: #fff; border-radius: 3px;">
+        <div class="col-6 col-12-small editble"><h2 style="display: block;">Vanliga Frågor</h2></div>
+        <div class="col-6 col-12-small editable">
+          
+          <h3>V&aring;rt l&ouml;fte</h3>
+          <p><span class="image right"><img alt="Nöjd Kund Garanti" src="/images/ikon/nojdkund.png" /></span>
+            <ul>
+              <li>10% rabatt n&auml;r du &auml;r ny kund f&ouml;r hemst&auml;dning.</li>
+              <li>Alltid samma st&auml;derska och h&ouml;g kvalitet till rimlig pris</li>
+              <li>20% rabatt p&aring; f&ouml;nsterputsning &auml;n s&aring; l&auml;nge som du &auml;r kund hos oss</li>
+              <li>Vi innehar F-skattsedel och ansvarsf&ouml;rs&auml;kring</li>
+            </ul>
+          </p>
+        </div>
+        {% for fraga in site.data.vanliga_fragor %}
+        <div class="col-6 col-12-small">
+          <h3>{{ fraga.question }}</h3>
+          {{ fraga.answer_html }}
+        </div>
+        {% endfor %}
+      </div>
+      <!-- END vanliga fragor-->
+      
     </div>
 {% endif %}
+
   </div>
+
 </section>
