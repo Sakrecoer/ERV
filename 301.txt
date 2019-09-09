@@ -178,3 +178,4 @@
 /sitemap/sitemap-2/ /sitemap
 /author-sitemap.xml /sitemap
 /author-sitemap/ /sitemap
+/tips/2019/09/09/7-enklar-s%C3%A4tt-att-reng%C3%B6ra-m%C3%A5lade-v%C3%A4ggar/ /tips/2019/09/09/8-enkla-s%C3%A4tt-att-reng%C3%B6ra-m%C3%A5lade-v%C3%A4ggar/
