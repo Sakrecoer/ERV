@@ -1,5 +1,5 @@
 ---
-title: 7 enklar sätt att rengöra målade väggar
+title: 7 enkla sätt att rengöra målade väggar
 date: 2019-09-09 10:00:00 +0200
 description: >-
   Att rengöra dina väggar regelbundet hjälper dig att spendera mindre tid på att
@@ -7,7 +7,7 @@ description: >-
 categories:
   - Tips
 image: /images/nyheter/viktor-forgacs-qe5mropjjq0-unsplash.jpg
-member:
+member: set
 bokaknapp: true
 published: true
 _disable_title_filename_sync: true
