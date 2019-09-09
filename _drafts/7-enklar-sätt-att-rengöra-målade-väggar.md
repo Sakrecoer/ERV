@@ -7,7 +7,7 @@ description: >-
 categories:
   - Tips
 image: /images/nyheter/viktor-forgacs-qe5mropjjq0-unsplash.jpg
-member: set
+member:
 bokaknapp: true
 published: true
 _disable_title_filename_sync: true
