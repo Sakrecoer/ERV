@@ -13,7 +13,7 @@ published: true
 _disable_title_filename_sync: true
 ---
 
-Oavsett vilken typ av f&auml;rg du har p&aring; dina v&auml;ggar, oavsett om det &auml;r oljebaserad eller vattenbaserad f&auml;rg, &auml;r det enda s&auml;ttet att &aring;terst&auml;lla och förl&auml;nga livsl&auml;ngden för ditt m&aring;larjobb att rengöra m&aring;lade v&auml;ggar. Hur kan du göra det? H&auml;r &auml;r sju enkla s&auml;tt att hj&auml;lpa dig med din rengöringsuppgift.
+Oavsett vilken typ av f&auml;rg du har p&aring; dina v&auml;ggar, oavsett om det &auml;r oljebaserad eller vattenbaserad f&auml;rg, &auml;r det enda s&auml;ttet att &aring;terst&auml;lla och förl&auml;nga livsl&auml;ngden för ditt m&aring;larjobb att rengöra m&aring;lade v&auml;ggar. Hur kan du göra det? H&auml;r &auml;r 8 enkla s&auml;tt att hj&auml;lpa dig med din rengöringsuppgift.
 
 #### 1\. Damma av dina v&auml;ggar.
 
