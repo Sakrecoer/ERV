@@ -10,7 +10,7 @@ image: /images/max-langelott-wWQ760meyWI-unsplash.jpg
   <header class="major">
     <h2>Tipsarkiv</h2>
   </header>
-  <div class="posts">
+  <div class="posts-set">
     {% for post in site.categories.Tips %}
     <article style="background-color: #fff;border-radius: 3px; padding: 15px;">
       <a href="{{ post.url }}" class="image"><img src="{{ post.image }}" alt="{{ post.title }}" /></a>
@@ -34,7 +34,7 @@ image: /images/max-langelott-wWQ760meyWI-unsplash.jpg
   <header class="major">
     <h2>Nyhetsarkiv</h2>
   </header>
-  <div class="posts">
+  <div class="posts-set">
     {% for post in site.categories.Nyheter %}
     <article style="background-color: #fff;border-radius: 3px; padding: 15px;">
       <a href="{{ post.url }}" class="image"><img src="{{ post.image }}" alt="{{ post.title }}" /></a>
@@ -58,7 +58,7 @@ image: /images/max-langelott-wWQ760meyWI-unsplash.jpg
   <header class="major">
     <h2>Erbjudandenarkiv</h2>
   </header>
-  <div class="posts">
+  <div class="posts-set">
     {% for post in site.categories.Erbjudande %}
     <article style="background-color: #fff;border-radius: 3px; padding: 15px;">
       <a href="{{ post.url }}" class="image"><img src="{{ post.image }}" alt="{{ post.title }}" /></a>

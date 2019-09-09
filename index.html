@@ -54,8 +54,8 @@ image: /images/ervhome.jpg
   <header class="major">
     <h2>Nyheter & erbjudanden från En Renare Vardag</h2>
   </header>
-  <div class="posts">
-    {% for post in site.posts limit: 2 %}
+  <div class="posts-set">
+    {% for post in site.posts limit: 3 %}
     <article style="background-color: #fff;border-radius: 3px; padding: 15px;">
       <a href="{{ post.url }}" class="image"><img src="{{ post.image }}" alt="{{ post.title }}" /></a>
       <h3>{{ post.title }}</h3>
@@ -66,7 +66,7 @@ image: /images/ervhome.jpg
     </article>
     {% endfor %}
     <article style="background-color: #fff;border-radius: 3px; padding: 15px;">
-      <a href="/arkiv/" class="image"><img src="/images/max-langelott-wWQ760meyWI-unsplash.jpg" alt="Arkiv" /></a>
+      <!-- <a href="/arkiv/" class="image"><img src="/images/max-langelott-wWQ760meyWI-unsplash.jpg" alt="Arkiv" /></a> -->
       <h3>Arkiv</h3>
       <p>Här hittar du alla artiklar, tips och erbjudanden som vi publicerat på våran webbplats</p>
       <ul class="actions">
