@@ -10,7 +10,6 @@ image: /images/nyheter/viktor-forgacs-qe5mropjjq0-unsplash.jpg
 member: lucky
 bokaknapp: true
 published: true
-_disable_title_filename_sync: true
 ---
 
 Oavsett vilken typ av f&auml;rg du har p&aring; dina v&auml;ggar, oavsett om det &auml;r oljebaserad eller vattenbaserad f&auml;rg, &auml;r det enda s&auml;ttet att &aring;terst&auml;lla och förl&auml;nga livsl&auml;ngden för ditt m&aring;larjobb att rengöra m&aring;lade v&auml;ggar. Hur kan du göra det? H&auml;r &auml;r sju enkla s&auml;tt att hj&auml;lpa dig med din rengöringsuppgift.
