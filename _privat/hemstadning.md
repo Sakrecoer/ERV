@@ -9,11 +9,14 @@ framsida: true
 hubspot: '?v_lj_tj_nst=Hemstädning'
 icon_image: /images/ikon/hem-ikon.png
 ---
+## Att tänka på innan städningen
+En lämplig rutin för regelbunden veckostädning är 1-4 gånger per månad. Omfattning och intervall avgörs beroende på hur omfattande det dagliga underhållet är.
+
+Var gärna hemma vid första städtillfället och se att du blir nöjd med resultatet. Plocka undan leksaker, kläder och andra lösa föremål, för att förenkla städningen. Se till att arbetsbänkar och diskbänk är fria så att de går att rengöra. Fönsterputs kan tilläggsbeställas. Har du speciella önskemål som ska ingå i din städning? (exempelvis plocka undan leksaker, rengöra ugn, göra tvättning osv.) Det går självklart att ordna!
+
 ## Tack vare RUT-avdraget så har hemstädning blivit mer tillgängligt för en större skara människor. 
 
-Det behöver faktiskt inte längre vara så dyrt att få hjälp med städning i hemmet någon eller några gånger i månaden.
-
-En lämplig rutin för regelbunden veckostädning är 1-4 gånger per månad. Omfattning och intervall avgörs beroende på hur omfattande det dagliga underhållet är.
+Det behöver faktiskt inte vara så dyrt att få hjälp med städning i hemmet någon eller några gånger i månaden!
 
 ## Vi erbjuder:
 * Hög kvalitet till rimligt pris
@@ -85,7 +88,6 @@ En lämplig rutin för regelbunden veckostädning är 1-4 gånger per månad. Om
 * Kakel eller badrumsspray (typ Ajax)
 * Toalettrent (typ WC-anka)
 
-## Att tänka på innan städningen
-Var gärna hemma vid första städtillfället och se att du blir nöjd med resultatet. Plocka undan leksaker, kläder och andra lösa föremål, för att förenkla städningen. Se till att arbetsbänkar och diskbänk är fria så att de går att rengöra. Fönsterputs kan tilläggsbeställas. Har du speciella önskemål som ska ingå i din städning? (exempelvis plocka undan leksaker, rengöra ugn, göra tvättning osv.) Det går självklart att ordna!
+
 
 
