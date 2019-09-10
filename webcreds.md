@@ -3,7 +3,7 @@ title: Mjukvara som körs på sidan
 date: 2019-04-10 00:01:00 +0200
 descrtiption: 'Bilder och mjukvara som använts för att bygga denna webbsida'
 permalink: /webcreds/
-sitemap: true
+sitemap: false
 layout: infosidor
 image: /images/erv.jpg
 ---
