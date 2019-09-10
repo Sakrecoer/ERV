@@ -14,7 +14,7 @@ layout: default
   {% else %}
   <img src="/images/ikon/nojdkund.png" />
   <ul class="actions">
-    <li><a href="/boka/{{ page.hubspot }}" class="button primary large editable knap">Boka Nu!</a></li>
+    <li><a href="/boka/{{ page.hubspot }}" class="button primary large editable knap" {% if page.husbppot != '' %}rel="nofollow" {% endif %}>Boka Nu!</a></li>
   </ul>
   {% endif %}
 </section>
