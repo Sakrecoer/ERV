@@ -6,7 +6,7 @@
 {% else %}
 <div id="offert">
   <ul class="actions">
-    <li><a href="/boka/{{ page.hubspot }}" rel="nofollow" class="button primary large knap" style="box-shadow: 6px 6px 6px 3px rgba(0, 0, 0, 0.2);">Begär Offert</a></li>
+    <li><a href="/boka/{{ page.hubspot }}"{% if page.collection == 'foretag' or page.collection == 'privat' %} rel="nofollow"{% endif %} class="button primary large knap" style="box-shadow: 6px 6px 6px 3px rgba(0, 0, 0, 0.2);">Begär Offert</a></li>
   </ul>
 </div>
 {% endif %}

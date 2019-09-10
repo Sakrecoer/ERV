@@ -1,7 +1,7 @@
 ---
 title: Kontorsstädning i Stockholm
 description: >-
-  En Renare Vardag erbjuder städning av kontor som kan få ditt företag att skina
+  En Renare Vardag erbjuder kontorstädning i stockholm som kan få ditt företag att skina
   genom att eliminera all smuts som har lämnats kvar när ljusen släckts. Hör av
   dig och boka ett kostnadsfritt möte.
 image: /images/kontor-1.jpg
@@ -15,11 +15,14 @@ icon_image: /images/ikon/kontor-ikon.png
 
 ## Vill du att ditt kontor glänser när du tänder ljuset på morgonen?
 
-Vi erbjuder städning av kontor du kan lita på. Vår specialiserade kontorsstädnings-service kan få ditt företag att skina genom att eliminera all smuts som har lämnats kvar när ljusen släckts. Vår städservice för kontorsstädning är skräddarsytt för att passa ditt företags behov.
+Vi erbjuder kontorstädning i Stockholm som du kan lita på. Vår specialiserade kontorsstädnings-service kan få ditt företag att skina genom att eliminera all smuts som har lämnats kvar när ljusen släckts. Vår städservice för kontorsstädning är skräddarsytt för att passa ditt företags behov och dess krav på kvalitetsstädning. Våran service betyder omtanke! Boka städning av ditt kontor med oss idag och få bättre trivsel och motivation hos dina kunder.
 
-**Våra företagskunder har en sak gemensamt, de är nöjda.**
+**Våra företagskunder har en sak gemensamt: de är nöjda.**
 
-## Vad ingår i en kontorstädning?
+## Vad kostar kontorsstädning?
+Kontorstädning pris per timme är ingenting gämfört med vad ditt företag tjänar på det! Dina anställda trivs bättre, mår bättre och jobbar bättre! Eftersom priset beror på storlek, möblering och geografisk plats är det bästa att du [ber om en offert](/boka/?v_lj_tj_nst=Kontorst%C3%A4dning){: rel="nofollow"}. Vi svarar inom 24 timmar. Du är välkommen att höra av dig om du vill ha en checklista.
+
+## Vad ingår i kontorstädning?
 
 ### Kontorsrum, Kontorslandskap, Konferensrum, Korridorer, Entré & Reception\*\*
 
