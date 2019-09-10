@@ -56,6 +56,7 @@ collections:
   members:
     output: false
     _hide_content: "true"
+    _singular_name: "member"
 
 defaults:
   -
