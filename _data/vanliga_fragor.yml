@@ -34,7 +34,8 @@
     sekretessavtal samt l&auml;mna ett utdrag ur belastningsregistret. En Renare
     Vardagsrutiner f&ouml;r hantering av nycklar, larm och andra kunduppgifter
     &auml;r speciellt utvecklade f&ouml;r att skapa trygghet och sekretess
-    f&ouml;r dig.</p>
+    f&ouml;r dig. <a href="/din-trygghet/">Du kan l&auml;sa mer om hur vi jobbar
+    med s&auml;kerhet p&aring; denna sida.</a></p>
 - question: Vad händer om något går sönder?
   answer_html: >-
     <p>En Renare Vardag har ansvarsf&ouml;rs&auml;kring som t&auml;cker
@@ -88,9 +89,8 @@
 - question: Hur blir jag kund?
   answer_html: >-
     <p>Du kontaktar oss genom v&aring;rt <a
-    href="https://enrenarevardag.se/kontakta-oss/">kontaktformul&auml;r,</a> per
-    telefon <a href="tel:+4686605555">08-660 55 55</a> eller genom e-post till
-    <a
+    href="/kontakta-oss/">kontaktformul&auml;r,</a> per telefon <a
+    href="tel:+4686605555">08-660 55 55</a> eller genom e-post till <a
     href="mailto:kundtjanst@enrenarevardag.se">kundtjanst@enrenarevardag.se</a>
     s&aring; h&ouml;r vi av oss s&aring; fort som m&ouml;jligt och senast inom
     24 timmar. Du b&ouml;rjar alltid med en bindningsfri provst&auml;dning
@@ -110,13 +110,15 @@
     &ouml;nskas.</p>
 - question: Måste jag lämna ut nycklar?
   answer_html: >-
-    Nej, om du garanterar att vara hemma n&auml;r st&auml;dningen
+    <p>Nej, om du garanterar att vara hemma n&auml;r st&auml;dningen
     p&aring;b&ouml;rjas och avslutas beh&ouml;ver vi ingen nyckel. F&ouml;r att
     v&aring;r f&ouml;rs&auml;kring ska g&auml;lla m&aring;ste vi kvittera ut
     nycklar av er eller att ni &auml;r hemma och &ouml;ppnar och sedan
     l&aring;ser n&auml;r vi &auml;r klara. Om ni v&auml;ljer att g&ouml;mma
     nycklar eller andra l&ouml;sningar s&aring; g&auml;ller inte v&aring;r
-    f&ouml;rs&auml;kring om det skulle h&auml;nda n&aring;gonting.
+    f&ouml;rs&auml;kring om det skulle h&auml;nda n&aring;gonting. Du kan
+    l&auml;sa mer om hur vi hanterar s&auml;kerhet <a
+    href="/din-trygghet/">p&aring; denna sida</a></p>
 - question: Kan jag avboka i sista minuten?
   answer_html: >-
     <p>Tyv&auml;rr. V&aring;r administration klarar inte av sista-minuten
@@ -167,21 +169,21 @@
     frysa av frysen.</strong></p>
 - question: Hur kan man säga upp sitt städavtal?
   answer_html: >-
-    Skulle du av n&aring;gon anledning inte vilja forts&auml;tta med oss
+    <p>Skulle du av n&aring;gon anledning inte vilja forts&auml;tta med oss
     s&aring; meddelar du oss endast via mail. Vi har inga l&aring;nga kontrakt.
-    Detta g&auml;ller under hela din tid som kund hos oss.
-- question: Hur hanterar En Renare Vardag under semestertider?
+    Detta g&auml;ller under hela din tid som kund hos oss.</p>
+- question: Hur hanterar En Renare Vardag semestertider?
   answer_html: >-
     <p>V&aring;ra semestertider &auml;r under juli m&aring;naden. Vi har ett
     antal vikarier som jobbar under juli om du &ouml;nskar att ha st&auml;dning
     d&aring;. Om ni har t&auml;nkt att ha en semester i n&aring;gon annan
-    m&aring;nad s&aring; v&auml;nligen kontakta oss s&aring; avbokar vi
-    st&auml;dningen under den m&aring;naden.</p><p><strong>OBS:</strong> Vi
-    beh&ouml;ver veta om er semester en m&aring;nad innan f&ouml;r att kunna
-    hantera eventuella avbokningar under er semester. Vi kommer att skicka en
-    f&ouml;rfr&aring;gningar till alla v&aring;ra kunder under Juni f&ouml;r att
-    veta vilka som ville ha st&auml;dning n&auml;r vi &auml;r p&aring;
-    semester.</p>
+    m&aring;nad, v&auml;nligen kontakta oss s&aring;&nbsp; vi kan avboka
+    st&auml;dningen under den tiden.</p><p><strong>OBS:</strong> Vi beh&ouml;ver
+    vetskap om att ni kommer vara p&aring; semester <strong>en m&aring;nad
+    innan</strong> f&ouml;r att kunna hantera eventuella avbokningar under er
+    semester. Vi skickar en f&ouml;rfr&aring;gning till alla v&aring;ra kunder
+    under Juni f&ouml;r att veta vilka som vill ha st&auml;dning n&auml;r vi
+    &auml;r p&aring; semester.</p>
 - question: Vem står för städutrustningen för hemstädning?
   answer_html: >-
     <p>V&aring;ra st&auml;dare &aring;ker kommunalt ut till er kunder (med
