@@ -6,7 +6,7 @@ sitemap: true
 layout: infosidor
 image: /images/trygghet-mitten2-538d907e2a6b22099a1eb5b5.jpg
 ---
-# Personuppgifter och integritetspolicy
+## Personuppgifter och integritetspolicy
 
 **En Renare Vardag** är personuppgiftsansvarig och förvaltar webbplatsesökarnas personuppgifter enligt Dataskyddsförordningen (GDPR) och annan tillämplig lagstiftning. Webbplatsesökarnas kontaktuppgifter används för att **En Renare Vardag** kunna uppfylla sina avtalsenliga förpliktelser mot denne. 
 
