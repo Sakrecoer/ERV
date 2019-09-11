@@ -1,7 +1,7 @@
 ---
 title: Integritets Policy
 date: 2019-04-25 05:07:00 +0200
-descrtiption: 'På En Renare Vardag AB bryr vi oss om dig och alla våra kunder. Här finner du våran sekretess policy och hur vi hanterar dina personuppgifter.'
+description: 'På En Renare Vardag AB bryr vi oss om dig och alla våra kunder. Här finner du våran sekretess policy och hur vi hanterar dina personuppgifter.'
 sitemap: true
 layout: infosidor
 image: /images/trygghet-mitten2-538d907e2a6b22099a1eb5b5.jpg
