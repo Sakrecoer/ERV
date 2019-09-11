@@ -5,7 +5,7 @@ description: >-
   genom att eliminera all smuts som har lämnats kvar när ljusen släckts. Hör av
   dig och boka ett kostnadsfritt möte.
 image: /images/kontor-1.jpg
-permalink: /foretag/kontorstadning/
+permalink: /foretag/kontorsstadning/
 layout: generic
 menutitle: Kontorsstädning
 framsida: true

@@ -4,7 +4,7 @@ description: >-
   Vi på En Renare Vardag AB erbjuder städning av butiker av högsta standard i
   Storstockholm. Hör av dig och boka ett kostnadsfritt möte.
 image: /images/butik.jpg
-permalink: /foretag/butikstadning/
+permalink: /foretag/butiksstadning/
 layout: generic
 menutitle: Butiksstädning
 framsida: true
