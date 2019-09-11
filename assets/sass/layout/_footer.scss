@@ -21,7 +21,7 @@
     @include vendor('display', 'flex');
     @include vendor('flex-wrap', 'wrap');
     width: 100%;
-    background-color: 
+    background-color: #fff;
     .flexcolumn {
       flex: 1 1 250px;
     }
