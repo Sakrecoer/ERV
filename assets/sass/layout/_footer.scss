@@ -24,6 +24,20 @@
     background-color: _palette(fg-bold);
     padding: 100px;
     color: _palette(bg);
+    #rect822 {
+      fill: #fff;
+      @include vendor('transition', (
+        'fill #{_duration(transition)} ease-in-out',
+        
+      ));
+    }
+    #rect822:hover {
+      fill: #94ce3c;
+      @include vendor('transition', (
+        'fill #{_duration(transition)} ease-in-out',
+        
+      ));
+    }
     h1, h2, h3 {
       color: _palette(bg);
     }
