@@ -1,0 +1,40 @@
+<section class="footer">
+
+  <div class="flexcolumn">
+    <header class="major">
+      <p>Städhjälp för företag</p>
+    </header>
+    <ul class="contact">
+      {% for foretag in site.foretag %}
+      <li><a href="{{ foretag.url }}">{{ foretag.menutitle }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+  <div class="flexcolumn">
+    <header class="major">
+      <p>Städhjälp för privatpersoner</p>
+    </header>
+    <ul class="contact">
+      {% for privat in site.privat %}
+      <li><a href="{{ privat.url }}">{{ privat.menutitle }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+  <div class="flexcolumn">
+    <header class="major">
+      <p>Kontakta oss</p>
+    </header>
+    <ul class="contact">
+      <li><a href="mailto:kundtjanst@enrenarevardag.se">Maila Kundtjänst</a></li>
+      <li><a href="tel:+4686605555">08-660 55 55</a></li>
+      <li>Storgatan 104 B
+        <br />171 55 Solna <br />
+        Org nr: 556847-2038</li>
+    </ul>
+  </div>
+  <div class="flexcolumn" style="text-align: center">
+      <a href="#main" style="border: none;"><img src="/images/arrow.svg" />
+        <br />Tilbaka till toppen</a>
+  </div>
+
+</section>

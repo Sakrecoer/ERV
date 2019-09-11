@@ -21,8 +21,23 @@
     @include vendor('display', 'flex');
     @include vendor('flex-wrap', 'wrap');
     width: 100%;
-    background-color: #fff;
+    background-color: _palette(fg-bold);
+    padding: 100px;
+    color: _palette(bg);
+    h1, h2, h3 {
+      color: _palette(bg);
+    }
     .flexcolumn {
       flex: 1 1 250px;
+      margin: 0 auto 0 auto;
+      padding: 20px;
     }
+    a {
+      color: _palette(bg);
+    }
+    ul.contact li {
+      padding-left: 0;
+
+    }
+
   }
