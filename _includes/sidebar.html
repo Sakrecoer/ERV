@@ -32,16 +32,19 @@
         {% for link in site.data.navigation %}
         <li><a href="{{ link.link }}">{{ link.name }}</a></li>
         {% endfor %}
+        <li>&nbsp;</li>
       </ul>
+      <a href="/boka/" class="button large primary editable">Boka</a>
     </nav>
     <!-- Section -->
     <section>
       <!-- <header class="major">
                   <h2>Kontakta oss</h2>
                 </header> -->
-      {% if page.url != '/kontakta-oss/' %}<ul class="actions">
-        <li><a href="/kontakta-oss/" class="button large editable">Kontakta oss</a></li>
-      </ul>{% endif %}
+      <ul class="actions">
+        {% if page.url != '/kontakta-oss/' %}<li><a href="/kontakta-oss/" class="button large editable">Kontakta oss</a></li>{% endif %}
+       
+      </ul>
       <ul class="contact">
         <li class="fa-envelope-o"><a href="mailto:kundtjanst@enrenarevardag.se">kundtjanst@enrenarevardag.se</a></li>
         <li class="fa-phone"><a href="tel:+4686605555">08-660 55 55</a></li>
