@@ -1,15 +1,37 @@
 ---
-title: 'Aktuella Erbjudanden'
+title: 'Nyheter & Aktuella Erbjudanden'
 description: 'Nyheter, aktuella erbjudanden och tips om städning på En Renare Vardag AB'
 image: '/images/bon-cadeau-noeud-rouge.jpg'
 layout: default
 ---          
 {% include banner_booking.html %}
+<!-- Banner -->
+<section style="padding:0">
+    <div style="border-radius:3px;" class="flex">
+      <div class="item" style="padding:10px;">
+        <div class="item-child editable">
+          
+          <p>Vi tror att dela med oss av våra erfarenheter om städhjälp för företag och privatpersoner kan göra Stockholm lite bättre och lite renare. Därför skriver vi regelbundet tips och nyheter om vad som händer i städbranchen för alla att ta del av. På denna sida hittar du dom 6 senaste artiklarna samt en länk till vårat <a href="/arkiv/">arkiv,</a> i fall du skulle sakna något fint eller intressant vi skrivit för länge sedan.</p>
+
+          <br />
+
+        </div>
+        <div class="item-staticchild">
+        </div>
+      </div>
+      <div class="item" style="padding:10px;">
+
+        <p style="height:100px;">&nbsp;</p>
+      </div>
+    </div>
+  </section>
+  
+
 <!-- Section -->
 <section>
   <header class="major">
     <h2>Vi är En Renare Vardag</h2>
-    <p>Vi tror att dela med oss av våra erfarenheter om städhjälp för företag och privatpersoner kan göra Stockholm lite bättre och lite renare. Därför skriver vi regelbundet tips och nyheter om vad som händer i städbranchen för alla att ta del av. På denna sida hittar du dom 6 seanste artiklarna samt en länk till vårat <a href="/arkiv/">arkiv,</a> i fall du skulle sakna något fint eller intressant vi skrivit för länge sedan.</p>
+
   </header>
   <div class="posts-set">
     {% for post in site.posts limit: 6 %}
