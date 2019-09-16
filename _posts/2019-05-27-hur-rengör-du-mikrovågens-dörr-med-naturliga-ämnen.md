@@ -1,5 +1,5 @@
 ---
-title: Hur rengör du mikrovågens dörr med Naturliga ämnen?
+title: Rengör mikrovågen med Naturliga ämnen
 date: 2019-05-27 09:00:00 +0200
 description: >-
   Så här rengör du dörren på din mikrovågsugn som med tiden kan ha blivit mindre
