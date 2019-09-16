@@ -7,70 +7,84 @@ layout: infosidor
 
 <!-- Content -->
 <div class="editable">
-	<h2>En renare vardag AB &ndash; St&auml;dhj&auml;lp med Kvalitetss&auml;kring</h2>
-	<p>Vi arbetar med ett eget kontrollprogram f&ouml;r kvalitetss&auml;kring av st&auml;dning av arbetsplatser. Det bygger p&aring; f&ouml;ljande delar:</p>
+  <h2>En renare vardag AB &ndash; St&auml;dhj&auml;lp med Kvalitetss&auml;kring</h2>
+  <p>Vi arbetar med ett eget kontrollprogram f&ouml;r kvalitetss&auml;kring av st&auml;dning av arbetsplatser. Det
+    bygger p&aring; f&ouml;ljande delar:</p>
 </div>
-    <div class="row">
-        <div class="col-4 col-12-medium editable">
-        	<h3>Ansvar &amp; egenkontroll</h3>
-        	<p><span class="image left"><img alt="Nöjd Kund Garanti" src="/images/ikon/nojdkund.png" /></span>Varje anst&auml;lld &auml;r personligt ansvariga f&ouml;r ett antal st&auml;dobjekt. F&ouml;r dig som kund &auml;r detta en trygghet, eftersom det oftast &auml;r samma person som utf&ouml;r uppdraget varje vecka. Vid varje st&auml;dtillf&auml;lle kontrollerar den ansvarige att samtliga moment av st&auml;dningen &auml;r utf&ouml;rda och signerar en lista. De anst&auml;llda rapporterar fel och eventuella brister till ansvarig st&auml;dledare.</p>
-        </div>
-      <div class="col-4 col-12-medium editable">
-      	<h3>Arbetsledarens kvalitetskontroll</h3>       	<p>Med j&auml;mna intervall kontrollerar arbetsledaren st&auml;dobjektet och deltar i det dagliga arbetet tillsammans med ansvarig personal. Det sker &auml;ven s&auml;rskilda granskningskontroller minst sex g&aring;nger per &aring;r f&ouml;r att s&auml;kerst&auml;lla st&auml;dningens regelbundna kvaliteten. Uppf&ouml;ljning : Alla reklamationer och eventuella avvikelser fr&aring;n st&auml;dprogrammet f&ouml;ljs snabbt upp och &aring;tg&auml;rdas omg&aring;ende. Arbetsledare och all personal tr&auml;ffas dessutom flera g&aring;nger per m&aring;nad och diskuterar kvalitetsarbetet. Vi har &auml;ven utbildningsdagar d&auml;r personalen kan f&aring; m&ouml;jlighet till kompetensutveckling.</p>
+<div class="row">
+  <div class="col-4 col-12-medium editable">
+    <h3>Ansvar &amp; egenkontroll</h3>
+    <p><span class="image left"><img alt="Nöjd Kund Garanti" src="/images/ikon/nojdkund.png" /></span>Varje
+      anst&auml;lld &auml;r personligt ansvariga f&ouml;r ett antal st&auml;dobjekt. F&ouml;r dig som kund &auml;r detta
+      en trygghet, eftersom det oftast &auml;r samma person som utf&ouml;r uppdraget varje vecka. Vid varje
+      st&auml;dtillf&auml;lle kontrollerar den ansvarige att samtliga moment av st&auml;dningen &auml;r utf&ouml;rda och
+      signerar en lista. De anst&auml;llda rapporterar fel och eventuella brister till ansvarig st&auml;dledare.</p>
+  </div>
+  <div class="col-4 col-12-medium editable">
+    <h3>Arbetsledarens kvalitetskontroll</h3>  <p>Med j&auml;mna intervall kontrollerar arbetsledaren st&auml;dobjektet
+      och deltar i det dagliga arbetet tillsammans med ansvarig personal. Det sker &auml;ven s&auml;rskilda
+      granskningskontroller minst sex g&aring;nger per &aring;r f&ouml;r att s&auml;kerst&auml;lla st&auml;dningens
+      regelbundna kvaliteten. Uppf&ouml;ljning : Alla reklamationer och eventuella avvikelser fr&aring;n
+      st&auml;dprogrammet f&ouml;ljs snabbt upp och &aring;tg&auml;rdas omg&aring;ende. Arbetsledare och all personal
+      tr&auml;ffas dessutom flera g&aring;nger per m&aring;nad och diskuterar kvalitetsarbetet. Vi har &auml;ven
+      utbildningsdagar d&auml;r personalen kan f&aring; m&ouml;jlighet till kompetensutveckling.</p>
+  </div>
+
+  <div class="col-4 col-12-medium editable">
+    <h3>Minst en g&aring;ng per &aring;r g&ouml;r vi &auml;ven en uppf&ouml;ljning av avtal och st&auml;dprogram med
+      samtliga kunder.</h3>
+    <p>Det &auml;r igenom dialog och lyh&ouml;rdhet som vi &auml;r Stockholms mest omtyckta st&auml;df&ouml;retag!
+      Fr&aring;n S&ouml;dermalm till Vastastan, via &Ouml;stermalm och Kungsholmen. Se sj&auml;lv vad v&aring;ra kunder
+      s&auml;ger i v&aring;rat omd&ouml;me p&aring; <a target="_blank"
+        href="https://www.reco.se/en-renare-vardag">Reco</a>.</p>
+    <p><img src="/images/ikon/trustFiveYears-150.png" /></p>
+  </div>
+</div>
+
+
+<!-- Section Foretag -->
+<section>
+  <header class="major">
+    <h2>Våra tjänster för företag</h2>
+  </header>
+  <div class="features">
+    {% for foretag in site.foretag %}{% if foretag.framsida == true %}
+    <article>
+      <span class="icon"><img src="{{ foretag.icon_image }}" width="50px" /></span>
+      <div class="content">
+        <h3><a href="{{ foretag.url }}">{{ foretag.menutitle }}</a></h3>
+        <p>{{ foretag.description }}</p>
+        <a href="{{ foretag.url }}" class="button">Läs mer & boka kostnadsfritt möte</a>
       </div>
-      
-      <div class="col-4 col-12-medium editable">
-      	<h3>Minst en g&aring;ng per &aring;r g&ouml;r vi &auml;ven en uppf&ouml;ljning av avtal och st&auml;dprogram med samtliga kunder.</h3>
-      	<p>Det &auml;r igenom dialog och lyh&ouml;rdhet som vi &auml;r Stockholms mest omtyckta st&auml;df&ouml;retag! Fr&aring;n S&ouml;dermalm till Vastastan, via &Ouml;stermalm och Kungsholmen. Se sj&auml;lv vad v&aring;ra kunder s&auml;ger i v&aring;rat omd&ouml;me p&aring; <a target="_blank" href="https://www.reco.se/en-renare-vardag">Reco</a>.</p>
-      	<p><img src="/images/ikon/trustFiveYears-150.png" /></p>
-      </div>
-    </div>
+    </article>
+    {% endif %}{% endfor %}
+  </div>
+</section>
 
+<!-- Section -->
+<section>
+  <header class="major">
+    <h2>Vi är En Renare Vardag</h2>
+  </header>
+  <div class="posts-set">
+    {% for post in site.posts limit: 3 %}
+    <article style="background-color: #fff;border-radius: 3px; padding: 15px;">
+      <a href="{{ post.url }}" class="image"><img src="{{ post.image }}" alt="{{ post.title }}" /></a>
+      <h3>{{ post.title }}</h3>
+      <p>{{ post.description }}</p>
+      <ul class="actions">
+        <li><a href="{{ post.url }}" class="button">Läs mer</a></li>
+      </ul>
+    </article>
+    {% endfor %}
+    <article style="background-color: #fff;border-radius: 3px; padding: 15px;">
+      <!-- <a href="/arkiv/" class="image"><img src="/images/max-langelott-wWQ760meyWI-unsplash.jpg" alt="Arkiv" /></a> -->
+      <h3>Arkiv</h3>
+      <p>Här hittar du alla artiklar, tips och erbjudanden som vi publicerat på våran webbplats</p>
+      <ul class="actions">
+        <li><a href="/arkiv/" class="button">Gå till Arkiv</a></li>
+      </ul>
+    </article>
+  </div>
 
-							<!-- Section Foretag -->
-								<section>
-									<header class="major">
-										<h2>Våra tjänster för företag</h2>
-									</header>
-									<div class="features">
-{% for foretag in site.foretag %}{% if foretag.framsida == true %}
-										<article>
-											<span class="icon"><img src="{{ foretag.icon_image }}" width="50px" /></span>
-											<div class="content">
-												<h3><a href="{{ foretag.url }}">{{ foretag.menutitle }}</a></h3>
-                        <p>{{ foretag.description }}</p>
-                        <a href="{{ foretag.url }}" class="button">Läs mer & boka kostnadsfritt möte</a>
-											</div>
-                    </article>
-{% endif %}{% endfor %}
-									</div>
-                </section>
-                
-							<!-- Section -->
-								<section>
-									<header class="major">
-										<h2>Vi är En Renare Vardag</h2>
-									</header>
-									<div class="posts">
-{% for post in site.posts %}
-										<article>
-											<a href="{{ post.url }}" class="image"><img src="{{ post.image }}" alt="" /></a>
-											<h3>{{ post.title }}</h3>
-											<p>{{ post.description }}</p>
-											<ul class="actions">
-												<li><a href="{{ post.url }}" class="button">Läs mer</a></li>
-											</ul>
-										</article>
-{% endfor %}
-                  </div>
-                  
-								</section>
-
-
-
-
-
-
-
-
-
+</section>
