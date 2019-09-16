@@ -1,7 +1,7 @@
 <!-- BEGIN seo.html -->
 <meta name="title" content="{{ page.title }} | {{ site.title }}" />
 <meta name="dc.date.modified" scheme="ISO8601" content="{{ site.time | date_to_xmlschema }}" />
-{% if jekyll.environment == 'production' %}<meta name="robots" content="index" />{% else %}<meta name="robots" content="noindex, nofollow" />{% endif %}
+{% if page.sitemap == false %}<meta name="robots" content="noindex, nofollow" />{% else %}<meta name="robots" content="index" />{% endif %}
 <meta charset="utf-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
