@@ -1,5 +1,5 @@
 ---
-title: 'Släpp in ljuset med oss, få gratis fönsterputsning!'
+title: 'Släpp in ljuset med gratis fönsterputsning!'
 date: 2019-08-26 09:00:00 +0200
 description: >-
   Vi bjuder alla våra kunder i Stockholm på gratis fönsterputs! Boka 5

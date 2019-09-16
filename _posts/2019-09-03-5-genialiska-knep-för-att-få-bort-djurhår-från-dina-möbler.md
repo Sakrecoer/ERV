@@ -1,5 +1,5 @@
 ---
-title: 5 genialiska knep för att få bort djurhår från dina möbler
+title: 5 knep för att städa bort djurhår
 date: 2019-09-03 11:00:00 +0200
 description: >-
   Om du har husdjur i hemmet, så vet du hur svårt det kan vara att få bort hår

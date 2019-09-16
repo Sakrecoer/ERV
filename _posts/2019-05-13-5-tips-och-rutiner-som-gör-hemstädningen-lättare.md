@@ -1,5 +1,5 @@
 ---
-title: 5 tips och rutiner som gör hemstädningen lättare
+title: Tips och rutiner för lättare hemstädning.
 date: 2019-05-13 11:00:00 +0200
 description: >-
   Det kan vara svårt att få städningen gjord hemma. Här kommer 5 tips för att
