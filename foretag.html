@@ -16,7 +16,7 @@ layout: infosidor
     <h3>Ansvar &amp; egenkontroll</h3>
     <p><span class="image left"><img alt="Nöjd Kund Garanti" src="/images/ikon/nojdkund.png" /></span>Varje
       anst&auml;lld &auml;r personligt ansvariga f&ouml;r ett antal st&auml;dobjekt. F&ouml;r dig som kund &auml;r detta
-      en trygghet, eftersom det oftast &auml;r samma person som utf&ouml;r uppdraget varje vecka. Vid varje
+      en trygghet, eftersom det oftast &auml;r samma person som utf&ou{% include reco.html %}ml;r uppdraget varje vecka. Vid varje
       st&auml;dtillf&auml;lle kontrollerar den ansvarige att samtliga moment av st&auml;dningen &auml;r utf&ouml;rda och
       signerar en lista. De anst&auml;llda rapporterar fel och eventuella brister till ansvarig st&auml;dledare.</p>
   </div>
@@ -61,30 +61,4 @@ layout: infosidor
   </div>
 </section>
 
-<!-- Section -->
-<section>
-  <header class="major">
-    <h2>Vi är En Renare Vardag</h2>
-  </header>
-  <div class="posts-set">
-    {% for post in site.posts limit: 3 %}
-    <article style="background-color: #fff;border-radius: 3px; padding: 15px;">
-      <a href="{{ post.url }}" class="image"><img src="{{ post.image }}" alt="{{ post.title }}" /></a>
-      <h3>{{ post.title }}</h3>
-      <p>{{ post.description }}</p>
-      <ul class="actions">
-        <li><a href="{{ post.url }}" class="button">Läs mer</a></li>
-      </ul>
-    </article>
-    {% endfor %}
-    <article style="background-color: #fff;border-radius: 3px; padding: 15px;">
-      <!-- <a href="/arkiv/" class="image"><img src="/images/max-langelott-wWQ760meyWI-unsplash.jpg" alt="Arkiv" /></a> -->
-      <h3>Arkiv</h3>
-      <p>Här hittar du alla artiklar, tips och erbjudanden som vi publicerat på våran webbplats</p>
-      <ul class="actions">
-        <li><a href="/arkiv/" class="button">Gå till Arkiv</a></li>
-      </ul>
-    </article>
-  </div>
 
-</section>
