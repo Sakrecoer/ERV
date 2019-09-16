@@ -9,7 +9,9 @@ framsida: true
 hubspot: '?v_lj_tj_nst=Trappstädning'
 icon_image: /images/ikon/trapp-ikon.png
 ---
-Vår professionella utrustning klarar av att städa i dom allra minsta vinklar och vrån i trapphuset där damm och smuts kan gömma sig. För att upprätta ett kontrakt går vi tillsammans med kunden igenom deras behov och önskemål, för att sedan finna en lösning för båda parter.
+Trapphusen i Stockholms bygnader behöver omsorg. Att komma hem till en ren och fin trappa i sin hyres/bostadsrätt är avgörande för trivseln; små detaljer i vardagen kan ha en otrolig effekt på humöret. Vår professionella utrustning och duktiga städare klarar av att städa i dom allra minsta vinklar och vrån i trapphuset där damm och smuts kan gömma sig. Vi får det att skina så rent att du kommer villja ta trappan istället för hissen och bjuda hem alla dina vänner! Med En Renare Varadag AB har du desutom alltid 100% Nöjd-Kundgaranti!
+
+För att upprätta ett kontrakt går vi tillsammans med kunden igenom deras behov och önskemål, för att sedan finna en lösning för båda parter.
 
 ## Vad ingår i en trappstädning?
 
