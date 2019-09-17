@@ -1,6 +1,6 @@
 <!-- BEGIN seo.html -->
 <meta name="title" content="{{ page.title }} | {{ site.title }}" />
-<meta name="dc.date.modified" scheme="ISO8601" content="{{ site.time | date_to_xmlschema }}" />
+<meta name="dc.date.modified" scheme="ISO8601" content="{{ page.last_modified_at | date_to_xmlschema }}" />
 {% if page.sitemap == false %}<meta name="robots" content="noindex, nofollow" />{% else %}<meta name="robots" content="index" />{% endif %}
 <meta charset="utf-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -24,7 +24,7 @@
 <meta name="dcterms.Title" content="{{ page.title }} | {{ site.title }}" />
 <meta name="dcterms.Subject" content="{{ site.description | strip_html }}" />
 <meta name="dcterms.Contributor" content="{{ site.title }}" />
-<meta name="dcterms.Date" content="{{ site.time | date: '%Y-%m-%d' }}" />
+{% if page.date != nil %}<meta name="dcterms.Date" content="{{ page.date | date: '%Y-%m-%d' }}" scheme="YYYY-MM-DD" />{% else %}<meta name="dcterms.Date" content="{{ site.time | date: '%Y-%m-%d' }}" scheme="YYYY-MM-DD" />{% endif %}
 <meta name="dcterms.Description" content="{{ page.description | strip_html }}" />
 
 <!-- Twitter Card -->
