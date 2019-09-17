@@ -30,7 +30,7 @@ lang: sv_SE
 
 timezone: "Europe/Stockholm"
 
-permalink: /:categories/:year/:month/:day/:slug/
+permalink: /:categories/:slug/
 
 plugins:
   - jekyll-sitemap

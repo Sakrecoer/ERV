@@ -182,3 +182,17 @@
 /foretag/kontorstadning/ /foretag/kontorsstadning/
 /foretag/butikstadning/ /foretag/butiksstadning/
 /wp-content/* /
+/nyheter/2019/04/17/ny-och-st%C3%A4dad-hemsida/ /nyheter/ny-och-stadad-hemsida/
+/tips/2019/04/29/veckans-tips-st%C3%A4da-tillsammans-med-barnen/ /tips/tips-stada-med-barnen/
+/nyheter/2019/05/08/ditt-en-renare-vardag/ /nyheter/ditt-en-renare-vardag/
+/tips/2019/05/13/5-tips-och-rutiner-som-g%C3%B6r-hemst%C3%A4dningen-l%C3%A4ttare/ /tips/tips-gor-hemstadningen-lattare/
+/tips/2019/05/21/hur-hittar-du-motivation-till-att-st%C3%A4da/ /tips/hitta-motivation-till-stada/
+/tips/2019/05/27/hur-reng%C3%B6r-du-mikrov%C3%A5gens-d%C3%B6rr-med-naturliga-%C3%A4mnen/ /tips/rengor-mikrovagens-dorr-med-naturliga-amnen/
+/erbjudande/2019/06/03/dags-f%C3%B6r-f%C3%B6nsterputs/ /erbjudande/dags-for-fonsterputs/
+/nyheter/2019/06/12/s%C3%A4g-hej-till-v%C3%A5ran-nya-social-media-expert/ /nyheter/sag-hej-till-var-socialmedia-expert/
+/nyheter/2019/07/01/sommartider-p%C3%A5-en-renare-vardag/ /nyheter/sommartider-en-renare-vardag/
+/tips/2019/08/06/konmari-metoden/ /tips/konmari-metoden/ 
+/nyheter/2019/08/19/ta-emot-h%C3%B6sten-ett-i-rent-hem/ /nyheter/ta-emot-hosten-ett-i-rent-hem/
+/erbjudande/2019/08/26/sl%C3%A4pp-in-ljuset-med-oss-f%C3%A5-gratis-f%C3%B6nsterputsning/ /erbjudande/slapp-in-ljuset-fa-gratis-fonsterputsning/
+/tips/2019/09/03/5-genialiska-knep-f%C3%B6r-att-f%C3%A5-bort-djurh%C3%A5r-fr%C3%A5n-dina-m%C3%B6bler/ /tips/5-knep-for-att-fa-bort-djurhar-fran-mobler/
+/tips/2019/09/09/8-enkla-s%C3%A4tt-att-reng%C3%B6ra-m%C3%A5lade-v%C3%A4ggar/ /tips/8-enkelt-att-rengora-malade-vaggar/
