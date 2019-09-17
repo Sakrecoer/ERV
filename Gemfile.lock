@@ -29,6 +29,9 @@ GEM
       safe_yaml (~> 1.0)
     jekyll-feed (0.11.0)
       jekyll (~> 3.3)
+    jekyll-last-modified-at (1.1.0)
+      jekyll (>= 3.7, < 5.0)
+      posix-spawn (~> 0.3.9)
     jekyll-paginate-v2 (1.9.4)
       jekyll (~> 3.0)
     jekyll-sass-converter (1.5.2)
@@ -48,6 +51,7 @@ GEM
     mercenary (0.3.6)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
+    posix-spawn (0.3.13)
     public_suffix (3.0.3)
     rb-fsevent (0.10.3)
     rb-inotify (0.10.0)
@@ -67,9 +71,10 @@ PLATFORMS
 DEPENDENCIES
   jekyll (= 3.8.5)
   jekyll-feed (= 0.11.0)
+  jekyll-last-modified-at (= 1.1.0)
   jekyll-paginate-v2 (~> 1.7)
   jekyll-seo-tag (= 2.6.0)
   jekyll-sitemap (= 1.2.0)
 
 BUNDLED WITH
-   2.0.1
+   2.0.2
