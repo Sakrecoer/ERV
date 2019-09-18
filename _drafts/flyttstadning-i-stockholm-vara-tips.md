@@ -2,9 +2,8 @@
 title: 'Flyttstädning i Stockholm, våra tips!'
 date: 2019-09-18 00:00:00 +0200
 description: >-
-  Flyttstädning kan kännas som en enkelt match och med motivation och struktur
-  så är det det. Men det kräver faktiskt kunskap om vad som måste göras,
-  noggrann planering och tar många timmar.
+  Flyttstädning kan kännas som en enkelt match, med motivation och struktur, så
+  är det lätt! Men det kräver kunskap, noggrann planering & tar många timmar.
 categories:
   - Tips
 image: /images/nyheter/matthew-hamilton-twwiq9mxprg-unsplash.jpg
