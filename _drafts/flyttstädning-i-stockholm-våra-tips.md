@@ -4,7 +4,7 @@ date: 2019-09-18 00:00:00 +0200
 description: >-
   Flyttstädning kan kännas som en enkelt match och med motivation och struktur
   så är det det. Men det kräver faktiskt kunskap om vad som måste göras,
-  noggrann planering och tar många timmar
+  noggrann planering och tar många timmar.
 categories:
   - Tips
 image: /images/nyheter/matthew-hamilton-twwiq9mxprg-unsplash.jpg
@@ -14,7 +14,7 @@ published: true
 _disable_title_filename_sync: true
 ---
 
-Flyttst&auml;dning kan k&auml;nnas som en enkelt match och med motivation och struktur s&aring; &auml;r det det. Men det kr&auml;ver faktiskt kunskap om vad som m&aring;ste göras, noggrann planering och tar m&aring;nga timmar. Med det i &aring;tanke s&aring; kostar faktiskt inte flyttst&auml;dning s&aring; mycket som man l&auml;tt kan tro i Stockholm. Dels för att du kan nyttja ditt RUT-avdrag, men ocks&aring; d&auml;rför att vi finns\! Men om du trotts allt vill göra jobbet sj&auml;lv s&aring; kommer h&auml;r lite tips och id&eacute;er om hur du kan strukturerar ditt arbete. Det &auml;r alltid bra att börja med flyttst&auml;dningen ett par dagar innan flytten om du t&auml;nkt utföra den sj&auml;lv. Att st&aring; d&auml;r med moppen dagen innan flyttbilen kommer riskerar att st&auml;dningen blir d&aring;lig och stressig. L&auml;s v&aring;ran guide i lugn och ro med framförh&aring;llning till ditt flyttdatum, s&aring; kommer du lyckas med flyttst&auml;dningen. Vi ger dig smarta tips som gör det hela enklare för dig.
+Med det i &aring;tanke s&aring; kostar faktiskt inte flyttst&auml;dning s&aring; mycket som man l&auml;tt kan tro i Stockholm. Dels för att du kan nyttja ditt RUT-avdrag, men ocks&aring; d&auml;rför att vi finns\! Men om du trotts allt vill göra jobbet sj&auml;lv s&aring; kommer h&auml;r lite tips och id&eacute;er om hur du kan strukturerar ditt arbete. Det &auml;r alltid bra att börja med flyttst&auml;dningen ett par dagar innan flytten om du t&auml;nkt utföra den sj&auml;lv. Att st&aring; d&auml;r med moppen dagen innan flyttbilen kommer riskerar att st&auml;dningen blir d&aring;lig och stressig. L&auml;s v&aring;ran guide i lugn och ro med framförh&aring;llning till ditt flyttdatum, s&aring; kommer du lyckas med flyttst&auml;dningen. Vi ger dig smarta tips som gör det hela enklare för dig.
 
 ## Varför m&aring;ste man göra en flyttst&auml;dning?
 
