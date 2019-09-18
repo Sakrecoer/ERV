@@ -13,7 +13,7 @@ published: true
 _disable_title_filename_sync: true
 ---
 
-Med det i &aring;tanke s&aring; kostar faktiskt inte flyttst&auml;dning s&aring; mycket som man l&auml;tt kan tro i Stockholm. Dels för att [du kan nyttja ditt RUT-avdrag,](/vanliga-fragor/#rut-avdrag) men ocks&aring; d&auml;rför att vi finns\! Men om du trotts allt vill göra jobbet sj&auml;lv s&aring; kommer h&auml;r lite tips och id&eacute;er om hur du kan strukturerar ditt arbete. Det &auml;r alltid bra att börja med flyttst&auml;dningen ett par dagar innan flytten om du t&auml;nkt utföra den sj&auml;lv. Att st&aring; d&auml;r med moppen dagen innan flyttbilen kommer riskerar att st&auml;dningen blir d&aring;lig och stressig. L&auml;s v&aring;ran guide i lugn och ro med framförh&aring;llning till ditt flyttdatum, s&aring; kommer du lyckas med flyttst&auml;dningen. Vi ger dig smarta tips som gör det hela enklare för dig.
+Med det i &aring;tanke s&aring; [kostar faktiskt inte flyttst&auml;dning s&aring; mycket](/privat/flyttstadning/){: target="_blank"} som man l&auml;tt kan tro i Stockholm. Dels för att [du kan nyttja ditt RUT-avdrag,](/vanliga-fragor/#rut-avdrag){: target="_blank"} men ocks&aring; d&auml;rför att vi finns\! Men om du trotts allt vill göra jobbet sj&auml;lv s&aring; kommer h&auml;r lite tips och id&eacute;er om hur du kan strukturerar ditt arbete. Det &auml;r alltid bra att börja med flyttst&auml;dningen ett par dagar innan flytten om du t&auml;nkt utföra den sj&auml;lv. Att st&aring; d&auml;r med moppen dagen innan flyttbilen kommer riskera att st&auml;dningen blir d&aring;lig och stressig. L&auml;s v&aring;ran guide i lugn och ro med framförh&aring;llning till ditt flyttdatum, s&aring; kommer du lyckas med flyttst&auml;dningen. Vi ger dig smarta tips som gör det hela enklare för dig.
 
 ## Varför kr&auml;vs en flyttst&auml;dning?
 
@@ -65,3 +65,5 @@ Ta bort alla saker i tr&auml;dg&aring;rden som inte ska vara d&auml;r. Till exem
 #### Slutsats
 
 Detaljerna r&auml;knas verkligen\! Alla andra rum som ska st&auml;das kan du utg&aring; ifr&aring;n ovanst&aring;ende regler för andra rum. För att en flyttst&auml;dning ska r&auml;knas som korrekt utförd m&aring;ste du vara mycket noggrannare &auml;n du &auml;r i din vardagsst&auml;dning. S&aring; om du tvekat en sekund n&auml;r du l&auml;ste detta, eller k&auml;nner att du hellre gör n&aring;gonting mysigt som intresserar dig, som att vara med familjen eller fixa med ditt hobby projekt, d&aring; ska du kontakta oss för att f&aring; st&auml;dhj&auml;lp till din flytt. Du kommer spara tid, pengar och f&aring; tid över för att kanske fundera lite mer p&aring; hur du ska göra det hemtrevligt i din nya bostad\!
+
+&nbsp;
