@@ -11,34 +11,34 @@ published: true
 _disable_title_filename_sync: true
 ---
 
-Flyttst&auml;dning kan k&auml;nnas som en enkelt match och med motivation och struktur s&aring; &auml;r det det. Men det kr&auml;ver faktiskt kunskap om vad som m&aring;ste göras, noggrann planering och tar m&aring;nga timmar. Med det i &aring;tanke s&aring; kostar faktiskt inte flyttst&auml;dning s&aring; mycket som man l&auml;tt kan tro i Stockholm. Dels för att du kan nyttja ditt RUT-avdrag, men ocks&aring; d&auml;rför att vi finns\! Men om du trotts allt vill göra jobbet sj&auml;lv s&aring; kommer h&auml;r lite tips och id&eacute;er om hur du kan strukturerar ditt arbete. Det &auml;r alltid bra att börja med flyttst&auml;dningen ett par dagar innan flytten om du t&auml;nkt utföra den sj&auml;lv. Att st&aring; d&auml;r med moppen dagen innan flyttbilen kommer riskerar att st&auml;dningen blir d&aring;lig och stressig. L&auml;s v&aring;ran guide i lugn och ro, s&aring; kommer du lyckas med flyttst&auml;dningen. Vi g&aring;r igenom smarta tips som gör det hela enklare.
+Flyttst&auml;dning kan k&auml;nnas som en enkelt match och med motivation och struktur s&aring; &auml;r det det. Men det kr&auml;ver faktiskt kunskap om vad som m&aring;ste göras, noggrann planering och tar m&aring;nga timmar. Med det i &aring;tanke s&aring; kostar faktiskt inte flyttst&auml;dning s&aring; mycket som man l&auml;tt kan tro i Stockholm. Dels för att du kan nyttja ditt RUT-avdrag, men ocks&aring; d&auml;rför att vi finns\! Men om du trotts allt vill göra jobbet sj&auml;lv s&aring; kommer h&auml;r lite tips och id&eacute;er om hur du kan strukturerar ditt arbete. Det &auml;r alltid bra att börja med flyttst&auml;dningen ett par dagar innan flytten om du t&auml;nkt utföra den sj&auml;lv. Att st&aring; d&auml;r med moppen dagen innan flyttbilen kommer riskerar att st&auml;dningen blir d&aring;lig och stressig. L&auml;s v&aring;ran guide i lugn och ro med framförh&aring;llning till ditt flyttdatum, s&aring; kommer du lyckas med flyttst&auml;dningen. Vi ger dig smarta tips som gör det hela enklare för dig.
 
-## M&aring;ste man göra en flyttst&auml;dning?
+## Varför m&aring;ste man göra en flyttst&auml;dning?
 
-I de flesta fall m&aring;ste detta utföras enligt de avtal som du signerar oavsett om det g&auml;ller en villa, en bostadsr&auml;tt eller en hyresr&auml;tt.Du kan dock försöka förhandla bort denna del. Du kan erbjuda en snabbare inflyttning eller prisavdrag för att slippa st&auml;dningen. Det &auml;r dock lika enkelt att anlita en duktig st&auml;dfirma och det blir oftast billigare för dig &auml;n att kr&aring;ngla med avtalet.Om du ska flytta ifr&aring;n en hyresr&auml;tt finns det s&auml;llan n&aring;gra möjligheter att komma undan flyttst&auml;dningen.
+I de flesta fall s&aring; st&aring;r det i det avtal som du skrivit under oavsett vad det g&auml;ller: en villa, en bostadsr&auml;tt eller en hyresr&auml;tt. Men du kan alltid försöka förhandla bort den biten i avtalet, till exempel igenom erbjuda snabbare inflyttning eller prisavdrag till dom/den som flyttar som in. Det enklaste &auml;r s&aring; klart att anlita oss vilket ocks&aring; troligtvis blir billigare för dig &auml;n att försöka förhandla fram n&aring;got utifr&aring;n avtalet. I en hyresr&auml;tt till exempel, s&aring; finns det s&auml;llan möjlighet att komma undan mödan.
 
 ## Vad h&auml;nder ifall man inte gör flyttst&auml;dningen ordentligt
 
-Du ing&aring;r oftast ett avtal d&auml;r flyttst&auml;dning ska utföras. Det &auml;r vanligt att de som tilltr&auml;der den nya bostaden efter dig inte blir nöjda med slutresultatet. Oftast beror det p&aring; slarv och d&aring;lig planering. St&auml;dning bör utföras 2-5 dagar innan nycklarna till bostaden skall l&auml;mnas över. Detta eftersom st&auml;dfirmorna oftast har 10 dagars garanti p&aring; st&auml;dningen.
+Allt som oftast s&aring; &auml;r det stipulerat i ditt avtal att flyttst&auml;dning ska utföras. De som tilltr&auml;der den nya bostaden efter dig bli vanligtvis inte nöjda med slutresultatet n&auml;r det sköts av en icke-professionell st&auml;dare. Det brister oftast p&aring; d&aring;lig planering och visa saker kr&auml;ver lite erfarenhet för att f&aring; till det rent som nytt. Försök att vara s&aring; tidigt ute som möjligt; 2-5 dagar innan du m&aring;ste l&auml;mna över nycklarna burkar vara en bra framförh&aring;llning.
 
-Som köpare av en bostad &auml;r det viktigt att göra r&auml;tt om man kommer till en bostad som &auml;r slarvigt st&auml;dad. Man bör inte sj&auml;lv slutföra en st&auml;dning och sedan kr&auml;va ers&auml;ttning för detta. Bevisen &auml;r d&aring; bortst&auml;dade och köparen kan d&aring; oftast glömma sin ers&auml;ttning.Köparen ska i första hand kontakta s&auml;ljaren och p&aring;peka st&auml;dningen. S&auml;ljaren har d&aring; r&auml;tt att &aring;tg&auml;rda st&auml;dningen inom sk&auml;lig tid. Man bör allts&aring; försöka lösa problemet redan h&auml;r p&aring; ett enkelt s&auml;tt. Köparen m&aring;ste i v&auml;rsta fall anlita en st&auml;dfirma för slutst&auml;dningen ifall s&auml;ljaren v&auml;grar att &aring;tg&auml;rda detta.
+Viktigt att t&auml;nka p&aring; att köparen f&aring;r kr&auml;va ers&auml;ttning av s&auml;ljaren för ofullst&auml;ndig flyttst&auml;dning. S&aring; utg&aring; ifr&aring;n att du borde st&auml;da bostaden s&aring; bra som du sj&auml;lv hade velat om det var du som flyttade in.
 
-Köparen f&aring;r sedan kr&auml;va ers&auml;ttning av s&auml;ljaren för ofullst&auml;ndig flyttst&auml;dning.&Auml;r det en hyresr&auml;tt s&aring; skall man som nyinflyttad kontakta hyresv&auml;rden direkt och klaga p&aring; flyttst&auml;dningen. Tag bilder med en kamera och maila till hyresv&auml;rden.En huvudregel d&aring; du v&auml;ljer att st&auml;da bostaden sj&auml;lv och inte anlita en st&auml;dfirma &auml;r:St&auml;da bostaden s&aring; v&auml;l som du sj&auml;lv hade kr&auml;vt ifall det var du som skulle flytta in.
-
-**Slarvar man med flyttst&auml;dningen riskerar man att &aring;ka p&aring; att betala ers&auml;ttning.**
+**Slarva inte med flyttst&auml;dningen\! D&aring; riskerar du att beöva betala ers&auml;ttning.**
 
 ## Guide för flyttst&auml;dning
 
+#### &nbsp;
+
 #### Badrum
 
-Denna del av flyttst&auml;dningen &auml;r v&auml;ldigt tidskr&auml;vande och d&auml;rför bra att börja med.H&auml;r finns mycket kalk i ett badrum. Det kr&auml;vs ofta mycket arbete med puts av fogar, klinker och kakel. Ett tips &auml;r att köpa bra borstar och rengöringsmedel som &auml;r avkalkande.N&aring;gra viktiga delar att t&auml;nka p&aring; i badrummet &auml;r:
+Kanske flyttst&auml;dningens mest tidskr&auml;vande moment s&aring; börja h&auml;r\! Kalk som bildas av vattnet i badrummet kr&auml;ver ofta mycket jobb med puts av kakel fogar, och klinker. Se till att införskaffa bra borstar och rengöringsmedel som &auml;r avkalkande. T&auml;nk p&aring; att vin&auml;ger kan göra mirakel p&aring; kalk, men att det inte luktar speciellt gott. Glöm inte dessa punkter:
 
-* Handfat – Rengör p&aring;, under och ovanför.
-* Plocka is&auml;r vattenl&aring;set som sitter ihop med avloppsrören och rengör detta. (Detta &auml;r en viktig del att göra för att slippa stopp i avloppet.)
-* Putsa speglar och glasdörrar till dusch. Anv&auml;nd fönsterputs och skrapa för b&auml;sta resultat.
-* Badrumssk&aring;p ska tömmas och tv&auml;ttas rent inuti. Kolla ocks&aring; att eventuella lampor inte &auml;r trasiga.
+* Handfat – Rengör hela\! inte bara översidan\! Titta under och ovanför.
+* Montera is&auml;r vattenl&aring;set kopplat till avloppsrören och rengör detta. (Detta för att slippa stopp i avloppet.)
+* Putsa fönster, speglar och glasdörrarna till duschen om du har n&aring;gra. Anv&auml;nd fönsterputs och skrapa för b&auml;sta resultat. Det &auml;r inte alltid l&auml;tt att f&aring; bort vattenr&auml;nder p&aring; glasrutor, men du kan det h&auml;r\!
+* Badrumssk&aring;p ska inte bara tömmas som ska ocks&aring; tv&auml;ttas rena inuti. Verifiera ocks&aring; att alla lampor fungerar som dom ska.
 
-Badkar och dusch kr&auml;ver ofta mycket puts och rengöring. Se till att lyfta bort eventuella sidor p&aring; badkaret och rengör under. Se &auml;ven till att rengöra sidorna och glöm inte golvbrunnen. Golvbrunnen &auml;r en klassisk del som m&aring;nga glömmer bort att rengöra.Toaletten ska noga rengöras runt om och inuti. Plocka &auml;ven is&auml;r toalettsitsen och rengör.
+Badkar och dusch kr&auml;ver oftast mest puts och rengöring. Se till att lyfta bort eventuella sidor p&aring; badkaret och rengör under. Se &auml;ven till att rengöra sidorna och glöm inte golvbrunnen. Golvbrunnen &auml;r en klassisk del som m&aring;nga glömmer bort att rengöra.Toaletten ska noga rengöras runt om och inuti. Plocka &auml;ven is&auml;r toalettsitsen och rengör.
 
 #### Kök
 
