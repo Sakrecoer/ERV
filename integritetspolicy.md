@@ -1,6 +1,6 @@
 ---
 title: Integritets Policy
-date: 2019-04-25 05:07:00 +0200
+date: 2019-09-23 12:00:00 +0200
 description: 'På En Renare Vardag AB bryr vi oss om dig och alla våra kunder. Här finner du våran sekretess policy och hur vi hanterar dina personuppgifter.'
 sitemap: true
 layout: infosidor
@@ -8,7 +8,7 @@ image: /images/trygghet-mitten2-538d907e2a6b22099a1eb5b5.jpg
 ---
 ## Personuppgifter och integritetspolicy
 
-**En Renare Vardag** är personuppgiftsansvarig och förvaltar webbplatsesökarnas personuppgifter enligt Dataskyddsförordningen (GDPR) och annan tillämplig lagstiftning. Webbplatsesökarnas kontaktuppgifter används för att **En Renare Vardag** kunna uppfylla sina avtalsenliga förpliktelser mot denne. 
+**En Renare Vardag** är personuppgiftsansvarig och förvaltar webbplatsbesökarnas personuppgifter enligt Dataskyddsförordningen (GDPR) och annan tillämplig lagstiftning. Webbplatsbesökarnas kontaktuppgifter används för att **En Renare Vardag** ska kunna uppfylla sina avtalsenliga förpliktelser mot denne. 
 
 Vi värnar om och respekterar din personliga integritet vid behandling av dina personuppgifter och eftersträvar alltid högsta möjliga nivå av dataskydd. Denna integritetspolicy förklarar hur vi på **En Renare Vardag** samlar in och använder personuppgifterna du ger oss. Vår policy beskriver även hur vi samlar in dessa uppgifter på ett lagligt och pålitligt sätt och den beskriver också dina rättigheter. Kontakta oss om du har frågor kring vår hantering av dina personuppgifter och hur vi arbetar med integritets- och dataskydd på nedanstående adress.
 Vi vidtar åtgärder för att säkerställa att dina personuppgifter alltid är skyddade hos oss och att behandlingen sker i enlighet med gällande dataskyddsregler och våra interna riktlinjer och rutiner.
@@ -25,19 +25,21 @@ info@enrenarevardag.se
 
 ### Hur samlar vi in personuppgifter?
 Vi samlar in information som du lämnar till oss på våran webbplats när du t.ex: 
-- Fyller i en av våra formulärer
-- Skriver i chatten
+- Fyller i en av våra formulärer.
+- Skriver i chatten.
 - Skickar in en förfrågan om vår städtjänster.
 
 ### Vilken typ av personuppgifter samlar vi in?
-**En Renare Vardag** samlar in de personuppgifter som behövs för att kunna utföra de städtjänster vi erbjuder.
-Personuppgifter är alla slags uppgifter som ensamt eller i kombination med andra uppgifter kan knytas till en fysisk person som är i livet. Vanliga personuppgifter är namn, personnummer och kontaktuppgifter, andra personuppgifter kan till exempel vara bilder och ljudupptagningar.
+**En Renare Vardag** samlar in personuppgifterna som behövs för att kunna utföra de städtjänster vi erbjuder.
+Personuppgifter är alla slags uppgifter som ensamt eller i kombination med andra uppgifter kan knytas till en fysisk person som är i livet. Vanligaste personuppgifter är namn, personnummer och kontaktuppgifter, andra personuppgifter kan till exempel vara bilder, ljudupptagningar och IP-nummer
 
 ### Vad är ändamålet med behandlingen av dina personuppgifter?
-Dina personuppgifter kan användas för att kunna leverera en städtjänst du har bett oss om hjälp med, för att kunna förse dig med relevanta offerter eller för att skicka e-post med relevant information. Vi kan även, om du inte skriftligen har motsatt dig sådan marknadsföring, komma att använda dina personuppgifter för marknads- och kundanalyser, utveckling och förbättring av våra tjänster, riskhantering och statistik.
+Dina personuppgifter används för att kunna leverera en städtjänst du har bett oss om hjälp med, för att kunna förse dig med relevanta offerter eller för att skicka e-post med relevant information. Vi kan även, om du inte skriftligen har motsatt dig sådan marknadsföring, komma att använda dina personuppgifter för marknads- och kundanalyser, utveckling och förbättring av våra tjänster, riskhantering och statistik.
+
+
 
 ### Närmare om dina rättigheter till rättelse, radering m.m.
-Du har rätt att få besked om vilka personuppgifter om dig som vi lagrar och behandlar och hur vi lagrar och behandlar dessa gratis en gång per kalenderår. Du har också rätt att begära rättelse i fråga om personuppgifter som vi behandlar om dig. Du har även rätt att bli raderad (”rätten att bli bortglömd”). Detta innebär att du kan begära radering av dina personuppgifter för de fall att datan inte längre är nödvändig för det syfte den blev insamlad för. Det kan dock finnas legala skyldigheter för oss som hindrar en omedelbar radering, t.ex. krav i bokförings- och skattelagstiftning.
+Du har rätt att få gratis besked om vilka personuppgifter om dig som vi lagrar och behandlar och hur vi lagrar och behandlar dessa en gång per kalenderår. Du har också rätt att begära rättelse i fråga om personuppgifter som vi behandlar om dig. Du har även rätt att bli raderad (”rätten att bli bortglömd”). Detta innebär att du kan begära radering av dina personuppgifter för de fall att datan inte längre är nödvändig för det syfte den blev insamlad för. Det kan dock finnas legala skyldigheter för oss som hindrar en omedelbar radering, t.ex. krav i bokförings- och skattelagstiftning.
 Vill du framföra klagomål till en tillsynsmyndighet eller undrar något annat om dina rättigheter kring personuppgifter behandlade av oss ska du vända dig till Datainspektionen/Integritetsskydds-myndigheten. Kontaktuppgifter till dem hittar du här: <https://www.datainspektionen.se>
 
 ### Hur länge sparar vi dina personuppgifter?
@@ -47,10 +49,27 @@ Vi sparar din data endast så länge det krävs enligt lagstadgade lagringstider
 På våra webbsidor används cookies. En cookie är en textfil som sparas ned till din enhet så att hemsidan kan känna igen din enhet. Det finns två typer av cookies, permanenta och temporära (så kallade sessionscookies).
 Permanenta cookies lagras som en fil på din enhet under en längre period, medan temporära/sessionscookies är temporärt placerade på din enhet och används bara under den tid du surfar på sidan och försvinner därefter.
 
-Cookies används till att ge dig som besökare tillgång till olika funktioner. Vi använder cookies på vår webbsida för att vi ska kunna föra statistik över vad som beställs och hur mycket webben används i sin helhet. I en cookie är det möjligt att se/följa en användares surfande på våran webbplats och vi använder cookies för att administrera och anpassa dina besök i våra onlinetjänster samt erbjuda tillgång till särskilt utvalda delar i våra onlinetjänster. 
-Om du vill veta när din enhet tar emot en cookie, kan du ställa in din webbläsare så att den meddelar dig om det. Vid ditt första besök ger vi dig även möjligheten att välja bort cookies från våran webbsida. På dessa vis har du möjlighet att acceptera eller avvisa en cookie. Din enhet kan också ställas in så att den avvisar samtliga cookies. För det fall du väljer att inte acceptera cookies, vänligen notera att vissa funktioner i våra onlinetjänster inte längre kommer att fungera såsom avsett. För att hitta information om hur du ställer in din webbläser, vänligen besök din webbläsares tillverkare.
+Cookies används till att ge dig som besökare tillgång till specifika funktioner på webbsidan: 
+- För att vi ska kunna föra statistik över hur mycket webben används i sin helhet. 
+- Se/följa en användares surfande på våran webbplats
+- Administrera och anpassa dina besök i våra uppkopplade tjänster
+- Erbjuda tillgång till särskilt utvalda delar i våra onlinetjänster. 
 
-Senaste versionen: {{ page.date | date: '%Y-%m-%d' }}
+Om du vill veta när din enhet tar emot en cookie, kan du ställa in din webbläsare så att den meddelar dig om det. Vid ditt första besök ger vi dig även möjligheten att välja bort cookies från våran webbsida. På dessa vis har du möjlighet att acceptera eller avvisa en cookie. Din enhet kan också ställas in så att den avvisar samtliga cookies. För det fall du väljer att inte acceptera cookies, vänligen notera att vissa funktioner som bland annat chat-funktionen i inte längre kommer att fungera såsom avsett. För att hitta information om hur du ställer in din webbläser, vänligen titta i dokumentationen för din webbläsare.
+
+### Partners
+
+Läs mer om vilka vi arbetar med och hur de arbetar med informatio nedan:
+
+**Google** används för Annonsering och analys, datan lagras på Irland. Se:	<https://policies.google.com/privacy>{:target="_blank"}{:rel="nofollow noopener noreferrer"}        |            
+
+**Facebook** används för Annonsering och analys, datan lagras på Irland. Se:	<https://www.facebook.com/about/privacy/>{:target="_blank"}{:rel="nofollow noopener noreferrer"}    |             
+
+**Hubspot**  används för Chat och bokningnsfunctioner, datan lagras på Irland. Se:	<https://legal.hubspot.com/privacy-policy>{:target="_blank"}{:rel="nofollow noopener noreferrer"}     |           
+
+
+
+Senaste versionen: {{ page.last_modified_at | date: '%Y-%m-%d' }}
 
 
 
