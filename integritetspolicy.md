@@ -5,72 +5,69 @@ description: 'På En Renare Vardag AB bryr vi oss om dig och alla våra kunder. 
 sitemap: true
 layout: infosidor
 image: /images/trygghet-mitten2-538d907e2a6b22099a1eb5b5.jpg
----
+---                   
 ## Personuppgifter och integritetspolicy
 
-**En Renare Vardag** är personuppgiftsansvarig och förvaltar webbplatsbesökarnas personuppgifter enligt Dataskyddsförordningen (GDPR) och annan tillämplig lagstiftning. Webbplatsbesökarnas kontaktuppgifter används för att **En Renare Vardag** ska kunna uppfylla sina avtalsenliga förpliktelser mot denne. 
+**En Renare Vardag** är personuppgiftsansvarig och förvaltar personuppgifter  från användarna av våran webbplats enligt Dataskyddsförordningen (GDPR) och annan tillämplig lagstiftning. Användarnas kontaktuppgifter används för att **En Renare Vardag** ska kunna uppfylla sina avtalsenliga förpliktelser mot denne.
 
-Vi värnar om och respekterar din personliga integritet vid behandling av dina personuppgifter och eftersträvar alltid högsta möjliga nivå av dataskydd. Denna integritetspolicy förklarar hur vi på **En Renare Vardag** samlar in och använder personuppgifterna du ger oss. Vår policy beskriver även hur vi samlar in dessa uppgifter på ett lagligt och pålitligt sätt och den beskriver också dina rättigheter. Kontakta oss om du har frågor kring vår hantering av dina personuppgifter och hur vi arbetar med integritets- och dataskydd på nedanstående adress.
-Vi vidtar åtgärder för att säkerställa att dina personuppgifter alltid är skyddade hos oss och att behandlingen sker i enlighet med gällande dataskyddsregler och våra interna riktlinjer och rutiner.
+Vi värnar om och respekterar din personliga integritet vid behandling av dina personuppgifter och eftersträvar alltid högsta möjliga nivå av dataskydd. Denna integritetspolicy förklarar hur vi på **En Renare Vardag i Stockholm AB** samlar in och använder personuppgifterna du ger oss. Vår policy beskriver även hur vi samlar in dessa uppgifter på ett lagligt och pålitligt sätt och den beskriver också dina rättigheter. Tveka inte över att kontakta oss om du har frågor kring vår hantering av dina personuppgifter och hur vi arbetar med integritets- och dataskydd på nedanstående adress.
+
+Vi vidtar åtgärder för att säkerställa att dina personuppgifter alltid är skyddade hos oss och att behandlingen sker i enlighet med gällande dataskyddslagar och våra, lika strikta om inte striktare interna riktlinjer och rutiner.
 
 ### Vem är personuppgiftsansvarig?
 **En Renare Vardag AB** är personuppgiftsansvarig och kan kontaktas på följande adress:
 ```
 En Renare Vardag AB
 Org nr: 556847-2038
-Adress: Storgatan 104, 171 55 Solna
+Address: Storgatan 104, 171 55 Solna
 Tel: 08-660 55 55
 info@enrenarevardag.se
 ```
 
 ### Hur samlar vi in personuppgifter?
-Vi samlar in information som du lämnar till oss på våran webbplats när du t.ex: 
+Vi samlar in information som du lämnar till oss på våran webbplats när du t.ex:
 - Fyller i en av våra formulärer.
 - Skriver i chatten.
 - Skickar in en förfrågan om vår städtjänster.
 
-### Vilken typ av personuppgifter samlar vi in?
+### Vilka personuppgifter samlar vi in?
 **En Renare Vardag** samlar in personuppgifterna som behövs för att kunna utföra de städtjänster vi erbjuder.
 Personuppgifter är alla slags uppgifter som ensamt eller i kombination med andra uppgifter kan knytas till en fysisk person som är i livet. Vanligaste personuppgifter är namn, personnummer och kontaktuppgifter, andra personuppgifter kan till exempel vara bilder, ljudupptagningar och IP-nummer
 
-### Vad är ändamålet med behandlingen av dina personuppgifter?
-Dina personuppgifter används för att kunna leverera en städtjänst du har bett oss om hjälp med, för att kunna förse dig med relevanta offerter eller för att skicka e-post med relevant information. Vi kan även, om du inte skriftligen har motsatt dig sådan marknadsföring, komma att använda dina personuppgifter för marknads- och kundanalyser, utveckling och förbättring av våra tjänster, riskhantering och statistik.
+### I vilket ändamål behandlas dina personuppgifter?
+Dina personuppgifter används för att kunna leverera en städtjänst du har bett oss om hjälp med, för att kunna förse dig med relevanta offerter eller för att skicka e-post med relevant information. Vi kan även, om du inte uttryckligen har gått med på sådan marknadsföring när du fyllt i något av våra formulärer, komma att använda dina personuppgifter för våra egna marknads- och kundanalyser, utveckling och förbättring av våra tjänster, riskhantering och statistik.
 
+### Dina rättigheter till rättelse, radering m.m.
+Du har rätt att få gratis besked om vilka personuppgifter om dig som vi lagrar och behandlar och hur vi lagrar och behandlar dessa en gång per kalenderår. Du har också rätt att begära rättelse i fråga om personuppgifter som vi behandlar om dig. Du har även rätt att bli raderad från våra register (”rätten att bli bortglömd”). Detta innebär att du kan begära radering av dina personuppgifter för de fall att datan inte längre är nödvändig för det syfte den blev insamlad för. Det kan dock finnas legala skyldigheter för oss som hindrar en omedelbar radering, t.ex. krav i bokförings- och skattelagstiftning.
 
+Vill du framföra klagomål till en tillsynsmyndighet eller undrar något annat om dina rättigheter kring personuppgifter som behandlas av oss ska du vända dig till Datainspektionen/Integritetsskydds-myndigheten.
 
-### Närmare om dina rättigheter till rättelse, radering m.m.
-Du har rätt att få gratis besked om vilka personuppgifter om dig som vi lagrar och behandlar och hur vi lagrar och behandlar dessa en gång per kalenderår. Du har också rätt att begära rättelse i fråga om personuppgifter som vi behandlar om dig. Du har även rätt att bli raderad (”rätten att bli bortglömd”). Detta innebär att du kan begära radering av dina personuppgifter för de fall att datan inte längre är nödvändig för det syfte den blev insamlad för. Det kan dock finnas legala skyldigheter för oss som hindrar en omedelbar radering, t.ex. krav i bokförings- och skattelagstiftning.
-Vill du framföra klagomål till en tillsynsmyndighet eller undrar något annat om dina rättigheter kring personuppgifter behandlade av oss ska du vända dig till Datainspektionen/Integritetsskydds-myndigheten. Kontaktuppgifter till dem hittar du här: <https://www.datainspektionen.se>
+Kontaktuppgifter till dem hittar du här: <https://www.datainspektionen.se>
 
 ### Hur länge sparar vi dina personuppgifter?
 Vi sparar din data endast så länge det krävs enligt lagstadgade lagringstider och så länge som det är nödvändigt för att utföra våra avtalsenliga åtaganden gentemot dig. När vi sparar din data för andra syften än för våra avtalsenliga åtaganden, t.ex. för att uppfylla krav på bokföring och andra regulatoriska kapitalkrav, sparar vi dina personuppgifter endast så länge som det är nödvändigt och/eller lagstadgat för respektive syfte.
 
 ### Hur använder vi cookies?
-På våra webbsidor används cookies. En cookie är en textfil som sparas ned till din enhet så att hemsidan kan känna igen din enhet. Det finns två typer av cookies, permanenta och temporära (så kallade sessionscookies).
+På våra webbsidor använder vi cookies. En cookie är en textfil som sparas ned till apparaten du srufar med så att hemsidan kan känna igen dig. Det finns två typer av cookies, permanenta och temporära (så kallade sessionscookies).
 Permanenta cookies lagras som en fil på din enhet under en längre period, medan temporära/sessionscookies är temporärt placerade på din enhet och används bara under den tid du surfar på sidan och försvinner därefter.
 
-Cookies används till att ge dig som besökare tillgång till specifika funktioner på webbsidan: 
-- För att vi ska kunna föra statistik över hur mycket webben används i sin helhet. 
+Cookies används till att ge dig som besökare tillgång till specifika funktioner på webbsidan:
+- För att du ska kunna logga in på dina sidor på <https://mitt.enrenarevardag.se>
+- För att vi ska kunna föra statistik över hur mycket webben används i sin helhet.
 - Se/följa en användares surfande på våran webbplats
 - Administrera och anpassa dina besök i våra uppkopplade tjänster
-- Erbjuda tillgång till särskilt utvalda delar i våra onlinetjänster. 
+- Erbjuda tillgång till särskilt utvalda delar i våra onlinetjänster.
 
-Om du vill veta när din enhet tar emot en cookie, kan du ställa in din webbläsare så att den meddelar dig om det. Vid ditt första besök ger vi dig även möjligheten att välja bort cookies från våran webbsida. På dessa vis har du möjlighet att acceptera eller avvisa en cookie. Din enhet kan också ställas in så att den avvisar samtliga cookies. För det fall du väljer att inte acceptera cookies, vänligen notera att vissa funktioner som bland annat chat-funktionen i inte längre kommer att fungera såsom avsett. För att hitta information om hur du ställer in din webbläser, vänligen titta i dokumentationen för din webbläsare.
+Om du vill veta när din enhet tar emot en cookie, finns det många webbläsare där du kan ställa in den så att den meddelar dig om det. Vid ditt första besök ger vi dig även möjligheten att välja bort cookies från våran webbsida. Du får bara en cookie om du uttryckligen tackar ja till dessa. På så vis har du möjlighet att acceptera eller avvisa en cookie. Din webbläsare kan också ställas in så att den avvisar samtliga cookies. För det fall du väljer att inte acceptera cookies, så kan dessvärre vissa funktioner som bland annat chat-funktionen komma att sluta fungera som avsett. För att hitta information om hur du ställer in din webbläsare, vänligen se dokumentationen för din webbläsare.
 
 ### Partners
 
-Läs mer om vilka vi arbetar med och hur de arbetar med informatio nedan:
+Här kan du läsa mer om vilka vi arbetar med och hur de arbetar med personlig information:
 
-**Google** används för Annonsering och analys, datan lagras på Irland. Se:	<https://policies.google.com/privacy>{:target="_blank"}{:rel="nofollow noopener noreferrer"}        |            
+**Google** används för Annonsering och analys, datan lagras på Irland. Se:    <https://policies.google.com/privacy>{:target="_blank"}{:rel="nofollow noopener noreferrer"} |
 
-**Facebook** används för Annonsering och analys, datan lagras på Irland. Se:	<https://www.facebook.com/about/privacy/>{:target="_blank"}{:rel="nofollow noopener noreferrer"}    |             
+**Facebook** används för Annonsering och analys, datan lagras på Irland. Se:    <https://www.facebook.com/about/privacy/>{:target="_blank"}{:rel="nofollow noopener noreferrer"} |
 
-**Hubspot**  används för Chat och bokningnsfunctioner, datan lagras på Irland. Se:	<https://legal.hubspot.com/privacy-policy>{:target="_blank"}{:rel="nofollow noopener noreferrer"}     |           
-
-
+**Hubspot** används för Analys-, Chat- och Bokningsfunktioner, datan lagras på Irland. Se:    <https://legal.hubspot.com/privacy-policy>{:target="_blank"}{:rel="nofollow noopener noreferrer"} |
 
 Senaste versionen: {{ page.last_modified_at | date: '%Y-%m-%d' }}
-
-
-
-<br /><br /><br /><br /><br />
