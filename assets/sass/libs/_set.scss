@@ -281,13 +281,17 @@ a.intresse-btn-small {
   display: none;
 }
 
-.share {
+.share, .footshare {
   a {
     border: none;
   }
   img {
     width:25px;
     margin: 20px 20px 20px 0;
-
+  }
+}
+.footshare {
+  img {
+    margin: 10px;
   }
 }
