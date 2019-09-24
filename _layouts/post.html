@@ -6,19 +6,41 @@ layout: default
 <section>
   <div class="flex" style="background-color:#fff; padding-top:10px;">
     <div class="item blogimages" style="border-radius: 3px;display: block;">
-        
+
       {{ content }}
       <br />
- {% if page.bokaknapp == true %}
-<a href="/boka/" class="button large">Boka städning!</a>
-<br /><br />
-{% endif %}
-<p style="font-size: 0.85em"><em>Artikel Postad den 
-    {% assign d = page.date | date: "%-d"  %}{% case d %}{% when '1' or '21' or '31' or '2' or '22' %}{{ d }}:a {% else %}{{ d }}:e{% endcase %}{% assign m = page.date | date: "%-m" %}{% case m %}{% when '1' %} Januari {% when '2' %} Februari {% when '3' %} Mars {% when '4' %} April {% when '5' %} Maj {% when '6' %} Juni {% when '7' %} Juli {% when '8' %} Augusti {% when '9' %} September {% when '10' %} Oktober {% when '11' %} November {% when '12' %} December {% endcase %}{{ page.date | date: "%Y" }}
-            
+      {% if page.bokaknapp == true %}
+      <a href="/boka/" class="button large">Boka städning!</a>
+      <br /><br />
+      {% endif %}
+      <p style="font-size: 0.85em"><em>Artikel Postad den
+          {% assign d = page.date | date: "%-d"  %}{% case d %}{% when '1' or '21' or '31' or '2' or '22' %}{{ d }}:a
+          {% else %}{{ d }}:e{% endcase %}{% assign m = page.date | date: "%-m" %}{% case m %}{% when '1' %} Januari
+          {% when '2' %} Februari {% when '3' %} Mars {% when '4' %} April {% when '5' %} Maj {% when '6' %} Juni
+          {% when '7' %} Juli {% when '8' %} Augusti {% when '9' %} September {% when '10' %} Oktober {% when '11' %}
+          November {% when '12' %} December {% endcase %}{{ page.date | date: "%Y" }}
+
           av:</em>
         {% include author.html %}</p>
-      
+        <div class="share">
+          Dela artikeln:
+          <a style="text-decoration: none;" href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ page.url | xml_escape }}&title={{ page.title | xml_escape }}&summary={{ page.description | xml_escape | truncate: 190 }}&source={{ site.title }}" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="/images/ikon/linkedin.svg" alt="share on Linkedin" />
+          </a>
+          <a style="text-decoration: none;" href="https://touch.facebook.com/sharer.php?u={{ site.url }}{{ page.url | xml_escape }}&quote={{ page.description | xml_escape }} via enrenarevardag.se" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="/images/ikon/facebook.svg" alt="share on facebook" />
+          </a>
+          <a style="text-decoration: none;"  href="https://twitter.com/share?url={{ site.url }}{{ page.url | xml_escape }}&text={{ page.description | xml_escape }}&hashtags=enrenarevardag" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="/images/ikon/twitter.svg" alt="share on twitter" />
+          </a>
+          <a style="text-decoration: none;"  href="https://telegram.me/share/url?url={{ site.url }}{{ page.url }}&text={{ page.description }} via &#64;enrenarevardag" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="/images/ikon/telegram.svg" alt="share on telegram" />
+          </a>
+          <a style="text-decoration: none;"  href="https://reddit.com/submit/?url={{ site.url }}{{ page.url }}&title={{ page.title | xml_escape }}" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="/images/ikon/reddit.svg" alt="share on reddit" />
+          </a>
+        </div>
+
 
     </div>
     <div class="item">
