@@ -20,8 +20,8 @@ layout: default
           {% when '7' %} Juli {% when '8' %} Augusti {% when '9' %} September {% when '10' %} Oktober {% when '11' %}
           November {% when '12' %} December {% endcase %}{{ page.date | date: "%Y" }}
 
-          av:</em>
-        {% include author.html %}</p>
+          av:</em></p>
+        {% include author.html %}
         <div class="share">
           Dela artikeln:
           <a style="text-decoration: none;" href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ page.url | xml_escape }}&title={{ page.title | xml_escape }}&summary={{ page.description | xml_escape | truncate: 190 }}&source={{ site.title }}" target="_blank" rel="noopener noreferrer nofollow">
