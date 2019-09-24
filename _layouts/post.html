@@ -22,24 +22,7 @@ layout: default
 
           av:</em></p>
         {% include author.html %}
-        <div class="share">
-          Dela artikeln:<br />
-          <a style="text-decoration: none;" href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ page.url | xml_escape }}&title={{ page.title | xml_escape }}&summary={{ page.description | xml_escape | truncate: 190 }}&source={{ site.title }}" target="_blank" rel="noopener noreferrer nofollow">
-            <img src="/images/ikon/linkedin.svg" alt="share on Linkedin" />
-          </a>
-          <a style="text-decoration: none;" href="https://touch.facebook.com/sharer.php?u={{ site.url }}{{ page.url | xml_escape }}&quote={{ page.description | xml_escape }} via enrenarevardag.se" target="_blank" rel="noopener noreferrer nofollow">
-            <img src="/images/ikon/facebook.svg" alt="share on facebook" />
-          </a>
-          <a style="text-decoration: none;"  href="https://twitter.com/share?url={{ site.url }}{{ page.url | xml_escape }}&text={{ page.description | xml_escape }}&hashtags=enrenarevardag" target="_blank" rel="noopener noreferrer nofollow">
-            <img src="/images/ikon/twitter.svg" alt="share on twitter" />
-          </a>
-          <a style="text-decoration: none;"  href="https://telegram.me/share/url?url={{ site.url }}{{ page.url }}&text={{ page.description }} via &#64;enrenarevardag" target="_blank" rel="noopener noreferrer nofollow">
-            <img src="/images/ikon/telegram.svg" alt="share on telegram" />
-          </a>
-          <a style="text-decoration: none;"  href="https://reddit.com/submit/?url={{ site.url }}{{ page.url }}&title={{ page.title | xml_escape }}" target="_blank" rel="noopener noreferrer nofollow">
-            <img src="/images/ikon/reddit.svg" alt="share on reddit" />
-          </a>
-        </div>
+
 
 
     </div>

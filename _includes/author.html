@@ -1,5 +1,23 @@
 {% assign author_id = page.member | prepend: "/members/" | append: "/" %}
 {% assign author_name = site.members | where: "url", author_id | first %}
-<div alt="Bild av {{ author_name.namn }}" style="float: left; margin-right: 10px;;background-image:url({{ author_name.image }});background-repeat: no-repeat; border-radius:150px; width:150px; height:150px;"></div>
+<div alt="Bild av {{ author_name.namn }}" style="margin-right: 10px;background-image:url({{ author_name.image }});background-repeat: no-repeat; border-radius:150px; width:150px; height:150px;"></div>
 <h3>{{ author_name.namn }}</h3>
-<p><em>{{ author_name.bio_html }}</em></p>
+<p class="share"><em>{{ author_name.bio_html }}</em>
+  <br /><br />
+      Dela artikeln:<br />
+      <a style="text-decoration: none;" href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ page.url | xml_escape }}&title={{ page.title | xml_escape }}&summary={{ page.description | xml_escape | truncate: 190 }}&source={{ site.title }}" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="/images/ikon/linkedin.svg" alt="share on Linkedin" />
+      </a>
+      <a style="text-decoration: none;" href="https://touch.facebook.com/sharer.php?u={{ site.url }}{{ page.url | xml_escape }}&quote={{ page.description | xml_escape }} via enrenarevardag.se" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="/images/ikon/facebook.svg" alt="share on facebook" />
+      </a>
+      <a style="text-decoration: none;"  href="https://twitter.com/share?url={{ site.url }}{{ page.url | xml_escape }}&text={{ page.description | xml_escape }}&hashtags=enrenarevardag" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="/images/ikon/twitter.svg" alt="share on twitter" />
+      </a>
+      <a style="text-decoration: none;"  href="https://telegram.me/share/url?url={{ site.url }}{{ page.url }}&text={{ page.description }} via &#64;enrenarevardag" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="/images/ikon/telegram.svg" alt="share on telegram" />
+      </a>
+      <a style="text-decoration: none;"  href="https://reddit.com/submit/?url={{ site.url }}{{ page.url }}&title={{ page.title | xml_escape }}" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="/images/ikon/reddit.svg" alt="share on reddit" />
+      </a>
+</p>
