@@ -25,7 +25,7 @@ permalink: /vanliga-fragor/
     </p>
   </div>
   {% for fraga in site.data.vanliga_fragor %}
-  <div id="{{ fraga.question | slugify | uri_escape }}" style="border-bottom: 1px solid #eee;flex: 1 1 280px;padding-right:10px;margin-right:10px;">
+  <div id="{{ fraga.question | slugify | uri_escape }}" style="border-top: 1px solid #eee;flex: 1 1 280px;padding-right:10px;margin-right:10px;">
     <h3>{{ fraga.question }}</h3>
     {{ fraga.answer_html }}
   </div>

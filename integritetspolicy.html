@@ -19,14 +19,10 @@ image: /images/trygghet-mitten2-538d907e2a6b22099a1eb5b5.jpg
   </p>
 </div>
 {% for punkt in site.data.integritetspolicy%}
-<div id="{{ punkt.question | slugify | uri_escape }}" style="border-bottom: 1px solid #eee;flex: 1 1 280px;padding-right:10px;margin-right:10px;">
+<div id="{{ punkt.question | slugify | uri_escape }}" style="border-top: 1px solid #eee;flex: 1 1 280px;padding-right:10px;margin-right:10px;">
   <h3>{{ punkt.question }}</h3>
   {{ punkt.answer_html }}
 </div>
 {% endfor %}
 
-
-<div id="{{ punkt.question | slugify | uri_escape }}" style="border-bottom: 1px solid #eee;flex: 1 1 280px;padding-right:10px;margin-right:10px;">
-  <h2></h2> 
-<p></p>
-</div>                 
+             
