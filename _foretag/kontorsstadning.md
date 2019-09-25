@@ -20,7 +20,7 @@ Vi erbjuder kontorstädning i Stockholm som du kan lita på. Vår specialiserade
 **Våra företagskunder har en sak gemensamt: de är nöjda.**
 
 ## Vad kostar kontorsstädning?
-Kontorstädning pris per timme är ingenting gämfört med vad ditt företag tjänar på det! Dina anställda trivs bättre, mår bättre och jobbar bättre! Eftersom priset beror på storlek, möblering och geografisk plats är det bästa att du [ber om en offert](/boka/?v_lj_tj_nst=Kontorst%C3%A4dning){: rel="nofollow"}. Vi svarar inom 24 timmar. Du är välkommen att höra av dig om du vill ha en checklista.
+Kontorsstädnings pris per timme är ingenting gämfört med vad ditt företag tjänar på det! Dina anställda trivs bättre, mår bättre och jobbar bättre! Eftersom priset beror på storlek, möblering och geografisk plats är det bästa att du [ber om en offert](/boka/?v_lj_tj_nst=Kontorst%C3%A4dning){: rel="nofollow"}. Vi svarar inom 24 timmar. Du är välkommen att höra av dig om du vill ha en checklista.
 
 ## Vad ingår i kontorstädning?
 

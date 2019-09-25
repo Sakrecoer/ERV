@@ -1,0 +1,32 @@
+---
+title: Integritets Policy
+date: 2019-09-23 12:00:00 +0200
+description: 'På En Renare Vardag AB bryr vi oss om dig och alla våra kunder. Här finner du våran sekretess policy och hur vi hanterar dina personuppgifter.'
+sitemap: true
+layout: infosidor
+image: /images/trygghet-mitten2-538d907e2a6b22099a1eb5b5.jpg
+---  
+
+<div class="editable" style="width:100%;">
+  <h2>Personuppgifter och integritetspolicy</h2>
+  <h3>V&aring;rt l&ouml;fte</h3>
+  <p><span class="image right"><img alt="Nöjd Kund Garanti" src="/images/ikon/nojdkund.png" /></span>
+    <strong>En Renare Vardag</strong> är personuppgiftsansvarig och förvaltar personuppgifter  från användarna av våran webbplats enligt Dataskyddsförordningen (GDPR) och annan tillämplig lagstiftning. Användarnas kontaktuppgifter används för att <strong>En Renare Vardag</strong> ska kunna uppfylla sina avtalsenliga förpliktelser mot denne.<br /><br />
+
+    Vi värnar om och respekterar din personliga integritet vid behandling av dina personuppgifter och eftersträvar alltid högsta möjliga nivå av dataskydd. Denna integritetspolicy förklarar hur vi på <strong>En Renare Vardag i Stockholm AB</strong>samlar in och använder personuppgifterna du ger oss. Vår policy beskriver även hur vi samlar in dessa uppgifter på ett lagligt och pålitligt sätt och den beskriver också dina rättigheter. Tveka inte över att kontakta oss om du har frågor kring vår hantering av dina personuppgifter och hur vi arbetar med integritets- och dataskydd på nedanstående adress.<br /><br />
+    
+    Vi vidtar åtgärder för att säkerställa att dina personuppgifter alltid är skyddade hos oss och att behandlingen sker i enlighet med gällande dataskyddslagar och våra, lika strikta om inte striktare interna riktlinjer och rutiner.  
+  </p>
+</div>
+{% for punkt in site.data.integritetspolicy%}
+<div id="{{ punkt.question | slugify | uri_escape }}" style="border-bottom: 1px solid #eee;flex: 1 1 280px;padding-right:10px;margin-right:10px;">
+  <h3>{{ punkt.question }}</h3>
+  {{ punkt.answer_html }}
+</div>
+{% endfor %}
+
+
+<div id="{{ punkt.question | slugify | uri_escape }}" style="border-bottom: 1px solid #eee;flex: 1 1 280px;padding-right:10px;margin-right:10px;">
+  <h2></h2> 
+<p></p>
+</div>                 

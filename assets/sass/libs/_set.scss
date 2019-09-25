@@ -219,11 +219,19 @@ a.intresse-btn-small {
     height: 75px;
   }
 }
-#lasmer,
+
 .whiteybg {
   background-color: #fff; 
   border-radius: 3px;
   padding:0 15px 15px 15px !important;
+  display: flex;
+  flex-wrap: wrap;
+}
+#lasmer {
+  background-color: #fff; 
+  border-radius: 3px;
+  padding:0 15px 15px 15px !important;
+
 }
 
 

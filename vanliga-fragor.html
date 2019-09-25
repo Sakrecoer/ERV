@@ -11,8 +11,8 @@ permalink: /vanliga-fragor/
 
 <!-- Vanliga fragor -->
 
-<div class="row">
-  <div class="col-6 col-12-small editable">
+
+  <div class="editable" style="width:100%;">
     <h2>Vi tar dina frågor om på alvar.</h2>
     <h3>V&aring;rt l&ouml;fte</h3>
     <p><span class="image right"><img alt="Nöjd Kund Garanti" src="/images/ikon/nojdkund.png" /></span>
@@ -25,9 +25,8 @@ permalink: /vanliga-fragor/
     </p>
   </div>
   {% for fraga in site.data.vanliga_fragor %}
-  <div class="col-6 col-12-small" id="{{ fraga.question | slugify | uri_escape }}">
+  <div id="{{ fraga.question | slugify | uri_escape }}" style="border-bottom: 1px solid #eee;flex: 1 1 280px;padding-right:10px;margin-right:10px;">
     <h3>{{ fraga.question }}</h3>
     {{ fraga.answer_html }}
   </div>
   {% endfor %}
-</div>
