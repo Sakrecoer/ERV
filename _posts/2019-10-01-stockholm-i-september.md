@@ -2,7 +2,7 @@
 title: Stockholm när september är över...
 date: 2019-10-01 08:57:00 +0200
 description: >-
-  September är är en vacker månad. När trädens kronor skiftar i färg och vi tar
+  September är en vacker månad. När trädens kronor skiftar i färg och vi tar
   fram våran favorit halsduk. Men den är  inte lätt för alla.
 categories:
   - Tips
@@ -13,7 +13,7 @@ published: true
 _disable_title_filename_sync: true
 ---
 
-September &auml;r &auml;r en vacker m&aring;nad. N&auml;r sensommaren skiftar och luften blir crisp, tr&auml;dens kronor skiftar i f&auml;rg och vi tar fram v&aring;ran favorit halsduk. Men den &auml;r inte l&auml;tt för alla. Det &auml;r n&auml;mligen den vanligaste m&aring;naden för skilsm&auml;ssor i Sverige.
+September &auml;r en vacker m&aring;nad. N&auml;r sensommaren skiftar och luften blir crisp, tr&auml;dens kronor skiftar i f&auml;rg och vi tar fram v&aring;ran favorit halsduk. Men den &auml;r inte l&auml;tt för alla. Det &auml;r n&auml;mligen den vanligaste m&aring;naden för skilsm&auml;ssor i Sverige.
 
 Det finns m&aring;nga teorier om varför, men det &auml;r inget som vi som st&auml;dföretag kan eller vill spekulera i. Det vi vet &auml;r att vi hoppas innerligt att just du inte &auml;r drabbad och att skilsm&auml;ssa betyder v&auml;ldigt mycket sorg, stress och orosmoment. Förutom alla k&auml;nslom&auml;ssiga dilemman det st&auml;ller, s&aring; g&auml;ller det till och med att hitta ny bostad, och alla stockholmare vet hur jobbigt bara det &auml;r.
 
