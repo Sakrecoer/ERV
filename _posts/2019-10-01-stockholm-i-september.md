@@ -1,10 +1,9 @@
 ---
-title: Stockholm när september är över
-date: 2019-10-01 10:17:00 +0200
+title: Stockholm när september är över...
+date: 2019-01-10 08:27:00 +0100
 description: >-
-  September är är en vacker månad. När sensommaren skiftar och luften blir
-  krisp,  trädens kronor skiftar i färg och vi tar fram våran favorit halsduk.
-  Men den är  inte lätt för alla.
+  September är är en vacker månad. När trädens kronor skiftar i färg och vi tar
+  fram våran favorit halsduk. Men den är  inte lätt för alla.
 categories:
   - Tips
 image: /images/nyheter/paul-dufour-vLGViwN44J4-unsplash.jpg
