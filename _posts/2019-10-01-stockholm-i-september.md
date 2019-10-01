@@ -7,13 +7,13 @@ description: >-
   inte lätt för alla. 
 categories:
   - Tips
-image: /images/nyheter/nyheterapril.jpg
+image: /images/nyheter/paul-dufour-vLGViwN44J4-unsplash.jpg
 member: lucky
 bokaknapp: true
 published: true
 _disable_title_filename_sync: true
 ---
-September är är en vacker månad. När sensommaren skiftar och luften blir krisp, trädens kronor skiftar i färg och vi tar fram våran favorit halsduk. Men den är inte lätt för alla. Det är nämligen den vanligaste månaden för skiljsmässor i Sverige. Det finns månaga teorier om varför, men det är inget som vi som städföretag kan eller vill spekulera i. Det vi vet är att skiljmässa betyder väldigt mycket sorg, stress och orosmoment. Förutom alla känslomässiga dilleman det ställer, så gäller det till och med att hitta ny bostad, och alla stockholmare ve hur jobbigt det är. 
+Det är nämligen den vanligaste månaden för skiljsmässor i Sverige. Det finns månaga teorier om varför, men det är inget som vi som städföretag kan eller vill spekulera i. Det vi vet är att skiljmässa betyder väldigt mycket sorg, stress och orosmoment. Förutom alla känslomässiga dilleman det ställer, så gäller det till och med att hitta ny bostad, och alla stockholmare ve hur jobbigt det är. 
 
 Inför flytten ska det: 
 - Besökas lägenheter
