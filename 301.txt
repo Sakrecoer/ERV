@@ -199,3 +199,5 @@
 /tips/stockholm-n%C3%A4r-september-%C3%A4r-%C3%B6ver/ /tips/stockholm-i-september/
 /kontorsstadning-solna/flyttstädning-stockholm-solna-6/feed/ /foretag/kontorsstadning/
 /wp-content/* /
+/wp-admin/* /
+/comments/* /
