@@ -55,7 +55,7 @@ collections:
   privat:
     output: true
     permalink: /privat/:name/
-    layout: generic
+    layout: privatkund-sidor
   members:
     output: false
     _hide_content: "true"
@@ -110,6 +110,7 @@ defaults:
     scope:
       type: "foretag"
     values:
+      layout: generic
       _options:
         image:
           uploads_dir: "images"
@@ -137,6 +138,7 @@ defaults:
     scope:
       type: "privat"
     values:
+      layout: privatkund-sidor
       _options:
         image:
           uploads_dir: "images"
