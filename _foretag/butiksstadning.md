@@ -5,7 +5,6 @@ description: >-
   Storstockholm. Hör av dig och boka ett kostnadsfritt möte.
 image: /images/butik.jpg
 permalink: /foretag/butiksstadning/
-layout: generic
 menutitle: Butiksstädning
 framsida: true
 hubspot: '?v_lj_tj_nst=Butikstädning'

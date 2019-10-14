@@ -6,7 +6,6 @@ description: >-
   dig och boka ett kostnadsfritt möte.
 image: /images/kontor-1.jpg
 permalink: /foretag/kontorsstadning/
-layout: generic
 menutitle: Kontorsstädning
 framsida: true
 hubspot: '?v_lj_tj_nst=Kontorstädning'

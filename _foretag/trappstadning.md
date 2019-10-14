@@ -3,7 +3,6 @@ title: Trappstädning i Stockholm
 description: "Vi på En Renare Vardag AB sköter trappstädning åt företag, bostadsrättsföreningar och skolor i Stockholm. Hör av dig och boka ett kostnadsfritt möte."
 image: /images/trapp-2.jpg
 permalink: /foretag/trappstadning/
-layout: generic
 menutitle: Trappstädning
 framsida: true
 hubspot: '?v_lj_tj_nst=Trappstädning'

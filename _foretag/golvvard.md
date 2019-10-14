@@ -3,7 +3,6 @@ title: Golvvård i Stockholm
 description: "Vi på En Renare Vardag erbjuder vård av golv för företag i Storstockholm. Få dina kunder att häpnas över dina skinande golv. Hör av dig och boka ett kostnadsfritt möte."
 image: /images/clean-cleaning-mop-48889.jpg
 permalink: /foretag/golvvard/
-layout: generic
 menutitle: Golvvård
 framsida: true
 hubspot: '?v_lj_tj_nst=Golvvård'
