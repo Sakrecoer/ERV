@@ -1,20 +1,20 @@
 ---
-title: Flyttstädning i Stockholm
+title: Flyttstädning i Solna
 description: >-
   En Renare Vardag erbjuder högkvalitativ flyttstädning till privatpersoner i
-  Storstockholm.
+  Solna.
 image: /images/flytt.jpg
-permalink: /privat/flyttstadning/
+permalink: /privat/flyttstadning/solna/
 layout: generic
 menutitle: Flyttstädning
-framsida: true
+framsida: false
 hubspot: '?v_lj_tj_nst=Flyttstädning'
 icon_image: /images/ikon/flytt-ikon.png
 ---
 
-## Flyttstädning i Storstockholm
+## Flyttstädning Solna 
 
-Alla vill flytta in i en ren och fräsch bostad. Vi erbjuder komplett flyttstädning i Stockholm med allt vad det innebär.
+Alla vill flytta in i en ren och fräsch bostad. Vi erbjuder komplett flyttstädning i Solna med allt vad det innebär.
 
 Flyttstädning kräver noggrannhet. Våra utbildade medarbetare använder sig utav moderna metoder och miljövänliga medel för att uppnå det bästa resultatet.
 
