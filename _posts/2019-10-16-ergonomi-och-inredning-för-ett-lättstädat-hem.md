@@ -52,5 +52,3 @@ T&auml;nk p&aring; att v&auml;ggen ocks&aring; &auml;r en förvaringsyta, hyllor
 ### Mattor
 
 Mattor ses ofta som dekorativa men dom har &auml;ven en funktion. En hallmatta hindrar till exempel allt smuts som kommer fr&aring;n utomhus fr&aring;n&nbsp; spridas vidare in i bostaden. V&auml;lj g&auml;rna en matta i flera lite mörkare f&auml;rger och som &auml;r l&auml;tt att rengöra.
-
-&nbsp;
