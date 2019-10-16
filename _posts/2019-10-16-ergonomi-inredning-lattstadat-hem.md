@@ -14,7 +14,7 @@ published: true
 _disable_title_filename_sync: true
 ---
 
-Att optimera ergonomin i ditt hem kommer göra det l&auml;ttare för dig att h&aring;lla rent, &auml;ven om du har st&auml;dhj&auml;lp s&aring; kanske du till och med kan s&auml;nka tiden det tar att st&auml;da hos dig, och d&auml;rför &auml;ven s&auml;nka kostnaderna. H&auml;r kommer v&aring;ra 6 tips för dig.
+Att optimera ergonomin i ditt hem kommer göra det l&auml;ttare för dig att h&aring;lla rent\! &Auml;ven om du har st&auml;dhj&auml;lp: du kan s&auml;nka tiden det tar att st&auml;da hos dig, och d&auml;rför &auml;ven s&auml;nka kostnaderna. H&auml;r kommer v&aring;ra 6 tips för att göra det s&auml; l&auml;ttst&auml;dat som möjligt d&auml;r hemma.
 
 ### H&aring;ll din inredning minimal
 
