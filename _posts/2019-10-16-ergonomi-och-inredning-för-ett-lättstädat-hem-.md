@@ -1,6 +1,6 @@
 ---
 title: Ergonomi och inredning för ett lättstädat hem.
-date: 2019-10-17 08:00:00 +0200
+date: 2019-10-16 08:00:00 +0200
 description: >-
   Stockholmslivet gör städning jobbigare, men det finns massor av saker du kan
   göra för att göra det lättare för dig. Till exempel kan du inreda ditt hem med
