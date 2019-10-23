@@ -172,6 +172,31 @@ defaults:
           height: "150"
           resize_style: "cover"
           mime_type: "image/jpeg"
+  -
+    scope:
+      type: "landing"
+    values:
+      _options:
+        image:
+          uploads_dir: "images/landing"
+          width: "960"
+          height: "540"
+          resize_style: "cover"
+          mime_type: "image/jpeg"
+        content:
+          uploads_dir: "images/landing"
+          width: "400"
+          height: "400"
+          resize_style: "cover"
+          mime_type: "image/jpeg"
+        icon_image:
+          uploads_dir: "images/ikon"
+          width: "75"
+          height: "75"
+          resize_style: "cover"
+          mime_type: "image/png"
+        layout:
+          hidden: true
 
 sass:
   sass_dir: /_sass/
