@@ -66,6 +66,17 @@
     <div class="item" style="padding:10px;">
 
       <div class="item-staticchild">
+
+        {% if page.url == '/privat/flyttstadning/' %}
+        <h2>Är du från någon av dessa städer?</h2>
+        <p>
+        {% for city in site.landing | where "type", "flyttstadning" %}
+          <a href="{{ city.url }}">{{ city.city }}</a>{% unless forloop.last %} | {% endunless %}
+        {% endfor %}
+        </p>
+        {% endif %}
+        
+        
         <h2 class="editable">Läs mer om våra tjänster</h2>
         <p class="editable">Vi har ett brett urval av tjänster för företag och privatpersoner</p>
       </div>
