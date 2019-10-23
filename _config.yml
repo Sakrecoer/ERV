@@ -60,10 +60,9 @@ collections:
     output: false
     _hide_content: "true"
     _singular_name: "member"
-  flyttstadning:
+  landing:
     output: true
-    permalink: /privat/flyttstädning/:name
-    layout: main/generic    
+    layout: landing/generic    
 
 defaults:
   -
