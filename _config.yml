@@ -62,7 +62,7 @@ collections:
     _singular_name: "member"
   landing:
     output: true
-    layout: landing/generic    
+  
 
 defaults:
   -
@@ -176,6 +176,7 @@ defaults:
     scope:
       type: "landing"
     values:
+      layout: landing/default 
       _options:
         image:
           uploads_dir: "images/landing"
