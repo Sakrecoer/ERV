@@ -5,7 +5,7 @@ description: >-
   Solna.
 image: /images/flytt.jpg
 permalink: /privat/flyttstadning/solna/
-layout: generic
+layout: main/generic
 menutitle: Flyttstädning
 framsida: false
 hubspot: '?v_lj_tj_nst=Flyttstädning'

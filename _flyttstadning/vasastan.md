@@ -5,7 +5,7 @@ description: >-
   Vasastan.
 image: /images/flytt.jpg
 permalink: /privat/flyttstadning/vasastan
-layout: generic
+layout: main/generic
 menutitle: Flyttstädning
 framsida: false
 hubspot: '?v_lj_tj_nst=Flyttstädning'

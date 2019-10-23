@@ -1,0 +1,55 @@
+<script type="text/javascript">
+  function toggle_visibility(id) {
+    var e = document.getElementById(id);
+    if (e.style.display == 'flex')
+      e.style.display = 'none';
+    else
+      e.style.display = 'flex';
+  }
+</script>
+
+{% if page.collection == 'privat' %}
+{% elsif page.collection == 'foretag' %}
+{% elsif page.url == '/foretag/' %}
+{% elsif page.url == '/privat/' %}
+{% elsif page.url == '/boka/' %}
+{% else %}
+<div id="offert">
+  <ul class="actions">
+    <li><a href="#" onclick="toggle_visibility('overlaybooking');" class="button primary large knap"
+        style="box-shadow: 6px 6px 6px 3px rgba(0, 0, 0, 0.2);">Begär Offert</a></li>
+  </ul>
+</div>
+{% endif %}
+
+<div id="overlaybooking">
+  <div class="exitfloater">
+    <ul class="actions">
+      <li><a href="#" onclick="toggle_visibility('overlaybooking');" class="button primary large knap">Stäng
+          utan att skicka</a>
+      </li>
+    </ul>
+  </div>
+  <div class="floatingbooker">
+    {% include /main/boka-form.html %}
+    <br /><br /><br /><br /> <br /><br /><br /><br />
+  </div>
+  <div class="floatingbooker notauto">
+    <section>
+      <header class="major">
+        <h2>Erbjudanden</h2>
+      </header>
+  
+      <div class="mini-posts">
+        {% for post in site.categories.erbjudanden limit: 1 %}
+  
+        <article>
+          <a href="{{ post.url }}" class="image"><img src="{{ post.image }}" alt="" /></a>
+          <p style="text-align: left;">{{ post.description }}</p>
+        </article>
+  
+        {% endfor %}
+      </div>
+    </section>
+  </div>
+  </div>

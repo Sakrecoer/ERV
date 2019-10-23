@@ -4,20 +4,20 @@ description: Boka städhjälp för privatpersoner eller företag med Stockholms 
 image: /images/boka-intro.jpg
 ---
 
-{% include banner.html %}
+{% include /main/banner.html %}
 <!-- Banner -->
 <section style="padding:0">
   <div style="border-radius:3px;" class="flex">
     <div class="item" style="padding:10px;">
       <div class="item-child">
         <h3>Välj rätt städföretag! Fyll i blanketten</h3>
-        {% include boka-form.html %}
+        {% include /main/boka-form.html %}
         <br /><br />
       </div>
     </div>
     {% if page.url != '/' %}
     <div class="item" style="padding:10px;">
-      {% include kalkylator/kalkmain.html %}<br />
+      {% include /kalkylator/kalkmain.html %}<br />
       <div class="item-staticchild" style="margin-top: 70px;">
         <h2 class="editable">Läs mer om våra tjänster</h2>
         <p class="editable">Vi har ett brett urval av tjänster för företag och privatpersoner</p>

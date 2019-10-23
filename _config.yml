@@ -51,11 +51,11 @@ collections:
   foretag:
     output: true
     permalink: /foretag/:name/
-    layout: generic
+    layout: main/generic
   privat:
     output: true
     permalink: /privat/:name/
-    layout: privatkund-sidor
+    layout: main/privatkund-sidor
   members:
     output: false
     _hide_content: "true"
@@ -63,19 +63,19 @@ collections:
   flyttstadning:
     output: true
     permalink: /privat/flyttstädning/:name
-    layout: generic    
+    layout: main/generic    
 
 defaults:
   -
     scope:
       path: ""
     values:
-      layout: "default"
+      layout: "main/default"
   -
     scope:
       type: "posts"
     values:
-      layout: "post"
+      layout: "main/post"
       _options:
         image:
           uploads_dir: "images/nyheter"
@@ -110,7 +110,7 @@ defaults:
     scope:
       type: "foretag"
     values:
-      layout: generic
+      layout: "main/generic"
       _options:
         image:
           uploads_dir: "images"
@@ -138,7 +138,7 @@ defaults:
     scope:
       type: "privat"
     values:
-      layout: privatkund-sidor
+      layout: "main/privatkund-sidor"
       _options:
         image:
           uploads_dir: "images"
@@ -175,6 +175,6 @@ defaults:
           mime_type: "image/jpeg"
 
 sass:
-  sass_dir: /assets/sass/
+  sass_dir: /_sass/
 # site variable
 kundtjanstmail: kundtjanst@enrenarevardag.se
