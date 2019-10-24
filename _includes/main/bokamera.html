@@ -66,30 +66,7 @@
     <div class="item" style="padding:10px;">
 
       <div class="item-staticchild">
-<!-- Flyttstädning -->
-        {% if page.url == '/privat/flyttstadning/' %}
-        <h2>Välj din ort enligt nedan.</h2>
-        <p>
-          {% for city in site.landing %}
-          {% if city.type == 'flyttstadning' %}
-          <a href="{{ city.url }}" alt="Länk till bokningssida för städhjälp i {{ city.city }}" class="button">{{ city.city }}</a> 
-          {% endif %}
-        {% endfor %}
-        </p>
-        {% endif %}
-
-<!-- Storstädning -->
-        {% if page.url == '/privat/storstadning/' %}
-        <h2>Välj din ort enligt nedan.</h2>
-        <p>
-        {% for city in site.landing | where_exp: "item", "item.type == 'storstadning'" %}
-        {% if city.type == 'storstadning' %}
-        <a href="{{ city.url }}" alt="Länk till bokningssida för städhjälp i {{ city.city }}" class="button">{{ city.city }}</a> 
-        {% endif %}
-        {% endfor %}
-        </p>
-        {% endif %}
-<!-- Hemstädning -->
+{% include /main/city_selector.html %}
         
         <h2 class="editable">Läs mer om våra tjänster</h2>
         <p class="editable">Vi har ett brett urval av tjänster för företag och privatpersoner</p>

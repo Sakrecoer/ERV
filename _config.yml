@@ -204,9 +204,15 @@ sass:
 # site variable
 kundtjanstmail: kundtjanst@enrenarevardag.se
 types: 
-  - Flyttstädning
-  - Storstädning
-  - Fönsterputtsning
-  - Hemstädning
-  - Storstädning
-  
+  - flyttstädning_privat
+  - storstädning_privat
+  - fönsterputtsning_privat
+  - hemstädning_privat
+  - storstädning_privat
+  - butiksstädning_företag
+  - golvvård_företag
+  - kontorsstädning_företag
+  - skolstädning_företag
+  - trappstädning_företag
+
+
