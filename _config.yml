@@ -203,3 +203,10 @@ sass:
   sass_dir: /_sass/
 # site variable
 kundtjanstmail: kundtjanst@enrenarevardag.se
+types: 
+  - Flyttstädning
+  - Storstädning
+  - Fönsterputtsning
+  - Hemstädning
+  - Storstädning
+  
