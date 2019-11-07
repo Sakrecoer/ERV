@@ -11,47 +11,47 @@ hubspot: '?v_lj_tj_nst=Butikstädning'
 icon_image: /images/ikon/butik-ikon.png
 ---
 
-## Visst är det viktigt med en ren och fräsch lokal, butik för att du och dina kunder ska trivas? 
+## /företagsVisst &auml;r det viktigt med en ren och fr&auml;sch lokal, butik för att du och dina kunder ska trivas?&nbsp;
 
-Vi har bred erfarenhet och hjälper många enstaka butiker med städning, men också större butikskedjor. När det gäller lokalvård av centrumanläggningar och publika ytor så kunskap och erfarenhet av högkvalitativ städning väldigt viktig.
+Vi har bred erfarenhet och hj&auml;lper m&aring;nga enstaka butiker med st&auml;dning, men ocks&aring; större butikskedjor. N&auml;r det g&auml;ller lokalv&aring;rd av centrumanl&auml;ggningar och publika ytor s&aring; kunskap och erfarenhet av högkvalitativ st&auml;dning v&auml;ldigt viktig.
 
-Vi kan erbjuda städning av allt ifrån små butiker till stora varuhus, livsmedelsbutiker, butikskedjor och butikscentrum m.m. Vi har personal som vet att städning i butik skiljer sig från annan städning. Det gäller bl.a. att vara snabb och flexibel med tanke på leveranser och omflyttningar i butiken.
+Vi kan erbjuda st&auml;dning av allt ifr&aring;n sm&aring; butiker till stora varuhus, livsmedelsbutiker, butikskedjor och butikscentrum m.m. Vi har personal som vet att st&auml;dning i butik skiljer sig fr&aring;n annan st&auml;dning. Det g&auml;ller bl.a. att vara snabb och flexibel med tanke p&aring; leveranser och omflyttningar i butiken.
 
-Vi städar vissa områden tidigt på morgonen, andra på sena kvällar eller på helger.
+Vi st&auml;dar vissa omr&aring;den tidigt p&aring; morgonen, andra p&aring; sena kv&auml;llar eller p&aring; helger.
 
-Ni som kund ska kunna känna er säkra på ert val av städfirma.
+**[Ni som kund ska kunna k&auml;nna er s&auml;kra p&aring; ert val av st&auml;dfirma.](/vanliga-fragor/hur-arbetar-en-renare-vardag-med-s%C3%A4kerhet)**
 
-Därför ställer vi höga säkerhetskrav på våra anställda som utför städningen.
+D&auml;rför st&auml;ller vi höga s&auml;kerhetskrav p&aring; v&aring;ra anst&auml;llda som utför st&auml;dningen.
 
-Vi arbetar snabbt och effektivt och garanterar alltid den bästa servicen och kvalitén på våra tjänster inom städning och lokalvård.
+Vi arbetar snabbt och effektivt och garanterar alltid den b&auml;sta servicen och kvalit&eacute;n p&aring; v&aring;ra tj&auml;nster inom st&auml;dning och lokalv&aring;rd.
 
-## Vad ingår i butikstädning?
+## Vad ing&aring;r i butikst&auml;dning?
 
 ### Butiksyta
 
-* Dammsugning och våttorkning av golv
+* Dammsugning och v&aring;ttorkning av golv
 * Putsning av speglar
 * Tömning av papperskorgar
 * Dammtorkning av fria ytor
 
 ### Kök
 
-* Dammsugning och våttorkning av golv
+* Dammsugning och v&aring;ttorkning av golv
 * Dammtorkning av fria ytor
-* Rengöring av diskbänk
+* Rengöring av diskb&auml;nk
 * Tömning av sopor
 
 ### Kontor
 
-* Dammsugning och våttorkning av golv
+* Dammsugning och v&aring;ttorkning av golv
 * Dammtorkning av fria ytor
 * Tömning av papperskorgar
 
 ### Toalett
 
 * Rengöring av toalettstol
-* Rengöring av tvättställ
+* Rengöring av tv&auml;ttst&auml;ll
 * Putsning av spegel
 * Tömning av papperskorg
-* Påfyllning av engångsmaterial
-* Dammsugning och våttorkning av golv
+* P&aring;fyllning av eng&aring;ngsmaterial
+* Dammsugning och v&aring;ttorkning av golv
