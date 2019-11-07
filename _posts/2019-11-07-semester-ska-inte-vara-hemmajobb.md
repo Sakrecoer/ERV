@@ -1,5 +1,5 @@
 ---
-title: Semester ska inte vara hemmajobb!
+title: Att städa är inte semester!
 date: 2019-11-07 11:00:00 +0100
 description: >-
   Än en gång har du spenderat massa semestertid åt att städa... Det behöver inte
