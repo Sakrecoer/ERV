@@ -19,9 +19,7 @@ Vi kan erbjuda st&auml;dning av allt ifr&aring;n sm&aring; butiker till stora va
 
 Vi st&auml;dar vissa omr&aring;den tidigt p&aring; morgonen, andra p&aring; sena kv&auml;llar eller p&aring; helger.
 
-**[Ni som kund ska kunna k&auml;nna er s&auml;kra p&aring; ert val av st&auml;dfirma.](/vanliga-fragor/hur-arbetar-en-renare-vardag-med-s%C3%A4kerhet)**
-
-D&auml;rför st&auml;ller vi höga s&auml;kerhetskrav p&aring; v&aring;ra anst&auml;llda som utför st&auml;dningen.
+**[Ni som kund ska kunna k&auml;nna er s&auml;kra p&aring; ert val av st&auml;dfirma,](/vanliga-fragor/hur-arbetar-en-renare-vardag-med-s%C3%A4kerhet)** d&auml;rför st&auml;ller vi höga s&auml;kerhetskrav p&aring; v&aring;ra anst&auml;llda som utför st&auml;dningen.
 
 Vi arbetar snabbt och effektivt och garanterar alltid den b&auml;sta servicen och kvalit&eacute;n p&aring; v&aring;ra tj&auml;nster inom st&auml;dning och lokalv&aring;rd.
 
