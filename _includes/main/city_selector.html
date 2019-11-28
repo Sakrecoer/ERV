@@ -27,7 +27,7 @@
 <h2>Välj din ort enligt nedan.</h2>
 <p>
 {% for city in site.landing %}
-{% if city.type == 'kontorsstadning' %}
+{% if city.type == 'kontorsstädning_företag' %}
 <a href="{{ city.url }}" alt="Länk till bokningssida för städhjälp i {{ city.city }}" class="button">{{ city.city }}</a> 
 {% endif %}
 {% endfor %}
