@@ -1,23 +1,35 @@
 <!-- Flyttstädning -->
-        {% if page.url == '/privat/flyttstadning/' %}
-        <h2>Välj din ort enligt nedan.</h2>
-        <p>
-        {% for city in site.landing %}
-        {% if city.type == 'flyttstädning_privat' %}
-        <a href="{{ city.url }}" alt="Länk till bokningssida för städhjälp i {{ city.city }}" class="button">{{ city.city }}</a> 
-        {% endif %}
-        {% endfor %}
-        </p>
-        {% endif %}
+{% if page.url == '/privat/flyttstadning/' %}
+<h2>Välj din ort enligt nedan.</h2>
+<p>
+{% for city in site.landing %}
+{% if city.type == 'flyttstädning_privat' %}
+<a href="{{ city.url }}" alt="Länk till bokningssida för städhjälp i {{ city.city }}" class="button">{{ city.city }}</a> 
+{% endif %}
+{% endfor %}
+</p>
+{% endif %}
 
 <!-- Storstädning -->
-        {% if page.url == '/privat/storstadning/' %}
-        <h2>Välj din ort enligt nedan.</h2>
-        <p>
-        {% for city in site.landing %}
-        {% if city.type == 'storstädning_privat' %}
-        <a href="{{ city.url }}" alt="Länk till bokningssida för städhjälp i {{ city.city }}" class="button">{{ city.city }}</a> 
-        {% endif %}
-        {% endfor %}
-        </p>
-        {% endif %}
+{% if page.url == '/privat/storstadning/' %}
+<h2>Välj din ort enligt nedan.</h2>
+<p>
+{% for city in site.landing %}
+{% if city.type == 'storstädning_privat' %}
+<a href="{{ city.url }}" alt="Länk till bokningssida för städhjälp i {{ city.city }}" class="button">{{ city.city }}</a> 
+{% endif %}
+{% endfor %}
+</p>
+{% endif %}
+
+<!-- Kontorsstädning -->
+{% if page.url == '/foretag/kontorsstadning/' %}
+<h2>Välj din ort enligt nedan.</h2>
+<p>
+{% for city in site.landing %}
+{% if city.type == 'kontorsstadning' %}
+<a href="{{ city.url }}" alt="Länk till bokningssida för städhjälp i {{ city.city }}" class="button">{{ city.city }}</a> 
+{% endif %}
+{% endfor %}
+</p>
+{% endif %}
