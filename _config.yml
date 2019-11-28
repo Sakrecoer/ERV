@@ -205,7 +205,6 @@ sass:
 kundtjanstmail: kundtjanst@enrenarevardag.se
 types: 
   - flyttstädning_privat
-  - storstädning_privat
   - fönsterputtsning_privat
   - hemstädning_privat
   - storstädning_privat
