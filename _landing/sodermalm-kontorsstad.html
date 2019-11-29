@@ -6,7 +6,7 @@ description: >-
 city: Södermalm
 type: kontorsstädning_företag
 permalink: /foretag/kontorsstadning/sodermalm/
-image: 
+image: /images/landing/filipe-lourenco-marques-fcq8VhlKz90-unsplash.jpg
 ---
 
 <!-- Page Wrapper -->
@@ -15,7 +15,7 @@ image:
   {% include /landing/menu.html %}
 
   <!-- Banner -->
-  <section id="banner">
+  <section id="banner" style="background: transparent;">
     <div class="inner">
       <div class="logo"><img src="{{ site.baseurl }}/images/landing/Enrenare_vardag_loggosvg.svg" width="100px" height="100px" alt="En Renare Vardag i Stockholm AB logo" /></div>
       <h2>{{ page.title }}</h2>
@@ -205,7 +205,10 @@ image:
 
 </div>
 <style>
-#banner, #wrapper, body {
-background-image: url({{ page.image }});
-}
+
+    body{
+    background-image: url({{ page.image }});
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
 </style>
