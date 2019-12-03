@@ -20,7 +20,7 @@
 /flyttstadning-stockholm/ /privat/flyttstadning/
 /flyttstadning-vallingby/ /privat/flyttstadning/
 /flyttstadning-vallingby/flyttstadning-vallingby-2/ /privat/flyttstadning/
-/flyttstadning-vasastan/ /privat/flyttstadning/
+/flyttstadning-vasastan/ /privat/flyttstadning/vasastan/
 /flyttstadning/ /privat/flyttstadning/
 /fonsterputs-solna/ /foretag/fonsterputs/
 /fonsterputs-sundbyberg/ /foretag/fonsterputs/
@@ -41,14 +41,14 @@
 /hemstadning-vasastan/ /privat/hemstadning/
 /hemstadning-vasastan/flyttstädning-30/ /privat/hemstadning/
 /kontorsstadning-bromma/ /foretag/kontorstadning/
-/kontorsstadning-kista/ /foretag/kontorstadning/
-/kontorsstadning-sodermalm/ /foretag/kontorstadning/
+/kontorsstadning-kista/ /foretag/kontorstadning/kista/
+/kontorsstadning-sodermalm/ /foretag/kontorsstadning/sodermalm/
 /kontorsstadning-solna/ /foretag/kontorstadning/
 /kontorsstadning-stockholm/ /foretag/kontorstadning/
 /kontorsstadning-stockholm/kontorsstadning-stockholm-2/ /foretag/kontorstadning/
 /kontorsstadning-sundbyberg/ /foretag/kontorstadning/
 /kontorsstadning-sundbyberg/kontorsstadning-sundbyberg-2/ /foretag/kontorstadning/
-/kontorsstadning-vasastan/ /foretag/kontorstadning/
+/kontorsstadning-vasastan/ /foretag/kontorstadning/vasastan/
 /mina-sidor/ https://mitt.enrenarevardag.se/mina-sidor/
 /mina-sidor/betalningar/ https://mitt.enrenarevardag.se/mina-sidor/betalningar/
 /mina-sidor/swish/ https://mitt.enrenarevardag.se/mina-sidor/swish/
