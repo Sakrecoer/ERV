@@ -19,4 +19,6 @@ P&aring; [En Renare Vardag](/privat/hemstadning/) drivs vi av en vision om ett r
 
 S&aring; tveka inte en sekund inför detta kanon erbjudande, och se till att ditt hem blir skinnande rent inför jul-ledigheterna: du f&aring;r tid över till att pynta hemma, och pengar över till att sk&auml;mma bort dina n&auml;ra och k&auml;ra\!
 
+Skriv rabattkoden "December2019" i formul&auml;ret p&aring; v&aring;ran bokningssida, s&aring; halverar ditt st&auml;dningspris. Du hittar formul&auml;ret p&aring; knappen nedan.
+
 Boka nu\!
