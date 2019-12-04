@@ -24,11 +24,20 @@
         <a href="https://www.reco.se/en-renare-vardag" target="_blank" rel="noopener noreferrer"
           style="border:none;"><img src="/images/ikon/five-star.png"
             alt="Reco Recomenderar En Renare Vardag sen 2014" /></a>
+        <a href="https://www.bisnode.se/om-bisnode/vad-vi-gor/vart-satt-att-se-pa-risk-och-kredit/kreditvarderingsmodell-foretag/"
+          target="_blank" style="text-decoration: none;border:none;">
+          <img style="border:0px;max-width:100%;" 
+            oncontextmenu="return false"
+            title="Vi &auml;r ett kreditv&auml;rdigt f&ouml;retag enligt Bisnodes v&auml;rderingssystem som baserar sig p&aring; en m&auml;ngd olika beslutsregler. Denna uppgift &auml;r alltid aktuell&#44; informationen uppdateras dagligen via Bisnodes databas."
+            alt="Vi &auml;r ett kreditv&auml;rdigt f&ouml;retag enligt Bisnodes v&auml;rderingssystem som baserar sig p&aring; en m&auml;ngd olika beslutsregler. Denna uppgift &auml;r alltid aktuell&#44; informationen uppdateras dagligen via Bisnodes databas."
+            id="img_273_87_px"
+            src="https://merit.soliditet.se/merit/imageGenerator/display?lang=SE&country=SE&cId=OdUXnmmcLIXJzRB0kTxKKg%3D%3D&cUid=7hJYcGGsT5M%3D&imgType=img_273_87_px" /></a>
         {% if page.url != '/boka/' %}
         <br /><br />
         <ul class="actions" style="margin-bottom: 0;">
           <li>
-            <a href="/boka/{{ page.hubspot }}"{% if page.collection == 'foretag' or page.collection == 'privat' %} rel="nofollow"{% endif %} id="button" class="button primary large knap">Boka Nu</a>
+            <a href="/boka/{{ page.hubspot }}" {% if page.collection == 'foretag' or page.collection == 'privat' %}
+              rel="nofollow" {% endif %} id="button" class="button primary large knap">Boka Nu</a>
           </li>
         </ul>
         {% endif %}
@@ -55,7 +64,7 @@
               <li><a href="{{ post.url }}">Läs mer</a></li>
             </ul>
           </article>
-       
+
           {% endfor %}
         </div>
 
@@ -66,8 +75,8 @@
     <div class="item" style="padding:10px;">
 
       <div class="item-staticchild">
-{% include /main/city_selector.html %}
-        
+        {% include /main/city_selector.html %}
+
         <h2 class="editable">Läs mer om våra tjänster</h2>
         <p class="editable">Vi har ett brett urval av tjänster för företag och privatpersoner</p>
       </div>
