@@ -56,7 +56,7 @@
         <div>
           {% for post in site.categories.Erbjudande limit: 1%}
           <article>
-            <a href="{{ post.url }}" class="image"><img class="nyheter" src="/images/erbjudande.jpg"
+            <a href="{{ post.url }}" class="image"><img class="nyheter" src="{{ post.image }}"
                 alt="{{ post.title }}" /></a>
             <h3 class="nyheter">{{ post.title }}</h3>
             <p class="nyheter">{{ post.description }}</p>
