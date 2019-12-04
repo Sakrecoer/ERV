@@ -114,3 +114,4 @@
 /wp-admin/* /
 /comments/* /
 */feed/ /rss
+/erbjudande/halva-priset-på-hemstädning/ /erbjudande/halva-priset-pa-hemstadning/
