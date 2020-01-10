@@ -4,7 +4,7 @@ date: 2020-01-13 00:00:00 +0100
 description: >-
   Att rengöra golv kan kännas som en enkel uppgift, och det är den om du har
   kunskap och erfarenhet. Det känns ofta som att det räcker att vispa runt lite
-  längs golven. Men med dom här enkla riktlinjerna kommer du att bli att riktigt
+  längs golven. Men med dom här enkla riktlinjerna kommer du att bli riktigt
   proffs på städning av golv!
 categories:
   - Tips
