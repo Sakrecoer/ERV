@@ -1,16 +1,19 @@
 ---
-title: Rengöra hårda golv
+title: Skura och rengöra golv
 date: 2020-01-13 00:00:00 +0100
-description:
+description: >-
+  Att rengöra golv kan kännas som en enkel uppgift, och det är den om du har
+  kunskap och erfarenhet. Det känns ofta som att det räcker att vispa runt lite
+  längs golven. Men med dom här enkla riktlinjerna kommer du att bli att riktigt
+  proffs på städning av golv!
 categories:
-image:
+  - Tips
+image: /images/nyheter/tomas-anton-escobar-tun9qwausnw-unsplash.jpg
 member: lucky
 bokaknapp: true
 published: true
 _disable_title_filename_sync: true
 ---
-
-Att rengöra golv kan k&auml;nnas som en enkel uppgift, och det &auml;r den om du har kunskap och erfarenhet. Det k&auml;nns ofta som att det r&auml;cker att vispa runt lite l&auml;ngs golven. Men med dom h&auml;r enkla riktlinjerna kommer du att bli att riktigt proffs p&aring; st&auml;dning av golv\!
 
 ### 1\. Skura golven regelbundet
 
