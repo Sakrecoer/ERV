@@ -6,7 +6,7 @@ categories:
 image:
 member: lucky
 bokaknapp: true
-published: false
+published: true
 _disable_title_filename_sync: true
 ---
 
