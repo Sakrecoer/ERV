@@ -15,7 +15,7 @@ published: true
 _disable_title_filename_sync: true
 ---
 
-### 1\. Skura golven regelbundet
+### 1\. Skura golven regelbundet.
 
 Se till att moppa &aring;tminstone var fj&auml;rde dag. P&aring; detta vis förs&auml;krar du dig om att golven inte &auml;r trivsamma för kryp och bakterier.
 
