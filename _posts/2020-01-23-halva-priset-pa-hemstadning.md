@@ -6,7 +6,7 @@ description: >-
   Renare Vardag!
 categories:
   - Erbjudande
-image: /images/nyheter/ss18-sale-3teaser-mini.jpg
+image: /images/nyheter/ss18-sale-3teaser-mini.gif
 member: lucky
 bokaknapp: true
 published: true
