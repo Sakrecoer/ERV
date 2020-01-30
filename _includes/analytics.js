@@ -1,0 +1,31 @@
+{% if page.url == '/404/' %}
+
+<!-- Matomo -->
+
+  var _paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['setDocumentTitle',  '404/URL = ' +  encodeURIComponent(document.location.pathname+document.location.search) + '/From = ' + encodeURIComponent(document.referrer)]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="https://terminalnetwork.matomo.cloud/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '6']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src='//cdn.matomo.cloud/terminalnetwork.matomo.cloud/matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+
+<!-- End Matomo Code -->
+
+
+
+{% else %}
+<!-- Matomo Tag Manager -->
+
+  var _mtm = _mtm || [];
+  _mtm.push({'mtm.startTime': (new Date().getTime()), 'event': 'mtm.Start'});
+  var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+  g.type='text/javascript'; g.async=true; g.defer=true; g.src='https://cdn.matomo.cloud/terminalnetwork.matomo.cloud/container_BAJ4B6LU_dev_7b70f293d0372da7890d025a.js'; s.parentNode.insertBefore(g,s);
+
+<!-- End Matomo Tag Manager -->
+{% endif %}
