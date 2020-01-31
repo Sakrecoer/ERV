@@ -119,4 +119,11 @@
     document.getElementById('cookie-notice').style.display = 'none';
     location.reload();
   });
+  document.getElementById('cookie-notice-gimme').addEventListener("click", function () {
+    createCookie('cookie-notice-dismissed', 'true', 31);
+    document.getElementById('cookie-notice').style.display = 'none';
+    location.reload();
+  });
+
+  
 </script>
