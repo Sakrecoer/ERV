@@ -141,13 +141,13 @@
   document.getElementById('cookie-notice-accept').addEventListener("click", function () {
     createCookie('cookie-notice-dismissed', 'true', 31);
     document.getElementById('cookie-notice').style.display = 'none';
-    _paq.push(['trackEvent', 'Consent', 'true']);
+    _paq.push(['trackEvent', 'Consent', 'wantCookie']);
     location.reload();
   });
   document.getElementById('cookie-notice-decline').addEventListener("click", function () {
     createCookie('cookie-notice-dismissed', 'false', 31);
     document.getElementById('cookie-notice').style.display = 'none';
-    _paq.push(['trackEvent', 'Consent', 'false']);
+    _paq.push(['trackEvent', 'Consent', 'dontWantCookie']);
     location.reload();
   });
   document.getElementById('cookie-notice-gimme').addEventListener("click", function () {
