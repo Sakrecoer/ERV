@@ -1,84 +1,108 @@
-<!-- -->
 <style>
   #cookie-notice {
-    padding: 0.5rem 1rem;
+    padding: 15px 10px 75px 10px;
     display: none;
-    text-align: center;
+    text-align: left;
     position: fixed;
     bottom: 0;
     width: 100%;
-    height: 200px;
-    background: rgba(25, 77, 27, 0.85);
-    color: rgba(25, 77, 27, 1);
-    font-size: 0.8em;
-    z-index: 10000000;
+    background: #222;
+    color: rgba(255, 255, 255, 0.8);
+    flex-wrap: wrap;
+    align-items: center;
   }
 
-  #cookie-notice a {
-    display: inline-block;
+  .yes {
+    flex: 0 0 90px;
     cursor: pointer;
+    margin-bottom: 13px;
+    margin-right: 13px;
+    align-self: flex-end;
+    font-size: 1em;
+    height: 2.65em;
+    line-height: 2.65em;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    -ms-appearance: none;
+    appearance: none;
+    -moz-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+    -webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+    -ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+    transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+    border-radius: 0.375em;
+    border: 0;
+    box-shadow: inset 0 0 0 2px #194d1b;
+    color: #194d1b !important;
+    cursor: pointer;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    white-space: nowrap;
+    background-color: rgba(0, 0, 0, 0);
+    background-position-x: 0%;
+    background-position-y: 0%;
+    background-repeat: repeat;
+    background-attachment: scroll;
+    background-image: linear-gradient(228deg, #cfe7cd, #9be494);
+    background-origin: padding-box;
+    background-clip: border-box;
+    background-color: rgba(0, 0, 0, 0);
+    background-size: 400% 400%;
+    -webkit-animation: AnimationName 2s ease infinite;
+    -moz-animation: AnimationName 2s ease infinite;
+    animation: AnimationName 2s ease infinite;
+
 
   }
-
-  #cookie-notice div {
-    width: 400px;
-    height: 75%;
-    background-color: #cfe7cd;
-    border-radius: 3px;
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    margin: auto;
+  .no {
+    background-image: none;
+    background-color: #c3c3c3;
   }
+
   #cookie-notice p {
-    margin:20px;
+    flex: 1 0 300px;
+    cursor: pointer;
+    margin-bottom: 13px;
+    margin-left: 5px;
+    font-size: 0.9em;
+
+  }
+  .link {
+    color: #fff;
   }
 
-  @media (max-width: 400px) {
-    #cookie-notice div {
-      width: 300px;
-      height: 85%;
-      padding: 10px;
-      background-color: #cfe7cd;
-      border-radius: 3px;
-      position: absolute;
-      top: 0;
-      bottom: 0;
-      left: 0;
-      right: 0;
-      margin: auto;
+
+  @media (min-width: 554px) {
+    #cookie-notice {
+      padding: 15px 10px 10px 250px;
+
     }
-    #cookie-notice p {
-      margin:10px;
-    }
-    #cookie-notice a {
-      position: relative;
-      bottom: 4px;
-    }
+
   }
+  @media (min-width: 1680px) {
+    #cookie-notice {
+      padding: 15px 10px 10px 300px;
+
+    }
+    .yes {
+      flex: 0 0 120px;
+    }
+
+  }
+
+  
 </style>
-
 <div id="cookie-notice">
-  <div class="editable">
-    <p>Den här webbplatsen lagrar cookies på din dator. Dessa cookies används för att samla in information om hur du
-    interagerar med vår webbplats och låter oss komma ihåg dig. Vi använder den här informationen för att förbättra och
-    anpassa din webbläsarupplevelse och för analyser och statistik om våra besökare på den här webbplatsen. För att få
-    veta
-    mer om de cookies vi använder, se <a href="/cookies/">denna sida.</a>
-    <br /><br />
-    Om du avböjer kommer din information inte spåras när du besöker denna webbplats. En enda cookie kommer att användas
-    i
-    din webbläsare för att komma ihåg din preferens att inte spåras.</p>
-  </div>
-  <div>
-    <br /><br />
-    <a id="cookie-notice-accept" class="button primary large knapp">Jag accepterar Cookies</a>
-    <br /><br />
-    <a id="cookie-notice-decline">Inga cookies tack.</a>
-  </div>
+    <a class="yes" href="#" id="cookie-notice-accept">Hjälp oss!</a>
+    <a class="yes no" href="#" id="cookie-notice-decline">Nej tack.</a>
+  <p>Vi skulle gärna villja använda cookies för att samla in information om hur du interagerar med vår webbplats och
+    komma ihåg dig.
+    Hjälp oss bli bättre! För att få veta mer om de cookies vi använder, se <a class="link" href="/cookies/">denna
+      sida.</a>
+  </p>
 </div>
+
 <script>
   function createCookie(name, value, days) {
     var expires = "";
@@ -106,7 +130,7 @@
   if (readCookie('cookie-notice-dismissed') == 'true') {
     {% include analytics.js %}
   } else {
-    document.getElementById('cookie-notice').style.display = 'block';
+    document.getElementById('cookie-notice').style.display = 'flex';
 
     {% include matomo.js %}
 
@@ -132,5 +156,5 @@
     location.reload();
   });
 
-  
+
 </script>
