@@ -8,10 +8,19 @@ layout: main/infosidor
 image: /images/trygghet-mitten2-538d907e2a6b22099a1eb5b5.jpg
 ---  
 <div class="editable" style="width:100%;">
-  <h2>{{ page.title }}</h2>
-  <h3>{{ page.description }}</h3>
+  <h2>Alternativet ”Spåra inte”</h2>
 
+  <p>Oavsett om du använder kakor eller inte, så kan vi se anonymiserad data på hur sidorna används.</p>
+  <h3>Du kan helt <strong>stänga av</strong> den här typen av analys här. </h3>
 
+  
+  <iframe style="border: 0; height: 200px; width: 600px;"
+    src="https://terminalnetwork.matomo.cloud/index.php?module=CoreAdminHome&action=optOut&language=en&backgroundColor=&fontColor=&fontSize=&fontFamily=ubuntu">
+  </iframe>
+
+<h3>Du kan ångra att du nekade kakorna här:</h3>
+<p><a id="cookie-notice-gimme" class="button primary large knapp">Ge mig kakor!</a></p>
+  <h2>Kakor vi använder</h2>
 
   <p>{{ site.title }} använder främst <strong>förstapartskakor</strong>, dvs. cookies/kakor som bara sätts och
     kontrolleras av oss och inte av någon extern organisation. En del av {{ site.title }} webb-sidor kan du dock bara se
@@ -19,8 +28,10 @@ image: /images/trygghet-mitten2-538d907e2a6b22099a1eb5b5.jpg
 
   <p>{{ site.title }} använder <strong>3 typer av förstapartskakor</strong> för att samla in analysdata
     (besöksstatistik).</p>
+  
+    
 
-  <h2>Säkerhets kaka</h2>
+  <h3>Säkerhets kaka</h3>
   <p>Den här kakan sätts när du kommer första gången till webbplatsen</p>
 
   <p><strong>Namn:</strong> __cfduid
@@ -28,7 +39,7 @@ image: /images/trygghet-mitten2-538d907e2a6b22099a1eb5b5.jpg
     <br /><strong>Syfte:</strong> Säkerställa att kommunikationen mellan servern och använadren är legitim, som en tvåfaktors autenticering tillsmans med TLS certifikatet (<strong>anonymt</strong> – inga personuppgifter samlas in i denna kaka)
     <br /><strong>Typ och varaktighet</strong>: Förstapartskaka som raderas efter 30 dagar</p>
 
-  <h2>Sammtyckes kaka</h2>
+  <h3>Sammtyckes kaka</h3>
   <p>Den här kakan sätts när du godkänner eller nekar till att låta oss analysera hur du använder våran sida.</p>
 
   <p><strong>Namn:</strong> cookie-notice-dissmissed
@@ -36,7 +47,7 @@ image: /images/trygghet-mitten2-538d907e2a6b22099a1eb5b5.jpg
     <br /><strong>Syfte</strong>: blocka eller tillåta analyser om marknadsföringskampanjer hur webbplatsen används.
     (<strong>anonymt</strong> – inga personuppgifter samlas in i denna kaka)
     <br /><strong>Typ och varaktighet</strong>: Förstapartskaka som raderas efter 30 dagar</p>
-  <h2>Analyskakor</h2>
+  <h3>Analyskakor</h3>
 
   <p>De här kakorna använder {{ site.title }} bara internt för att se hur vi kan förbättra våra webbplatser.</p>
 
@@ -47,15 +58,6 @@ image: /images/trygghet-mitten2-538d907e2a6b22099a1eb5b5.jpg
     besöksstatistiken kan komma att delas med underleverantörer som arbetar med kommunikationsprojekt på uppdrag av oss.
   </p>
 
-  <h3>Du kan <strong>stänga av</strong> den här typen av analys här, (om du har nekat kakor helt, så är den redan avstängd även om visaren säger annorlunda.) </h3>
-
-  
-    <iframe style="border: 0; height: 200px; width: 600px;"
-      src="https://terminalnetwork.matomo.cloud/index.php?module=CoreAdminHome&action=optOut&language=en&backgroundColor=&fontColor=&fontSize=&fontFamily=ubuntu">
-    </iframe>
-<h3>Du kan ångra att du nekade kakorna här:</h3>
-<p><a id="cookie-notice-gimme" class="button primary large knapp">Ge mig kakor!</a></p>
-  <p><strong>Analyskakor vi använder</strong>:</p>
 
   <p><strong>Namn</strong>: _pk_id.#, _pkses.#
     <br /><strong>Användning</strong>: Besöksstatistik (Matomo-programvara med öppen källkod)
@@ -63,7 +65,7 @@ image: /images/trygghet-mitten2-538d907e2a6b22099a1eb5b5.jpg
     (<strong>anonymt</strong> – inga personuppgifter samlas in)
     <br /><strong>Typ och varaktighet</strong>: Förstapartskaka som raderas efter att du lämnat webbsidan</p>
 
-  <h3>{{ site.title }}s kakor samlar följande information:</h3>
+  <h2>{{ site.title }}s kakor samlar följande information:</h2>
 
   <ul>
     <li>IP-adress (avidentifierad)</li>
@@ -162,28 +164,5 @@ image: /images/trygghet-mitten2-538d907e2a6b22099a1eb5b5.jpg
     ändra inställningarna varje gång du går in på en webbplats eller webbsida. Om du blockerar kakor är det möjligt att
     en del tjänster och funktioner inte stöds längre (t.ex. inloggning med sparade uppgifter).</p>
 
-  <h2>Alternativet ”Spåra inte”</h2>
-
-  <p>”Spåra inte – Do Not Track” är en funktion där du kan välja att inte låta en webbplats följa dig oavsett skäl,
-    t.ex. med hjälp av analysverktyg, reklamnätverk och sociala plattformar. Vårat system respekterar dessa
-    inställningar.</p>
-
-  <p>För att aktivera alternativet ”spåra inte” i din webbläsare följer du relevant länk nedan:</p>
-
-  <ul>
-    <li><a href="https://support.mozilla.org/en-US/kb/how-do-i-turn-do-not-track-feature">Firefox</a></li>
-    <li><a href="https://support.microsoft.com/en-us/help/17288/windows-internet-explorer-11-use-do-not-track">Internet
-        Explorer</a></li>
-    <li><a
-        href="https://support.microsoft.com/en-gb/help/4468242/microsoft-edge-browsing-data-and-privacy-microsoft-privacy">Microsoft
-        Edge</a></li>
-    <li><a href="https://support.google.com/chrome/answer/114836?hl=en-GB&amp;ref_topic=3421433">Chrome</a></li>
-    <li><a
-        href="https://support.apple.com/en-gb/guide/safari/prevent-websites-from-tracking-you-sfri40732/mac#ibrw88300566">Safari</a>
-    </li>
-    <li><a href="https://help.opera.com/en/presto/be-safe-and-private/#notrack">Opera</a></li>
-  </ul>
-
-  <p>Finns inte din webbläsare i listan? Gå direkt till företagets webbplats.</p>
 
 </div>
