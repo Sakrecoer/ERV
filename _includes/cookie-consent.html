@@ -16,10 +16,11 @@
   }
 
   .yes {
-    flex: 0 0 90px;
+    flex: 0 0 150px;
     cursor: pointer;
     margin-bottom: 13px;
     margin-right: 13px;
+    margin-left: 5px;
     align-self: flex-end;
     font-size: 1em;
     height: 2.65em;
@@ -71,6 +72,7 @@
     cursor: pointer;
     margin-bottom: 13px;
     margin-left: 5px;
+    margin-right: 10px;
     font-size: 0.9em;
 
   }
@@ -88,8 +90,14 @@
     }
 
   }
+  @media (min-width:  680px) {
+    #cookie-notice {
+      text-align: right;
+    }
+  }
   @media (min-width: 1680px) {
     #cookie-notice {
+      text-align: right;
       {% unless page.collection == 'privat' or page.collection == 'foretag' or page.url == '/boka/' %}
     padding: 15px 10px 10px 300px;
     {% else %}
@@ -97,7 +105,7 @@
     {% endunless %}
     }
     .yes {
-      flex: 0 0 120px;
+      flex: 0 0 150px;
     }
 
   }
@@ -105,9 +113,9 @@
   
 </style>
 <div id="cookie-notice">
-  <p>Vi använder cookies. Genom att surfa vidare godkänner du användandet. <a class="link" href="/cookies/">Läs mer om cookies</a>
+  <p>Vi använder cookies. Genom att surfa vidare godkänner du användandet. <a class="link" href="/cookies/">Läs mer om våra cookies</a>
   </p>
-    <a class="yes" href="#" id="cookie-notice-accept">Ok, då vet jag</a>
+    <a class="yes" href="#" id="cookie-notice-accept">Ok, då vet jag </a>
 
 </div>
 
@@ -154,17 +162,19 @@
     _paq.push(['trackEvent', 'Consent', 'wantCookie']);
     location.reload();
   });
+  {% if page.url == /cookies/ %}
   document.getElementById('cookie-notice-decline').addEventListener("click", function () {
     createCookie('cookie-notice-dismissed', 'false', 31);
     document.getElementById('cookie-notice').style.display = 'none';
     _paq.push(['trackEvent', 'Consent', 'dontWantCookie']);
     location.reload();
   });
-  document.getElementById('cookie-notice-gimme').addEventListener("click", function () {
-    createCookie('cookie-notice-dismissed', 'true', 31);
-    document.getElementById('cookie-notice').style.display = 'none';
-    location.reload();
-  });
+  {% endif %}
+  // document.getElementById('cookie-notice-gimme').addEventListener("click", function () {
+  //   createCookie('cookie-notice-dismissed', 'true', 31);
+  //   document.getElementById('cookie-notice').style.display = 'none';
+  //   location.reload();
+  // });
 
 
 </script>
