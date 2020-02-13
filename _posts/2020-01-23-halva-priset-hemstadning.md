@@ -1,5 +1,5 @@
 ---
-title: Halva priset på hemstädning!
+title: 20% på hemstädning!
 date: 2020-01-23 11:00:00 +0100
 description: >-
   Hemstädning har aldrig varit så tillgängligt! Unna dig lite vardagslyx med En
