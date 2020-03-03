@@ -96,7 +96,8 @@
 				top: 0;
 				right: 0;
 				height: inherit;
-				line-height: inherit;
+        line-height: inherit;
+        overflow-x: hidden;
 
 				a {
 					height: inherit;
