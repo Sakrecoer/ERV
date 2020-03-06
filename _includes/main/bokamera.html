@@ -32,7 +32,25 @@
             alt="Vi &auml;r ett kreditv&auml;rdigt f&ouml;retag enligt Bisnodes v&auml;rderingssystem som baserar sig p&aring; en m&auml;ngd olika beslutsregler. Denna uppgift &auml;r alltid aktuell&#44; informationen uppdateras dagligen via Bisnodes databas."
             id="img_273_87_px"
             src="https://merit.soliditet.se/merit/imageGenerator/display?lang=SE&country=SE&cId=OdUXnmmcLIXJzRB0kTxKKg%3D%3D&cUid=7hJYcGGsT5M%3D&imgType=img_273_87_px" /></a>
-        {% if page.url != '/boka/' %}
+
+            <h2>Erbjudanden</h2>
+
+            <div>
+              {% for post in site.categories.Erbjudande limit: 1%}
+              <article>
+                <a href="{{ post.url }}" class="image"><img class="nyheter" src="{{ post.image }}"
+                    alt="{{ post.title }}" /></a>
+                <h3 class="nyheter">{{ post.title }}</h3>
+                <p class="nyheter">{{ post.description }}</p>
+                <ul class="actions">
+                  <li><a href="{{ post.url }}">Läs mer</a></li>
+                </ul>
+              </article>
+    
+              {% endfor %}
+            </div>
+       
+        {% if page.url != '/boka/' and page.url != '/' %}
         <br /><br />
         <ul class="actions" style="margin-bottom: 0;">
           <li>
@@ -42,6 +60,7 @@
         </ul>
         {% endif %}
 
+
       </div>
 
     </div>
@@ -49,27 +68,31 @@
     <div class="item">
 
       <!-- Section -->
-      <section>
 
-        <h2>Erbjudanden</h2>
 
-        <div>
-          {% for post in site.categories.Erbjudande limit: 1%}
-          <article>
-            <a href="{{ post.url }}" class="image"><img class="nyheter" src="{{ post.image }}"
-                alt="{{ post.title }}" /></a>
-            <h3 class="nyheter">{{ post.title }}</h3>
-            <p class="nyheter">{{ post.description }}</p>
-            <ul class="actions">
-              <li><a href="{{ post.url }}">Läs mer</a></li>
-            </ul>
-          </article>
 
-          {% endfor %}
+    
+
+        <div style="width:100%;">
+          <h2>Boka nu!</h2>
+          <div><!--div that we want to hide-->
+          <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
+          <script>
+            hbspt.forms.create({
+              portalId: "5554697",
+              formId: "2ca4f0f6-9da5-44c1-9a70-26a132e9d6e1"
+            });
+          </script>
+          </div>
         </div>
 
-      </section>
+        
+        <!--end div_text_container-->
+
+
+ 
     </div>
+
     {% endif %}
     {% if page.url != '/' %}
     <div class="item" style="padding:10px;">
