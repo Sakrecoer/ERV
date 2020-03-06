@@ -10,12 +10,14 @@
   <div class="inner">
     <h2>Meny</h2>
     <ul class="links">
-      <li><a href="/">Hem</a></li>
+      {% if page.url != '/' and page.url != '/index1/' %}<li><a href="/">Hem</a></li>{% endif %}
       {% if page.type == 'flyttstädning_privat' or page.type == 'fönsterputtsning_privat' or page.type == 'hemstädning_privat' or page.type == 'storstädning_privat' %}<li><a href="#my_price_form">Räkna ditt pris</a></li>{% endif %}
-      <li><a href="#boka">Boka</a></li>
+      <li><a href="#boka" class="button secondary">Boka</a></li>
       <li><a href="/om-oss/">Om Oss</a></li>
       <li><a href="/din-trygghet/">Din Trygghet</a></li>
-
+      <li><a href="/vanliga-fragor/">Vanliga Frågor</a></li>
+      <li><a href="#contact">Kontakt</a></li>
+      <li><a href="https://mitt.enrenarevardag.se">Mina Sidor</a></li>
     </ul>
     <a href="#" class="close">Stäng</a>
   </div>
