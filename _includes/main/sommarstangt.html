@@ -1,8 +1,6 @@
 {% if site.data.viktigt_medelande.visa_meddelande == true %}
 <div id="extrameddelande" class="editable">
-<h2>Sommarstängt under juli månad</h2>
-<p>Under juli har vi semester, vi kan därför ej ta emot nya bokningar under denna månad.<br />
-Välkommen åter i Augusti 2019!</p>
+  {{ site.data.viktigt_medelande.meddelande_html }}
 </div>
 <style>
 #header {

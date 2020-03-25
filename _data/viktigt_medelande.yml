@@ -1,1 +1,5 @@
-visa_meddelande: false
+visa_meddelande: true
+meddelande_html: >-
+  <h3>Sommarstängt under juli månad</h3>
+  <p>Under juli har vi semester, vi kan därför ej ta emot nya bokningar under denna månad.<br />
+  Välkommen åter i Augusti 2019!</p>
