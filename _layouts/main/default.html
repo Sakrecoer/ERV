@@ -14,7 +14,8 @@
 <link rel="icon" type="image/png" href="{{ site.baseurl }}/touch-icon.png" sizes="192x192">
 <link rel="shortcut icon" href="/favicon.png" type="image/png" />
 {% include /main/seo.html %}
-{% seo %}
+{% seo title=false %}
+<title>{{ page.title }}{% unless page.collection == 'foretag' %}, just nu 20% rabatt!{% endunless %} | {{ site.title }}</title>
 {% feed_meta %}
 <script src="/assets/js/jquery-3.4.1.min.js"></script>
 
