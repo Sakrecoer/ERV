@@ -19,6 +19,6 @@ Och tack vare er s&aring; har vi klarat oss hittills\! Faktum är att v&aring;ra
 
 Vi har alla v&aring;ran roll i att f&aring; COVID-19 under kontroll och vi gör v&aring;rt allra bästa för att framtiden ska se ljusare ut\!
 
-S&aring; tusen tack, ärade kund\! Vi önskar dig lycka, framg&aring;ng och hälsa\!
+S&aring; tusen tack, ärade kund\! Vi önskar dig lycka, framg&aring;ng och hälsa\! Om du inte är kund hos oss ännu, s&aring; har vi just nu 20% p&aring; din första hemstädning i Stockholm med oss\! Passa p&aring; och prova v&aring;ra tjänster du med\!
 
 Med varma hälsningar,
