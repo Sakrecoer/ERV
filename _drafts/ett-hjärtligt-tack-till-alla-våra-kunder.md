@@ -1,0 +1,16 @@
+---
+title: Ett hjärtligt tack till alla våra kunder
+date: 2020-08-20 10:00:00 +0200
+description:
+categories:
+  - Nyheter
+image:
+member: lucky
+bokaknapp: true
+published: true
+_disable_title_filename_sync: true
+---
+
+Vi vill ta en stund för att tacka dig som är kund hos oss. COVID-19 gjorde världen lite dystrare för hela jordens befolkning och vi var väldigt oroliga för hur det skulle g&aring; med v&aring;ra uppdrag: vill folk ens ha en städare hem till sig? Även om ingenting är n&aring;gonsin säkert, s&aring; kändes det i April som en underdrift. Därför tog vi till drakoniska &aring;tgärder, utbildade v&aring;r personal och gick igenom v&aring;ra rutiner ännu noggrannare.
+
+Och tack vare er s&aring; har vi klarat oss hittills\! Faktum är att v&aring;ra bokningar för städhjälp har ökat s&aring; pass att vi nästan m&aring;ste tacka nej till uppdrag\! Vem vill inte ha en rent och desinficerat hem i dessa tider? Ert förtroende för oss har varit en drivmotor att utveckla alla v&aring;ra säkerhets&aring;tgärder och städningsmetoder. Förtroende är det värdefullast ett familjeföretag som oss kan förvalta\! Det
