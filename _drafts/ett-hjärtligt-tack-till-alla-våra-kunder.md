@@ -6,6 +6,7 @@ description: >-
   nogranna rutiner!
 categories:
   - Nyheter
+  - Erbjudande
 image: /images/nyheter/lip-32jbfurgtrg-unsplash.jpg
 member: lucky
 bokaknapp: true
