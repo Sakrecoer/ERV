@@ -35,8 +35,6 @@ permalink: /:categories/:slug/
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
-  - jekyll-feed
-  - jekyll-paginate-v2
   - jekyll-last-modified-at
 
 
