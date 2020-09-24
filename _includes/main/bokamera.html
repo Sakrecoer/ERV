@@ -21,17 +21,9 @@
         <p>Använd Boka knappen för att begära offert</p>
         {% endif %}
 
-        <a href="https://www.reco.se/en-renare-vardag" target="_blank" rel="noopener"
-          style="border:none;"><img src="/images/ikon/five-star.png"
-            alt="Reco Recomenderar En Renare Vardag sen 2014" /></a>
-        <a href="https://www.bisnode.se/om-bisnode/vad-vi-gor/vart-satt-att-se-pa-risk-och-kredit/kreditvarderingsmodell-foretag/"
-          target="_blank" rel="noopener" style="text-decoration: none;border:none;">
-          <img style="border:0px;max-width:100%;" 
-            oncontextmenu="return false"
-            title="Vi &auml;r ett kreditv&auml;rdigt f&ouml;retag enligt Bisnodes v&auml;rderingssystem som baserar sig p&aring; en m&auml;ngd olika beslutsregler. Denna uppgift &auml;r alltid aktuell&#44; informationen uppdateras dagligen via Bisnodes databas."
-            alt="Vi &auml;r ett kreditv&auml;rdigt f&ouml;retag enligt Bisnodes v&auml;rderingssystem som baserar sig p&aring; en m&auml;ngd olika beslutsregler. Denna uppgift &auml;r alltid aktuell&#44; informationen uppdateras dagligen via Bisnodes databas."
-            id="img_273_87_px"
-            src="https://merit.soliditet.se/merit/imageGenerator/display?lang=SE&country=SE&cId=OdUXnmmcLIXJzRB0kTxKKg%3D%3D&cUid=7hJYcGGsT5M%3D&imgType=img_273_87_px" />
+        <a href="https://www.reco.se/en-renare-vardag" target="_blank" rel="noopener" style="border:none;"><img src="/images/ikon/five-star.png" alt="Reco Recomenderar En Renare Vardag sen 2014" /></a>
+        <a href="https://www.bisnode.se/om-bisnode/vad-vi-gor/vart-satt-att-se-pa-risk-och-kredit/kreditvarderingsmodell-foretag/" target="_blank" rel="noopener" style="text-decoration: none;border:none;">
+          <img style="border:0px;max-width:100%;" oncontextmenu="return false" title="Vi &auml;r ett kreditv&auml;rdigt f&ouml;retag enligt Bisnodes v&auml;rderingssystem som baserar sig p&aring; en m&auml;ngd olika beslutsregler. Denna uppgift &auml;r alltid aktuell&#44; informationen uppdateras dagligen via Bisnodes databas." alt="Vi &auml;r ett kreditv&auml;rdigt f&ouml;retag enligt Bisnodes v&auml;rderingssystem som baserar sig p&aring; en m&auml;ngd olika beslutsregler. Denna uppgift &auml;r alltid aktuell&#44; informationen uppdateras dagligen via Bisnodes databas." id="img_273_87_px" src="https://merit.soliditet.se/merit/imageGenerator/display?lang=SE&country=SE&cId=OdUXnmmcLIXJzRB0kTxKKg%3D%3D&cUid=7hJYcGGsT5M%3D&imgType=img_273_87_px" />
         </a>
         <a href="" target="_blank" rel="noopener" style="border:none;">
           <img src="/images/Vardecertifikat_liggande_sv.svg" alt="Digitalt Värdecertifikat från Valuation Företagsvärderingar i Sverige AB" />
@@ -42,8 +34,7 @@
             <div>
               {% for post in site.categories.Erbjudande limit: 1%}
               <article>
-                <a href="{{ post.url }}" class="image"><img class="nyheter" src="{{ post.image }}"
-                    alt="{{ post.title }}" /></a>
+                <a href="{{ post.url }}" class="image"><img class="nyheter" src="{{ post.image }}" alt="{{ post.title }}" /></a>
                 <h3 class="nyheter">{{ post.title }}</h3>
                 <p class="nyheter">{{ post.description }}</p>
                 <ul class="actions">
@@ -111,8 +102,7 @@
         <h3 style="text-decoration:underline #94ce3c solid"><a href="/foretag/">För företag</a></h3>
         {% for foretag in site.foretag %} {% if foretag.framsida == true %}
         <div class="col-4 col-12-small" style="margin-bottom:10px;">
-          <h4><a href="{{ foretag.url }}">{{ foretag.menutitle }}</a> <i class="fa fa-arrow-right"
-              style="color:#94ce3c;"></i></h4>
+          <h4><a href="{{ foretag.url }}">{{ foretag.menutitle }}</a> <i class="fa fa-arrow-right" style="color:#94ce3c;"></i></h4>
         </div>
         {% endif %}{% endfor %}
       </div>
@@ -120,8 +110,7 @@
         <h3 style="text-decoration:underline #94ce3c solid"><a href="/privat/">För privatpersoner</a></h3>
         {% for privat in site.privat %}{% if privat.framsida == true %}
         <div class="col-4 col-12-small" style="margin-bottom:10px;">
-          <h4><a href="{{ privat.url }}">{{ privat.menutitle }}</a> <i class="fa fa-arrow-right"
-              style="color:#94ce3c;"></i></h4>
+          <h4><a href="{{ privat.url }}">{{ privat.menutitle }}</a> <i class="fa fa-arrow-right" style="color:#94ce3c;"></i></h4>
         </div>
         {% endif %}{% endfor %}
       </div>
