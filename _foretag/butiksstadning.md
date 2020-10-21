@@ -1,5 +1,5 @@
 ---
-title: Butiksstädning i Stockholm
+title: 'Butiksstädning, Lokalvård i Stockholm'
 description: >-
   Vi på En Renare Vardag AB erbjuder städning av butiker av högsta standard i
   Storstockholm. Hör av dig och boka ett kostnadsfritt möte.
