@@ -24,7 +24,9 @@ social:
     - https://www.linkedin.com/company/en-renare-vardag-i-stockholm-ab
     - https://www.instagram.com/enrenarevardag/
 lang: sv_SE
-
+address:
+  street: 'Fornvägen 32'
+  zip: '175 68 Järfälla'
 # -----
 # Build
 
