@@ -5,6 +5,7 @@ sitemap: false
 {% if jekyll.environment == 'production' %}
 User-agent: *
 Sitemap: {{ site.url }}/sitemap.xml
+Disallow: *?v_lj_tj_nst=*
 {% else %}
 User-agent: *
 Disallow: /
