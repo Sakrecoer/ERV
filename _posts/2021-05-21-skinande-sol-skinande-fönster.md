@@ -16,8 +16,10 @@ Men s&aring; tittar du &aring;t, och blicken möts av allt damm och pollen som l
 
 Men d&aring; sl&aring;r det dig\! En Renare Vardag är bäst i stan p&aring; fönsterputs, och det är alltid trevligt att [prata med v&aring;r kundtjänst](/kontakta-oss/)\!
 
-S&aring; tevka inte en sekund till, hör av dig till oss och boka fönsterputs\!
+S&aring; tveka inte en sekund till, hör av dig till oss och boka fönsterputs\!
 
 Vi ser framemot att höra fr&aring;n dig 🪟🌄
+
+&nbsp;
 
 &nbsp;
