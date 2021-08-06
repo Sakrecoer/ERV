@@ -1,4 +1,6 @@
-visa_meddelande: true
+visa_meddelande: false
 meddelande_html: >-
-  <h3>Sommarstängt hela Juli</h3>
-  <p>Vi kan inte ta emot nya bokningar eller ändra på befintliga bokningar under hela Juli månad. Vi hoppas ni har förståelse för detta och önksar alla våra kunder en riktigt trevlig sommar!<br /><br /></p>
+  <h3>Sommarst&auml;ngt hela Juli</h3><p>Vi kan inte ta emot nya bokningar eller
+  &auml;ndra p&aring; befintliga bokningar under hela Juli m&aring;nad. Vi
+  hoppas ni har f&ouml;rst&aring;else f&ouml;r detta och &ouml;nksar alla
+  v&aring;ra kunder en riktigt trevlig sommar!<br />&nbsp;</p>
