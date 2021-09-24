@@ -8,114 +8,12 @@
 
         {% if page.url == '/privat/fonsterputs/' %}
         {% include /kalkylator/fonsterputs.html %} <br />
-        {% elsif page.url == '/privat/flyttstadning/' or  page.url == '/privat/flyttstadning/solna/' %}
-        {% include /kalkylator/flyttstedning.html %} <br />
-        {% elsif page.url == '/privat/hemstadning/' %}
-        {% include /kalkylator/stedningvecka.html %} <br />
-        {% elsif page.url == '/privat/storstadning/'' %}
-        {% include /kalkylator/storstedning.html %} <br />
         {% elsif page.url == '/' or page.url == '/pris/' %}
         {% include /kalkylator/kalkmain.html %} <br />
-        {% else %}
-        <h2>Kontakta oss!</h2>
-        <p>Använd Boka knappen för att begära offert</p>
-        {% endif %}
-
-        <a href="https://www.reco.se/en-renare-vardag" target="_blank" rel="noopener" style="border:none;"><img src="/images/ikon/five-star.png" alt="Reco Recomenderar En Renare Vardag sen 2014" /></a>
-        <a href="https://www.bisnode.se/om-bisnode/vad-vi-gor/vart-satt-att-se-pa-risk-och-kredit/kreditvarderingsmodell-foretag/" target="_blank" rel="noopener" style="text-decoration: none;border:none;">
-          <img style="border:0px;max-width:100%;" oncontextmenu="return false" title="Vi &auml;r ett kreditv&auml;rdigt f&ouml;retag enligt Bisnodes v&auml;rderingssystem som baserar sig p&aring; en m&auml;ngd olika beslutsregler. Denna uppgift &auml;r alltid aktuell&#44; informationen uppdateras dagligen via Bisnodes databas." alt="Vi &auml;r ett kreditv&auml;rdigt f&ouml;retag enligt Bisnodes v&auml;rderingssystem som baserar sig p&aring; en m&auml;ngd olika beslutsregler. Denna uppgift &auml;r alltid aktuell&#44; informationen uppdateras dagligen via Bisnodes databas." id="img_273_87_px" src="https://merit.soliditet.se/merit/imageGenerator/display?lang=SE&country=SE&cId=OdUXnmmcLIXJzRB0kTxKKg%3D%3D&cUid=7hJYcGGsT5M%3D&imgType=img_273_87_px" />
-        </a>
-        <a href="" target="_blank" rel="noopener" style="border:none;">
-          <img src="/images/Vardecertifikat_liggande_sv.svg" alt="Digitalt Värdecertifikat från Valuation Företagsvärderingar i Sverige AB" />
-        </a>
-
-            <h2>Erbjudanden</h2>
-
-            <div>
-              {% for post in site.categories.Erbjudande limit: 1%}
-              <article>
-                <a href="{{ post.url }}" class="image"><img class="nyheter" src="{{ post.image }}" alt="{{ post.title }}" /></a>
-                <h3 class="nyheter">{{ post.title }}</h3>
-                <p class="nyheter">{{ post.description }}</p>
-                <ul class="actions">
-                  <li><a href="{{ post.url }}">Läs mer</a></li>
-                </ul>
-              </article>
-    
-              {% endfor %}
-            </div>
-       
-        {% if page.url != '/boka/' and page.url != '/' %}
-        <br /><br />
-        <ul class="actions" style="margin-bottom: 0;">
-          <li>
-            <a href="/boka/{{ page.hubspot }}#banner" {% if page.collection == 'foretag' or page.collection == 'privat' %}
-              rel="nofollow" {% endif %} id="button" class="button primary large knap">Boka Nu</a>
-          </li>
-        </ul>
         {% endif %}
 
 
+
       </div>
 
     </div>
-    {% if page.url == '/' %}
-    <div class="item">
-
-      <!-- Section -->
-
-
-
-    
-
-        <div style="width:100%;">
-          <h2>Boka nu!</h2>
-          <div><!--div that we want to hide-->
-          <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
-          <script>
-            hbspt.forms.create({
-              portalId: "5554697",
-              formId: "2ca4f0f6-9da5-44c1-9a70-26a132e9d6e1"
-            });
-          </script>
-          </div>
-        </div>
-
-        
-        <!--end div_text_container-->
-
-
- 
-    </div>
-
-    {% endif %}
-    {% if page.url != '/' %}
-    <div class="item" style="padding:10px;">
-
-      <div class="item-staticchild">
-        {% include /main/city_selector.html %}
-
-        <h2 class="editable">Läs mer om våra tjänster</h2>
-        <p class="editable">Vi har ett brett urval av tjänster för företag och privatpersoner</p>
-      </div>
-      <div class="item-child">
-        <h3 style="text-decoration:underline #94ce3c solid"><a href="/foretag/">För företag</a></h3>
-        {% for foretag in site.foretag %} {% if foretag.framsida == true %}
-        <div class="col-4 col-12-small" style="margin-bottom:10px;">
-          <h4><a href="{{ foretag.url }}">{{ foretag.menutitle }}</a> <i class="fa fa-arrow-right" style="color:#94ce3c;"></i></h4>
-        </div>
-        {% endif %}{% endfor %}
-      </div>
-      <div class="item-child">
-        <h3 style="text-decoration:underline #94ce3c solid"><a href="/privat/">För privatpersoner</a></h3>
-        {% for privat in site.privat %}{% if privat.framsida == true %}
-        <div class="col-4 col-12-small" style="margin-bottom:10px;">
-          <h4><a href="{{ privat.url }}">{{ privat.menutitle }}</a> <i class="fa fa-arrow-right" style="color:#94ce3c;"></i></h4>
-        </div>
-        {% endif %}{% endfor %}
-      </div>
-    </div>
-    {% endif %}
-  </div>
-</section>
-<!-- END bokamera.html -->

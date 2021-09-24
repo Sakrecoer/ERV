@@ -2,22 +2,8 @@
 layout: main/default
 ---
 
-{% include /main/banner.html %}
+
 {% include /main/bokamera.html %}
 
 
 
-<!-- Content -->
-<section id="lasmer">
-  {{ content }}
-  {% if page.bokning == false %}
-  &nbsp;<img src="/images/ikon/nojdkund.png" />
-  {% else %}
-  <img src="/images/ikon/nojdkund.png" />
-  <ul class="actions">
-    <li><a href="/boka/{{ page.hubspot }}#banner" class="button primary large editable knap" rel="nofollow">Boka Nu!</a></li>
-  </ul>
-  {% endif %}
-</section>
-
-{% include /main/reco.html %}
